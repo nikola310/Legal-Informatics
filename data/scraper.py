@@ -28,9 +28,9 @@ browser.find_element_by_xpath('//a[@href="'+'/odluke/'+'"]').click()
 browser.find_element_by_xpath('//a[@id="'+'odluke_detaljna_pretraga'+'"]').click()
 
 try:
-    WebDriverWait(browser, 5).until(ec.visibility_of_element_located((By.XPATH, '//select[@id="odluke_forma_vrsta"]/option[@value="K-S"]')))
+    WebDriverWait(browser, 5).until(ec.visibility_of_element_located((By.XPATH, '//select[@id="odluke_forma_vrsta"]/option[@value="K"]')))
     
-    browser.find_element_by_xpath('//select[@id="odluke_forma_vrsta"]/option[@value="K-S"]').click() #K
+    browser.find_element_by_xpath('//select[@id="odluke_forma_vrsta"]/option[@value="K"]').click() #K
 except TimeoutException:
     browser.quit()
 
