@@ -1,0 +1,20 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.window1{background:#fff; margin:0 auto;width:210mm;}
+.page1{ background:#fff; margin:0 1.0in;padding-top:20px;}
+.span1{;font-size:12pt;font-family:'Arial'}
+</style>
+</head>
+<body class="b1" style="background: #aaa;">
+<div class="window1">
+<div class="page1">
+<p>
+<span class="span1">Shodno odredbama čl. 314 Zakonika o krivičnom postupku, a po predhodnom saslušanju stranaka, sa glavnog pretresa je za cio glavni pretres isključena javnost, radi zaštite interesa ličnog i porodičnog života okrivljenog i oštećene. </span>
+</p>
+<p>&nbsp;</p>
+</div>
+</div>
+
+
+</body>

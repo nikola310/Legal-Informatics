@@ -1,0 +1,74 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.b2{margin: 1.0in 1.25in 1.0in 1.25in;}
+.s1{font-weight:bold;}
+.s2{font-weight:bold;color:black;}
+.s3{color:black;}
+.p1{margin-left:-0.5in;margin-right:-0.5in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p2{margin-right:-0.5in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p3{margin-left:-0.5in;margin-right:-0.5in;text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p4{text-indent:0.49166667in;margin-left:-0.5in;margin-right:-0.5in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p5{text-indent:0.49166667in;margin-left:-0.5in;margin-right:-0.5in;text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p6{margin-left:-0.5in;margin-right:-0.5in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p7{margin-left:-0.5in;margin-right:-0.5in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+</style>
+<title>OSNOVNI SUD U BERANAMA</title>
+<meta content="AleksandarCulafic" name="author">
+</head>
+<body class="b1 b2">
+<p class="p1">
+<span class="s1">OSNOVNI SU</span><span>D</span><span class="s1"> U BERANAMA</span>
+</p>
+<p class="p1">
+<span class="s1">K.br. 127/12</span>
+</p>
+<p class="p2"></p>
+<p class="p1"></p>
+<p class="p1">
+<span class="s2">	OSNOVNI SUD U BERANAMA</span><span class="s3">, po sudiji pojedincu Aleksandru Ćulafiću, uz učešće namještenika suda Milice Milanović, kao zapisničara, u krivičnom predmetu protiv okrivljenog </span><span class="s2">M.Đ</span><span class="s3">, iz B, zbog krivičnog djela laka tjelesna povreda iz čl. 152 st. 1 Krivičnog zakonika, po privatnoj tužbi tužioca Ć.F od 17.07.2012. godine, nakon održanog glavnog i javnog pretresa, u prisustvu punomoćnika privatne tužilje adv. pripravnika D.K, koja postupa po zamjeničkom punomoćju adv. G.P., dana 29.05.2013. godine, donio je </span>
+</p>
+<p class="p2"></p>
+<p class="p3">
+<span class="s1">R J E Š E NJ E</span>
+</p>
+<p class="p1"></p>
+<p class="p1"></p>
+<p class="p4">
+<span>Prema okrivljenom M.Đ.obustavlja se postupak za djelo laka tjelesna povreda iz čl. 152 st. 1 Krivičnog zakonika, po privatnoj tužbi Ć.F., iz B., usled smrti okrivljenog. </span>
+</p>
+<p class="p2"></p>
+<p class="p3">
+<span class="s1">O b r a z l o ž e nj e </span>
+</p>
+<p class="p1"></p>
+<p class="p1"></p>
+<p class="p4">
+<span>Privatna tužilja Ć.F., je podnijela ovom sudu tužbu protiv okrivljenog Đ.M., dana 17.07.2012. godine, zbog krivičnog djela laka tjelesna povreda iz čl. 152 Krivičnog zakonika.</span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span>Punomoćnik privatne tužilje adv. pripravnik D.K., na pretresu je obavijestio sud da je Đ.M.umro, a što je potvrdila i Uprava policije PJ B., da nije mogla da postupi po naredbi za privođenje zbog smrti Đ.M..</span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span>S obzirom na utvrđenu činjenicu smrti, koja je u smislu čl. 249 ZKP-a razlog za obustavu krivičnog postupka, sud je primjenom navedene zakonske odredbe odlučio kao u izreci rješenja.</span>
+</p>
+<p class="p4"></p>
+<p class="p5">
+<span class="s1">OSNOVI SUD U BERANAMA</span>
+</p>
+<p class="p5">
+<span class="s1">Dana, 29.05.2013. godine</span>
+</p>
+<p class="p1"></p>
+<p class="p6">
+<span class="s1">Zapisničar,                                                                                       S U D I J A </span>
+</p>
+<p class="p6">
+<span class="s1">Milica Milanović                                                                 Aleksandar Ćulafić</span>
+</p>
+<p class="p7"></p>
+
+
+</body>

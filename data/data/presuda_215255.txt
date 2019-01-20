@@ -1,0 +1,348 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.window1{background:#fff; margin:0 auto;width:210mm;}
+.page1{ background:#fff; margin:0 1.0in;padding-top:20px;}
+.span1{;font-size:12pt;font-family:'Century Schoolbook';font-weight:800}
+.span2{;font-size:12pt;font-family:'Century Schoolbook'}
+.span3{;font-family:'Century Schoolbook'}
+.span4{;font-family:'Century Schoolbook';font-weight:800}
+</style>
+</head>
+<body class="b1" style="background: #aaa;">
+<div class="window1">
+<div class="page1">
+<li>
+<span class="span1">           </span><span class="span2">                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      </span>
+</li>
+<li style="text-align:center;">
+<span class="span2"></span>
+</li>
+<li style="text-align:right">
+<span class="span2">                                                         </span><span class="span2">K.br.20/16</span>
+</li>
+<p style="text-align:center;">
+<span class="span3">U   I M E   C R N E   G O R E</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">OSNOVNI SUD U NIKŠIĆU, sudija Ivan</span><span class="span3"> </span><span class="span3">Perović</span><span class="span3">, uz sudjelovanje Plane Ćuzović  kao zapisničara,  u krivičnom predmetu optuženih </span><span class="span3">S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3">, K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> i G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3"> </span><span class="span3">zbog krivičnog djela falsifikovanje novca iz čl.258 st.2 KZ, po optužnici ODT-a Nikšić Kt.br.244/11 od 10.05.2012.g., nakon dovršenog glavnog, javnog pretresa </span><span class="span3">dana 24.02.2016.g.</span><span class="span3"> u prisustvu zamjenika ODT-a Nikšić </span><span class="span3">Lukovac Sofije</span><span class="span3">, optuženih </span><span class="span3">S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3">, K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> i G</span><span class="span3">..</span><span class="span3">J</span><span class="span3">..</span><span class="span3"> i</span><span class="span3"> njihovih branilaca -  advokata P</span><span class="span3">..</span><span class="span3">  M</span><span class="span3">..</span><span class="span3">, M</span><span class="span3">..</span><span class="span3"> D</span><span class="span3">..</span><span class="span3"> i L</span><span class="span3">..</span><span class="span3"> I</span><span class="span3">..</span><span class="span3">, donio je i istog dana javno objavio</span>
+</p>
+<p>&nbsp;</p>
+<li style="text-align:center;">
+<span class="span2">P R E S U D U</span>
+</li>
+<li>
+<span class="span3">Optuženi:</span>
+</li>
+<li>
+<span class="span3">S</span><span class="span3">...</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> od oca S</span><span class="span3">..</span><span class="span3"> i majke N</span><span class="span3">..</span><span class="span3"> rođ. M</span><span class="span3">..</span><span class="span3">, rođen </span><span class="span3">.</span><span class="span3">.g. u Nikšiću, nastanjen u mjestu rođenja - ul. VI C</span><span class="span3">..</span><span class="span3"> T-12, državljanin Crne Gore, završio srednju školu, student, neoženjen, lošeg imovnog stanja, ranije osuđivan presudom  Osnovnog suda u Nikšiću K.br.704/10 od 02.02.2011.g. zbog kriv.djela iz čl.403  st.2 KZ na  kaznu zatvora od 45 dana  i presudom  Osnovnog suda u Nikšiću K.br.38/11 od 16.05.2011.g. zbog kriv.djela iz čl.339 st.3 u vezi st.1 KZ na kaznu zatvora od 45 dana -  uslovno na jednu godinu; </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span3">K</span><span class="span3">..</span><span class="span3">N</span><span class="span3">..</span><span class="span3"> od oca V</span><span class="span3">--</span><span class="span3"> i majke D</span><span class="span3">--</span><span class="span3">  rođ.Mijatović, rođen </span><span class="span3">..</span><span class="span3">.g, u Nikšiću, nastanjen  u mjestu rođenja  - ul.</span><span class="span3">..</span><span class="span3"> br.</span><span class="span3">.</span><span class="span3">, državljanin Crne Gore, završio srednju školu, radnik, neoženjen, lošeg</span><span class="span4"> </span><span class="span3">imovnog stanja, ranije osuđivan presudom Osnovnog suda u Kotoru K.br.56/10 od 09.12.2010.g. zbog kriv.djela iz čl.348 st.3 u vezi čl.339 st.3 u vezi st.1 KZ na kaznu zatvora u trajanju od 30 dana; </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span3">G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3"> od oca J</span><span class="span3">.</span><span class="span3"> i majke V</span><span class="span3">..</span><span class="span3"> rođ.</span><span class="span3">M</span><span class="span3"> </span><span class="span3">.</span><span class="span3"> rođena </span><span class="span3">..</span><span class="span3">.g. u Nikšiću, nastanjena u mjestu rođenja - ul. A</span><span class="span3">..</span><span class="span3"> B</span><span class="span3">..</span><span class="span3">bb, državljanin Crne Gore, završila srednju školu, radnik, lošeg</span><span class="span4"> </span><span class="span3"> imovnog stanja, ranije neosuđivana </span>
+</li>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Na osnovu čl. 373 tač. 1 Zakonika o krivičnom postupku</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span3">OSLOBAĐAJU  SE OD OPTUŽBE</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Da su:</span>
+</p>
+<p>
+<span class="span3">Dana 21.03.2011.g., u Nikšiću, optuženi S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> i K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3">, stavili u opticaj lažnu novčanicu u apoenu od 50 eura serijskog broja x294</span><span class="span3">..</span><span class="span3">3471, na način što je optuženi Kovačević Nikola  navedenu novčanicu koju je nabavio predao optuženom Sekulović Nikoli nakon čega je novčanica predata  optuženoj  G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3">a ona je u dogovoru sa njima navedenu novčanicu stavila u opticaj tako što je sa optuženim K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> i S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3">  došla do  STR "J</span><span class="span3">..</span><span class="span3">"  u ulici VI Crnogorske, pri čemu su optuženi S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> i K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> čekali ispred objekta dok je </span><span class="span3">optužena G</span><span class="span3">..</span><span class="span3">J</span><span class="span3">..</span><span class="span3"> ušla u isti,  gdje je optužena G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3"> novčanicom platila kupljenu robu a kusur od iste predala optuženom K</span><span class="span3">..</span><span class="span3">N</span><span class="span3">..</span><span class="span3">,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">čime bi učinili krivično djelo falsifikovanje novca iz čl.258 st.2  Krivičnog zakonika.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Troškovi krivičnog postupka padaju na teret budžetskih sredstava.</span><span class="span3">                                     </span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span3">O b r a z l o ž e nj e</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<li>
+<span class="span1">ODT</span><span class="span2"> u Nikšiću optužnicom  Kt.br. 244/11</span><span class="span1"> </span><span class="span2"> stavljeno je na teret </span><span class="span2">optuženom </span><span class="span2">S</span><span class="span2">..</span><span class="span2">N</span><span class="span2">..</span><span class="span2">, K</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2"> i G</span><span class="span2">..</span><span class="span2"> J</span><span class="span2">..</span><span class="span2"> </span><span class="span2"> </span><span class="span2">izvršenje krivičnog  djela </span><span class="span2">falsifikovanje novca </span><span class="span2">iz čl.258 st. 2 KZ, pa je državni tužilac  </span><span class="span2">Lukovac Sofija</span><span class="span2"> koja je zastupala optužbu na glavnom pretresu, ostala  pri istoj predlažući sudu u završnoj riječi da optužene  oglasi krivim i osudi po zakonu, te da izrekne mjeru bezbjednosti oduzimanje predmeta. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optuženi </span><span class="span1">S</span><span class="span1">..</span><span class="span1"> N</span><span class="span1">..</span><span class="span2">  </span><span class="span2">naveo je u svojoj odbrani</span><span class="span2"> pred istražnim sudijom da mu je K</span><span class="span2">..</span><span class="span2">N</span><span class="span2">..</span><span class="span2">brat od tetke a G</span><span class="span2">..</span><span class="span2"> J</span><span class="span2">..</span><span class="span2"> drugarica, da mu je  K</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2"> dana 21.03.2011.g.  ispred prodavnice "Jabuka" gdje su se prethodno dogovorili da se nađu (u blizini inače živi i tu se i inače čekaju kada negdje idu) rekao da je usput našao jednu novčanicu od 50.00 eura i  pokazao mu je pa je vidio tu novčanicu i primijetio da je ista falsifikat a nedugo zatim je došla G</span><span class="span2">..</span><span class="span2">J</span><span class="span2">..</span><span class="span2"> kojoj su pokazali novčanicu pa su se šalili  sa novčanicom, govorili su da sa novčanicom nešto kupe ali je to sve bila šala. I G</span><span class="span2">..</span><span class="span2"> J</span><span class="span2">..</span><span class="span2"> je znala da se radi o lažnoj novčanici i oni su se par minuta šalili u vezi toga a kasnije je G</span><span class="span2">..</span><span class="span2"> J</span><span class="span2">..</span><span class="span2"> sa tom novčanicom otišla u prodavnicu, mada on tu nije bio već je to kasnije saznao jer je bio pošao do jedne kladionice. Prethodno, prije nego što je pošao, i on i K</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2"> su ubjeđivali G</span><span class="span2">..</span><span class="span2"> J</span><span class="span2">..</span><span class="span2"> da ne ide sa tom novčanicom jer je lažna ali je ona insistirala na tome i htjela je da sa njom trguje. Kasnije kada se vratio iz kladionice tu je već bila došla policija, a šta je Gardašević Jelena trgovala i kome je dala kusur, on to ne zna.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optuženi </span><span class="span1">S</span><span class="span1">..</span><span class="span1"> N</span><span class="span1">..</span><span class="span2"> </span><span class="span2">naveo je u svojoj odbrani</span><span class="span2"> na glavnom pretresu od  03.04.2014.g.  da ne priznaje izvršenje krivičnog djela, da se dana 21.03.2011.g. nalazio ispred svoje zgrade zajedno sa N</span><span class="span2">..</span><span class="span2"> K</span><span class="span2">..</span><span class="span2"> a bilo je tu još nekih drugova i Nikola je našao novčanicu negdje u blizini zgrade pa su je upoređivali sa pravom novčanicom i nijesu bili sigurni da se radi o falsifikatu,  a nakon toga je Jelena došla kod njih pa je on tu novčanicu davao njoj i uzimao od nje, a nakon toga je otišao u kladionicu, a Jelena u prodavnicu "Jabuka" da provjeri da li je ta novčanica lažna ili prava. Kada se vratio iz kladionice čuo je da ih traži policija, a radnica je  bila ispred prodavnice i tada je čuo da je ova novčanica bila lažna odnosno falsifikovana. Kasnije su privedeni u policiju gdje su davali izjavu. Ne zna sa kim je Jelena otišla u prodavnicu da provjeri je li ta novčanica prava  a zna da su je  on i Kovačević Nikola ubijeđivali da prvo provjeri je li prava novčanica pa da posle toga ide u prodavnicu da kupuje. Ne zna je li Nikola išao sa Jelenom u prodavnicu. Konkretne prilike sa njima u društvu su bili i njegovi drugovi  i komšije Pejović Ratko i Miodrag Brnović kao i još neka lica čijih se ne može sjetiti imena. Sama novčanica je bila malo zgužvana, prljava i pohabana. Misli da je on prije nego što je Jelena kod njih došla, pozvao nju na telefon da dođe jer su se na tom mjestu stalno okupljali i družili, a misli da je Jelena po izlasku iz prodavnice nakon trgovine kusur dala K</span><span class="span2">..</span><span class="span2">N</span><span class="span2">..</span><span class="span2">. Jelena je u </span><span class="span2">prodavnicu otišla da kupi za sebe neke namirnice  a  njih nije kontaktirala šta će da kupi. Njemu je bilo sumnjivo da li je ta novčanica falsifikat ali nije bio siguran. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Objašnjavajući razlike u odnosu na kazivanje u istrazi, optuženi je naveo da je iznoseći odbranu pred istražnim sudijom imao namjeru da kaže da je sumnjao da je novčanica falsifikovana ali se vjerovatno zbunio, tako da ostaje pri odbrani sa pretresa.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optuženi </span><span class="span1">S</span><span class="span1">..</span><span class="span1"> N</span><span class="span1">..</span><span class="span2">  </span><span class="span2">naveo je u svojoj odbrani</span><span class="span2"> na glavnom pretresu od  02.10.2014.g.  da je sporna novčanica stavljena u promet kada je on napuštio društvo K</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2">i G</span><span class="span2">..</span><span class="span2">J</span><span class="span2">...</span><span class="span2"> a sa njima u društvu je bio R</span><span class="span2">..</span><span class="span2"> P</span><span class="span2">..</span><span class="span2">.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optuženi </span><span class="span1">S</span><span class="span1">..</span><span class="span1"> N</span><span class="span1">..</span><span class="span2"> </span><span class="span2">naveo je u svojoj odbrani</span><span class="span2"> na glavnim  pretresima  od  05.05.2015.g.  i od 24.02.2016.g. da su osim njih troje optuženih prisutna bila još neka lica- P</span><span class="span2">..</span><span class="span2">R</span><span class="span2">..</span><span class="span2">, Brnović Miodrag i još neke osobe kojih se nije mogao sjetiti, pa su i ta lica gledala novčanicu.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optuženi je u završnoj riječi lično i preko branioca istakao da nije dokazano da je počinio krivično djelo niti da u ovom slučaju uopšte i postoji krivično djelo , pa je sudu predložio da ga oslobodi od optužbe.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optuženi </span><span class="span1">K</span><span class="span1">..</span><span class="span1"> N</span><span class="span1">..</span><span class="span2"> naveo je u svojoj odbrani pred istražnim sudijom  da je novčanicu od 50,00 eura našao u ul.Narodne omladine, da je odmah kada je podigao sa betona vidio da je falsifikovana - vidio je da je loše izrade i da ne odgovara pravoj. Dakle, jasno se vidjelo da je falsifikat i to je svakome bilo jasno. Istog dana, nešto kasnije je sreo svoje drugove Sekulović Nikolu i Gardašević Jelenu, pa je novčanicu predao Nikoli rekavši mu nešto u smislu ,,vidi naša sam ovu novčanicu, ovo je falsifikat,, i rekao je Nikoli  da je baci. Nikola je pogledao novčanicu i uvjerio se da se radi o falsifikatu ali je tada  G</span><span class="span2">..</span><span class="span2">J</span><span class="span2">..</span><span class="span2"> predložila da ona ode u neku prodavnicu i pokuša da tu novčanicu nekom ,,uvali,,. On i S</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2"> su pokušali da je odvrate da to ne radi međutim ona je insitirala pa su otišli do prodavnice "Jabuka"  takođe u ul.Narodne omladine, gdje je Jelena ušla a oni su je sačekali pred vratima a ona se brzo vratila pri čemu su vidjeli da je onu novčanicu prethodno predala prodavačici jer je Jelena uzela neko pivo i vidjeli su kako je prodavačica Jeleni vratila od onih falsifikovanih 50 eura neki kusur i čim je ona izašla iz prodavnice, njemu je dala kusur – nešto oko 40 eura a kasnije su potrošili nešto od tih 40 eura, da bi nakon što ih je policija uhapsila, vratili prodavačici 30 eura.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optuženi </span><span class="span1">K</span><span class="span1">..</span><span class="span1"> N</span><span class="span1">..</span><span class="span2"> naveo je u svojoj odbrani na glavnom pretresu od  03.04.2014.g. da ne priznaje izvršenje krivičnog djela, da su ovu novčanicu on i njihov komšija Ratko Pejović upoređivali sa pravom i jasno se vidjelo da se radi o falsifikatu, da S</span><span class="span2">..</span><span class="span2">N</span><span class="span2">...</span><span class="span2"> nije bio sa njim i Jelenom kada se oni uputili prema prodavnici , da je Jelena pivo kupovala i za njih i za sebe, da se Jelena u to vrijeme družila sa njima ali da ne zna kako je te konkretne prilike došla. Oni su se sa Jelenom našli kod njihove zgrade a u blizini se nalazila ova prodavnica "Jabuka". Ne zna ko je od njih dao novac Jeleni. Nakon što je Jelena predala ovu novčanicu prodavačici u prodavnici se zadesio neki inspektor  koji je utvrdio da je novčanica falsifikat i nakon toga  je došla policija i uhapsila ih. Nakon Jeleninog izlaska iz prodavnice oni su tu stajali i ona mu je predala kusur nakon čega je došla policija a u međuvremenu oni nijesu razgovarali sa prodavačicom i kada je došla policija on lično je vratio kusur prodavačici , a šta se dalje dešavalo sa pivom koje je Jelena kupila, on ne zna.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optuženi </span><span class="span1">K</span><span class="span1">..</span><span class="span1"> N</span><span class="span1">..</span><span class="span2"> naveo je u svojoj odbrani na glavnom pretresu od  02.10.2014.g. da je počinio krivično djelo koje mu se stavlja na teret, da je  ušao u prodavnicu nakon što je vidio da je Jelena kupila pivo za tu novčanicu ali ne zna zašto je ušao u prodavnicu. Nije znao da je ta novčanica falsikovana. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optuženi </span><span class="span1">K</span><span class="span1">..</span><span class="span1"> N</span><span class="span1">..</span><span class="span2"> naveo je u svoj odbrani na glavnim  pretresima  od 5.05.2015.g.  i 24.02.2016.g. da ne priznaje izvršenje krivičnog djela, da je novčanicu G</span><span class="span2">..</span><span class="span2"> J</span><span class="span2">..</span><span class="span2"> dao S</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2">, da su i druga lica koja su bila sa njima u društvu osim njih troje gledala predmetnu novčanicu a u njihovom društvu bile su još dvije – tri djevojke (zapravo dvije ali se  sad ne sjeća - to je bilo davno) kao i Pejović Ratko i Brnović Miodrag pa su svi stajali ispred zgrade i gledali tu novčanicu i bilo im je sumnjivo , sumnjali su da je novčanica falsifikat jer je bila prljava. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Objašnjavajući razlike u odnosu na ranija kazivanja, optuženi je naveo da nije dao na ranijem pretresu izjavu da se jasno vidjelo da je novčanica falsifikovana, odnosno možda je rekao da je falsifikat u pitanju ali nije rekao da je bio falsifikat, a u pogledu toga što je na ranijem pretresu kazao da ne zna ko je od njih dvojice dao novac optuženoj, istakao je da nije siguran ko je to učinio.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optuženi je u završnoj riječi lično i preko branioca istakao da nije dokazano da je počinio krivično djelo, pa je sudu predložio da ga oslobodi od optužbe.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optužena  </span><span class="span1">G</span><span class="span1">..</span><span class="span1"> J</span><span class="span1">..</span><span class="span2"> navela je u svoj odbrani pred istražnim sudijom da je dana 21.03.2011.g. bila na kafi sa drugaricom kada je na mobilni pozvao njen drug S</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2">koji je tražio od nje da dođe da se vide (obzirom da se često druže) kod prodavnice Jabuka u ul.VI crnogorske. Sa istim je bio i K</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2">a kojeg takođe dobro poznaje. Kada su se sreli ispred prodavnice S</span><span class="span2">..</span><span class="span2"> je njoj dao novčanicu od 50 eura i rekao joj da pođe u prodavnicu da kupi od tog novca alkohola i slatkiša ali joj sigurno nije rekao da je novčanica falsifikovana niti je ona  to vidjela, niti je nešto mnogo obraćala pažnju na nju jer je vjerovala Sekuloviću obzirom da se dugo vremena druže. Dakle, on njoj nije rekao da je novčanica falsifikovana niti su se šalili na račun toga i zajedno odlučili da ona ode u prodavnicu i kupi artikle. Ona je sa K</span><span class="span2">...</span><span class="span2"> pošla sasvim normalno i kupila je 2 piva, sok i nešto slatkiša za 7 eura a K</span><span class="span2">..</span><span class="span2"> je uzeo kusur. Stalno trguje u ovoj prodavnici i zna da je lično dala novac prodavačici a zatim sa Kovačevićem izašla vani ali je Ana (ta prodavačica) pošla za njima i rekla joj je da je novčanica falsifikovana pa je ona po prvi put za to čula. Takođe joj je ova rekla da  stane i da ne bježi a ona nije bježala niti joj je to bila namjera. Istoga momenta je pitala Sekulovića odakle mu novčanica ali joj  ni on ni Kovačević nijesu umjeli objasniti. Zna da je Ana pozvala policiju a Sekulović i Kovačević su pobjegli sa lica mjesta kada su vidjeli policajce. Sama novčanica nije bila stara, pohabana niti izlizana da bi ona u nju posumnjala već je bila sasvim obična i normalna novčanica tako da nikada ne bi pomislila da je falsifikat. U trenutku kada je dolazila policija, Ana je rekla Kovačeviću da joj vrati 43 eura kao kusur ali misli da je ovaj vratio samo 30 eura dok su oni bili prisutni.</span>
+</li>
+<li>
+<span class="span2"> </span>
+</li>
+<li>
+<span class="span2">Optužena </span><span class="span1">G</span><span class="span1">..</span><span class="span1"> J</span><span class="span1">..</span><span class="span2"> navela  je u svojim odbranama na glavnim pretresima od 03.04.2014.g.  i od 02.10.2014.g. da ne priznaje izvršenje krivičnog djela,da je nju pozvao S</span><span class="span2">..</span><span class="span2">N</span><span class="span2">..</span><span class="span2"> da dođe do njega i K</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2"> jer se ona sa njima družila, da je kada je stigla Sekulović njoj  dao ovu </span><span class="span2">novčanicu i kazao joj da kupi nešto za nju u prodavnici , pa je ona uzela novac i ušla u prodavnicu a za njom je ušao K</span><span class="span2">..</span><span class="span2">N</span><span class="span2">..</span><span class="span2"> , dok je S</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2"> za to vrije bio ispred prodavnice. Kupila je neke sitnice (pivo, sok, čokoladice) i prodavačica joj je vratila nešto više od 40 eura i čim je izašla ona je taj kusur predala K</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2"> a nakon što je Kovačević uzeo novac od nje, on i Sekulović su krenuli da se udaljavaju od prodavnice a ona je ona ostala ispred prodavnice, i neposredno nakon toga iz prodavnice je izašla prodavačica i rekla joj da stane, pri čemu je prodavačica prethodno vidjela da je ona dala kusur K</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2"> i prodavačica je potrčala za Kovačevićem i Sekulovićem i tražila da joj Kovačević vrati onaj novac od kusura ali je ovaj to odbio, pa je prodavačica pozvala policiju. Ona nije znala da je ova novčanica falsifikovana, a kada je došla kod Sekulovića i Kovačevića oni su bili sami , a u blizini su se nalazili neki njihovi drugovi, i nikakve priče nije bilo oko toga da li je ta novčanica lažna. U to vrijeme je radila kod svoje strine na trafici a tokom rada na trafici susretala sa novčanicama od 20 i 50 eura, ali falsifikovane nije nikad vidjela a novčanica koju joj je Sekulović dao je bila nova i njoj je izgledala kao prava. Njih dvojica njoj nijesu konkretno kazali zašto oni ne idu u prodavnicu u kupovinu nego  nju pitaju da li ona može otići da kupi pivo, sok i čokoladice. Kada je izašla iz prodavnice Sekulović i Kovačević su se udaljili malo od nje, a prodavačica je iz prodavnice izašla nakon 5-10 minuta. Mjesto gdje su stajali Kovačević i Sekulović od prodavnice je udaljeno  oko 20 metara i kada je ona došla kod njih, oni su bili sami a nedaleko od njih je bilo još nekoliko momaka. Često ide da trguje u prodavnicu "Jabuka" i prodavačicu Omerović Anetu od ranije poznaje. Misli da je po izlasku iz radnje kesu predala Sekuloviću a kusur je već u prodavnici dala Kovačeviću.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optužena </span><span class="span1">G</span><span class="span1">..</span><span class="span1"> J</span><span class="span1">..</span><span class="span2"> navela  je u u svojoj odbrani na glavnim  pretresima od 5.05.2015.g. i od 24.02.2016.g.  da ne priznaje izvršenje krivičnog djela, da se tada družila sa Sekulovićem i Kovačevićem a inače se oni nijesu okupljali na mjestu gdje se sve ovo izdešavalo, da je bio prisutan Brnović Miodrag dok Pejović Ratko nije bio prisutan.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optužena je u završnoj riječi lično i preko branioca istakla da nije dokazano da je počinila krivično djelo, pa je sudu predložila da je oslobodi od optužbe.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Sud je u dokaznom postupku na saglastan predlog stranaka  pročitao iskaze svjedoka  Pejović Radivoja, B</span><span class="span2">..</span><span class="span2"> M</span><span class="span2">..</span><span class="span2">  i  O</span><span class="span2">..</span><span class="span2"> A</span><span class="span2">..</span><span class="span2"> sa ranijih glavnih pretresa, pročitao potvrdu UP CG Nikšić Ku br.154 od  21.03.2011.g.  o privremeno oduzetim predmetima od Omerović Anete, na saglasan predlog stranaka pročitao nalaz i mišljenja forenzičkog centra broj 1256/11, pročitao izvjestaj Centralne banke CG od 04.04.2011.g.  i pročitao izvode iz kaznenih evidencija za optužene.  </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Svjedok </span><span class="span1">P</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span2"> naveo je u svom iskazu da se kritične noći vraćao iz grada kada je pored radnje "Jabuka" zatekao S</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2">, K</span><span class="span2">..</span><span class="span2">N</span><span class="span2">..</span><span class="span2">, G</span><span class="span2">..</span><span class="span2"> J</span><span class="span2">..</span><span class="span2">, a sjeća se da su tu bili i Brnović Miodrag i još tri-četiri lica. Oni su ga pitali da li ima novčanicu od 50,00 eura da bi uporedili  sa nekom novčanicom od 50,00 eura (koju su našli) da li je prava, ali on nije imao kod sebe tu novčanicu a nakon što je vidio tu njihovu novčanicu rekao im je da misli da novčanica nije u redu i da mu je sumnjiva ali nije bio siguran. Kada je krenuo da se udalji odatle oni su još ostali da se raspravljaju - govorili su da nije u redu da se ide sa tom novčanicom,  govorili su nešto u smislu - nemoj to da radiš, a on  je vidio Sekulović Nikolu da se udaljava prema jednoj kladionici, dok misli da se i K</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2"> posle 15-tak sekundi udaljio sa lica mjesta gdje su tada stajali. Kasnije je čuo da je jedna cura ušla u </span><span class="span2">prodavnicu i dala novčanicu od 50,00eura. Njega je Sekulović pitao da li ima novčanicu od 50,00eura da bi je uporedio jer ni on nije bio siguran da li je riječ o pravoj novčanici. Njihovu priču o novčanici pa tako i  njegove riječi da nije siguran da li je novčanica prava ili ne, ostali su mogli da čuju. Kada je krenuo da se udaljava čuo je kako Sekulović koji mu je inače dugogodišnji komšija, govori- nemoj to da radiš, mislim da nije u redu, a nakon što se okrenuo prema njemu vidio je kako ide prema kladionici dok je sam nastavio put svoga stana. Inače, on živi u zgradi koja se nalazi pored ove prodavnice i tu se okuplja društvo iz komšiluka, a svi oni žive u blizini. Predmetnu novčanicu je držao u svojoj ruci ali se u kvalitet iste ne razumije pa se tako  nije mogao izjasniti o tome da li je prava ili nije. Nije čuo da je neko od prisutnih lica insistirao da se ta novčanica od 50,00eura upotrijebi. Ne može se precizno izjasniti koja su lica osim optuženih, Brnovića i njega bila prisutna.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Svjedok </span><span class="span1">B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span2"> naveo je u svom iskazu da je kritičnom prilikom došao kod prodavnice "Jabuka" gdje je zatekao optužene, a bili su pristni još neki momci i djevojke. Njega su pitali da li ima novčanicu sa kojom bi mogli da uporede neku drugu novčanicu da li je prava na šta ima je on odgovorio da nema. G</span><span class="span2">..</span><span class="span2">J</span><span class="span2">..</span><span class="span2"> je htjela da ode da nešto kupi sa tom novčanicom u prodavnicu a ostali su joj govorili da ne ide dok ne provjere da li je u pitanju prava novčanica. Udaljio  se sa lica mjesta a kasnije je čuo da je to bila lažna novčanica i da je dolazila policija. Radilo se o novčanici od 50,00eura i on nije mogao procijeniti kakva je to novčanica, a tada je ona bila kod G</span><span class="span2">..</span><span class="span2"> J</span><span class="span2">..</span><span class="span2">. On je na lice mjesta došao sa Pejović Ratkom a po njegovom dolasku na lice mjesta J</span><span class="span2">..</span><span class="span2"> G</span><span class="span2">..</span><span class="span2"> je već bila tu. Novčanica koju mu je pokazana bila je od 50,00eura i nije mu poznato šta su htjeli da kupe za nju, a lično nije ulazio u navedenu prodavnicu.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Svjedok </span><span class="span1">O</span><span class="span1">..</span><span class="span1"> A</span><span class="span1">..</span><span class="span2"> navela je u svom iskazu pred istražnim sudijom da je zaposlena u prodavnici "Jabuka", te da je dana 21.03.2011.g. oko 19,00 časova dok je u radnji bila poprilično velika gužva, ušla Gardašević Jelena koju je od ranije poznavala  i koja je (kako je bila prva u redu) tražila da joj izda neke slatkiše i sokove u vrijednosti od oko 5-6 eura, što je ona i učinila, nakon čega joj je Jelena dala novčanicu od 50,00 eura. Ne sumnjajući da se radi o falsifikatu, uzela je tu novčanicu i vratila joj odmah kusur a ova se odmah udaljila iz prodavnice i to istovremeno kada je ona stavila novčanicu u kasu. Ne zna šta joj je bilo da je pomislila da je novčanica falsifikovana pa je odmah uzela i pogledala kada je vidjela da je  novčanica blijeda i čudna i tek je tada pretpostavila da se radi o falsifikatu. U radnji je bio čovjek kome je pokazala novčanicu pa je on kazao da misli da je falsifikat i pozvao je policiju. Odmah potom je u radnju ušla  Jelena a vidjela je i da su sa njom pred radnju došli  S</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2"> i K</span><span class="span2">..</span><span class="span2"> N</span><span class="span2">..</span><span class="span2">. Jelena je rekla da je neko nju prevario i da joj je na prevaru dao novčanicu od 50,00 eura što je shvatila tek kada je njoj predala novčanicu, pa je Jelena tražila od nje da joj vrati onih 50,00 eura i  bila se uplašila da će ih ona predati policiji. Jelena je njoj prije dolask policije dala 30,00 i nešto eura i robu koju je prethodno kupila (slatkiše i sokove). Ostala joj je dužna još desetak eura a molila je da joj da onih 50 eura za koje je tvrdila da je naknadno saznala da su falsifikovani. Ona nije htjela da joj vrati 50 eura već ih je kasnije predala policiji i kazala da joj je Jelena dala tu novčanicu a kada su došli policajci, Jelena je bial pred prodavnicom pa su je oni priveli  u stanicu. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Svjedok  </span><span class="span1">O</span><span class="span1">..</span><span class="span1"> A</span><span class="span1">..</span><span class="span2"> navela je u svom iskazu na glavnom pretresu da je kritične noći radila u prodavnici "Jabuka" i da je bila gužva, da joj je data novčanica od 100,00 eura  a tu je bio </span><span class="span2">prisutan i neki policajac kao mušterija , te da se odjednom pojavila policija. Ona je uzela tu novčanicu od 100,00eura za koju nije sigurna ko joj je dao, a taj policajac joj je tražio da pogleda što mu je ona i dozvolila. Ona nije pozvala policiju  i nije vidjela optužene tom prilikom, a policajac joj je kazao da joj je Gardašević Jelena koja se nalazila u radnji dala tu novčanicu, ali ona ne može da potvrdi da li je tako bilo. S</span><span class="span2">..</span><span class="span2"> i K</span><span class="span2">.</span><span class="span2"> poznaje kao dobre momke koji  nijesu došli sa te noći sa Gardaševićkom u radnju, a u kasi se nalazilo šest novčanica od po 100,00eura. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Objašnjavajući razlike u odnosu na kazivanje iz prethodnog postupka, svjedok je naveo da je i kod istražnog sudije kazala da je u pitanju bila novčanica od 100,00eura a kada je kod istražnog sudije navela da joj je novčanica koju joj je dala G</span><span class="span2">..</span><span class="span2"> bila čudna , ona je to zapravo pretpostavila pošto joj je ova poslednja dala novac. Tačno je da je ona pozvala Gardaševićku nakon čega se ista vratila a nije vidjela Sekulovića i Kovačevića sa njom, a nakon što joj je  predočeno da je kod istražnog sudije rekla da su i oni bili sa optuženom, istakla je da je to moguće. Gardašević Jelena joj je vratila kusur a ona njoj novčanicu od 100,00eura, i ne zna ko je novčanicu predao policiji.  Inače, optuženi žive u blizini radnje i tu se okupljaju, ona nikada nije imala problema sa njima.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span1">POTVRDOM </span><span class="span2">o privremeno oduzetim predmetima Uprave Policije PJ Nikšić  Ku.br.154 od 21.03.2011.g. konstatovano je da se od Omerović Anete privremeno oduzima novčanica  od 50,00 eura serijskog broja X29470643471.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span1">NALAZOM</span><span class="span2"> i </span><span class="span1">MIŠLJENJEM</span><span class="span2">  forenzičkog centra br.1256/11 navedeno je da se upoređivanjem sporne novčanice od 50,00 eura serijskog broja X2</span><span class="span2">..</span><span class="span2">3471 sa nespornom novčanicom istog apoena, konstatuju razlike u  kvalitetu hartije, u kvalitetu štampe, u elementima zaštite, koje su razlike dovoljne za donošenje zaključka o tome da li je sporna novčanica originalna ili ne, odnosno ista  nije autentična banknota – falsifikovana je.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span1">IZVJEŠTAJEM</span><span class="span2"> o ekspertizi sumnjivog novca br.51 navedeno je da je sporna novčanica u apoenu od 50,00 eura falsifikat tipa EUA0050 C/L5 loše izrade, da dimenzijama odstupa od dimenzija originalne novčanice, da po sastavu i kvalitetu papira odstupa od originala, sa lošom je imitacijom boja, da je predmetni falsifikat izrađen skeniranjem originalne novčanice i potom njenom izradom na uređaju sa štampom u boji koji se može naći na tržištu u slobodnoj prodaji, pa takav način izrade falsifikata rezultira lošom imitacijom karakteristika zaštite koje se nalaze na originalnoj novčanici. Takođe je navedeno  da vodeni žig- nije imitiran, zaštitna nit- nije imitirana, providni registar -uočljivo  je odstupanje u poklapanju, intaglio reljefna štampa - nije imitirana, mikro i mini štampa - nije imitirana, presijavajuća traka -loše je imitirana, hologram - imitiran štampom, na koju je naknadno nanešena siva boja. Imitacija boja ploče R0291D1. Način na koji je predmetni falsifikat izrađen upućuje na zaključak da se radi o falsifikatu loše izrade.</span>
+</li>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Sud nalazi da djelo za koje su </span><span class="span3">S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3">, K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> i G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3">optuženi po zakonu nije krivično djelo.</span>
+</p>
+<p>
+<span class="span3">                                                                                           </span>
+</p>
+<p>
+<span class="span3">Nesporno je da su dana 21.03.2011.g. ovlašćeni službenici nikšićke policije od O</span><span class="span3">..</span><span class="span3">A</span><span class="span3">..</span><span class="span3"> (radnice STR Jabuka)  oduzeli novčanicu od 50,00 eura, budući da je to konstatovano </span><span class="span3">potvrdom Uprave policije PJ Nikšić o privremenom oduzimanju predmeta, a da se radilo o falfikovanoj novčanici, sud je utvrdio na osnovu rezultata grafološkog vještačenja Forenzičkog centra te na osnovu izvještaja Centralne banke Crne Gore. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Optuženi S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> i K</span><span class="span3">..</span><span class="span3">N</span><span class="span3">.</span><span class="span3"> su pokušali da nakon istrage svojim odbranama sugerišu kako je na njihovoj strani postojala samo sumnja da li je novčanica falsifikat ili ne – ali su to činili na međusobno  neusaglašen način. Naime, optuženi S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> je na glavnom pretresu od 03.04.2014.g. navodio da je on samo sumnjao u postojanje falsifikata dok je optuženi K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">.</span><span class="span3"> na glavnom pretresu od 03.04.2014.g. navodio da se jasno vidjelo da se radi o falsifikatu  i tek je na glavnom pretresu  od 02.10.2014.g. kazao da zapravo nije znao za to svojstvo novčanice.  Takođe, ne samo da su optuženi S</span><span class="span3">..</span><span class="span3"> i K</span><span class="span3">..</span><span class="span3"> na glavnom pretresu od 03.04.2014.g. različito predstavljali bitnu činjenicu (da li su znali da je novčanica od 50,00 eura falsifikat ili su samo sumnjali u to) već su i obadvojica u svojim navodima bili nedosledni. Optuženi Sekulović je u istrazi kazao da je čim mu je optuženi Ko</span><span class="span3">..</span><span class="span3">pokazao novčanicu od 50,00 eura, primijetio da se radi o falsifikatu pa su kasnije obadvojica ubjeđivali optuženu G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3"> da ne ide u prodavnicu da trguje sa tom novčanicom jer je lažna, što će reći da je on u stadijumu istrage bio nedvosmislen – odmah je znao da se radi o lažnoj novčanici a to su znali i optuženi Kovačević  (čim je skupa sa njim ubjeđivao optuženu Gardašević Jelenu da ne ide u radnju) kao i optužena G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3"> (Sekulović kaže da je ona to znala pa su se čak i šalili par minuta oko toga). Međutim, na glavnom pretresu optuženi S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> navodi da zapravo nijesu bili sugurni da li se radi o falsifikatu i pominje ono što ranije nije pominjao - da su spornu novčanicu upoređivali sa pravom te da je optužena G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3"> u prodavnicu i otišla kako bi provjerila da li je novčanica prava ili ne. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Jasno je da je optuženi na glavnom pretresu drastično izmijenio odbranu budući da je u istrazi bio krajnje određen tvrdeći da mu je kao i ostalim optuženima bilo poznato da je sporna novčanica falsifikat dok je na pretresu isticao da je samo sumnjao u to, a ovolika izmjena u pogledu predstavljanja ključne činjenice nije po ocjeni suda dobila racionalno objašnjenje - optuženi je naveo da je i kod istražnog sudije imao namjeru da kaže kako je samo sumnjao u neautentičnost novčanice ali to nije učinio jer se vjerovatno bio zbunio, ali sud sasvim sigurno ne može povjerovati u to da je optuženi u toj mjeri bio zbunjen na saslušanju u istrazi pa da u više navrata pomene da postojalo znanje o neautentičnosti novčanice iako nije postojalo, odnosno  nerealno je da on ne bi  barem ovlaš pomenuo dvojbu oko autentičnosti  tog predmeta istražnom sudiji (da je te dvojbe bilo). </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Izmjene u odbrani optuženog K</span><span class="span3">..</span><span class="span3">N</span><span class="span3">..</span><span class="span3"> još su očiglednije – on kod istražnog sudije navodi da je odmah po nalaženju novčanice, na osnovu loše izrade iste, shvatio da je ona falsifikat a kada je novčanicu vidio i optuženi Sekulović se uvjerio da je falsifikat a i on sam je kada je novčanicu predavao Sekuloviću pomenuo da je posrijedi falsifikat i to u prisustvu optužene Gardašević Jelene koja je predložila da ode u neku prodavnicu  i pokuša da novčanicu nekome » uvali «.  Dakle, po optuženom Kovačeviću u stadiju istrage – nema sumnje da je svo troje optuženih znalo da se radi o falsifikovanoj novčanici. Na glavnom pretresu od 03.04.2014.g optuženi K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> kaže da se jasno vidjelo da je novčanica falsifikat dok na glavnom pretresu od  02.10.2014.g. kaže da nije znao da je novčanica lažna a na glavnom pretresu iz 2015.g. kaže da su oni samo sumnjali da je novčanica falsifikovana jer je bila prljava pri čemu nije na pretresu od 3.04.2014.g. uopšte ni rekao da se jasno vidjelo da je novčanica falsifikat. Koliko je on konfuzno i neprihvatljivo želio da  potre to što je pričao u istrazi i na glavnom pretresu od 3.04.2014.g, vidi se po </span><span class="span3">nastavku njegovog kazivanja – on kaže da je tada možda rekao da je falsifikat u pitanju, ali nije rekao da je falsifikat što su naravno sasvim međusobno isključivi i zaista besmisleni navodi, pa je vidljivo  da je i ovaj optuženi drastično mijenjao odbranu – od prvobitnog isticanja da je svim optuženima bilo jasno kako je sporna novčanica falsifikat do prelaženja na samo sumnju o tome, pri čemu kao ni optuženi S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> nije ponudio prihvatljivo objašnjenje za izmjenu kazivanja. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Sud je prihvatio  odbranu optuženog K</span><span class="span3">..</span><span class="span3">N</span><span class="span3">..</span><span class="span3"> pred istražnim sudijom kao jasnu, logičnu  i određenu, iz koje proizilazi da je optuženi Kovačević prvi došao u posjed sporne novčanice nakon čega je istu predao optuženom Sekuloviću, pri čemu su obadvojica odmah shvatila nakon ostvarivanja uvida u novčanicu da se radi o falsifikatu a obzirom na ekspertizu Centralne banke Crne Gore i bilo je realno  i očekivano da su tako brzo bili u stanju shvatiti da se ne radi o autentičnoj novčanici (budući da je riječ bila o veoma lošoj kopiji). Nadalje iz odbrane optuženog K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> pred istražnim sudijom proizilazi da su svo  troje optuženih, svjesni svojstva sporne novčanice (da je ista falsifikovana) pošli do trgovinskog objekta u koji je optužena G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3"> ušla i obavila kupovinu koristeći spornu novčanicu koja joj je prethodno bila predata, što dovodi jasno do zaključka da su optuženi skupa i po dogovoru datu novčanicu stavili u promet. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Sa druge strane sud nije prihvatio kazivanje optuženog Sekulovića pred istražnim sudijom budući da isti tvrdi kako je optužena G</span><span class="span3">.</span><span class="span3"> otišla do prodavnice dok je on pošao do kladionice pri čemu su prethodno on i K</span><span class="span3">.</span><span class="span3"> ubjeđivali optuženu da ne ide u prodavnicu. Ne samo da je optuženi Kovačević jasno kazao u istrazi da je zajedno sa Sekulovićem čekao optuženu ispred radnje već je i nerealno da bi optuženi Sekulović tek  tako odšetao do kladionice u momentu dok njegova prijateljica G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3"> drži  falsifikovanu novčanicu i oglušuje se o upozorenja da je ne koristi, jer je za pretpostaviti da bi u tom slučaju optuženi Sekulović kao fizički jača osoba od optužene, mogao i oduzeti novčanicu od nje i tako je spriječiti da izvrši protivpravni akt. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Optužena G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3"> je kazala pred istražnim sudijom da je optuženi Sekulović pozvao da dođe i dao joj novčanicu od 50,00 eura da bi njime kupila alkohol i slatkiše ali joj nije rekao da se radi o falsifikatu niti je ona to vidjela, pri čemu i nije nešto mnogo obraćala pažnu na novčanicu jer je Sekuloviću vjerovala. Ona će međutim u nastavku kazivanja istaći da novčanica nije bila pohabana, stara ili izlizana već je bila sasvim obična i normalna a sudu nije logično da optuženi Sekulović pozove optuženu G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3"> da dođe te da joj po dolasku preda novac i uputi u trgovinu a da njoj ne bude čudno zbog čega ovaj nije sam otišao u obližnju prodavnicu umjesto što nju zove (sve ono što je od nje tražio da uradi mogao je i  uraditi i sam) a takođe sud ne može a da ne primijeti i to da je optužena Gardašević Jelena bila kontradiktorna - isprva navodeći da i nije nešto mnogo obraćala pažnju na spornu novčanicu, da bi kasnije navela da ta novčanica nije bila stara , pohabana ili izlizana pa nije jasno kako je to sve ona mogla zamijetiti kada nije mnogo obraćala pažnju. Naročito kod činjenice da su se u vrijeme kritičnog dešavanja sve troje optuženih družili, nije jasno zbog čega bi optuženi Kovačević i Sekulović pominjali u istrazi da je optužena Gardaševićka znala da je novčanica falsifikovana, ako to zaista ne bi bio slučaj . Slijedeći ekspertizu Centralne banke, sporna novčanica predstavljala je falsifikat loše izrade, pri čemu se na osnovu boje mogla uočiti razlika spram originala, što je sve u skladu sa kazivanjima optuženih Sekulovića i Kovačevića u istrazi – da su maltene odmah uočili da je riječ o falsifikatu ali je utoliko čudnije da optužena G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3"> </span><span class="span3">koja je po sopstvenom kazivanju u spornom periodu radila u trafici, gdje se susretala sa novčanicama od 50,00 eura, ne bi primijetila da je novčanica falsifikovana pa je na koncu jasno da je i optužena Gardašević Jelena znala da je novčanica falsifikovana, ali da je ipak odlučila da je upotrijebi. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Sud nije prihvatio iskaze svjedoka P</span><span class="span3">..</span><span class="span3">R</span><span class="span3">..</span><span class="span3"> i B</span><span class="span3">..</span><span class="span3">M</span><span class="span3">..</span><span class="span3"> nalazeći da isti nijesu dati u namjeri vjerodostojnog opisivanja kritičnih dešavanja  .  Najprije, optuženi u stadijumu istrage uopšte nijesu pominjali prisustvo trećih lica kritičnom prilikom ali su se zato više godina kasnije na glavnom pretresu iz 2014.g. optuženi prisjetili kako je osim njih troje kritičnom prilikom bilo prisutno još osoba, a zaista je čudno da se optuženi bolje mogu prisjećati spornih dešavanja nakon proteka dužeg vremenskog intervala budući da bi logično bilo sasvim suprotno – da su sjećanja kvalitetnija što su svježija jer je notorna činjenica da slabe protekom vremena. Takođe je čudno da niko od optuženih pred istražnim sudijom nijie pominjao da je još neko gledao spornu novčanicu osim njih a upravo je to (aktivno učešće trećih lica u ocjenjivanju autentičnosti novčanice) isticano od strane optuženih Sekulovića i Kovačevića na glavnom pretresu. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Mora se uzeti u obzir i sledeće – optuženi nijesu na glavnom pretresu usaglašeno predstavljali ko je navodno osim njih troje još bio prisutan pa su tako na primjer optuženi S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> i K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> govorili da su na licu mjesta bili P</span><span class="span3">..</span><span class="span3"> i B</span><span class="span3">..</span><span class="span3"> dok optužena G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">.</span><span class="span3"> ističe da P</span><span class="span3">..</span><span class="span3"> nije bio prisutan (optuženi su tvrdili da su osim P</span><span class="span3">..</span><span class="span3"> i B</span><span class="span3">..</span><span class="span3"> još neki ljudi bili prisutni, ali je indikativno da se niko od njih nije mogao sjetiti imena tih lica). </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Svjedok P</span><span class="span3">..</span><span class="span3">R</span><span class="span3">..</span><span class="span3"> kaže da ga je optuženi S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> pitao da li ima novčanicu od 50,00 eura kako bi je uporedili sa spornom novčanicom, ali sam optuženi nikada nije pomenuo da je takvo pitanje uputio svjedoku. Sa druge strane, optuženi Kovačević Nikola navodi da su on i Pejović upoređivali spornu novčanicu sa pravom, što je suprotno kazivanju svjedoka Pejovića – da od njega jeste tražena prava novčanica od 50,00 eura ali da je on nije imao. Jasno je dakle da svjedok Pejović Radivoje priča suprotno i u odnosu na optuženog Sekulovića i u odnosu na optuženog Kovačevića, odnosno jasno je da je on pokušao da potvrdi svojim iskazom njihove izmijenjene odbrane na glavnim pretresima (da nijesu znali da je sporna novčanica falsifikat već da su samo sumnjali u to) ali je to činio na neusaglašen način sa njihovim odbranama. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Jednako je neubjedljiv u kazivanju bio i svjedok B</span><span class="span3">..</span><span class="span3"> M</span><span class="span3">..</span><span class="span3"> – on je naveo da je zajedno sa Pejović Radivojem došao na lice mjesta, dok je sam Pejović isticao da je ispred radnje Jabuka zatekao optužene, Brnovića i još tri - četiri lica, što jedino može značiti da Brnović nije bio u njegovom društvu kada je došao do trgovine. Takođe svjedok B</span><span class="span3">..</span><span class="span3">M</span><span class="span3">..</span><span class="span3">kaže kako je i on pitan  ima li novčanicu od 50,00 eura koja bi se mogla uporediti sa spornom , što niko od optuženih nije pominjao, pa je evidentno da ni iskaz ovog svjedoka nije predstavljao potvrdu odbrana optuženih jer je sa istima bio neusaglašen. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Zaključak je jasan – svjedoci Pejović i Brnović dali su iskaze kako bi predstavili da optuženi nijesu bili sigurni da li je pronađena novčanica od 50,00 eura  falsifikat ili ne, ali kako su iskazi svjedoka bili međusobno kontradiktorni a istovremeno i kontradiktorni u odnosu na odbrane optuženih, sud je našao da im se ne može pokloniti vjera.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Sud nije prihvatio svjedočki iskaz O</span><span class="span3">..</span><span class="span3"> A</span><span class="span3">..</span><span class="span3"> sa glavnog pretresa. Ona je navela kako je kritične noći primila spornu novčanicu od 100,00 eura, kako je neki prisutni policajac njoj ukazao na G</span><span class="span3">..</span><span class="span3">J</span><span class="span3">..</span><span class="span3"> kao osobu koja joj je vjerovatno predala tu novčanicu pri čemu sama nije mogla da potvrdi da je novčanicu dobila od Gardaševićke. Kada bi se ostavilo od po strani da ovaj svjedok u istrazi nije pominjao da je prisutna mušterija kojoj je pokazala novčanicu bila radnik policije, da svjedok u istrazi jeste naveo da joj je bila čudna upravo novčanica koju je primila od G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3">, opet bi kao prepoznatljiva ostala okolnost koju svjedok Omerović Aneta ističe na glavnom pretresu i koja okolnost svu njenu priču sa pretresa potire - da se radilo o novčanici od 100,00 eura a nesporno je da je riječ bila o novčanici od 50,00eura (što se vidi iz potvrde UP PJ Nikšić o privremenom oduzimanju novčanice od svjedoka).</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Sud nije prihvatio ni kazivanje svjedoka O</span><span class="span3">..</span><span class="span3"> A</span><span class="span3">..</span><span class="span3"> pred istražnim sudijom nalazeći da je isto  nelogično. Svjedok je naime u istrazi naveo da se G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3"> , nakon što je mušterija iz radnje pozvala policiju, vratila u objekat , kazala da joj je neko  na prevaru dao 50,00 eura, vratila joj kusur i kupljenu robu uz zahtjev da joj da nazad spornu novčanicu od 50,00 eura. Kako sama optužena Gardašević Jelena nikada nije pomenula da se vraćala u prodavnicu niti da je unutar objekta prodavačici kazala da je prevarena oko spornih 50,00 eura, a imala bi interes tako nešto da tvrdi jer bi tako predstavila da je samoinicijativno, posle saznanja da je novčanica falsifikat otišla da to prizna prodavačici i da joj vrati kupljene stvari i kusur čime bi pospješila sopstvenu odbranu da je uzela novac za kupovinu od Sekulovića ne znajući pri tom da je falsifikat u pitanju, očito je da navodi Omerović Anete kao nelogični ne mogu biti prihvaćeni. Da je zaista optužena uradila ono što svjedok Omerović Aneta priča u istrazi, postavilo bi se pitanje - zbog čega optužena ako nakon što 50,00eura da prodavačici shvati da je riječ o falsifikatu, dio kusura (dakle sasvim legalan novac) daje nekom od optuženih (po ovom svjedoku optužena je nakon povratka u objekat njoj vratila 30,00 eura a ostala joj je dužna još desetak eura što znači da je dala nekom od optuženih tu razliku). </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Sud je izmijenio činjenični opis tako što je nakon riječi »nakon čega»  izostavio riječi »su pozvali svoju drugaricu optuženu Gardašević Jelenu i novčanicu predali » umjesto kojih je unio riječi » je novčanica predata optuženoj G</span><span class="span3">..</span><span class="span3"> J</span><span class="span3">..</span><span class="span3">» a takođe je sud umjesto  riječi »sa optuženim K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> došla  u STR Jabuka u ul.VI Crnogorske» unio riječi »sa optuženim K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> i optuženim S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> došla do STR Jabuka u ul.VI Crnogorske, pri čemu su je optuženi S</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> i K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3">   čekali ispred objekta dok je ona ušla u isti ». Naime, iz odbrane optuženog K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> kod istražnog sudije,   ne da se zaključiti ko je od optuženih predao novčanicu optuženoj a formulacija iz optužnog akta » novčanicu predali optuženoj » nije logična jer nije moguće da dvije osobe jednu novčanicu predaju u ruke trećoj osobi. Takođe slijedeći odbranu optuženog K</span><span class="span3">..</span><span class="span3"> N</span><span class="span3">..</span><span class="span3"> kod istražnog sudije, do trgovinskog objekta sa optuženom su pošli i K</span><span class="span3">..</span><span class="span3"> i S</span><span class="span3">..</span><span class="span3"> pri čemu nijesu ušli u isti već su je čekali ispred a navedene izmjene u činjeničnom opisu po ocjeni suda ne predstavljaju povredu objektivnog identiteta optužbe budući da je izmjenama samo izvršeno preciziranje činjeničnog stanja dok je suština ostala ista. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Međutim, činjenica za koju sud smatra da je nesporno utvrđena - da su optužena lica znala da se radi o falsifikovanoj novčanici, ne znači istovremeno da su njihovim radnjama ostvarena sva bitna obilježja predmetnog krivičnog djela. Za egzistiranje krivičnog djela falsifikovanje novca iz čl. 258 st. 2 KZ potrebno je da je lažan novac </span><span class="span3">pribavljan ili držan ili prenošen ili unošen ili iznošen u namjeri staljanja u opticaj kao pravi ili da je lažan novac stavljen u opticaj. Da bi ovo krivično djelo postojalo neophodno je i to da taj  lažni  novac bude napravljen tako da se na prvi pogled ne može lako zapaziti da se ne radi o pravom novcu odnosno po veličini, obliku, boji, likovima na njemu i slično taj se novac ne bi smio razlikovati od pravog, a upravo sadržina   vještačenja Forenzičkog centra Crne Gore (njime je navedeno da se razlike sporne novčanice u odnosu na pravi novac ogledaju u kvalitetu hartije, kvalitetu štampe i elementima zaštite) kao i izvještaja Centralne banke Crne Gore o ekspertizi (njime je navedeno da dimenzije sporne novčanice odstupaju od dimenzija originalne novčanice, da sastav i kvalitet papira odstupa od sastava i kvaliteta papira originalne novčanice, da je boja sporne novčanice loša imitacija boje prave novčanice, da je hologram imitiran štampom na koju je naknadno unešena siva boja, da je presijavajuća traka loše imitirana, da je sporna novčanica izrađena skeniranjem originalne novčanice i zatim njenom izradom na uređaju sa štampom u boji koji se može naći u slobodnoj prodaji na tržištu, što sve znači da se radi o falsifikatu loše izrade) jasno govori da je riječ o falsifikatu loše izrađenom u toj mjeri da mu nedostaju brojni elementi pravog novca što će reći da je evidentno i lako vidljivo da se ne radi o pravoj novčanici. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Kako je očigledno da sporna novčanica ne može predstavljati predmet ovog krivičnog djela , to je očigledno i da je sud morao optužene osloboditi od optužbe. </span>
+</p>
+<p>
+<span class="span3"> </span>
+</p>
+<p>
+<span class="span3">Budući da su optužena lica oslobođena od optužbe, sud nije  izrekao  mjeru  bezbjednosti trajnog oduzimanja novčanice u apoenu od 50,00 eura serijskog broja </span><span class="span3">X29470643471. Takođe sud nije našao da postoje uslovi iz čl. 477 st. 1 ZKP-a za izricanje navedene mjere bezbjednosti jer taj član ZKP-a predviđa mogućnost da se u slučaju izostanka osuđujuće presude predmet može oduzeti samo ako to iziskuju razlozi bezbjednosti ljudi i imovine ili razlozi morala ili ako i dalje postoji opasnost da će biti upotrijebljeni za izvršenje krivičnog djela. Lažna novčanica zastupljena u ovom slučaju nije prijetnja po bezbjednost ljudi i imovine niti njeno postojanje predstavlja atak na društveni moral a kako je već utvrđeno da je sama po sebi ta novčanica nepodobna da bude predmet krivičnog djela koje podrazumijeva falsifikovanje novčanica, jasno je da ne postoji opasnost od njenog daljeg upotrebljavanja za izvršenje novih krivičnih djela. </span>
+</p>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Kako su optužena lica oslobođena od optužbe ,    troškovi krivičnog postupka shodno čl. 230 ZKP-a padaju na teret budžetskih sredstava suda.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz iznijetih razloga,   odlučeno je kao u izreci presude.</span>
+</li>
+<p>&nbsp;</p>
+<p>
+<span class="span3">                                   OSNOVNI SUD U NIKŠIĆU,  dana  </span><span class="span3">24.02.2016.g.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">                     Zapisničar,                                                    SUDIJA,</span>
+</p>
+<p>
+<span class="span3">      Plana Ćuzović s.r.                                      Ivan Perović s.r.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3"></span><span class="span3"></span><span class="span3">           ZA TAČNOST OTPRAVKA TVRDI  </span>
+</p>
+<p>
+<span class="span3">                                                  radnik suda</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">PRAVNA POUKA:    Protiv ove presude nezadovoljna stranka ima pravo izjavljivanja </span>
+</p>
+<p>
+<span class="span3">                                   žalbe preko ovog suda Višem sudu u Podgorici, u roku od 15 dana   </span>
+</p>
+<p>
+<span class="span3">                                   od dana prijema presude.</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+
+
+</body>

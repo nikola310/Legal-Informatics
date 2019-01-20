@@ -1,0 +1,361 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.b2{margin: 0.82708335in 0.82708335in 0.82708335in 0.82708335in;}
+.p1{text-indent:0.33333334in;text-align:end;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p2{text-indent:0.33333334in;text-align:end;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.p3{text-indent:0.33333334in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p4{text-indent:0.33333334in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p5{text-indent:0.33333334in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p6{text-indent:-0.46875in;margin-left:0.8020833in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p7{text-indent:0.33333334in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.p8{text-indent:0.33333334in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.p9{text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p10{text-indent:0.5in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p11{text-indent:0.5in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p12{margin-left:-0.25in;margin-right:-0.5in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p13{margin-left:-0.25in;margin-right:-0.5in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p14{text-align:end;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p15{text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p16{margin-right:-0.5in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p17{text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.s1{display: inline-block; text-indent: 0; min-width: 0.15277778in;}
+.td1{width:2.5923612in;padding-start:0.075in;padding-end:0.075in;}
+.td2{width:3.557639in;padding-start:0.075in;padding-end:0.075in;}
+.td3{width:1.95in;padding-start:0.075in;padding-end:0.075in;}
+.td4{width:3.5in;padding-start:0.075in;padding-end:0.075in;}
+.td5{width:2.7in;padding-start:0.075in;padding-end:0.075in;}
+.td6{width:3.75in;padding-start:0.075in;padding-end:0.075in;}
+.r1{keep-together:always;}
+.t1{table-layout:fixed;border-collapse:collapse;border-spacing:0;}
+</style>
+<meta content="Željka Jovović" name="author">
+</head>
+<body class="b1 b2">
+<p class="p1">
+<span>                                                                                           K.br. 1358/12</span>
+</p>
+<p class="p2"></p>
+<p class="p3"></p>
+<p class="p3"></p>
+<p class="p3">
+<span>U IME CRNE GORE</span>
+</p>
+<p class="p1"></p>
+<p class="p1"></p>
+<p class="p4">
+<span>OSNOVNI SUD U PODGORICI, kao prvostepeni krivični, po sudiji Jovović Željki, uz učešće Rajković Danijele, kao zapisničara, u krivičnom predmetu protiv okrivljenog M. Z. iz Podgorice, zbog krivičnog djela šumska krađa iz čl. 324 st.2 u vezi st.1 Krivičnog zakonika, rješavajući po optužnom predlogu ODT-a Podgorica Kt.br. 1366/12 od 06.12.2012. godine, nakon održanog glavnog i javnog pretresa, u prisustvu zastupnika optužbe Protić Jelene i okrivljenog M. Z., dana 04.06.2013. godine donio je i istog dana javno objavio</span>
+</p>
+<p class="p4"></p>
+<p class="p3"></p>
+<p class="p3">
+<span>P R E S U D U</span>
+</p>
+<p class="p3"></p>
+<p class="p5"></p>
+<p class="p5">
+<span>Okrivljeni </span>
+</p>
+<p class="p5"></p>
+<p class="p4">
+<span>M. Z., JMB xxxxxxxxxxxxx, od oca B. i majke S., rođene R., rođen 17.01.19xx. godine u Podgorici, sa prebivalištem u mjestu rođenja ul. CASNO-a br. xx, državljanin Crne Gore, nezaposlen, oženjen, otac petoro djece, završio srednju školu, lošeg imovnog stanja, neosudjivan,</span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span>Na osnovu čl. 373 tač. 2 Zakona o krivičnom postupku</span>
+</p>
+<p class="p5"></p>
+<p class="p3"></p>
+<p class="p3">
+<span>OSLOBAĐA SE OD OPTUŽBE</span>
+</p>
+<p class="p3"></p>
+<p class="p5"></p>
+<p class="p5">
+<span>Kojom je predstavljeno da je :</span>
+</p>
+<p class="p5"></p>
+<p class="p4">
+<span>Dana 04.09.2012. godine u mjestu Zagon Milovića - gazdinska jedinica Vučji potok, Opština Podgorica, u državnoj šumi kojom gazduje Uprava za šume - Područna jedinica Podgorica, svjestan svog djela čije je izvršenje htio, te znajući da je njegovo djelo zabranjeno, radi krađe motornom testerom oborio četiri bukova stabla ukupne drvne mase 5,95 m3 i pripremio ih u tzv. "metrice", u čemu je istog dana u dva navrata i to oko 12,30 i 16,00 časova zatečen od strane čuvara šuma Č. M.,</span>
+</p>
+<p class="p4"></p>
+<p class="p6">
+<span class="s1">-​&nbsp;</span><span>čime bi izvršio krivično djelo šumska krađa iz čl. 324 st.2 u vezi st.1 Krivičnog zakonika.</span>
+</p>
+<p class="p7"></p>
+<p class="p4">
+<span>Oštećena Uprava za šume PJ Podgorica se radi ostvarivanja imovinskopravnog zatjeva upućuje na parnični postupak.</span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span>Nije bilo troškova krivičnog postupka koji bi padali na teret budžetskih sredstava suda.</span>
+</p>
+<p class="p8"></p>
+<p class="p3"></p>
+<p class="p9"></p>
+<p class="p3">
+<span>O b r a z l o ž e nj e </span>
+</p>
+<p class="p3"></p>
+<p class="p4">
+<span>Optužnim predlogom ODT Podgorica Kt.br. 1366/12 od 06.12.2012. godine, stavljeno je na teret okrivljenom M. Z. izvršenje krivičnog djela šumska kradja iz čl. 324 st.2 u vezi st.1 Krivičnog zakonika. Zastupnik optužbe je u završnoj riječi u cjelosti ostao pri podnijetom optužnom predlogu, nalazeći da je provedenim dokazima na nesumnjiv način utvrdjeno da je okrivljeni izvršio krivično djelo stavljenom mu na teret, na način u vrijeme i na mjestu, kako je to predstavljeno dispozitivom optužnog akta, pa je predložio sudu da okrivljenog oglasi krivim i izrekne mu krivičnu sankciju u granicama zakonom propisanim  za to krivično djelo. </span>
+</p>
+<p class="p4">
+<span>Okrivljeni je u svojoj odbrani datoj na zapisniku pred ODT-om Podgorica o saslušanju osumnjičenog od 22.11.2012. godine negirao izvršenje krivičnog djela za koje je prijavljen, navodeći da na katunu Širokar koji je lociran na Komovima posjeduje kolibu u kojoj povremeno boravi tokom ljetnjih mjeseci. Nije tačno da je 04.09.2012. godine vršio bespravnu sječu bukovih stabala u šumi Z. M. kako je to predstavio lugar M. Č.. On je toga dana, ne sjeća se tačno koliko je bilo sati osim da je bilo jutro, došao do njegove kolibe, gdje su obavili razgovor, u smislu da mu je tražio da mu odobri sječu 4-5 kamiona bukovih stabala, pri čemu nije bilo razgovora o konkretnoj šumi u kojoj bi po odobrenju lugara to učinio. Medjutim, lugar je odbio jer je sa njim imao konflikt od ranije, iz razloga što lugar nije htio da mu za predhodne sječe bukove šume izdaje propratnice, već je za uzvrat tražio novčanu nadoknadu koju bi zadržavao za sebe, zbog čega je lugara i prijavljivao policiji dana 07.09. kao i Upravi za šume i Republičkoj šumarskoj inspekciji. Č. je saznao za njegove prijave, pa je i prijava koja je podnesena 20.09.2012. godine protiv njega, po njegovom mišljenju, izraz revolta Č. prema njemu. Činjenica je da je dana 04.09.2012. godine svojim kamionom marke "TAM-magerus" reg. oznaka PG AS xxx, plave boje, oko 12,30 časova pošao na lokaciju Zagon Milovića - Vučji potok koja je od njegove kolibe na katunu Širokar udaljena 2-3 km. U šumi je zatekao sedam kamiona i veći broj ljudi kao i lugara M. Č. medju njima, koji su po njegovom odobrenju sjekli bukove oblice i utovarali u kamione. Pitao je Č. da i njemu odobri sječu 5-6 m bukovih stabala, medjutim on je to odbio uz riječi da je za njega toga dana vrijeme isteklo te da može doći sjutra, prekosjutra ili možda nikad. Bio je izrevoltiran postupkom Č., pa mu je na licu mjesta rekao da će ga prijaviti, nakon čega je upalio svoj kamion i otišao na katun. Ponovio je da nikakvu sječu bez odobrenja M. Č. nije vršio a pogotovo 04.09.2012. godine kako to piše u prijavi. Postupak Č. je rezultat revolta zbog prijave koju je podnio protiv njega 07. septembra 2012. godine. Nakon tog dana, odnosno nakon što ga je prijavio, Šumarksa inspekcija je izvršila više kontrola u intervalu od desetak dana, na reonu koji je pokrivao Č., zbog čega je isti i suspendovan. Na kraju je naveo da je bilo apsolutno nemoguće ubrati čak i jedno drvo bez Č. odobrenja i znanja,  jer je isti konstantno bio na terenu. Na glavnom pretresu je u cjelosti ostao pri odbrani koju je dao u predhodnom postupku i dodao da ima svjedoke da kritičnog dana nije brao drva, već je tražio šumara, i od njega tražio dozvolu da bere drva kao i svi ostali, a ljudi koji su brali drva toga dana mogu potvrditi da nije vršio sječu drva. U završnoj riječi je izjavio, da nije tačno da je predmetnom prilikom izvršio sječu četiri stabla, kako mu je to stavljeno na teret, a što je i dokazao u toku postupka. Porodičan je čovjek i porodica mu je najvažnija, nije uticao na svjedoke kako je to naveo tužilac, niti im je rekao kako će da svjedoče, niti je izvršio krivično djelo kako mu je to stavljeno na teret. Objasnio je da je ranije, kada je zaista posjekao šumu, to i priznao ali je to bilo prije 15 godina. Č. je sve uradio potpuno smišljenjo i to zajedno sa D., jer su oni zajedno uzimali pare, pa su se i dogovorili kako će da svjedoče. Nije logično da je gospodin D. uradio to što je uradio sa prijavom koju je napisao Č., da je istu zamijenio, a onu koja je navodno sačinjena na dva stabla pocijepao, niti je to uradio, niti je to smio da uradi.  Istakao je da zaista nije izvršio krivično djelo, jer da jeste to bi sigurno priznao. </span>
+</p>
+<p class="p4">
+<span>Sud je u dokaznom postupku pročitao službenu zabilješku Uprave za šume PJ Podgorica sa pregledom bespravno posječenih stabala od 04.09.2012. godine, izvještaj UP PJ Podgorica iz kaznene evidencije na ime okrivljenog od 26.12.2012. godine, saslušao predstavnika oštećenog preduzeća  Uprave za šume PJ Podgorica svjedoke Č. M., L. Š., M. S., M. U., M. D., izvršio suočenje svjedoka Č. M. i svjedoka M. U. i suočenje izmedju svjedoka Č. M. i svjedoka M. D., saslušao u svojstvu svjedoka D. V., A. S. i D. H., izvršio uvid u rješenje Višeg suda u Podgorici Kv br.141/13 od 01.04. 2013 godine i izvršio suočenje između svjedoka D. H. i svjedoka D. V..</span>
+</p>
+<p class="p4">
+<span>Ocjenom navoda optužbe, odbrane, kao i svih provedenih dokaza, sud je našao da nema dokaza da je okrivljeni M. Z. izvršio krivično djelo šumska kradja iz čl. 324 st.2 u vezi st.1 Kirivičnog zakonika, pa je istog na osnovu čl. 373 tač. 2 Zakonika o krivičnom postupku oslobodio od optužbe.</span>
+</p>
+<p class="p4">
+<span>Iz službene zabilješke Uprave za šume PJ Podgorica, sa pregledom bespravno posječenih stabala od 04.09.2012. godine, proizilazi da je ista sačinjena navedenog dana od strane čuvara Č. M., u kojoj je konstatovano da je  M. Z. od oca B. i majke S. rodjene R., nastanjen u Kržanji bb MZ Ubli Podgorica, dana 04.09.2012. godine  u 10,30 časova u mjestu Zagon Milovića bespravno posjekao četiri bukova stabla u državnoj šumi  u 13. odjeljenju - gazdinska jedinica "Vučji potok". Sječu je izvršio bez odobrenja Uprave za šume i bez znanja čuvara šuma. Na licu mjesta je zatečen sa svojim vozilom reg. oznake PG AC xxx, sa njim u šumi je bio Š. L. sa svojim vozilom marke "Tam" bez registarskih oznaka. Prečnici bespravno posječenih stabala su 1,75 cm; 2,26 cm; 3,50 cm; 4,46 cm. Prilikom izvršenja ove radnje M. je bespravno posjekao bruto drvne mase 7,00 m3 a neto drvne mase 5,59 m3  bukovog ogrevnog drveta.</span>
+</p>
+<p class="p4">
+<span>Iz izvještaja UP PJ Podgorica iz kaznene evidencije na ime okrivljenog od 26.12.2012. godine, utvrdjeno je da je okrivljeni osudjivan presudom Višeg suda u Podgorici K.br. 137/99 od 26.04.2001. godine za krivično djelo iz čl. 148 u vezi čl. 146 KZ RCG, na kaznu zatvora u trajanju od dvije godine i presudom Osnovnog suda u Podgorici K.br. 99/4053 od 06.05.2002. godine za krivično djelo iz čl. 136 st.2 u vezi st.1 KZ RCG, na kaznu zatvora trajanju od 30 dana. Uvidom u rješenje Višeg suda u Podgorici Kv.br. 141/13 od 01.04.2013. godine utvrdjeno je, da je Viši sud u Podgorici, a po molbi osudjenog M. Z. od 18.03.2013. godine, za brisanje osude izrečene presudom Višeg suda u Podgorici od 18.11.1990. godine, donio rješenje, da se naprijed navedene osude na kazne zatvora imaju brisati  iz kaznene evidencije. </span>
+</p>
+<p class="p4">
+<span>Predstavnik oštećenog preduzeća Uprave za šume PJ Podgorica se u ime oštećenog preduzeća Uprave za šume PJ Podgorica pridružuje krivičnom gonjenju protiv okrivljenog M. Z. i postavlja imovinsko pravni zahtjev u iznosu od 333,20 eura, a koji iznos je Uprava šuma dobila na način što je prethodno izračunata cijena ukupne drvne mase od 5,95 m3, koja je pomnožena sa cijenom od 28,00 eura a shodno Zakonu o šumama.</span>
+</p>
+<p class="p4">
+<span>Svjedok Č. M. je u svom iskazu u prethodnom postupku na zapisniku od 26.11.2012. godine pred ODT Podgorica naveo da je M. Z. lično zatekao u 13 odjeljenju Državne šume - gazdinske jedinice Vučji potok dana 04.09.2012. godine u 12,30 časova. Bio je u društvu još jedne muške osobe koju je predstavio kao svog radnika L. Š. a osim njih dvojice zatekao je dva kamiona i to jedan plave boje marke "Dajc" sa tablicama PG AS xxx dok je drugi kamion bio iste marke ali model za vojne potrebe, dakle zelene boje, bez tablica. Oba kamiona su u vlasništvu M. Z., a što se tiče konkretne sječe, toga dana je posjekao najprije dva bukova nedoznačena stabla na predmetnoj lokaciji i tom prilikom ga je izvrijedjao, psovao, pljuvao, zbog čega je bio prinudjen u prvi mah da napusti lice mjesta. Istog dana kada se vratio, precizinije oko 16 časova, na istoj lokaciji je opet zatekao M. sa radnikom, koji je u medjuvremenu bio oborio još dvije bukve. To je konstatovao u prijavi i naveo da su posječene ukupno četiri bukve u 13. odjeljenju. U oba navrata toga dana zatekao je M. sa motornom testerom "Huskvarnom", kako sječe drva, dok je njegov radnik L. uklanjao grane sa stabala i isječeno drvo primicao kamionima. Inače, M. je oborena bukova stabla testerom sjekao u metrice na koje je udarao žigove sa oznakom "ŠŠ", što znači "Šumska šteta". Nakon što je sa radnikom utovario drva u kamione, prevezao ih  je do katuna Širokar, gdje ima kolibu, u kojoj boravi sa porodicom. Pratio ih je pješice i vidio da M. sa radnikom pretovara drva i to sa kamiona koji nema tablice na drugi, koji je imao registarske oznake, nakon čega je motornom testerom sa metrica koje je prethodno žigosao uklanjao oznaku "ŠŠ" kako bi pokušao da sa drvima prodje policijsku kontrolu, obzirom da nije imao propratnicu za ista, niti je mogao imati. Z. M. je, po njegovoj procjeni, te četiri bukve posjekao iz revolta prema njemu, a što je zaključio po tome što na 50 m od te lokacije postoji jasno doznačena bukova šuma za legalnu sječu gdje je predhodnih dana sjekao drava. Na glavnom pretresu je naveo da su, u trenutku kada je zatekao M. kako sječe šumu u 13. odjeljenju, na licu mjesta bili on i njegov radnik L.. Prethodno je vidio M., ali je to bilo na drugom mjestu. L. ga je tražio i našao ga na 11. odjeljenju, a što je bilo možda prije predmetnog događaja. Objasnio je da je na 11. odjeljenju bio sa nekim ljudima, koji su bili u sječi drva  kojima je bila odobrena sječa, pa je trebao da im odredi lokalitet. Sjeća se da je tu bio i brat okrivljenog S. M., koji nije ulazio u šumu već je bio na vrhu livade, misli da je čekao Z.. Dok je bio na 11. odjeljenju Z. je tražio od njega da mu dozvoli da sječe drva na mjestu gdje sjeku i ostali, pa mu je pokazao mjesto gdje može sjeći, ali Z. nije bio zadovoljan lokacijom, a nije mu mogao kako je kazao dati da sječe na mjestu gdje su sjekli ostali, jer je tu bila već dozvoljena sječa. Šuma na kojoj je M. dozvoljena sječa je bila istog kvaliteta jer je to bio isti reon, ali on nije htio da siječe, već je prosto želio sukob sa njim. Ni ostali koji su brali drva nijesu brali na nedozvoljenoj lokaciji već su brali drva na lokacijama koje im je pokazao. Predhodno je imao konflikt sa M. Z. jer nikada nije bio zadovoljan sa šumom koju mu je dozvolio da sječe. Naveo je da je protiv njega vodjen postupak u Upravi za šume, po prijavi M. Z., zbog čega je kažnjen 30% od plate tri mjeseca. Pojasnio je da je, kada je okrivljeni prvi put oborio dva stabla to rekao i inženjerki A. S. koja je bila na terenu. Nakon što su svjedoku ukazani navodi njegovog iskaza, u kojem je naveo da je, kada je okrivljeni privi put oborio dva stabla to rekao inženjerki A. S. koja je bila na terenu, a u prijavi koja je predata svjedoku A. S. je konstatovana bruto i neto masa oduzetog drveta i navedeno da su posječena četiri bukova stabla, je pojasnio da kada je predao prijavu A. S. se vratio u šumu, zvao D. predhodno sa lica mjesta, i rekao da je predao prijavu na dva stabla a na licu mjesta kada se vratio utvrdio da je M. ubrao još dva stabla, pa je o tome upoznao D. i upozorio ga da kada prijava bude obradjivana da se stave i ta dva stabla. Prijavu je predao kako bi sebi olakšao posao na terenu jer mora da izgubi jedan dan da bi odnio prijave u Upravu šuma, zbog čega je predao prijavu na licu mjesta. Nakon što je svjedoku predočena prijava od 04.09.2012.  godine izjavio je da je prijavu napisao njegov šef D. H.  i da je na istoj napisao njegovo ime nakon što su se čuli telefonom a da je A. predao prijavu na dva stabla.</span>
+</p>
+<p class="p4">
+<span>Svjedok A. S. je u svom svjedočkom iskazu navela da joj nije ništa poznato oko predmetnog dogadjaja od 04.09.2012. godine. Ne zna kada je to bilo, ali se sjeća da je jednom prilikom šumar Č. M. zaustavio vozilo u kome su se nalazile ona i koleginica D. V. i vozač D. Č.. Tom prilkom su se vraćali sa terena Opasanica-Travska gora, s tim da ne zna tačno gdje ih je zaustavio, ali zna da je to bilo na putu od Opasanice ka izlazku iz Vučjeg potoka.  Objasnila je da je inženjer  i da je nadležna za Opasanicu a za Vučji potok su zaduženi kolege D. H. i B. J., tako da ne zna zbog čega je šumar Č. zaustavio nju i koleginicu, obzirom da nijesu nadležne za taj teren. Objasnila je, da je izašla iz vozila kada ih je Č. zaustavio koji joj je pokazao neki papir, a usmeno joj je rekao da ima neku prijavu i da istu dostavi u Upravu u Podgorici. Uzela je papir i sjeća se da je rekla, da je to dobro jer je sa njom koleginica D., koja obradjuje prijave pa će joj dati i tu prijavu kako bi je zavela u Podgorici. Kada je ušla u vozilo papir je predala koleginici D.. Tom prilikom Č. joj nije rekao o kakvoj se prijavi radi niti šta je u pitanju a to je nije ni interesovalo jer to nije bio njen teren, niti je to bilo u opisu njenog posla. Ne sjeća se da li je to bio jedan ili više papira.  Sjeća se da je Č. tada dobio stalan posao, da mu je to čestitala i to je sve što su razgovarali. Koleginici Damjanović je predala papir i sa njom nije ništa razgovarala u vezi toga, a ona je nije pitala o kakvom se papiru radi. Nikada ranije nije vidjela M. Z. niti istog poznaje. Nije tačno da je kritičnom prilikom  iz vozila izlazila D. V.. </span>
+</p>
+<p class="p4">
+<span>Svjedok D. V. je u svom iskazu navela da joj je predmetnom prilikom A., kada se vratila u auto dala neki papir i rekla da joj je to poslao Č., da obradi neku prijavu. Objasnila je da nije bila nadležna za taj teren niti je bila ovlašćena da prima na terenu prijave, ali ih je Č. zaustavio, pa je prihvatila prijavu, nakon čega je u Upravi za šume obradila i procesuirala. Nije joj poznato kada je Č. pisao prijavu. Nakon što joj je od suda predočena prjava je izjavila, da ne zna da li je prijava iz spisa predmeta prijava koja je procesuirana kritičnom prilikom jer procesuiraju hiljade prijava, da bi nakon što je izvršila uvid u kopiju prijave koju posjeduje izjavila da je to prijava koja je procesuirana. Poznato joj je da je protiv Č. vodjen postupak u Upravi za šume  i da je disciplinski kažnjen po prijavi koju je podnio M. Z., ali u tom postupku nije učestvovala, tako da nema saznanja o tome. Sjeća se da je to bilo poslijepodne ne zna tačno vrijeme kada su se vraćali ali obzirom da se vraćaju u popodnevnim časovima sugurno da je to bilo popodne, a moguće je da je to bilo predveče. Na licu mjesta nije pogledala prijavu tako da nije vidjela od kojeg je datuma prijava. Prijava se zavodi u Upravi za šume kada se odradi a istu je obradila 20.09.2012. godine. Procedura je da se prijava obradi u vremenu od 7-10 dana od prijema, ali ukoliko se i propusti taj rok nema nikakvih posljedica, a šumari su u obavezi da prijave dostavljaju u Upravi za šume od 01. do 10. u mjesecu. Ne zna da li je datum kada ih je zaustavio šumar Č. bio 04.09.2012. godine. Ne poznaje okrivljenog M. Z.. Za reon Vučjeg potoka su zaduženi kolege D. H. i B. J. za kontrolu. i isti su morali biti obavješteni od strane šumara o bespravnoj sječi.  Navodi da se ne sjeća da li joj je D. tražio zapisnik koji joj je na terenu dostavila koleginica S., a na taj način ne smije da se radi, niti se zapisnik smije mijenjati niti prepravljati, a posebno to ne smije da se radi  na osnovu telefonskog poziva, tako da kolegi zapisnik ne bi dala, jer je šumar imao mogućnost da napiše još jednu prijavu za ta dva stabla.</span>
+</p>
+<p class="p4">
+<span>Svjedok D. H. je u svom iskazu naveo da ga je, koliko se sjeća dana 04.09.2012. godine, pozvao Č. M. u večernjim časovima, tačnije oko 20 časova, i rekao mu da je toga dana zatekao M. kako siječe šumu, da je sa istim imao sukob, da je došlo do svadje i da su se psovali. Rekao mu je da je napisao prijavu na dva stabla i da je istu proslijedio po koleginici A. S. a da je kasnije utvrdio da je M. posjekao još dva stabla. Dao mu je podatke za ta dva stabla, pa je dodao ta dva stabla u prijavi, odnosno napisao je drugu prijavu, odnosno drugi obrazac u kojem je prepisao ono što je napisao Č. i dodao ta dva stabla koje je u obrascu i iskubicirao, na osnovu prečnika koji mu je saopštio Č.. Misli da ga je iste noći, ali to nije mogao da potvrdi, zvao M. i rekao mu da šumar na terenu postupa nezakonito, da se nezakonito sjeku drva i pitao ga zašto ne dolaze da vide šta se radi u šumi. M. je 07.septembra i zvanično podnio zahtjev odnosno prijavu protiv Č. za nezakonito postupanje na terenu gdje ima mnogo bespravnih sječa, pa su 10. septembra ispred Uprave za šume izašli na teren on, inženjer J. i Republički inspektor za šumarstvo, kada su prilikom obilaska reona zatekli M. koji ih je čekao kući, koji im je tada potvrdio da se radi nezakonito, da je ubrao jedno stablo da više nije brao a na terenu su utvrdili da ima bespravnih sječa, pa su zbog takvog postupanja protiv Č. pokrenuli disciplinski postupak zbog čega je tri mjeseca bio suspendovan. Objasnio je da je prijavu na dva stabla uzeo 05. 09. od koleginice A. i V. i istog dana popunio drugu prijavu na četiri stabla i predao je V. D. kako bi je obradila i proslijedila je tužilaštvu. Kada je uzeo prijavu i nakon što je zaveo novu prijavu o tome nije obavijestio koleginice, a novu prijavu na četiri stabla je predao koleginici V.. Staru prijavu je vjerovatno uništio, jer ista nije bila potrebna. Prijavu je dao koleginici V. koja je prijavu obradila, zavela kod sekretarice a zatim procesuirala postupak. Objasnio je da nije praksa da on kao tehničar prepisuje prijave niti potpisuje šumara a u konkretnom slučaju se desilo tako kako se desilo, jer mu je Č. prijavio da je  kasnije zatekao  još dva posječena stabla, a nakon što je predao predhodnu prijavu. Nakon što mu je od strane suda predočena prijava Uprave za šume od 04.09.2012. godine je izjavio da je to prijava koju je on napisao. Tačno je, da mu je M. telefonom kazao da mu šumar ne dozvoljava da sječe šumu a dozvoljava svim drugima i da dođe u šumu da vidi šta se radi. Prijava je procesuirana 20.09.2012. godine, to je bio posao koleginice D. koja je vjerovatno imala više posla pa je prijavu procesuirala tek tada. U zadnjih pet godina M. nikada nije ulazio u šumu nedozvoljeno, niti mu je napisana prijava, niti je zatečen u vršenju nezakonitih radnji u šumi. Naveo je da je zadužen za reon privatnih šuma ali s obzirom da su ugrožene šume postupao je i na drugim reonima. </span>
+</p>
+<p class="p4">
+<span>Svjedok L. Š. je u svom iskazu naveo da je dana 04.09.2012. godine radio kod okrivljenog. Inače kod okrivljenog za dnevnicu utovara drva na kamion i predmetnom prilikom je sa Z. došao da bere drva, došli su Z. kamionom marke "Tam" sa namjerom da beru drva u Zagonu Milovića, što im je šumar Č. dan prije toga dozvolio, a nakon što ga je Z. zvao telefonom. Kada su došli na lice mjesta bilo je još lica koji su brali drva, ali je njima Č. rekao da ne mogu brati drva, pitali su ga zbog čega kada im je to obećao ali im on nije dozvolio, i tada ga je udario šumarskom torbom u predjelu grudi, i to samo zbog toga što ga je pitao zašto svi mogu da beru a Z. ne. Kako im Č. nije dozvolio da beru drva, kamionom su se vratili u Z. katun i toga dana nijesu više išli u drva. Objasnio je da su on i Z. došli jednim vozilom i da nije tačno da su došli sa dva vozila. Predmetnom prilikom su imali motornu šegu i to "Huzvarna", koja je bila Z.. </span>
+</p>
+<p class="p4">
+<span>Svjedok M. S. je u svom iskazu naveo da je predmetnom prilikom brao drava u Zagonu Milovića, gdje je došao pozajmljenim vozilom "Tam" od 2 kubika. Brao je drva, kada je došao njegov brat Z. sa svojim  kamionom marke "Tam". Bio je udaljen 2 m od lugara Č. kada je čuo da je Z. pitao da siječe drva, što mu Č. nije dozvolio, pa je došlo do vrijedjanja, zbog čega je stao izmedju njih dvojice da ne bi došlo do incidenta. Na licu mjesta bilo je više ljudi koji su brali drva, bilo je još deset kamiona. Obzirom da Č. nije dozvolio Z. da bere drva Z. je pošao svojoj kući, a on je zamolio Č., da mu ne piše prijavu, što je Čađanović odbio i rekao da će mu napisati prijavu. Toga dana se zadržao u šumi 5 - 6 sati. U šumu je došao nešto oko 10-11 sati,  s tim da nije mogao da se sjeti u koje vrijeme  se to desilo izmedju Zdravka i šumara, to je bilo kasnije oko 3 ili 4 sata,  s tim da misli da to nije moglo biti prije 2-3 sata. Nakon konfilikta sa Č., Z. se više nije vraćao. Predmetnom prilikom vidio je L. Š. i on je bio sa njim. Toga dana je platio Š. dnevnicu i  on mu je pomagao da utovare drva, Z. nije pomagao jer šumar nije dao da on bere drva. Na kraju je izjavio, da je Z. sa njim pošao u Podgoricu i da je htio da prijavi Č. zbog toga što mu nije dao da bere drava i zbog njegovih nezakonitih radnji, pa je Z. molio da ga ne pijavljuje, a predhodno je molio i Č. a onda i Z. da se ne prijavljuju, a Č. je i njemu pisao prijavu za nešto što nije radio, kao i nekim drugim ljudima. </span>
+</p>
+<p class="p4">
+<span>Svjedok M. U. je u svom svjedočkom iskazu naveo, da se ne sjeća koji je bio dan, kada je bio u Zagonu Milovića, kada je došlo do sukoba šumara Č. i M. Z.. Toga dana je više lica sjeklo šumu u Zagonu Milovića, u šumi je bio i šumar Č., kada je došao M. Z. i pitao šumara da mu dozvoli da sječe šumu kao i ostalima, na šta mu je Č. odgovorio da ne može. M. je insistirao da bere drva i pitao Č. zbog čega mogu drugi a on ne, našta mu je Č. odgovorio, oni špijaju a ti ne. Vidio je da je tada došlo do ružnih riječi izmedju njih dvojice. M. je tada došao svojim vozilom "Tam" a na licu je bio L. i M.Z. a bilo je još ljudi. Čuo je da je Č. rekao M. "ajde udari me" i unio mu se u facu, ali M. ga nije udario. Sve je počelo oko 10 sati ujutru, Z. je bio u šumi do 13 sati, a on je pošao sa lica mjesta oko 14 časova. Ne zna koje je odjeljenje bilo gdje se desio predmetni dogadjaj, zna da se zove Vučji potok ispod Zagona Milovića. Vidio je da je Z. došao kamionom koji je ostavio na brijeg malo poviše šume, na nekih 50m od njih.  Nije obratio pažnju na to da li se Z. spuštao kamionom u šumu, ali zna da je otišao prazan nakon 14 časova a nakon toga se nije vraćao u šumu. Tačno je da je M. kada je krenuo upalio sirenu, a to radi svaki dan kada radi u šumu. Z. nikada nije vidio u šumi sa kamionom zelene boje bez tablica. Zna da Z. ima "dajca"  sa kojim je bio u šumi i sa kojim stalno svira kada ulazi u šumu. Na kraju je izjavio da nije čuo niti vidio da je M. sjekao drva, a kamion je sigurno bio prazan kada je Z. otišao  i to tvrdi moralno i materijalno, a Z. nije mogao provesti drva  da on to nije vidio, jer je morao vidjeti kamion.</span>
+</p>
+<p class="p4">
+<span>Prilikom suočenja između svjedoka Č. M. i svjedoka M. U., okrenuti licem u lice, svjedok Č. M. je izjavio da je toga dana M. sa dva kamiona potjerao drva a svjedok M. U. gledajući u oči Č. odgovorio da je siguran da toga dana nije iznosio drva i siguran je da je toga dana otišao prazan oko 14 ili 15 časova odprilike i vidio je kada je otišao a da li je nekog drugog dana brao drva to mu nije poznato. Svjedok Č. je potvrdio da je njegov iskaz tačan a svjedok M. U. je izjavio da M. toga dana nije ponio ni palice, već je molio i kumio čitav dan, što mu Č. nije dozvolio da bere drva, zbog čega je došlo i do psovke, nakon čega je M. pošao a Č. ostao. </span>
+</p>
+<p class="p4">
+<span>Svjedok M. D. je je u svom iskazu naveo da je siguran, da predmetnom prilikom okrivljeni M. Z. nije izvršio krivično djelo koje mu je stavljeno na teret, u što je siguran jer je bio na terenu i Z. sigurno toga dana nije brao drva. Objasnio je da je toga dana bio u mjestu Zagon i vidio kada je Z. došao i zamolio šumara da mu dozvoli da bere drva, što šumar nije dozvolio. Z. je došao jednim kamionom plave boje, misli da je došao sam, a zadržao se možda sat dva i molio šumara da bere drva. Nije vodio računa o tome koje je bilo vrijeme, misli da je bilo oko podne i vidio je kada je otišao kamionom i suguran je da je kamion bio prazan. Toga dana nije vidio vojnički kamion bez tablica. Toga dana na licu mjesta je ostao do kasno, negdje do mraka, a Z. se nakon što je otišao nije više vraćao na teren. Objasnio je da zna koliki je Zagon Milovića obzirom da tu živi njegova familija i on nije nešto veliki, a ima samo jedan put, što znači da ne može niko da dodje sa vozilom neprimijećen i na tom Zagonu nema nekih odjeljenja. Postoji samo jedan put kojim se može proći vozilom i siguran je da Zdravko toga dana nije utovario ni jednu palicu drveta. Nije siguran u to da li je Š. došao sa okrivljenim, a zna da je toga dana radio sa nekim drugim za dnevnicu.</span>
+</p>
+<p class="p4">
+<span>Prilikom suočenja izmedju Č. M. i svjedoka M. D., okrenuti licem u lice svjedok Č. M., je gledajući u oči svjedoka M. D. izjavio i istog pitao da li je toga dana Z. rekao da može da bere drva koja su suva na mjestu gdje i svi vi na šta mu je M. odgovorio da nije, i da to nije tačno, i da mu je rekao da ne može da bere drva i da su to svi čuli, nakon čega je Č. izjavio da kada je on pošao u šumu, M. je bio sa dva kamiona na kojima je bio utovario bukova drva,  a M. da to nije tačno da Z. toga dana nije utovario ni jedno jedino drvo da je siguran da je Z. toga dana došao samo sa jednim kamionom i sa njim nije ulazio u šumu. Na pitanje Č. da li bi obzirom na poziciju gdje se nalazio mogao da vidi kamion M., M. je izjavio da je svo vrijeme vidio kamion dok nije pošao i da nije mogao poći da ga ne vidi jer postoji samo jedan put.</span>
+</p>
+<p class="p4">
+<span>Sud je na glavnom pretresu održanom dana 04.06.2013. godine izvršio suočenje izmedju svjedoka D. H. i svjedoka D. V., kada je svjedok D. V., nakon što joj se svjedok D. H. obratio i rekao joj da je od nje tražio zapisnik u kome su bila napisana dva stabla, a nakon toga joj donio novi na kome je bilo upisano da su posječena četiri stabla, svjedok D. V. gledajući u oči svjedoka D. H. izjavila da se toga ne sjeća. </span>
+</p>
+<p class="p4">
+<span>Savjesnom i brižljivom ocjenom dokaznog materijala, svakog dokaza posebno i svih u cjelini, kao i na osnovu rezultata cjelokupnog postupka, uz savjesnu provjeru odbrane okrivljenog, sud je na nesumnjiv način utvrdio, da nema dokaza da je okrivljeni M. Z. izvršio krivično djelo stavljenom mu na teret. </span>
+</p>
+<p class="p4">
+<span>Naime, okrivljeni negira izvršenje krivičnog djela stavljenog mu na teret i brani se, da nije tačno da je dana 04.09.2012. godine vršio bespravnu sječu bukovih stabala u šumi Zagon Milovića, kako je to predstavio šumar M. Č.. Navedenog dana je svojim kamionom marke "Tam"-Magerus, reg. oznaka PG ASxxx plave boje pošao na lokaciju Zagon Milovića-Vučji potok koja je od njegove kolibe na katunu Širokar udaljena 2-3 km, gdje je zatekao sedam kamiona i veći broj ljudi i lugara Č. M. koji su po njegovom odobrenju sjekli bukove oblice i utovarali u kamione.  Pitao je Č. da i njemu odbori sječu 5-6 m bukovih stabala, medjutim on je to odbio, uz riječi da je za njega toga dana vrijeme isteklo da može doći sjutra, prekosjutra ili možda nikad. Bio je izrevoltiran postupkom Č. pa mu je kazao da će ga prijaviti  nakon čega je upalio svoj kamion i otišao na katun. Nikakvu sjeću bez odobrenja M. Č. nije vršio, a pogotovo ne 04.09.2012. godine kako je to navedeno u prijavi. Bilo je apsolutno nemoguće ubrati čak i jedno drvo bez njegovog odobrenja i znanja obzirom da je Č.  bio konstantno na terenu i nije logično da je gospodin D. uradio to što je uradio sa prijavom koju je napisao Č., da je istu zamijenio, a onu koja je navodno sačinjena na dva stabla pocijepao, niti je to uradio niti je to smio  da uradi. Ovakva odbrana okrivljenog, nije opovrgnuta niti jednim provedenim dokazom na glavnom pretresu, naime, potvrdjena je prije svega iskazima svjedoka M. U. i M. D., koji su predmetnom prilikom bili na licu mjesta i koji su, u svojim svjedočkim iskazima na vrlo jasan i precizan način objasnili, šta se predmetnom prilikom dešavalo na licu mjesta od momenta kada je okrivljeni M. došao do trenutka kada je otišao sa lica mjesta, pri čemu je svjedok M. U. izjavio da je toga dana više lica sjeklo šumu u Zagonu Milovića, da je u šumi bio i šumar Č. kada je došao okrivljeni koji je pitao šumara da mu dozvoli da sječe šumu kao i ostalima, na što mu je Č. odgovorio da ne može, da bi na pitanje M. zbog čega mogu drugi da beru a on ne, rekao da "oni špijaju a ti ne". Ovaj svjedok je izjavio da je vidio, da je Zdravko na lice mjesta došao svojim kamionom "Tam", koji je ostavio na brijegu malo poviše šume, na nekih 50 m od njih. Siguran je da je Z. toga dana, otišao kući prazan, nakon 14:00 časova i da se nakon toga nije vraćao u šumu. Toga dana nije čuo niti vidio da je Z. sjekao drva, kamion je bio sigurno prazan kada je otišao i nije mogao provesti drva a da to on ne vidi, dok je svjedok M. D. potvrdio, da je Z. došao na lice mjesta jednim kamionom plave boje da je molio šumara da bere drva, da nije vidio vojnički kamion bez tablica i da je siguran da Z. toga dana nije utovario ni jednu palicu drveta, u što je siguran obzirom da zna koliki je Zagon Milovića i da postoji samo jedan put kojim se može proći vozilom. U iskaze ovih svjedoka, sud nije imao razloga da sumnja obzirom na činjenicu, da su ovi svjedoci ostali dosljedni u svemu što su naveli u svojim svjedočkim iskazima i prilikom suočenja sa šumarom Č. M., kada su potvrdili i to M. D., a na pitanje Č., da li je toga dana Z. rekao da može da bere drva koja su suva na mjestu gdje i svi, da to nije tačno i da mu je rekao da ne može da bere drva, što su svi čuli, zatim, da je Z. toga dana došao samo sa jednim kamionom, a ne sa dva kamiona kako je to kazao Č. na kojima su bila utovarena bukova drva, a što je obzirom na poziciju gdje se nalazio mogao dobro da vidi, a svjedok M. U., da M. toga dana nije ponio ni palice, već je molio i kumio čitav dan što mu Č. nije dozvolio da bere drva, zbog čega je došlo i do psovki, a što je izjavio, gledajući u oči Č., a na tvrdnju istog da je M.  sa dva kamiona toga dana potjerao drva. </span>
+</p>
+<p class="p4">
+<span>Ovakovom utvrdjenju od strane suda doprinose i iskazi svjedoka L.Š. koji je predmetnom prilikom sa okrivljenim došao na lice mjesta i to sa kamionom marke "Tam", sa namjerom da beru drva u Zagonu Milovića što im šumar nije dozvolio, iako im je dan prije toga rekao da mogu zbog čega je došlo do konflikta izmedju njih dvojice, i iskazom svjedoka M. S.  koji je potvrdio da je čuo, kada je okrivljeni pitao Č. da sječe drva što mu Č. nije dozvolio, da je došlo do vrijeđanja izmedju njih dvojice, nakon čega je okrivljeni otišao kući i da je šumi bio L. Š., koji mu je pomagao da bere drva, da mu je platio dnevnicu s tim da okrivljenom nije pomagao jer mu Č. nije dao da bere drva.</span>
+</p>
+<p class="p4">
+<span>Sud je cijenio iskaz svjedoka Č. M., a po čijoj prijavi je i pokrenut postupak protiv okrivljenog M. Z. pa sud isti nije prihvatio iz sledećih razloga: naime, ovaj svjedok je u svom iskazu u prethodnom postupku naveo, da je lično dana 04.09.2012. godine okrivljenog zatekao u 13. odjeljenju  državne šume - gazdinske jedinice Vučji potok, da je  toga dana posjekao najprije dva bukova nedoznačena stabla na predmetnoj lokaciji, da bi  istog dana  kada se vratio na lice mjesta oko 16:00 časova zatekao okrivljenog sa radnikom koji je oborio još dvije bukve, što je konstatovao u prijavi gdje je naveo da su posječene ukupno četiri bukve u 13-om odjeljenju i da je zatekao okrivljenog da sa motornom testerom "Huskvarnom" sječe drva, dok je njegov radnik L. uklanjao grane sa stabala i sječeno drvo primicao kamionima,  a koji je testerom sjekao u metrice, na koje je udarao žigove sa oznakom "ŠŠ",  da bi ih nakon što su drva utovarili u kamione pratio pješice i vidio da okrivljeni zajedno sa radnikom L. pretovara drva i to sa kamiona koji nema tablice na drugi koji je imao registarske oznake, nakon čega je motornom testerom uklanjao oznaku "ŠŠ" kako bi po njegovoj procjeni na taj način prošao policijsku kontrolu, dodaući na glavnom pretresu da je, kada je okrivljeni prvi put oborio dva stabla to rekao inženjerki A. S. koja je bila na terenu, a što su negirali svjedoci M. U. i M. D., i to kako svojim svjedočkim iskazima tako i prilikom svjedočenja sa Č. M., kako je to sud predhodno detaljno obrazložio, dok je svjedok L. Š. potvrdio da je tačno da je dana 04.09.2012. godine, na lice mjesta došao sa okrivljenim, ali da je nakon odlaska okrivljenog sa lica mjesta, on ostao na licu mjesta i radio za drugog odnosno M. S. koji je potvrdio, da je Š. toga dana dao dnevnicu i da mu je on pomagao da utovare drva. Takođe, saslušana u svojstvu svjedoka S. A., ne potvrđuje da joj Č. rekao da je okrivljeni oborio dva stabla, kako to navodi svjedok Č., već navodi da joj tom prilikom nije rekao o kakvoj se prijavi radi niti šta je u pitanju, da se ne sjeća da li je bio jedan  ili više papira, osim što joj je usmeno rekao da ima neku prijavu i da istu dostavi u Upravu u Podgorici, koji je ona uzela i isti predala koleginici D. V. sa kojom ništa nije razgovarala u vezi toga, a svjedok D. V. u svom iskazu navodi da nije bila ovlašćena da prima na terenu prijave ali je, obzirom da ih je Č. zaustavio negdje na putu od Opasanice ka izlasku iz Vučjeg potoka taj dan prihvatila, ne potvrđujući da se radi upravo o prijavi na ime okrivljenog. Svjedok D. V. dalje navodi da se ne sjeća da joj je D. H. tražio zapisnik koji joj je na terenu dostavila koleginica S., što je potvrdila i prilikom suočenja sa svjedokom D. H., kada je kazala da se ne sjeća  da je D. od nje tražio zapisnik u kome su bila napisana dva stabla, a nakon toga donio novi na kojem je bilo upisano da su posječena četiri stabla, a koja je kazala da se zapisnik ne smije mijenjati niti prepravljati a posebno to ne smije da se radi na osnovu telefonskog poziva, tako da sve i da je D. tražio zapisnik isti mu ne bi dala jer je Č. imao mogućnost da napiše još jednu prijavu na dva stabla, a ovo obzirom na to da je svjedok D. H. rekao da je prijavu na dva stabla uzeo 05.09.2012. godine od koleginice A. i V. i istog dana popunio drugu prijavu na četiri stabla i predao V. D. kako bi je obradila i proslijedila tužilaštvu, da nakon što je zaveo novu prijavu o tome nije obavijestio koleginice a staru je vjerovatno uništio, jer ista nije bila potrebna. Dakle, imajući u vidu naprijed navedeno sud je našao da nema dokaza da je okrivljeni M. Z. dana 04.09.2012. godine u mjestu Zagon Milovića - gazdinska jedinica Vučji potok, Opština Podgorica, u državnoj šumi kojom gazduje Uprava za šume - Područna jedinica Podgorica, svjestan svog djela čije je izvršenje htio, te znajući da je njegovo djelo zabranjeno, radi krađe motornom testerom oborio četiri bukova stabla ukupne drvne mase 5,95 m3 i pripremio ih u tzv. "metrice", u čemu je istog dana u dva navrata i to oko 12,30 i 16,00 časova zatečen od strane čuvara šuma Č. M..</span>
+</p>
+<p class="p4">
+<span>Naime, da se predmetnom prilikom okrivljeni ponašao na način kako je to pokušao da predstavi svjedok Č. M., isti ne bi imao razloga da piše najprije jednu prijavu na dva stabla  a zatim da nakon što je navodno zatekao okrivljenog da je oko 16,00 časova posjekao još dva stabla, zove telefonom svjedoka D. H. koji je napisao novu na četiri stabla, predhodnu uništio i potpisao Č., a kojeg je po rasporedu poslova u Upravi za šume trebao da obavijesti o tome da je došlo do bespravne sječe u Zagonu Milovića i ništa više, a ovo obzirom da šumari  imaju obavezu da prijave predaju do desetog u mjesecu, da je do konflikta sa okrivljenim došlo dana 04.09.2013 godine a od kojeg je datuma prijava, što znači da je Č. imao dovoljno vremena da to sam uradi i ponese u Upravu za šume bez obzira na to što kako je kazao izgubi čitav dan dok pođe i vrati se, a što je uradio isključivo kako bi sebi olakšao posao. </span>
+</p>
+<p class="p4">
+<span>Za ukazati je i na činjenicu da je okrivljeni istog dana zvao D. H., koga je obavijestio o tome da šumar Č. na terenu postupa nezakonito da se nezakonito sjeku drva zbog čega je 07.09.2012. godine podnio prijavu protiv Č. za nezakonito postupanje, po kojoj je postupljeno i Č. sankcionisan, a prijava koju je napisao Č. procesuirana je  tek 20.09.2013.godine iako je rok za obradu a za što je svjedok D. V. dala objašnjenje od 7-10 dana, što upućuje na zaključak da je lugar Č. bio motivisan da ovako postupa i da okrivi M. Z., te da je ovakva njegova djelatnost rezultat predhodnog podnočenja prijave protiv njega od strane okrivljenog, po kojoj prijavi je, nakon sprovedenog postupka i sankcionisan.</span>
+</p>
+<p class="p4">
+<span>Kod svega navedenog, sud nalazi da u postupku nije na nesumnjivih način dokazano da je okrivljeni izvršio krivično djelo stavljeno mu na teret, pa je u sumnji primijenio odredbu čl.3 st.3 Zakonika o krivičnom postupku, rješavajući ovu krivično - pravnu stvar na način koji je povoljniji za okrivljenog, te je istog shodno čl. 373 tač.2 Zakoniku o krivičnom postupku okrivljenog oslobodio od optužbe. </span>
+</p>
+<p class="p10">
+<span>U prilog prednjeg zaključka suda je i pretpostavka nevinosti, formulisana u članu 6 stav 2 EKLJP, pri čemu, i ako nakon cjelokupnog dokaznog postupka koji je zakonito sproveden, preostane samo sumnja u prilog postojanja krivice, mora se primijeniti rezonovanje po pravilu in dubio pro reo, tj. tada će se smatrati da pretpostavka nevinosti nije oborena.</span>
+</p>
+<p class="p4">
+<span>Shodno čl. 239 Krivičnog zakonika oštećena Uprava za šume je radi ostvarivanja imovinsko pravnog zahtjeva upućena na parnični postupak.</span>
+</p>
+<p class="p4">
+<span>Nije bilo troškova krivičnog postupka koji bi padali na teret budžetskih sredstava suda.</span>
+</p>
+<p class="p10">
+<span>Sa izloženog, u smislu citiranih zakonskih odredbi, odlučeno je kao u izreci presude. </span>
+</p>
+<p class="p11"></p>
+<p class="p3">
+<span>OSNOVNI SUD U PODGORICI</span>
+</p>
+<p class="p3">
+<span>dana 04.06.2013. godine</span>
+</p>
+<p class="p12"></p>
+<table class="t1">
+<tbody>
+<tr class="r1">
+<td class="td1" colspan="2">
+<p class="p12">
+<span>                    ZAPISNIČAR:</span>
+</p>
+</td><td class="td2" colspan="2">
+<p class="p13">
+<span>S U D I J A:</span>
+</p>
+</td>
+</tr>
+<tr class="r1">
+<td class="td1" colspan="2">
+<p class="p13">
+<span>Danijela Rajković,s.r.</span>
+</p>
+<p class="p12"></p>
+</td><td class="td2" colspan="2">
+<p class="p13">
+<span>    Željka Jovović,s.r.</span>
+</p>
+<p class="p12"></p>
+</td>
+</tr>
+<tr class="r1">
+<td class="td3">
+<p class="p14">
+<span>PRAVNA POUKA:</span>
+</p>
+</td><td class="td4" colspan="2">
+<p class="p9">
+<span>Protiv ove presude dozvoljena je žalba u roku od 8 dana od dana prijema pismenog otpravka iste, preko ovog suda, Višem sudu u Podgorici. </span>
+</p>
+<p class="p15"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p13">
+<span>ZTO Danijela Rajković</span>
+</p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<table class="t1">
+<tbody>
+<tr class="r1">
+<td class="td5">
+<p class="p12">
+<span>                   ZAPISNIČAR:</span>
+</p>
+</td><td class="td6">
+<p class="p13">
+<span>S U D I J A:</span>
+</p>
+</td>
+</tr>
+<tr class="r1">
+<td class="td5">
+<p class="p13">
+<span>Danijela Rajković</span>
+</p>
+<p class="p12"></p>
+</td><td class="td6">
+<p class="p13">
+<span>Željka Jovović</span>
+</p>
+<p class="p12"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p12">
+<span>           DN-a: Po primjerak presude dostaviti:</span>
+</p>
+<p class="p12">
+<span>	- ODT Podgorica,</span>
+</p>
+<p class="p12">
+<span>                 - Okrivljenom,  </span>
+</p>
+<p class="p12">
+<span>                - Oštećenom, </span>
+</p>
+<p class="p12">
+<span>                 - A/a.</span>
+</p>
+<p class="p12">
+<span>	Postupljeno dana ______________</span>
+</p>
+<p class="p12">
+<span>	Radnik suda __________________</span>
+</p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p13"></p>
+<p class="p7"></p>
+<p class="p17"></p>
+<p class="p17"></p>
+
+
+</body>

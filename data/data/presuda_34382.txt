@@ -1,0 +1,427 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.b2{margin: 1.0in 1.25in 1.0in 1.25in;}
+.p1{text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.p2{text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p3{text-align:center;hyphenate:auto;font-family:Rockwell Extra Bold;font-size:18pt;}
+.p4{text-align:start;hyphenate:auto;font-family:Rockwell Extra Bold;font-size:18pt;}
+.p5{text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p6{text-indent:-2.5in;margin-left:3.5in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p7{margin-right:-4.1583333in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p8{text-indent:0.5in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p9{text-indent:0.5in;text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p10{text-indent:0.5in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p11{text-indent:0.5in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p12{text-indent:0.5in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p13{text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p14{margin-right:-0.125in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p15{text-align:center;hyphenate:auto;font-family:Franklin Gothic Medium;font-size:14pt;}
+.p16{text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p17{text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p18{text-indent:0.5in;margin-left:0.5in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p19{margin-left:2.0in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.td1{width:0.9916667in;padding-start:0.075in;padding-end:0.075in;border-bottom:thin solid black;}
+.td2{width:3.601389in;padding-start:0.075in;padding-end:0.075in;}
+.td3{width:1.0451388in;padding-start:0.075in;padding-end:0.075in;border-bottom:thin solid black;}
+.td4{width:0.425in;padding-start:0.075in;padding-end:0.075in;}
+.td5{width:0.34444445in;padding-start:0.075in;padding-end:0.075in;border-bottom:thin solid black;}
+.td6{width:0.7340278in;padding-start:0.075in;padding-end:0.075in;}
+.td7{width:2.4201388in;padding-start:0.075in;padding-end:0.075in;border-bottom:thin solid black;}
+.td8{width:2.4201388in;padding-start:0.075in;padding-end:0.075in;border-bottom:thin solid black;border-top:thin solid black;}
+.td9{width:2.825in;padding-start:0.075in;padding-end:0.075in;border-bottom:thin solid black;}
+.td10{width:2.4284723in;padding-start:0.075in;padding-end:0.075in;border-bottom:thin solid black;border-top:thin solid black;}
+.td11{width:2.825in;padding-start:0.075in;padding-end:0.075in;border-bottom:thin solid black;border-top:thin solid black;}
+.td12{width:2.4118056in;padding-start:0.075in;padding-end:0.075in;border-bottom:thin solid black;}
+.td13{width:2.4118056in;padding-start:0.075in;padding-end:0.075in;border-bottom:thin solid black;border-top:thin solid black;}
+.td14{width:1.7416667in;padding-start:0.075in;padding-end:0.075in;border-bottom:thin solid black;}
+.td15{width:1.4916667in;padding-start:0.075in;padding-end:0.075in;border-bottom:thin solid black;}
+.r1{height:0.17986111in;keep-together:always;}
+.r2{keep-together:always;}
+.r3{height:0.25in;keep-together:always;}
+.t1{table-layout:fixed;border-collapse:collapse;border-spacing:0;}
+.s1{font-weight:bold;}
+.s2{font-weight:bold;font-style:italic;}
+.s3{font-style:italic;}
+</style>
+<meta content="marija.cupic" name="author">
+</head>
+<body class="b1 b2">
+<p class="p1">
+<span>                  </span>
+</p>
+<p class="p1"></p>
+<table class="t1">
+<tbody>
+<tr class="r1">
+<td class="td1">
+<p class="p2">
+<span>Posl.br.K. 46 /12</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p1"></p>
+<p class="p3">
+<span class="s1">Z A P I S N I K   O   G L A V N O M  P R E T R E S U</span>
+</p>
+<p class="p4"></p>
+<table class="t1">
+<tbody>
+<tr class="r2">
+<td class="td2">
+<p class="p5">
+<span>Održanom pred Osnovnim sudom u Cetinju na dan</span>
+</p>
+</td><td class="td3">
+<p class="p2">
+<span>      09.05</span>
+</p>
+</td><td class="td4">
+<p class="p5">
+<span>20</span>
+</p>
+</td><td class="td5">
+<p class="p5">
+<span>12</span>
+</p>
+</td><td class="td6">
+<p class="p5">
+<span>godine</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p6">
+<span>		                                                   Stranke branioci i zastupnici </span>
+</p>
+<p class="p2"></p>
+<p class="p2">
+<span>			</span>
+</p>
+<table class="t1">
+<tbody>
+<tr class="r2">
+<td class="td7">
+<p class="p2">
+<span>zamjenik ODT-a u Cetinju</span>
+</p>
+</td>
+</tr>
+<tr class="r2">
+<td class="td8">
+<p class="p2">
+<span>P. K.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p2">
+<span>               Sudija pojedinac		     Tužilac:</span>
+</p>
+<table class="t1">
+<tbody>
+<tr class="r2">
+<td class="td9">
+<p class="p5">
+<span class="s2">Marija Ćupić</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p2">
+<span>  							</span>
+</p>
+<table class="t1">
+<tbody>
+<tr class="r2">
+<td class="td10">
+<p class="p2">
+<span>lično</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p2">
+<span>Članovi vijeća</span><span class="s1"> – </span><span>sudije porotnici	        Opt.    </span>
+</p>
+<p class="p2">
+<span>				        </span>
+</p>
+<table class="t1">
+<tbody>
+<tr class="r2">
+<td class="td9">
+<p class="p2"></p>
+</td>
+</tr>
+<tr class="r2">
+<td class="td11">
+<p class="p7"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p1"></p>
+<table class="t1">
+<tbody>
+<tr class="r2">
+<td class="td12">
+<p class="p2"></p>
+</td>
+</tr>
+<tr class="r2">
+<td class="td13">
+<p class="p2"></p>
+</td>
+</tr>
+<tr class="r2">
+<td class="td13">
+<p class="p2"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p2">
+<span>                                                                       Branilac:</span>
+</p>
+<p class="p2">
+<span class="s1">                  </span><span>Zapisničar</span>
+</p>
+<table class="t1">
+<tbody>
+<tr class="r2">
+<td class="td9">
+<p class="p2">
+<span>           </span><span class="s2">Olga Lipovina</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p2"></p>
+<p class="p2">
+<span>                                                                       Oštećeni:</span>
+</p>
+<table class="t1">
+<tbody>
+<tr class="r2">
+<td class="td14">
+<p class="p2">
+<span>niko</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p2"></p>
+<table class="t1">
+<tbody>
+<tr class="r3">
+<td class="td15">
+<p class="p2">
+<span class="s1">239.st.1.</span>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p2">
+<span>Predmet pretresanja krivično djelo iz čl. KZ-a </span>
+</p>
+<p class="p2"></p>
+<p class="p8">
+<span>Predsjednik vijeća - sudija otvara zasijedanje, objavljuje predmet glavnog pretresa i utvrđuje da su došla sva lica osim:</span>
+</p>
+<p class="p8">
+<span>Glavni pretres je javan.</span>
+</p>
+<p class="p8">
+<span>Sud odlučuje da se pretres održi u odsustvu nedošavših lica – da se o potrebi saslušanja nedošavših lica docnije odluči.</span>
+</p>
+<p class="p8">
+<span>Predsjednik vijeća - sudija poziva optuženog i od njega uzima lične podatke. </span>
+</p>
+<p class="p8"></p>
+<p class="p9">
+<span class="s3">Pretres počinje u  10,00 časova</span><span class="s2">.</span>
+</p>
+<p class="p10">
+<span>Konstatuje se da su na današnji pretres pristupili zamjenik ODT-a u Cetinju, P. K. okr.R. I. ošt. R. V. dok na pretres nijesu pristupili svjedoci M. B. i M. S. za koje nema dokaza o urednoj dostavi poziva .</span>
+</p>
+<p class="p10"></p>
+<p class="p10">
+<span class="s2">Sud donosi</span>
+</p>
+<p class="p10"></p>
+<p class="p11">
+<span class="s1">R J E Š E NJ E</span>
+</p>
+<p class="p11"></p>
+<p class="p11"></p>
+<p class="p10"></p>
+<p class="p12">
+<span>Glavni pretres će se održati.</span>
+</p>
+<p class="p12">
+<span>Pretres je javan.</span>
+</p>
+<p class="p12"></p>
+<p class="p10">
+<span>Pretres je započet objavljivanjem glavne sadržine opt.predloga ODT-a u Cetinju Kt.br.255/11-2 od 23.02.2012. godine.  </span>
+</p>
+<p class="p10"></p>
+<p class="p13">
+<span>	Pristupa se saslušanju okr.R. I.</span><span class="s2">  </span>
+</p>
+<p class="p13"></p>
+<p class="p12"></p>
+<p class="p14">
+<span>	Okrivljeni se upoznaje sa njegovim pravima u postupku u smislu odredbi ZKP-a,   tj. da pažljivo prati tok postupka, da može iznositi činjenice i predlagati dokaze u svoju odbranu, da može postavljati pitanja svjedocima, vještacima, stavljati i davati objašnjenje u pogledu njihovih iskaza, da nije dužan da se izjasni o optužbi, niti da iznosi svoju odbranu, niti da odogovara na postavljena pitanja, te ima pravo da angažuje branioca nakon čega izjavi: </span>
+</p>
+<p class="p12"></p>
+<p class="p13">
+<span>Pred Sudom je okr. R. I. sa podacima kao u spisima predmeta, koji na postavljeno pitanje da li je razumio zašto se optužuje, izjavi da jeste, da mu branilac nije potreban, pa ističe: priznajem izvršenje krivičnog djela stavljenog mi na teret. Prihvatam krivicu i krivičnopravnu odgovornost za isto.Pojašnjavam da je tačno da sam kroz otključana ulazna  vrata ušao u spavaću sobu porodične kuće M. S. odakle sam,  iz tašne prisvojio novac u iznosu od 100,00 eura, kao i kutiju u kojoj se nalazio zlatni nakit oštećene, i  to :24- karatni ženski prsten sa nekoliko dijamanata u obliku romba, tanji lančić dužine 30-40 cm, sa minijaturnim privjeskom u obliku lika ,,Kleopatre,, i minđuše klasične izrade.Pojašnjavam i da mi je namjera bila otuđim sve što bih mogao prodati ,a kako bih kupio drogu.Izražavam žaljenje zbog svog ponašanja navedenom prilikom.</span>
+</p>
+<p class="p13"></p>
+<p class="p10">
+<span>Nakon što su mu predočene kontradiktornosti u odbrani iznijetoj na zapisniku Kt.br.255/11-2 od 01.02.2012.godine i na današnjem glavnom pretresu isti ističe da ostaje pri odbrani koju je iznio na današnjem glavnom pretresu.</span>
+</p>
+<p class="p10">
+<span> </span>
+</p>
+<p class="p11">
+<span>DOKAZNI POSTUPAK</span>
+</p>
+<p class="p11"></p>
+<p class="p11"></p>
+<p class="p10">
+<span>Pred sudom je ošt. R. V. od oca B. i majke J. rodjena B. rodjana 20.06.19.. godine, u Cetinju, iz Zagreba,  opomenuta, upozorena, upitana, izjavi: u toku mjeseca novembra 2011.godine nalazila sam se u porodičnoj posjeti kod svoje rođene sestre M. S. koja je nastanjena u Cetinju u blizini zgrade ,,C.K..,,. U tom periodu više sam boravila kod S. a sa sobom sam donijela više komada svoje garderobe i ličnih predmeta.Koliko me sjećanje služi, dana 23.11.2011.godine nalazila sam se u  S. porodičnoj kući, a  osim mene i S. u kući je bila i naša rođena sestra B. M. U to vrijeme smo nas tri boravile u prostoriji dnevnog boravka, i gledale neku seriju na TV-aparatu, kada je sestra S. ušla u spavaću sobu i odmah potom me je pozvala i pitala zašto se njena lična dokumenta nalaze na stolici pored ormara. Budući da joj je to bilo čudno,  ušla je sa S. u sobu i odmah primijetila, pregledajući svoju torbu, u kojoj su se inače nalazila njena dokumenta, da joj  u torbi nema novca u novčaniku u iznosu nešto više od 100,00 eura,kao ni jedne  manje kutije u kojoj se nalazio njen  zlatni nakit.U pomenutoj kutiji se nalazio jedan ženski zlatni prsten od 24 karata na kojem je bilo nekoliko komada dijamanata u obliku romba, ali se nije mogla izjasniti o težini tj. gramaži tog prstena, jer nikada nije mjerila težinu istog.Osim prstena, u kutiji se nalazio i jedan zlatni lančić tanjeg veza, dužine  oko 30-40 cm, uz koji je bio i  minijatturni privjesak sa likom ,,Kleopatre,,, a u kutiji je takođe bio i jedan par zlatnih manjih minđuša klasične izrade. Nije se mogla izjasniti o vrijednost tog zlatnog nakita, osim da je pomenuti prsten  kupila prije 20-tak godina za  iznos od 300 DM, a zlatne minđuše za iznos od  100 DM,  dok je zlatni lančić kupila 60-tih godina i tada ga je platila u lirama,  ali se nije mogla sjetiti tog iznosa.U novčaniku se nalazilo 100,00 eura, u apoenima i to od 2 novčanice po 50,00 eura, i nekoliko eura sitnog novca. U vrijeme krađe ulazna vrata u S. kući bila su otključana, a spavaća soba se inače ne zaključava.</span>
+</p>
+<p class="p10">
+<span>Ističe da se ne pridružuje krivičnom gonjenju protiv okrivljenog,  i ne postavlja imovinsko pravni zahtjev. </span>
+</p>
+<p class="p10"></p>
+<p class="p10">
+<span>- Čita se nalaz i mišljenje sud.vještaka finansijske struke M. S. dip.ecc iz Podgorice, od 22.02.2012.godine.</span>
+</p>
+<p class="p10">
+<span>Bez prigovora.</span>
+</p>
+<p class="p10"></p>
+<p class="p10">
+<span>- Čita se izvještaj UP Ispostave Cetinje, br. 02-245-953 od 22.03.2012.godine iz KE za okr. R. I. </span>
+</p>
+<p class="p10">
+<span>Bez prigovora. </span>
+</p>
+<p class="p10">
+<span>Sud donosi </span>
+</p>
+<p class="p10"></p>
+<p class="p10">
+<span>                                              R J E Š E NJ E </span>
+</p>
+<p class="p10"></p>
+<p class="p13">
+<span>odustaje se od provođenja dokaza saslušanja  svjedoka  M.S. i M.B.  obzirom  na potpuno i jasno priznanje okrivljenog,  pa bi saslušanje istih  vodilo odugovlačenju postupka, a ne bi uticalo na donošenje drugačije odluke.</span>
+</p>
+<p class="p10"></p>
+<p class="p10">
+<span>Kako nema predloga za izvodjenje novih dokaza dokazni postupak je završen.</span>
+</p>
+<p class="p10"></p>
+<p class="p10"></p>
+<p class="p11">
+<span>ZAVRŠNE RIJEČI</span>
+</p>
+<p class="p10"></p>
+<p class="p10"></p>
+<p class="p10">
+<span class="s3">Zastupnik optužbe,</span><span> u završnoj riječi ističe: ostajem pri podnijetom opt. predlogu I predlažem sudu da okr.oglaaski krivim za predmetno kr.djelo i osudi po zakonu. </span>
+</p>
+<p class="p10"></p>
+<p class="p10">
+<span class="s3">Okr. R. I.</span><span> u završnoj riječi ističe: da nema da doda ništa novo sem onog što je iznio tokom postupka.</span>
+</p>
+<p class="p10"></p>
+<p class="p10">
+<span>Oštećena R. V. u završnoj riječi ističe da se ne pridružuje krivičnom gonjenju protiv okrivljenog,  i da ne postavlja imovinsko pravni zahtjev i da ne traži pismeni otpravak presude. </span>
+</p>
+<p class="p10"></p>
+<p class="p10"></p>
+<p class="p10">
+<span>Za ovim je sud donio i javno objavio </span>
+</p>
+<p class="p10"></p>
+<p class="p15">
+<span class="s2">U  I M E  CRNE GORE</span>
+</p>
+<p class="p16">
+<span class="s1">P  R  E  S  U  D  U</span>
+</p>
+<p class="p17"></p>
+<p class="p17"></p>
+<p class="p13">
+<span class="s1">	1. </span><span class="s2">Okr. R. I.</span><span> od oca R. i majke Lj. rođene T. rodjen 29.01.19...godine, u Cetinju, gdje i prebiva, državljanin CG, nezaposlen, oženjen, pismen, sa završenim zanatom, srednjeg imovnog stanja, osuđivan presudom Osnovnog suda u Cetinju posl.br. K.190/06 od 27.04.2007.godine, zbog krivičnog djela krađa iz čl. 239. KZ-a na kaznu zatvora u trajanju od  tri mjeseca uslovno na jednu godinu, presudom Osnovnog suda u Cetinju posl.br. K. 35/07 od 08.06.2007.godine, zbog krivičnog djela teška krađa  iz čl. 240. KZ-a na kaznu zatvora u trajanju od četiri mjeseca, presudom Osnovnog suda u Cetinju posl.br. K. 77/08 od 31.03.2008.godine, zbog krivičnog djela  krađa iz čl. 239. KZ-a na kaznu zatvora u trajanju od 60 dana, presudom Osnovnog suda u Cetinju posl.br. K. 436/05 od 22.01.2007.godine, zbog krivičnog djela teška krađa iz čl. 240. u vezi čl.23. KZ-a na kaznu zatvora u trajanju od  tri mjeseca, presudom Osnovnog suda u Cetinju posl.br. K. 143/08 od 06.06.2008.godine, zbog krivičnog djela teška krađa  iz čl. 240. KZ-a, na kaznu zatvora u trajanju od jedne godine,presudom Osnovnog suda u Cetinju posl.br. K. 14/08 od 27.02.2008.godine, zbog krivičnog djela teška krađa iz čl. 240. KZ-a na  kaznu zatvora u trajanju od jedne godine , uslovno na dvije godine, presudom Osnovnog suda u Cetinju posl.br. K.98/08 od 15.05.2008.godine, zbog krivičnog djela teška  krađa iz čl. 240. KZ-a, na kaznu zatvora u trajanju od jedne godine, presudom Osnovnog suda u Cetinju, posl.br. K. 206/07 od 17.12.2007.godine, zbog krivičnog djela teška krađa  iz čl. 240. KZ-a, na kaznu zatvora u trajanju od  jedne godine ,presudom Osnovnog suda u Cetinju, posl.br.  K.92/08 od 15.05.2008.godine, zbog krivičnog djela krađa iz čl. 239. Krivičnog zakonika na kaznu zatvora u trajanju od tri mjeseca, presudom  Osnovnog suda u Cetinju, posl.br.K 122/11 od 07.09.2011.godine, zbog krivičnog djela  krađa iz člana 240.st.1.tač.1 u vezi člana 49 .st.1,KZ-a na kaznu zatvora u trajanju od jedne godine zatvora, presudom Osnovnog suda u Cetinju posl.br.K 89/11 od 15.09.2011.godine, zbog krivičnog djela teška krađa iz člana  240.st.1.tač.1KZ u vezi čl.49. st.1 KZ-a  na kaznu zatvora u trajanju od jedne godine zatvora, presudom Osnovnog suda  u Cetinju  posl.br.K. 110/11 od 20.10.2011.godine, zbog krivičnog djela krađa iz člana 239.st.1.KZ-a,  na kaznu zatvora u trajanju od 3 mjeeca.</span>
+</p>
+<p class="p13">
+<span> </span>
+</p>
+<p class="p13"></p>
+<p class="p18">
+<span>			</span><span class="s1">K  r  i  v     j  e :</span>
+</p>
+<p class="p18"></p>
+<p class="p12">
+<span class="s2"> Što je :</span>
+</p>
+<p class="p12"></p>
+<p class="p10">
+<span> Dana 23.novembra 2011.godine, oko 16,00 časova, u ul.,,Crvenog krsta,, br.8, u Cetinju, u namjeri da sebi pribavi protivpravnu imovinsku korist, kroz otključana ulazna  vrata ušao u spavaću sobu porodične kuće vlasništvo M.S. iz Cetinja, odaklje je,  iz tašne oštećene R. V. iz Zagreba, protivpravno oduzeo i prisvojio: novac u iznosu od 100,00 eura, kao i kutiju u kojoj se nalazio zlatni nakit oštećene, i  to :24- karati ženski prsten sa nekoliko dijamanata u obliku romba, vrijednosti 300,00 eura, tanji lančić dužine 30-40 cm, sa minijaturnim privezkom u obliku lika ,,Kleopatre,, vrijednosti 220,00 eura, i minđuše klasične izrade, vrijednosti 150,00 eura, sve u ukupnoj  novčanoj vrijednosti od 770,00 eura, za koji novčani iznos  je sebi pribavio protivpravnu imovinsku korist, a oštećenoj  R. V. za isti novčani iznos nanio štetu,</span>
+</p>
+<p class="p10">
+<span>- čime je izvršio krivično djelo kradja  iz člana 239.stav 1. Krivičnog zakonika. </span>
+</p>
+<p class="p10"></p>
+<p class="p13">
+<span class="s1">- </span><span class="s2">pa ga Sud shodno čl. 4, 5, 13, 15, 32, 33, 36, 42, KZ -a i čl. 226 – 229 i čl. 374 ZKP-a </span>
+</p>
+<p class="p13"></p>
+<p class="p19">
+<span class="s2">          O  S  U  Đ  U  J  E</span>
+</p>
+<p class="p17"></p>
+<p class="p10">
+<span>Na</span><span class="s1"> </span><span>kaznu zatvora u trajanju od </span><span class="s2">tri mjeseca </span><span> koju ima izdržati po pravosnažnosti presude.</span>
+</p>
+<p class="p10"></p>
+<p class="p13">
+<span>	Obavezuje  se okrivljeni da na ime troškova krivičnog postupka uplati iznos od 105,00 eura, te  na ime paušala iznos od  30,00 eura na blagajni Suda  u roku od 15 dana po pravosnažnosti presude pod  prijetnjom prinudnog izvršenja.</span>
+</p>
+<p class="p13"></p>
+<p class="p13">
+<span>Bitni razlozi presude iznijeti su usmeno.</span>
+</p>
+<p class="p13">
+<span>Data je pouka o pravu na žalbu.       </span>
+</p>
+<p class="p10"></p>
+<p class="p13">
+<span>          </span><span class="s3">Okončano u 11.10  časova.</span>
+</p>
+<p class="p13"></p>
+<p class="p13">
+<span class="s2">         Zapisničar,                                                                                  S u d i j a ,						</span>
+</p>
+<p class="p10"></p>
+<p class="p10"></p>
+<p class="p1"></p>
+
+
+</body>

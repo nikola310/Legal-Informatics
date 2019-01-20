@@ -1,0 +1,54 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.window1{background:#fff; margin:0 auto;width:210mm;}
+.page1{ background:#fff; margin:0 1.0in;padding-top:20px;}
+.span1{;font-family:'Arial';font-weight:800}
+.span2{;font-family:'Arial'}
+</style>
+</head>
+<body class="b1" style="background: #aaa;">
+<div class="window1">
+<div class="page1">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">OSNOVNI SUD U BIJELOM POLJU</span>
+</p>
+<p>
+<span class="span1">K.br.93</span><span class="span1">/2014</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">SLUŽBENA ZABILJEŠKA</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Kojom se konstatuje, da imajući u vidu dostavljeni Dopis od strane ODT u Bijelom Polju Kt.br.</span><span class="span2">115</span><span class="span2">/14 od</span><span class="span2"> 13.05</span><span class="span2">.2014.godine, kojim je obavijestio ovaj sud da je ODT formirao predmet po privatnoj tužbi </span><span class="span2">G</span><span class="span2">.</span><span class="span2">D</span><span class="span2">.</span><span class="span2"> iz B</span><span class="span2">.</span><span class="span2"> P</span><span class="span2">.</span><span class="span2">, protiv K</span><span class="span2">.</span><span class="span2"> Z</span><span class="span2">.</span><span class="span2"> iz B</span><span class="span2">.</span><span class="span2">P</span><span class="span2">.</span><span class="span2">, zbog krivičnog djela teška tjelesna povreda iz čl. 151. st.1. KZ CG, </span><span class="span2"> obzirom da se radi o krivičnom djelu koje se goni po službenoj dužnosti, te se ovaj predmet smatra završenim i isti razvesti po upisniku kao završen. </span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">OSNOVNI SUD U BIJELOM POLJU</span>
+</p>
+<p style="text-align:center;">
+<span class="span1">Dana :</span><span class="span1">14.05</span><span class="span1">.2014.godine</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1">          S u d i j a,</span>
+</p>
+<p>
+<span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1">     Rahmo Banda</span>
+</p>
+<p>&nbsp;</p>
+</div>
+</div>
+
+
+</body>

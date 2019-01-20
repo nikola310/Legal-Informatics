@@ -1,0 +1,263 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.b2{margin: 1.0in 1.0in 1.0in 1.25in;}
+.s1{font-weight:bold;}
+.s2{font-weight:bold;color:black;}
+.s3{color:black;}
+.s4{font-style:italic;color:black;}
+.s5{font-size:13pt;color:black;}
+.s6{font-family:Times;}
+.s7{font-family:Arial;}
+.s8{font-family:Times New Roman;}
+.s9{display: inline-block; text-indent: 0; min-width: 0.048611112in;}
+.p1{margin-left:-0.125in;text-align:end;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p2{margin-left:-0.125in;text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p3{margin-left:-0.125in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p4{text-indent:0.5in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p5{text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p6{text-indent:0.625in;margin-left:0.375in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p7{text-indent:0.375in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p8{text-indent:0.5in;text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p9{text-indent:0.5in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p10{text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p11{text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p12{text-indent:0.5in;text-align:start;hyphenate:auto;font-family:Times;font-size:13pt;}
+.p13{text-align:center;hyphenate:auto;font-family:Times;font-size:13pt;}
+.p14{text-align:start;hyphenate:auto;font-family:Times;font-size:13pt;}
+.p15{text-align:justify;hyphenate:auto;font-family:Times;font-size:13pt;}
+.p16{text-indent:0.16666667in;margin-right:0.058333334in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p17{text-indent:0.625in;margin-left:1.375in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p18{text-indent:0.375in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.p19{text-indent:0.25in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p20{text-indent:0.5in;margin-right:0.058333334in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p21{text-indent:0.16666667in;margin-right:0.058333334in;text-align:justify;hyphenate:auto;font-family:Times;font-size:13pt;}
+.p22{text-indent:0.5in;margin-left:-0.125in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p23{text-indent:0.5in;margin-left:-0.125in;text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p24{margin-left:-0.125in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p25{text-indent:-0.25in;margin-left:0.6875in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p26{text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+</style>
+<meta content=" " name="author">
+</head>
+<body class="b1 b2">
+<p class="p1">
+<span class="s1">K. broj 111/11</span>
+</p>
+<p class="p2"></p>
+<p class="p2">
+<span class="s1">         U IME NARODA</span>
+</p>
+<p class="p3"></p>
+<p class="p4">
+<span class="s1">OSNOVNI SUD U BARU</span><span>, kao prvostepeni krivični, u vijeću sastavljenom od sudije Gorana Šćepanovića, kao predsjednika vijeća i sudija porotnika V.N. i P. M., kao članova vijeća, sa zapisničarom Milijanom Minić, u krivičnom predmetu optuženog </span><span class="s1">Ž. G.</span><span>, zbog krivičnog djela teška krađa u pokušaju iz čl. 240 st.1 tč. 1 u vezi čl. 20. Krivičnog zakonika, po optužnici Osnovnog državnog tužilaštva u Baru Kt.br. 93/11 od 07.04.2011. godine, nakon održanog glavnog javnog pretresa u prisustvu Osnovnog državnog tužioca M. M., optuženog i njegovog branioca po službenoj dužnosti S.P., advokata iz B., dana 06.07.2011. godine donio je i javno objavio,</span>
+</p>
+<p class="p5"></p>
+<p class="p6">
+<span class="s1">                                      P R E S U D U</span>
+</p>
+<p class="p6"></p>
+<p class="p7">
+<span>Optuženi</span><span class="s1"> </span><span class="s2">Ž. G.</span><span class="s3"> JMBG ..., od oca U. i majke L. rođene R., rođen ... godine u Z., sa prebivalištem u Z. ul. F. br. ..., državljanin Republike Srbije, mesar, udovac, otac dvoje djece, srednjeg imovnog stanja, osuđivan presudama </span><span>: Opštinskog suda u Zaječaru K. broj 197/90 od 24.07.1990. godine, zbog krivičnog djela teška krađa iz čl. 166 st.1 tč. 1 KZ RS, kaznom zatvora u trajanju od 3 mjeseca, Opštinskog suda u Knjaževcu K. broj 44/92 od 15.12.1992. godine, zbog krivičnog djela krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 3 mjeseca, Opštinskog suda u Knjaževcu K. broj 43/92 od 17.06.1992. godine, zbog krivičnog djela teška krađa iz čl. 166 st.1 KZ RS, uslovnom osudom u trajanju od 6 mjeseci, Opštinskog suda u Zaječaru K. broj 302/93 od 20.04.1993. godine, zbog krivičnog djela falsifikovanje isprave iz čl. 233 st.3t i krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 1 godine i 8 mjeseci,  Opštinskog suda u Zaječaru K. broj 32/93 od 20.05.1993. godine, zbog krivičnog razbojništvo iz čl. 168 st.1 KZ RS i falsifikovanje isprave iz čl. 233 st.3 KZ RS, kaznom zatvora u trajanju od 2 godine i 6 mjeseci, Opštinskog suda u Zaječaru K. broj 182/94 od 04.03.1996. godine, zbog krivičnog djela iz čl. 33 st.1 Zakona o oružju i municiji uslovnom osudom u trajanju od 4 mjeseca, Opštinskog suda u Zaječaru K. broj 21/95 od 29.10.1996. godine, zbog krivičnog djela krađa iz čl. 165 st.1 KZ RS, kaznom zatvora u trajanju od 6 mjeseci, Opštinskog suda u Zaječaru K. broj 500/94 od 25.07.1997. godine, zbog krivičnog djela teška krađa iz čl. 166 st.1 KZ RS, kaznom zatvora u trajanju od 1 godine, Opštinskog suda u Zaječaru K. broj 190/97 od 03.12.1997. godine, zbog krivičnog djela krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 3 mjeseca, Opštinskog suda u Zaječaru K. broj 47/97 od 22.12.1997. godine, zbog krivičnog razbojništvo iz čl. 168 st.1 KZ RS i krađa iz čl. 165 st.1 KZ RS i čl. 33 Zakona o oružju i municiji, kaznom zatvora u trajanju od 2 godine i 10 mjeseci, Opštinskog suda u Knjaževcu K. broj 158/02 od 11.09.2003. godine, zbog krivičnog djela krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 3 mjeseca, Opštinskog suda u Zaječaru K. broj 379/04 od 25.10.2004. godine, zbog krivičnog djela krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 1 godine, Opštinskog suda u Zaječaru K. broj 157/05 od 04.02.2005. godine, zbog krivičnog djela krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 1 godine i 5 mjeseci, Opštinskog suda u Pirotu K. broj 356/02 od 28.02.2005. godine, zbog krivičnog djela krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 90 dana, Opštinskog suda u Zaječaru Kž. broj 344/06 od 22.12.2004. godine, zbog krivičnog djela krađa iz čl. 203 st.1 KZRS i prevara iz čl. 208 st.1 KZRS, kaznom zatvora u trajanju od 8 mjeseci, Osnovnog suda u Podgorici K. broj 06/14 od 15.02.2007. godine, zbog krivičnog djela teška krađa iz čl. 240 st.1 i razbojnička krađa iz čl. 241 st.1 KZCG, kaznom zatvora u trajanju od 4 godine,  Opštinskog suda u Zaječaru Kž. broj 109/09 od 27.04.2009. godine, zbog krivičnog djela neovlašćeno korišćenje tuđeg vozila iz čl. 213 st.1 KZRS, kaznom zatvora u trajanju od 1 godine i 6 mjeseci, </span>
+</p>
+<p class="p7"></p>
+<p class="p8">
+<span class="s1">K r i v   j e :</span>
+</p>
+<p class="p9"></p>
+<p class="p9">
+<span>Što je:</span>
+</p>
+<p class="p9"></p>
+<p class="p4">
+<span class="s3">Dana 02.03.2011. godine, oko 11,00 časova, u Baru, naselje S. obio baraku vlasništvo Č. K., na način što je podesnim predmetnom odvalio ulazna vrata barake ušao u sobu u baraci, počeo da pretura po stvarima, rukom podiže posteljinu koja se nalazila u komodi, a sve u namjeri da oduzme pokretne stvari iz iste, nakon čega je u baraku ušao B.D., komšija Č. K., koji ga je spriječio da oduzme pokretne stvari koje su se nalazile u sobi u namjeri da njihovim prisvajanjem sebi pribavi protivpravnu imovinsku korist,</span>
+</p>
+<p class="p10"></p>
+<p class="p4">
+<span class="s3">-čime je učinio krivično djelo - </span><span class="s2">teška krađa u pokušaju iz čl. 240 st. 1. tač. 1. u vezi čl. 20 Krivičnog zakonika.</span>
+</p>
+<p class="p10"></p>
+<p class="p5">
+<span>     	pa ga sud primjenom čl. 4, 32, 36, 42 i 20 st.3 Krivičnog zakonika i čl. 359, 360 i 364  ZKP-a,</span>
+</p>
+<p class="p5"></p>
+<p class="p11">
+<span class="s1">OSUĐUJE</span>
+</p>
+<p class="p11"></p>
+<p class="p4">
+<span>Na kaznu zatvora u trajanju od 1 (jedne) godine, u koju kaznu se uračunava vrijeme provedeno u pritvoru od 02.03.2011. godine, do pravosnažnosti presude, </span>
+</p>
+<p class="p4"></p>
+<p class="p12">
+<span>Prema optuženom na osnovu čl. 76 Krivičnog zakonika izriče se</span>
+</p>
+<p class="p12"></p>
+<p class="p13">
+<span class="s1">MJERA BEZBJEDNOSTI</span>
+</p>
+<p class="p14"></p>
+<p class="p15">
+<span>	Protjerivanje stranca sa teritorije Crne Gore u trajanju od 10 (deset) godina.</span>
+</p>
+<p class="p16"></p>
+<p class="p16">
+<span>       Vrijeme trajanja protjerivanja računa se od dana pravosnažnosti odluke, a vrijeme provedeno u zatvoru ne uračunava u vrijeme trajanja mjere.</span>
+</p>
+<p class="p15"></p>
+<p class="p4">
+<span>Optuženi je dužan da plati troškove krivičnog postupka u iznosu od 80,00 €, u roku od 15 dana od dana pravosnažnosti, pod prijetnjom izvršenja.</span>
+</p>
+<p class="p17"></p>
+<p class="p17"></p>
+<p class="p17"></p>
+<p class="p17"></p>
+<p class="p17"></p>
+<p class="p17">
+<span class="s1">       O b r a z l o ž e n j e</span>
+</p>
+<p class="p17"></p>
+<p class="p4">
+<span> Optužnicom Osnovnog državnog tužilaštva u Baru Kt. br. 93/11 od 07.04.2011. godine stavljeno je na teret optuženom izvršenje krivičnog djela bliže opisanog u izreci presude.</span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span>Optuženi je u svojoj odbrani izjavio da je u Bar došao 26.02.2011. godine. Našao je smještaj u Baru i platio je isti. U Bar je došao sa namjerom da radi fizičke poslove. Upoznao se na pijaci u Baru sa jednim momkom </span><span class="s3">Romske nacionalnosti koga zovu K. ili R.. On je bio kod njega u stanu gdje su pili pivo. Nakon toga su se vraćali u grad. K. ili R. mu je pokazao jedno naselje baraka i reko mu je da on tu živi i da svrati kod njega kad hoće. Sjutradan je kada je se vraćao iz grada svratio u naselje koje mu je pokazao K. ili R.. Pitao je neke ljude da mu kažu gdje stanuje K. ili R. koji vozi plavi bicikl. Oni su mu pokazali na jednu baraku. On je došao do te barake, pokucao je na vrata, niko mu nije odgovarao, nakon čega je on otvorio vrata koja su bila otključana, zvao je K. i niko mu nije odgovorio, nakon čega je ušao u tu baraku jer je mislio da čovjek spava i da ga ne čuje. Krenuo je da izađe iz barake kada je naišao jedan čovjek koji ga je pitao šta će on tu. On je mu reko da traži K.. Isti ga je pitao kojeg K. i on je mu reko da su mu rekli da tu stanuje. Taj čovjek je pozvao policiju, koja je ubrzo došla i on im je pokazao rukom na njega. Dan dva prije ovog događaja on je bio sa dvije djevojke od kojih se jedna zove A., a drugoj ne zna ime, on je spavao sa A. i ista mu je tu noć pocijepala ličnu kartu to jest iz iste iščupala listove na kojima je njegova fotografija i ukrala 120 €. Ona je taj dio lične karte odnijela sa sobom. Na glavnom pretresu je dodao da se događaj odigrao oko 11 časova, tako da je unutrašnjost kuće bila osvijetljena od dnevne svjetlosti. On je vrata otvorio na način što je ista povukao prema sebi, a u trenutku kada je on otvorio ova vrata ista su bila nekoliko centimetara otvorena. Nije obraćao pažnju u kakvom se stanju nalazi brava na vratima. On u unutrašnjosti kuće nije dirao stvari, ništa nije pomjerao, preturao, a u trenutku kada je zaustavljen od strane dva nepoznata lica on se nije nalazio u kući, već ispred kuće i tada su mu prišla ova lica, upitali su ga šta radi u kući, on je rekao da traži K., oni su mu rekli da tu nema nikakvog K., a na pitanje odakle je on je odgovorio da je iz Srbije i da je u Baru trebao da počne da radi u Komunalnom preduzeću. Jedan od njih je pozvao policiju koja je ubrzo došla. Na pitanje da se izjasni o identitetu lica koje je tražio u kući oštećene jer je u UP PJ Bar naveo da je u pitanju K.ili R., a na glavnom pretresu da je u pitanju K., optuženi je naveo da je siguran da je nadimak ovog lica K., a to lice zovu i R., a kada je u policiji rekao da je u pitanju K. vjerovatno je se zbunio. Na pitanje da li je vrata na kući oštećene otvorio povlačenjem kako je izjavio na glavnom pretresu, ili na drugi način s obzirom da je u Upravi policije izjavio da su vrata bila otključana, optuženi je izjavio da kada je u pitanju brava misli da se vrata od kuće oštećenog otvaraju na način što se na bravi kružnog oblika nalaze i kvaka i mjesto za ključ i on je samo povukao  tu bravu i ako se sa sigurnošću ne može izjasniti o izgledu brave jer se iste ne može sjetiti. Na pitanje da li je već izašao iz kuće oštećene kada su naišla dva lica koja su ga zaustavila kako je naveo na glavnom pretresu, ili je krenuo da izađe iz kuće kada je naišlo jedno lice kako je izjavio u Upravi policije, optuženi je naveo da je siguran da se nalazio ispred kuće kada su naišla dva čovjeka, a on u prethodnom postupku sigurno nije dao izjavu koja mu je pročitana, a uvidom u zapisnik sa svog saslušanja u Upravi policije potvrđuje da se nalazi njegov potpis ispod izjave. Izjava u upravi policije mu nije pročitana. On je u Upravi policije dao odbranu koju je danas iznio, a ne onu koja mu je pročitana da je dao u Upravi policije. On je u Upravi policije imao branioca po službenoj dužnosti, međutim, on nije imao mogućnost da sa njim razgovara prije nego što je dao odbranu. On je prilikom zaustavljanja od strane dva lica ispred kuće oštećene na traženje jednog od njih predao dio lične karte koju je posjedovao.</span>
+</p>
+<p class="p4"></p>
+<p class="p5">
+<span>	U dokaznom postupku saslušani su svjedoci  B. D., S. P. i M. G.</span><span class="s3">, na saglasan predlog stranaka pročitan je iskaz svjedoka O. D. iz prethodnog postupka pročitani su : izvod iz kaznene evidencije na ime optuženog  MUP PU Z. br. 235-4-1364 /11 od 24.03.2011. godine, službena zabilješka UP PJ Bar u formi zapisnika o uviđaju br. KU 82/11 od 3.02.2011. godine, izvršen je uvid u foto dokumentaciju UP PJ Bar br. sl/11 od 3.06.2011. godine. </span>
+</p>
+<p class="p5"></p>
+<p class="p5">
+<span class="s3">	Svjedok </span><span class="s2">B. D.</span><span class="s3"> je izjavio da se nalazio u kući koja se nalazi u naselju S. i legao je da odmara. U jednom trenutku je čuo galamu iz kuće koja se nalazi preko puta njegove i u kojoj živi jedna starija gospoda koja se zove Č.K. i za koju zna da već duže vrijeme nije tu. Izašao je iz svoje kuće da vidi o čemu se radi, došao je do kuće u kojoj živi Č. K. i odmah je primijetio da su ulazna vrata bila odvaljena i odškrinuta. Otvorio ih je i ušao u unutrašnjost kuće i tom prilikom je primijetio jedno čupavo lice sa minđušama koje stoji između dnevnog boravka i kupatila i kako pretura neke stvari tačnije zatekao ga je kako rukom podiže neku posteljinu koja se nalazila gledano iz pravca dnevnog boravka sa desne strane. Pitao ga je šta radi tu, a on mu je odgovorio da čeka nekog K.. Upitao ga je ko je K., a on mu je odgovorio K. C. koji vozi plavo biciklo. On je mu</span><span class="s4"> </span><span class="s3">zatražio ličnu kartu da vidi ko je i što je, a on mu je dao jedan dio od lične karte na kojoj nije bila njegova slika. Nakon što mu je dao ličnu kartu on je odmah izašao, a on je pozvao policiju kojoj je odmah opisao to lice i dao im taj odsječak od lične karte. Na glavnom pretresu je dodao da mu je pažnju iz kuće oštećene privukla buka kao da su se pomjerale stvari, a znao je da je oštećena otišla u Hrvatsku. Nakon što mu je saopšteno da je u prethodnom postupku saopštio da je čuo neku galamu iz kuće oštećene, izjavio je da je to bila buka kao da se pomjeraju stvari. On je otišao do kuće oštećene i vidio je da su ulazna vrata bila oštećena i otvorena odnosno da postoje oštećenja na bravi. Na ulaznim vratima kuće oštećene postoji kvaka i elzet brava. Kada je otvorio vrata ušao je u unutrašnjost kuće i vidio je  jedno lice, a u pitanju je lice koje vidi u sudnici kao optuženog i u tom trenutku optuženi se nalazio u blizini WC tačnije ispred WC u jednom hodniku  bez vrata  i u tom trenutku on je bio u blizini jedne stalaže na kojoj su se nalazili neka posteljina ili peškiri, nije se mogao tačno izjasniti i on je podizao tu posteljinu. Na pitanje što radi, odgovorio mu je da čeka nekog K., a na pitanje ko je K. on mu je odgovorio da je u pitanju jedan Ciganin koji vozi bicikl plave boje, a na pitanje odakle mu ključ da uđe u kuću, on mu je rekao da mu je K. rekao da ga čeka u kući. On mu je nakon toga tražio ličnu kartu na uvid, ali ne zna da li je to bilo u unutrašnjosti kuće ili napolju, a od vremena kada su njih dvoje izašli iz kuće do momenta dolaska policije koju je on pozvao mobilnim telefonom, tu su došla još dva momka za koje zna da su iz naselja, a za koje se ne može sjetiti podataka, i ta dva momka su sa njima sačekali policiju. On je telefonom pozvao zeta oštećene, misli da se zove D. da dođe do kuće. Svjedok je izjavio da je prolazio pored kuće oštećene kada je čuo buku, vidio je da su vrata odškrinuta i da iz brave viri jezičak kao da je brava zaključana i odmah je ušao u tu kuću. Na pitanje da li se u tom trenutku nalazio pored kuće oštećene ili se nalazio u svojoj kući kako je naveo u prethodnom postupku svjedok je naveo da je tačno da je se on nalazio u kući jer od ovog događaja proteklo određeno vrijeme i preciznije je ono što je izjavio u prethodnom postupku.  Lice koje je on zatekao u kući oštećene nije pružalo nikakav otpor i mirno je sačekalo dolazak policije. On se ne može tačno izjasniti koliko je bilo časova kada se sve to desilo, ali zna da je bio dan.</span>
+</p>
+<p class="p5"></p>
+<p class="p4">
+<span>Svjedok </span><span class="s1">S. P.</span><span> je izjavio da je u Upravi policije bio angažovan u predmetu osumnjičenog Ž. G. zbog krivičnog djela teška krađa u pokušaju. Prilikom angažovanja u svojstvu branioca pridržava se pravila od kojih nikada ne odstupa pa to nije bio slučaj ni prilikom saslušanja Ž. G.. Naime, uvijek kada se neko lice saslušava, to lice sa njim obavlja povjerljiv razgovora, kada se dogovaraju o načinu njegove odbrane. Tek nakon toga pristupa se saslušanju tog lica, saslušanje se zapisnički konstatuje, a on uvijek insistira da lice koje se saslušava lično pročita zapisnik, a ne da mu se pročita od strane službenika policije i tek nakon što osumnjičeni njemu saopšti da izjava odgovara njegovoj volji on potpisuje zapisnik nakon što ga potpiše i osumnjičeno lice. Ta procedura je poštovana i u slučaju osumnjičenog Ž. G.. Pamti sve detalje tog slučaja pa i to da je on imao samo polovinu lične karte, da je postojao problem oko utvrđivanja identiteta, pa mu je inspektor i na te okolnosti postavljao pitanje. </span>
+</p>
+<p class="p9"></p>
+<p class="p4">
+<span>Svjedok </span><span class="s1">M. G. </span><span>je izjavio da</span><span class="s1"> </span><span>je u pretkrivičnom postupku bio zadužen sa predmetom osumnjičenog Ž.G. i preduzimao je službene radnje. U okviru tih službenih radnji vodio je i saslušanje osumnjičenog. Saslušanje osumnjičenog izvršeno je u prisustvu branioca po službenoj dužnosti P. S.. Prije početka saslušanja on je izašao iz svoje kancelarije u kojoj su ostali Ž.i adv. P., oni su bili sami u kancelariji i o čemu su oni razgovarali nije mu poznato, ali zna da je taj razgovor trajao 10 do 15 minuta, a o kraju razgovora obavijestio ga je adv. P.. Nakon toga pristupilo se saslušanju živića, ono što je on izjavio unijeto je u zapisnik, a na kraju kada je Ž. završio svoju odbranu, on je odštampao 2 primjerka zapisnika, jedan primjerak je predao adv. P., drugi primjerak živiću, i kada su obojica pročitali što je napisano, adv. P. je Ž. pitao „da li je sve unijeto korektno kako si ti izjavio“, a nakon što je Ž. saopštio da jeste adv. mu je rekao „sada možeš da potpišeš zapisnik“.</span>
+</p>
+<p class="p5"></p>
+<p class="p9">
+<span class="s3">Svjedok </span><span class="s2">O. D.</span><span class="s3"> je izjavio da je u kuću oštećene ušao nakon što je Ž. G. odveden u policiju. fioke su bile otvorene, ali ništa nije falilo. Njega je o svemu obavijestio B. D..  </span>
+</p>
+<p class="p9"></p>
+<p class="p4">
+<span class="s3">Iz izvoda iz kaznene evidencije na ime optuženog  MUP PU Z. br. 235-4-1364/11 od 24.03.2011. godine utvrđeno je da je optuženi osuđivan presudama </span><span>: Opštinskog suda u Zaječaru K. broj 197/90 od 24.07.1990. godine, zbog krivičnog djela teška krađa iz čl. 166 st.1 tč. 1 KZ RS, kaznom zatvora u trajanju od 3 mjeseca, Opštinskog suda u Knjaževcu K. broj 44/92 od 15.12.1992. godine, zbog krivičnog djela krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 3 mjeseca, Opštinskog suda u Knjaževcu K. broj 43/92 od 17.06.1992. godine, zbog krivičnog djela teška krađa iz čl. 166 st.1 KZ RS, uslovnom osudom u trajanju od 6 mjeseci, Opštinskog suda u Zaječaru K. broj 302/93 od 20.04.1993. godine, zbog krivičnog djela falsifikovanje isprave iz čl. 233 st.3t i krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 1 godine i 8 mjeseci,  Opštinskog suda u Zaječaru K. broj 32/93 od 20.05.1993. godine, zbog krivičnog razbojništvo iz čl. 168 st.1 KZ RS i falsifikovanje isprave iz čl. 233 st.3 KZ RS, kaznom zatvora u trajanju od 2 godine i 6 mjeseci, Opštinskog suda u Zaječaru K. broj 182/94 od 04.03.1996. godine, zbog krivičnog djela iz čl. 33 st.1 Zakona o oružju i municiji uslovnom osudom u trajanju od 4 mjeseca, Opštinskog suda u Zaječaru K. broj 21/95 od 29.10.1996. godine, zbog krivičnog djela krađa iz čl. 165 st.1 KZ RS, kaznom zatvora u trajanju od 6 mjeseci, Opštinskog suda u Zaječaru K. broj 500/94 od 25.07.1997. godine, zbog krivičnog djela teška krađa iz čl. 166 st.1 KZ RS, kaznom zatvora u trajanju od 1 godine,  Opštinskog suda u Zaječaru K. broj 190/97 od 03.12.1997. godine, zbog krivičnog djela krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 3 mjeseca, Opštinskog suda u Zaječaru K. broj 47/97 od 22.12.1997. godine, zbog krivičnog razbojništvo iz čl. 168 st.1 KZ RS i krađa iz čl. 165 st.1 KZ RS i čl. 33 Zakona o oružju i municiji, kaznom zatvora u trajanju od 2 godine i 10 mjeseci, Opštinskog suda u Knjaževcu K. broj 158/02 od 11.09.2003. godine, zbog krivičnog djela krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 3 mjeseca, Opštinskog suda u Zaječaru K. broj 379/04 od 25.10.2004. godine, zbog krivičnog djela krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 1 godine,  Opštinskog suda u Zaječaru K. broj 157/05 od 04.02.2005. godine, zbog krivičnog djela krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 1 godine i 5 mjeseci, Opštinskog suda u Pirotu K. broj 356/02 od 28.02.2005. godine, zbog krivičnog djela krađa vozila iz čl. 174 st.1 KZ RS, kaznom zatvora u trajanju od 90 dana, Opštinskog suda u Zaječaru Kž. broj 344/06 od 22.12.2004. godine, zbog krivičnog djela krađa iz čl. 203 st.1 KZRS i prevara iz čl. 208 st.1 KZRS, kaznom zatvora u trajanju od 8 mjeseci, Osnovnog suda u Podgorici K. broj 06/14 od 15.02.2007. godine, zbog krivičnog djela teška krađa iz čl. 240 st.1 i razbojnička krađa iz čl. 241 st.1 KZCG, kaznom zatvora u trajanju od 4 godine,  Opštinskog suda u Zaječaru Kž. broj 109/09 od 27.04.2009. godine, zbog krivičnog djela neovlašćeno korišćenje tuđeg vozila iz čl. 213 st.1 KZRS, kaznom zatvora u trajanju od 1 godine i 6 mjeseci, </span>
+</p>
+<p class="p9"></p>
+<p class="p9">
+<span class="s3">Iz službene zabilješke UP PJ Bar u formi zapisnika o uviđaju br. KU 82/11 od 3.02.2011. godine utvrđeno je da je na kući oštećene Č. K. NN učinilac djelovao nekim podesnim sredstvom na ulazna vrata koja otvara. Jezičak na bravi je zatečen u zaključanom položaju. NN učinilac je nakon ulaska unutar prostorije u kojoj se nalazi namještaj otvorio fioku komode i vršio premetačinu.  </span>
+</p>
+<p class="p9"></p>
+<p class="p4">
+<span class="s3">Uvidom u foto dokumentaciju UP PJ Bar br. sl/11 od 3.06.2011. godine utvrđeno je da se fotodokumentacija sastoji od 4 fotografije i to širi izgled barake, bliži izgled barake, fotografija ulaznih vrata i dijela koji se nalazi oko brave ulaznih vrata. Na fotografiji broj 4 vidljiva su oštećenja na drvenim ulaznim vratima. </span>
+</p>
+<p class="p9"></p>
+<p class="p4">
+<span class="s3">Optužnicom je predloženo da se u dokaznom postupku sasluša oštećena Č. K..  Kako je po ocjeni suda činjenično stanje utvrđeno sud je donio rješenje da se u dokaznom postupku neće saslušati oštećena Č. K..</span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span>Ocjenom izvedenih dokaza utvrđeno je da je optuženi učinio krivično djelo koje mu je stavljeno na teret, na način predstavljen u dispozitivu. Optuženi u svojoj odbrani nije priznao da je učinio krivično djelo navodeći da je došao u kuću oštećene jer je mislio da je u pitanju kuća jednog lica koje je upoznao. Sud je odbranu optuženog cijenio kao neosnovanu i kao pokušaj izbjegavanja krivice. </span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span>Kada je u pitanju identitet lica za koje je optuženi naveo da je mislio da je vlasnik kuće optuženi je mijenjao odbranu navodeći u prethodnom postupku da je ime tog lica K. ili R., dok je na glavnom pretresu izjavio da je u pitanju K.. Objašnjavajući razloge razlikovanja odbrane u tom dijelu optuženi je izjavio da se </span><span class="s3">vjerovatno zbunio. </span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span>Optuženi je u svojoj odbrani u prethodnom postupku izjavio da su vrata na kući bila otključana, dok je na glavnom pretresu izjavio da </span><span class="s3">je vrata otvorio na način što je ista povukao prema sebi, u trenutku kada je on otvorio vrata, ista su bila nekoliko centimetara otvorena, nije obraćao pažnju u kakvom se stanju nalazi brava na vratima. Na fotoelaboratu Uprave policije vidljiva su oštećenja na ulaznim vratima, a kako se predmetni događaj odigrao po danu, oštećenja na vratima su morala biti vidljiva za svako lice koje bi otvorilo vrata, pa i za optuženog. Po ocjeni suda odbrana optuženog da nije vidio oštećenja na vratima predstavlja pokušaj optuženog da sebe predstavi kao nekoga ko je slučajno naišao do kuće oštećene, jer da je izjavio da je vidio oštećenja na vratima postavilo bi se pitanje zbog čega je ušao u kuću. Po ocjeni suda optuženi je izvršio obijanje ulaznih vrata, što potvrđuje njegovo dalje ponašanje u kući oštećene.</span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span class="s3"> Optuženi je izjavio da je imao namjeru da izađe iz barake kada je naišao jedan čovjek koji ga je pitao šta će on tu. Na glavnom pretresu je izjavio da kada je zaustavljen od strane dva nepoznata lica on se nije nalazio u kući, već ispred kuće. Razloge za razlikovanje odbrana optuženi je objasnio načinom saslušanja u Upravi policije, jer mu izjava nije pročitana, da nije dao odbranu koja je navedena u zapisniku u Upravi policije, da nije imao mogućnost da sa braniocem razgovara prije nego što je dao odbranu. Sud je na okolnosti saslušanja optuženog u Upravi policije saslušao advokata S. P. i inspektora M. G.. Svjedoci su saglasno, detaljno, objektivno predstavili da je saslušanje optuženog obavljeno uz poštovanje svih prava optuženog, optuženom je omogućen povjerljiv razgovor, slobodno iznošenje odbrane, čitanje zapisnika, pa je navođenje optuženog da je saslušanje obavljeno na nezakonit način ocijenjen kao pokušaj optuženog da objasni promjenu odbrane na glavnom pretresu.  </span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span class="s3">Iz iskaza svjedoka B. D. utvrđeno je da je optuženi zatečen u kući oštećene, da ga je zatekao kako rukom podiže neku posteljinu koja se nalazila gledano iz pravca dnevnog boravka sa desne strane. Dakle, optuženi se u to vrijeme nalazio u kući, a podizanje posteljine optuženi je preduzeo u cilju pronalaženja stvari vlasništvo oštećene, a ne da bi pronašao lice koje je prethodno upoznao. Svjedoku B. je pažnju iz kuće oštećene privukla buka, nakon čega je otišao da provjeri o čemu se radi i zatekao optuženog. Sud je iskaz svjedoka B. cijenio kao objektivan i istinit, zbog čega mu je poklonio vjeru. Iskaz svjedoka se na glavnom pretresu razlikuje u odnosu na prethodni postupak u dijelu u kome je svjedok objasnio gdje se nalazio kada je čuo buku, jer je u prethodnom postupku izjavio da se nalazio u svojoj kući, a  na glavnom pretresu da se nalazio pored kuće, nakon čega je izjavio da se nalazio u kući, jer je zbog proteka vremena precizniji njegov iskaz iz prethodnog postupka. Navedeno razlikovanje ne dovodi u pitanje pouzdanost iskaza svjedoka koji je u svim bitnim detaljima jasno opisao predmetni događaj.  </span>
+</p>
+<p class="p4"></p>
+<p class="p18">
+<span class="s3">	</span><span class="s5">Optuženi je sa umišljajem započeo radnju izvršenja krivičnog djela, podesnim predmetom izvršio je obijanje ulaznih vrata barake vlasništvo oštećene, sa namjerom oduzimanja stvari i pribavljanja sebi protivpravne imovinske koristi, ali krivično djelo nije dovršio, jer je radnju izvršenja prekinuo zbog nailaska svjedoka B. D. </span>
+</p>
+<p class="p7"></p>
+<p class="p4">
+<span>Sud je precizirao optužnicu navodeći da je krivično djelo učinjeno oko 11,00 časova, što je utvrđeno iz odbrane optuženog. </span><span class="s6">Ocijenjeno je da precizirana izreka presude preciznije predstavlja utvrđeno činjenično stanje, da se navedenim preciziranjem ostaje u okviru istog životnog događaja i da se ne narušava identitet optužnice i presude.</span>
+</p>
+<p class="p19">
+<span> </span>
+</p>
+<p class="p4">
+<span>Sud je optuženog osudio na kaznu zatvora u trajanju od 1 godine. Za predmetno krivično djelo propisana je kazna zatvora u trajanju od 1 do 8 godina. U članu 20 st.3 Krivičnog zakonika propisano je da će se učinilac za pokušaj kazniti kaznom propisanom za krivično djelo, a može se i blaže kazniti. Na strani optuženog cijenjene su sve olakšavajuće i otežavajuće okolnosti iz čl. 42. Krivičnog zakonika. Od olakšava​jućih okolnosti sud je cijenio da je optuženi otac dvoje djece, a od otežavajućih okolnosti da je višestruki specijalni povratnik. </span><span class="s6">Izrečena kazna zatvora po ocjeni suda odgovaraj težini krivičnih djela i krivici optuženog i predstavlja mjeru koja je neophodna da bi se postigla svrha kažnjavanja.</span>
+</p>
+<p class="p20"></p>
+<p class="p4">
+<span>Optuženi je na izdržavanje kazne zatvora upućen prije pravosnažnosti, jer je ocijenjeno da bi s obzirom da je strani državljanin puštanjem na slobodu mogao pobjeći i na taj način onemogućiti izvršenje kazne zatvora. Na osnovu čl. 51 Krivičnog zakonika, u kaznu zatvora optuženom se uračunava vrijeme provedeno u pritvoru od 02.03.2011. godine, do pravosnažnosti presude. </span>
+</p>
+<p class="p5"></p>
+<p class="p21">
+<span>	Na osnovu čl. 76 Krivičnog zakonika optuženom je izrečena mjera bezbjednosti protjerivanja stranca sa teritorije Crne Gore u trajanju od 10 godina. Optuženi je kao višestruki specijalni povratnik sa umišljajem učinio krivično djelo za koje je zaprijećena kazna zatvora u trajanju od jedne do osam godina, a kako je </span><span class="s7">po ocjeni suda optuženi došao u Crnu Goru da vrši krivična djela,</span><span> dalji boravak optuženog u zemlji je nepoželjan, zbog čega je prema njemu izrečena navedena mjera bezbjednosti. </span><span class="s8">Vrijeme trajanja protjerivanja računa se od dana pravosnažnosti odluke, a vrijeme provedeno u zatvoru ne uračunava u vrijeme trajanja mjere.</span>
+</p>
+<p class="p15"></p>
+<p class="p4">
+<span>Odluka o troškovima krivičnog postupka zasniva se na odredbi čl. 202 st.1 ZKP. Optuženi je dužan da plati troškove krivičnog postupka u iznosu od 80,00 €, koji troškovi se odnose na troškove rada suda koji su određeni prema trajanju, složenosti krivičnog postupka i imovinskim prilikama optuženog. O troškovima branioca po službenoj dužnosti sud će odlučiti naknadno, jer u vrijeme donošenja presude nije bio dostavljen troškovnik branioca. </span>
+</p>
+<p class="p4"></p>
+<p class="p22">
+<span>Na osnovu izloženog odlučeno je kao u izreci presude</span>
+</p>
+<p class="p23"></p>
+<p class="p23">
+<span class="s1">OSNOVNI SUD U BARU</span>
+</p>
+<p class="p23">
+<span class="s1">Dana 06.07.2011. godine</span>
+</p>
+<p class="p5"></p>
+<p class="p5"></p>
+<p class="p10">
+<span class="s1"> ZAPISNIČAR,				            PREDSJEDNIK VIJEĆA-SUDIJA</span>
+</p>
+<p class="p10"></p>
+<p class="p5">
+<span class="s1">Milijana Minić				                         Goran Šćepanović</span>
+</p>
+<p class="p24"></p>
+<p class="p24"></p>
+<p class="p24"></p>
+<p class="p24"></p>
+<p class="p24">
+<span class="s1">PRAVNA POUKA</span><span>:Protiv ove presude može se </span>
+</p>
+<p class="p24">
+<span>izjaviti žalba Višem sudu u Podgorici u roku od</span>
+</p>
+<p class="p24">
+<span>15 (petnaest) dana od dana prijema pismenog otpravka.</span>
+</p>
+<p class="p24">
+<span>Žalba se predaje ovom sudu u dva primjerka.</span>
+</p>
+<p class="p10"></p>
+<p class="p10"></p>
+<p class="p10"></p>
+<p class="p10">
+<span class="s1">DNA</span><span>:-    1 x ODT, </span>
+</p>
+<p class="p25">
+<span class="s9">-​&nbsp;</span><span>po 1 x optuženom </span>
+</p>
+<p class="p25">
+<span class="s9">-​&nbsp;</span><span>1 x braniocu P.S.,</span>
+</p>
+<p class="p25">
+<span class="s9">-​&nbsp;</span><span>u spise. </span>
+</p>
+<p class="p26"></p>
+
+
+</body>

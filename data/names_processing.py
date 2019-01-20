@@ -20,8 +20,9 @@ idsSet = set(ids)
 
 for id in idsSet:
     id = id.rstrip()
+    #id = "22256"
     browser.get(url+id)
-
+    
     txt_path = FOLDER + "presuda_" + id + ".txt"
     if os.path.isfile(txt_path):
         continue
@@ -38,10 +39,19 @@ for id in idsSet:
     index = 0
     for label in labels:
         key = browser.execute_script("return $('.labela')[" + str(index) + "].innerHTML;").split(":")[0]
-        value = browser.execute_script("return $('.labela')[" + str(index) + "].nextSibling.data;").strip()
+        if index >= 6:
+            siblings = browser.execute_script("return $('.labela').siblings('a');")
+            value = []
+            for sibl in siblings:
+                temp = {}
+                temp["id"] = sibl.get_attribute("href").split("=")[1]
+                temp["text"] = sibl.get_attribute("innerHTML")
+                value.append(temp)
+        else:
+            value = browser.execute_script("return $('.labela')[" + str(index) + "].nextSibling.data;").strip()
         meta[key] = value
         index+=1
-
+    #print(meta)
     f_json.write(str(meta))
 
     f_json.close()
@@ -61,5 +71,6 @@ for id in idsSet:
     f_txt.write(txt)
     f_txt.close()
 
-    break
+    #break
 
+browser.close()

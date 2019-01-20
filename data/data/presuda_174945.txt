@@ -1,0 +1,316 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.window1{background:#fff; margin:0 auto;width:210mm;}
+.page1{ background:#fff; margin:0 1.0in;padding-top:20px;}
+.span1{;font-size:13pt;font-weight:800}
+.span2{;font-size:13pt}
+.span3{color:#6A6A72;font-size:13pt}
+.span4{color:#000000;font-size:13pt}
+.span5{;font-size:13pt;font-style:italic }
+.span6{color:#4E6273;font-size:13pt}
+.span7{color:#000000;font-size:13pt;font-weight:800}
+.span8{;font-size:13pt;font-family:'Times New Roman';font-weight:800}
+.span9{;font-size:13pt;font-family:'Times New Roman'}
+.span10{;font-size:13pt;font-family:'Times'}
+.a1{color:#auto;font-size:13pt}
+</style>
+</head>
+<body class="b1" style="background: #aaa;">
+<div class="window1">
+<div class="page1">
+<p style="text-align:right">
+<span class="span1">    K broj 129/15</span>
+</p>
+<p>
+<span></span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">         </span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">U IME CRNE GORE</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">OSNOVNI SUD U BARU</span><span class="span2">, kao prvostepeni krivični, sudija Goran Šćepanović, kao sudija pojedinac, sa zapisničarom Milijanom Minić, u krivičnom predmetu okrivljenih </span><span class="span1">B</span><span class="span1">.</span><span class="span1"> N</span><span class="span1">.</span><span class="span1"> i B</span><span class="span1">.</span><span class="span1"> R</span><span class="span1">.</span><span class="span2">, zbog krivičnog djela šumska krađa iz čl. 324 st.1 Krivičnog zakonika, po optužnom predlogu Osnovnog državnog tužilaštva u Baru Kt.br. 68/15 od 28.05.2015. godine, nakon održanog glavnog javnog pretresa u prisustvu savjetnika Osnovnog državnog tužilaštva Đikanović Predraga i okrivljenih, dana 25.01.2016. godine donio je, a dana 26.01.2016. godine javno objavio,</span>
+</p>
+<p>&nbsp;</p>
+<li>
+<span class="span1">                                               P R E S U D U</span>
+</li>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Okrivljeni : </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">1. B</span><span class="span1">.</span><span class="span1">N</span><span class="span1">.</span><span class="span2">, JMBG </span><span class="span2">...</span><span class="span3"> </span><span class="span2">od oca V</span><span class="span2">.</span><span class="span2"> </span><span>i </span><span class="span2">majke </span><span class="span2">V</span><span class="span2">.</span><span class="span3">, </span><span class="span2">rođene B</span><span class="span2">.</span><span class="span2">, rođen </span><span class="span2">..</span><span class="span2">. godine u B</span><span class="span2">.</span><span class="span3">, </span><span class="span2">sa prebivalištem </span><span class="span2">u B</span><span class="span2">.</span><span class="span3">, </span><span class="span2">naselje P</span><span class="span2">...</span><span class="span2">, državljanin Crne Gore, mašinbravar, sa završenom srednjom školom, oženjen, lošeg imovnog stanja, osuđivan presudom Osnovnog suda u Baru K broj 32/15 od 13.05.2015. godine, zbog krivičnog djela šumska krađa u produženom trajanju iz čl. 324 st.1 u vezi čl. 49 KZ, kojom mu je izrečena uslovna osuda i to kazna zatvora u trajanju od 30 dana, uslovno za jednu godinu i novčana kazna u iznosu od 600,00 €. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">2.B</span><span class="span1">.</span><span class="span1"> R</span><span class="span1">.</span><span class="span2">, JMBG </span><span class="span2">...</span><span class="span2">, od oca N</span><span class="span2">.</span><span class="span2"> i </span><span class="span2">majke V</span><span class="span2">.</span><span class="span3">, </span><span class="span2">rođene P</span><span class="span2">.</span><span class="span3">, </span><span class="span2">rođen </span><span class="span2">..</span><span class="span2">. godine</span><span class="span3"> </span><span class="span2">u B</span><span class="span2">.</span><span class="span3">, </span><span class="span2">sa prebivalištem u B</span><span class="span2">.</span><span class="span3">, </span><span class="span2">naselje P</span><span class="span2">.</span><span class="span2">, državljanin Crne Gore, sa završenom srednjom školom, oženjen, lošeg imovnog stanja, neosuđivan. </span><span class="span3"> </span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">       K r i v i   s u :</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Što su:</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Okrivljeni B</span><span class="span2">.</span><span class="span2"> N</span><span class="span2">.</span><span class="span2"> dana 07.02</span><span class="span4">.</span><span class="span2">2015. godine</span><span class="span3">, </span><span class="span2">na lokalitetu Sutorman</span><span class="span3">, </span><span class="span3"></span><span class="span2">gazdinska jedinica Rumija</span><span class="span3">, </span><span class="span2">Opština Bar</span><span class="span3">, </span><span class="span2">svjestan svog djela i htio je njegovo izvršenje i ako je znao da je njegovo djelo zabranjeno</span><span class="span3">, </span><span class="span2">u državnoj šumi u kojoj gazduje oštećena Uprava za šume Pljevlja PJ</span><span class="span5"> </span><span class="span2">Kotor</span><span class="span3"> </span><span class="span2">- Ispostava Bar, radi krađe oborio 11 stabala jasena ukupnoj količini od 2</span><span class="span3">,</span><span class="span2">19 m3. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">            - čime je izvršio krivično djelo </span><span class="span6">- </span><span class="span1">šumska krađa iz čl</span><span class="span7">. </span><span class="span1">324 stav. 1 Krivičnog zakonika Crne Gore.</span><span class="span2"> </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Okrivljeni B</span><span class="span2">.</span><span class="span2"> R</span><span class="span2">.</span><span class="span3"> </span><span class="span2">07.02</span><span class="span4">.</span><span class="span2">2015. godine</span><span class="span3">, </span><span class="span2">na lokalitetu Sutorman</span><span class="span3">, </span><span class="span2">gazdinska jedinica Rumija</span><span class="span3">, </span><span class="span2">Opština Bar</span><span class="span3">, </span><span class="span2">svjestan svog djela i htio je njegovo izvršenje i ako je znao da je njegovo djelo zabranjeno</span><span class="span3">, </span><span class="span2">u državnoj šumi u kojoj gazduje oštećena uprava za šume Pljevlja </span><span class="span2">PJ</span><span class="span5"> </span><span class="span2">Kotor - Ispostava Bar</span><span class="span3">, </span><span class="span2">radi krađe oborio 13 stabala jasena ukupnoj količini od 3</span><span class="span3">,</span><span class="span2">59 m3. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">        - čime je izvršio krivično djelo - </span><span class="span1">šumska krađa iz čl. 324 stav. 1 Krivičnog zakonika Crne Gore</span><span class="span2">. </span>
+</p>
+<p>
+<span class="span2">   </span>
+</p>
+<p>
+<span class="span2">         pa sud okrivljenog Babović Nedeljka primjenom čl. 4, 32, 36, 39 i 42 Krivičnog zakonika i čl. 369, 370 i 374.  ZKP-a</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">OSUĐUJE</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Na kaznu zatvora u trajanju od 30 (trideset) dana.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">   2. Na </span><span class="span4">novčanu kaznu u iznosu od 600,00 € (šest stotina Eura), koju kaznu je dužan da plati u roku od 30 dana od dana pravosnažnosti presude, pod prijetnjom izvršenja. </span>
+</p>
+<p>&nbsp;</p>
+<li>
+<span class="span2">         Ukoliko se novčana kazna ne bude mogla naplatiti ni prinudnim putem ista će se izvršiti tako što će se za svakih započetih 25,00 € novčane kazne odrediti jedan dan zatvora. </span>
+</li>
+<p>&nbsp;</p>
+<p>
+<span class="span2">         Sud okrivljenom B</span><span class="span2">.</span><span class="span2"> R</span><span class="span2">.</span><span class="span2"> primjenom čl. 4, 32, 36, 39, 42, 52, 53 i 54 </span><span class="span4">Krivičnog zakonika</span><span class="span2"> i čl. 359, 360 i 364  ZKP-a,  izriče </span>
+</p>
+<p>&nbsp;</p>
+<li style="text-align:center;">
+<span class="span8">USLOVNU OSUDU</span>
+</li>
+<li>
+<span class="span9">        </span>
+</li>
+<li>
+<span class="span9">          Kojom mu utvrđuje kaznu zatvora u trajanju od 30 (trideset) dana i istovremeno određuje da se kazna neće izvršiti ukoliko okrivljeni u roku od 1 (jedne) godine, od dana pravosnažnosti, ne učini novo krivično djelo, i </span>
+</li>
+<li>
+<span class="span2"> </span>
+</li>
+<li>
+<span class="span1">O S U Đ U J E</span>
+</li>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Na </span><span class="span4">novčanu kaznu u iznosu od 600,00 € (šest stotina Eura), koju kaznu je dužan da plati u roku od 30 dana od dana pravosnažnosti presude, pod prijetnjom izvršenja. </span>
+</p>
+<p>&nbsp;</p>
+<li>
+<span class="span2">         Ukoliko se novčana kazna ne bude mogla naplatiti ni prinudnim putem ista će se izvršiti tako što će se za svakih započetih 25,00 € novčane kazne odrediti jedan dan zatvora. </span>
+</li>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Oštećeno preduzeće JP </span><span class="span2">Uprava za šume Pljevlja PJ</span><span class="span5"> </span><span class="span2">Kotor</span><span class="span3"> </span><span class="span2">- Ispostava Bar</span><span class="span2"> se radi ostvarivanja imovinskopravnog zahtjeva upućuje na parnični postupak.</span>
+</p>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Okrivljeni B</span><span class="span2">.</span><span class="span2"> N</span><span class="span2">.</span><span class="span2"> je dužan da plati troškove krivičnog postupka u iznosu od 280,00 €, a okrivljeni B</span><span class="span2">.</span><span class="span2"> R</span><span class="span2">.</span><span class="span2"> u iznosu od 100,00 €, u roku od 15 dana od dana pravosnažnosti pod prijetnjom izvršenja.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span1">                                             O b r a z l o ž e n j e</span>
+</li>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optužnim predlogom Osnovnog državnog tužioca u Baru </span><span><a class="a1" href="http://Kt.br" name="rId7">Kt.br</a></span><span class="span2">. 68/15 od 28.05.2015. godine stavljeno je na teret okrivljenim izvršenje krivičnih djela bliže opisanih u izreci presude.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Okrivljeni </span><span class="span1">B</span><span class="span1">.</span><span class="span1"> N</span><span class="span1">.</span><span class="span2"> je u svojoj odbrani izjavio da </span><span class="span2">je dana 07.02.2015.godine pošao sa svojim putničkim motornim vozilom marke </span><span class="span2">Golf, sa prikolicom, negdje oko 17,00 časova, do Sutormana, uzeo je sa sobom i motornu šegu kako bi izvršio sječu drva koja su mu bila potrebna za ogrjev. Toga dana je sjekao drva, ne zna kada je B</span><span class="span2">.</span><span class="span2"> R</span><span class="span2">.</span><span class="span2"> došao na Sutorman i ne zna gdje je drva sjekao, jer se na Sutorman sa njim nije sretao. Nakon što je izvršio sječu drva sa motornom šegom on je ista natovario na prikolicu i na istoj je možda bilo oko pola metra drva. Ista je rezao sa motornom šegom, a nakon toga sa utovarenim drvima u prikolici i sa vozilom je se uputio u pravcu Bara. Prvi put je vidio B</span><span class="span2">.</span><span class="span2">R</span><span class="span2">.</span><span class="span2">, kod prodavnice „Laki“ u Popovićima gdje ga je zaustavila policija, a nakon možda nekih desetak</span><span class="span2"> </span><span class="span2">minuta on je naišao sa vozilom i prikolicom u kojoj su bila natovarena drva. Nakon toga su dovedeni u CB Bar kako on, tako i B</span><span class="span2">.</span><span class="span2"> R. On je tog dana upravljao vozilom vlasništvo svoje supruge tipa „Golf II“ reg oznaka BR </span><span class="span2">...</span><span class="span2">, drva je sjekao za svoje potrebe, a ne za prodaju, jer ni on, ni supruga ne rade, tako da im je materijalna situacija dosta teška. Ne zna tačnu lokaciju gdje je izvršio sječu stabala, nije imao dozvolu, niti potrebnu dokumentaciju, niti se bilo kome obraćao za dozvolu kako bi izvršio sječu stabala već je u sječu krenuo na svoju ruku. </span>
+</p>
+<p>
+<span class="span2">Na glavnom pretresu je dodao da je okrivljenog Barjaktarovića sreo usput, i to kada su se vraćali i bili su jedan iza drugog kada ih je policija zaustavila. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">Okrivljeni </span><span class="span7">B</span><span class="span7">.</span><span class="span7"> R</span><span class="span7">.</span><span class="span2"> je u svojoj odbrani izjavio da se dana </span><span class="span4">07.02.2015. godine uputio zajedno sa B</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4"> iz Bara u sječu drva u Sutormanu – Opština Bar. Našli su se u naselju Popovići u Baru i krenuli su svojim vozilima prema Sutormanu u sječu drva. On je upravljao vozilom marke „Golf 2“ reg.oznake BR </span><span class="span4">...</span><span class="span4">, a B</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4"> je upravljao marke „Golf“, ali ne zna koje su reg. oznake bile. Obojica su zakačili prikolice na vozilima, drva su sjekli u državnoj šumi. Nisu imali dozvolu, niti bilo kakvu dokumentaciju, niti su se bilo kome obraćali,  već su sječu izvršili na svoju ruku. On je posjekao šest stabala, a takođe je pronašao i neka već posječena stabla i napunio je svoju prikolicu. Nakon što su ubrana drva posložili u prikolicu, krenuli su prema Baru oko 19,00 časova. Kada su stigli u naselje Popovići zaustavila ih je policija i sa posječenim utovarenim drvima u prikolici došli su ispred zgrade CB Bar. Drvo je sjekao za svoju vlastitu upotrebu za ogrjev. Njemu je žao što se ovo desilo, on se nalazi u teškoj </span><span class="span4">materijalnoj situaciji, živi kao podstanar, nezaposlen je a takođe ni njegova supruga nigdje ne radi.</span>
+</p>
+<p>
+<span class="span2">Na glavnom pretresu je dodao da su on i B</span><span class="span2">.</span><span class="span2"> zajedno krenuli, a bili su zajedno i kada su zaustavljeni od strane policije. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">U dokaznom postupku saslušan je </span><span class="span4">ovlašćeni predstavnik JP Uprava za šume CG - Ispostava Bar, Š</span><span class="span4">.</span><span class="span4"> D</span><span class="span4">.</span><span class="span4">, pročitani su zapisnik čuvara šuma  o izvršenom pregledu Uprava za šume Pljevlja ispostava Bar br. 13 od 7.02.2015. godine, zapisnik čuvara šuma  o izvršenom pregledu Uprava za šume Pljevlja ispostava Bar br. 14 od 7.02.2015. godine, nalaz i mišljenje sudskog vještaka šumarske struke F</span><span class="span4">.</span><span class="span4">A</span><span class="span4">.</span><span class="span4"> od 20.04.2015. godine, izvod iz kaznene evidencije na ime B</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4"> Ministarstva pravde br. 0203/21165 od 09.06.2015. godine, izvod iz kaznene evidencije na ime okrivljenog B</span><span class="span4">.</span><span class="span4"> R</span><span class="span4">.</span><span class="span4"> Ministarstva pravde br. 0203/20948 od 4.06.2015. godine, nalaz i mišljenje sudsko medicinskog vještaka K</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4"> od 18.11.2015. godine, koji je saslušan na glavnom pretresu, izvršen je uvid u fotodokumentaciju Uprave policije PJ Bar  koja se sastoji od 4 fotografije lica mjesta i spise predmeta Osnovnog suda u Baru K br. 32/15. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">Ovlašćeni predstavnik JP Uprava za šume CG - Ispostava Bar, Š</span><span class="span4">.</span><span class="span4"> D</span><span class="span4">.</span><span class="span4"> je izjavio da se pridružuje krivičnom gonjenju i postavlja imovinsko pravni zahtjev  koji ću naknadno precizirati na osnovu količine koju je utvrdio vještak šumarske struke. B</span><span class="span4">.</span><span class="span4"> je u više navrata zbog istog kriv. djela procesuiran, do sada su procesuirane 4 krivične prijave, a sudu dostavlja pravosnažnu presudu ovog suda koja je izrečena 13.05.2015. godine, a postala pravosnažna 24.06.2015. godine i nosi oznaku K br. 32/15, kojom  mu je izrečena uslovna osuda i novčana kazna u iznosu od 600 eura. N</span><span class="span4">.</span><span class="span4"> Z</span><span class="span4">.</span><span class="span4"> koji je predložen da se sasluša kao svjedok je umro.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">Iz zapisnika čuvara šuma o izvršenom pregledu Uprava za šume Pljevlja ispostava Bar br. 13 od 7.02.2015. godine utvrđeno je da je B</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4"> zatečen u prometu sa posječenim drvima iz državne šume, koja su utovarena na prikolicu auta reg. Oznake BR </span><span class="span4">..</span><span class="span4">. Posječena drva su zaplijenjena i otjerana u šumski rasadnik. U pitanju je lice koje je više puta hvatano zbog bespravne sječe u noćnim satima. Ukupno je posječeno 11 stabala čija drvna masa iznosi 2,13 m3. Okrivljeni je zapisnik potpisao bez primjedbi. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">Iz zapisnika čuvara šuma o izvršenom pregledu Uprava za šume Pljevlja ispostava Bar br. 14 od 7.02.2015. godine utvrđeno je da je okrivljeni B</span><span class="span4">.</span><span class="span4"> R</span><span class="span4">.</span><span class="span4"> dana 07.02.2015. godine izvršio bespravnu sječu ogrjevnog drveta cera iz državne šume, bez prethodne doznake i odobrenja za sječu. Zatečen je sa drvima u prometu, drva će biti zaplijenjena i otjerana u šumski rasadnik. Drva su posječena sa lijeve strane sušare, utovarena na prikolicu auta reg. Oznake BR </span><span class="span4">..</span><span class="span4">. Ukupno je posječeno 13 stabala čija drvna masa iznosi 3,60 m3. Okrivljeni je zapisnik potpisao bez primjedbi. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">Iz nalaza i mišljenja sudskog vještaka šumarske struke F</span><span class="span4">.</span><span class="span4">A</span><span class="span4">.</span><span class="span4"> od 20.04.2015. godine utvrđeno je da se jedna lokacija na kojoj su stabla posječena </span><span class="span2">nalazi na samom prevoju uzvišenja Sutorman sa lijeve strane asfaltnog puta na padini na udaljenosti oko 80 m, po prijavi: br. 14/15 od 07.02.2015 godine, stabla čiji su prečnici panjeva: Jasen: </span><span class="span2">24, 30, 25 ; Hrast: 31, 28, 26, 32, 25, 30, 26, 31, 29, 32. Prsni prečnici iznose :19, 24, 20, 25, 22, 21, 26, 20, 24, 21, 25, 23,26, zapremina: 0,18, 034,0,24, 0,38, 0,27, 0,24, 0,42, 0,21, 0,34, 0,24, 0,31, 0,4. Posječeno je 13 stabala bruto zapremine 3,59 m3 </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Druga lokacija je neposredno sa lijeve strane puta na oko 100 m sjeverno od prethodne lokacije gdje je premjerio panjeve posječenih stabala, po prijavi br. 13/15 od 07.02. 2015 godine, čiji su prečnici: Jasen:26, 24, 18; hrast-cer: 12,28,25, 30, 24, 32,18,26. Prsni prečnici iznose : 21, 19, 14,9, 22, 20, 24, 19, 26, 14, 21, 20, zapremine: 0,24, 0,18, 0,07, 0,27, 0,21, 0,34, 0,18, 0,42, 0,07, 0,21. Bespravno posječeno 11 stabala bruto zapremine 2,19 m3. Stabla su u oba slučaja posjećena motornom testerom. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">U izvodu iz kaznene evidencije na ime B</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4"> Ministarstva pravde br. 0203/21165 od 09.06.2015. godine navedeno je da okrivljeni nije osuđivan. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">Iz izvoda iz kaznene evidencije na ime okrivljenog B</span><span class="span4">.</span><span class="span4"> R</span><span class="span4">.</span><span class="span4"> Ministarstva pravde br. 0203/20948 od 4.06.2015. godine, utvrđeno je da okrivljeni nije osuđivan. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">Iz nalaza i mišljenja sudsko medicinskog vještaka K</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4"> od 18.11.2015. godine utvrđeno je da je </span><span class="span2">B</span><span class="span2">.</span><span class="span2"> N</span><span class="span2">.</span><span class="span2"> u septembru 2015. godine imao naglo izumiranje srčanog mišića (infarkt miokarda) u predjelu spoljašnjeg srčanog zida, ispod usrčnice, a koje izumiranje je bilo uslovljeno suženjem lumena kružne srčane arterije u njenom donjem dijelu u iznosu od 95. S obzirom da je prilikom koronarografije koja je B</span><span class="span2">.</span><span class="span2"> N</span><span class="span2">.</span><span class="span2"> urađena dana 22.09.2015. godine u Kliničkom centru Crne Gore u Podgorici utvrđeno da su lumeni ostalih srčanih arterija imenovanog bili bez značajnijih suženja, te s obzirom da je i lumen kružne srčane arterije u njenom donjem »povraćen« ugradnjom stenta takođe dana 22.09.2015. godine u Kliničkom centru Crne Gore u Podgorici, može se reći da je nakon 23.09. 2015. godine zdravstveno stanje B</span><span class="span2">.</span><span class="span2">N</span><span class="span2">.</span><span class="span2"> relativno dobro, pogotovo, ako je imenovani redovno uzimao (uzima) ordiniranu terapiju, te ako se pridržavao (pridržava) svih preporuka i uputstava koja su mu data na otpustu iz Kliničkog centra Crne Gore u Podgorici dana 23.09.2015. godine. Ć</span><span class="span2">.</span><span class="span2"> Ž</span><span class="span2">.</span><span class="span2"> od septembra 2014. godine boluje od krajnje dugotrajne nedostatnosti bubrežne funkcije, tj. od terminalne hronične bubrežne insuficijencije sa pratećom malokrvnošću i povišenim arterijskim krvnim pritiskom. Imenovani je prije transplantaciono pripremljen, što znači da »čeka« transplantaciju bubrega, nalazi se na dijalizi, te se može konstatovati da je njegovo zdravstveno stanje veoma loše. Okrivljeni B</span><span class="span2">.</span><span class="span2"> je precizirao da je Ć</span><span class="span2">.</span><span class="span2"> Ž</span><span class="span2">.</span><span class="span2"> </span><span class="span4">sin njegove supruge iz prvog braka Ć</span><span class="span4">.</span><span class="span4">V</span><span class="span4">.</span><span class="span4">, koji živi sa njima u porodičnoj zajednici. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">Vještak medicinske struke K</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4"> je na glavnom pretresu naveo da je nakon što je pacijentu konstatovano suženje lumena i kružne srčane arterije u njenom donjem dijelu u minusu od 95%, a koje suženje je uzrokovalo infrakt srčanog mišića B</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4"> je ugrađen stent u tom dijelu arterije. Stent je šuplji cilindar koji kad se uvede na mjestu suženja se pod pritiskom raširi na odgovarajući željeni prečnik, te na koji način se eliminiše suženje arterija. U to vrijeme sve ostale srčane arterije kod imenovanog bile su urednog lumena, odnosno bile su bez značajnijeg suženja, a i ne očekuje se da je došlo do značajnijih suženja od 22.09.2015. godine, pa do danas. S obzirom na sve </span><span class="span4">iznijeto kvalitet života je potpuno normalan uz pretpostavku da je pacijent uzeo propisanu terapiju koja se uzima u određenom vremenskom periodu nakon ugradnje stenta. Stent se ugrađuje prilikom vršenja kateterizacije, odnosno utvrđivanja prohodnosti krvih sudova što isključuje klasičnu operaciju na otvorenom srcu i podrazumijeva niski intenzitet traumatizacije organizma.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">Uvidom u fotodokumentaciju Uprave policije PJ Bar utvrđeno je da se ista sastoji od koja se sastoji od 4 fotografija pedmetnih vozila.  </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">Uvidom u spise predmeta Osnovnog suda u Baru K br. 32/15 utvrđeno je da je okrivljeni B</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4"> presudom od 13.05.2015. godine, koja je postala pravosnažna dana 24.06.2015.godine, zbog produženog kriv. djela šumska krađa iz čl.324.st.1. u vezi čl.49 KZ osuđen , izrečena mu je uslovna osuda i to kazna zatvora u trajanju od 30 dana, uslovno za jednu godinu i novčana kazna u iznosu od 600 eura.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Kako je iz obavještenja dostavne službe i iskaza ovlašćenog predstavnika oštećenog preduzeća utvrđeno da je svjedok N</span><span class="span2">.</span><span class="span2"> Z</span><span class="span2">.</span><span class="span2"> umro donijeto je rješenje da se isti neće saslušati u dokaznom postupku i da se </span><span class="span4">neće pribavljati novi izvod iz kaznene evidencije na ime okrivljenog B</span><span class="span4">.</span><span class="span4">, niti će pribavljati izvod iz matične knjige vjenčanih na njegovo ime, jer je ocijenjeno da je činjenično stanje utvrđeno.  </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Ocjenom izvedenih dokaza utvrđeno je da su okrivljeni učinili krivično djelo koje im je stavljeno na teret. Okrivljeni su u svojim odbranama izjavili da je tačno da su učinili krivična djela koja su im stavljena na teret i da su na brdu Sutorman ubrali drvo za ogrjev koje su utovarili na prikolice koje su bile zakačene za njihova vozila.  Odbrane okrivljenih razlikuju se jedino u dijelu u kome je okrivljeni B</span><span class="span2">.</span><span class="span2"> naveo da su se on i okrivljeni B</span><span class="span2">.</span><span class="span2"> prilikom povratka sa brda Sutorman slučajno sreli i da ih je dok su bili jedan iza drugog zaustavila policija, dok je okrivljeni B</span><span class="span2">.</span><span class="span2"> izjavio da su on i okrivljeni B</span><span class="span2">.</span><span class="span2"> zajedno krenuli prema brdu Sutorman i da su bili zajedno i kada su zaustavljeni od strane policije. Sud je poklonio vjeru odbrani okrivljenog B</span><span class="span2">.</span><span class="span2"> u tom dijelu, jer je i licima koja nemaju pravno obrazovanje poznato da izvršenje krivičnog djela koje je dogovoreno od strane više lica predstavlja viši stepen društvene opasnosti, pa je okrivljeni B</span><span class="span2">.</span><span class="span2"> i pored toga naveo da je na brdo Sutorman otišao zajedno sa okrivljenim B. Osim toga, veoma je mala vjerovatnoća da dva lica zasebno odu na jedno brdo koje je velike površine i da prilikom povratka budu zaustavljeni istovremeno od strane policije dok su se kretali jedan iza drugog. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Krivica okrivljenih utvrđuje se i iz pisanih dokaza, u prvom redu iz zapisnika čuvara šuma o izvršenom pregledu od 07.02.2015. godine, u kojim zapisnicima su opisane radnje službenih lica prilikom zaustavljanja vozila okrivljenih na koje su bile prikačene prikolice sa posječenim drvima. Na sadržinu zapisnika okrivljeni nisu imali primjedbe ni prilikom njihovog sačinjavanja, ni u toku postupka. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Vrsta i količina posječenog drveta utvrđena je iz jasnog i stručnog nalaza </span><span class="span4">i mišljenja sudskog vještaka šumarske struke F</span><span class="span4">.</span><span class="span4"> A</span><span class="span4">.</span><span class="span4"> od 20.04.2015. godine,  koji je vještak izradio nakon izlaska na lice mjesta i utvrđivanja vrste stabala, </span><span class="span2">prečnika </span><span class="span2">panjeva, prsnih prečnika, i zapremine. Nalaz i mišljenje na koji nije bilo primjedbi sud je u potpunosti prihvatio.  </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Okrivljeni su krivično djelo učinili u državnoj šumi, obaranjem u izreci presude navedene količine drveta radi krađe</span><span class="span4">, a sve </span><span class="span2">u cilju pribavljanja sebi protivpravne imovinske koristi. </span>
+</p>
+<p>&nbsp;</p>
+<li>
+<span class="span2">            Okrivljeni su krivično djelo učinili sa direktnim umišljajem jer su bili svjesni da obaraju stabla u šumi u državnoj svojini, bez odobrenja za sječu, a utvrđena je i njegova namjera da pribave sebi protivpravnu imovinsku korist.</span>
+</li>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Odlučujući se za krivičnu sankciju prema okrivljenim sud je cijenio olakšavajuće i otežavajući okolnosti iz čl. 42  Krivičnog zakonika. Od olakšavajućih okolnosti na strani okrivljenog B</span><span class="span2">.</span><span class="span2"> N</span><span class="span2">.</span><span class="span2"> sud je cijenio priznanje krivičnog djela. Već je navedeno da je okrivljeni izjavio da je prilikom povratka sa brda Sutorman slučajno sreo okrivljenog  B</span><span class="span2">.</span><span class="span2">, iako je u postupku dokazano da su obojica okrivljenih zajedno otišla na brdo Sutorman, međutim, po ocjeni suda navedeni dio odbrane okrivljenog ne utiče na kvalitet odbrane okrivljenog u smislu priznanja krivičnog djela, jer za postojanje krivičnog djela u konkretnom slučaju ne utiče da li su okrivljeni na brdo Sutorman otišli zajedno ili odvojeno, budući da je svaki od okrivljenih učinio zasebno krivično djelo, a samu radnju krivičnog djela okrivljeni B</span><span class="span2">.</span><span class="span2"> u potpunosti priznaje. Sud je kao olakšavajuću okolnosti cijenio porodične prilike okrivljenog jer je član njegove porodične zajednice i Ć</span><span class="span2">.</span><span class="span2"> Ž</span><span class="span2">.</span><span class="span2">, čije je zdravstveno stanje zbog problema sa radom bubrega veoma loše. I sam okrivljeni je imao zdravstvenih problema jer je imao infarkt miokarda, njegovo zdravstveno stanje je sada takvo da </span><span class="span4">mu je kvalitet života potpuno normalan uz pretpostavku da je uzeo propisanu terapiju koja se uzima u određenom vremenskom periodu nakon ugradnje stenta. Zdravstveno stanje okrivljenog i Ć</span><span class="span4">.</span><span class="span4"> Ž</span><span class="span4">.</span><span class="span4"> utvrđeno je iz jasnog i stručnog nalaza i mišljenja vještaka medicinske struke K</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4">, koji je sud kao takav i prihvatio. Od otežavajućih okolnosti na strani okrivljenog B</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4"> sud je cijenio njegov raniji život jer je osuđivan. Prema izvodu iz kaznene evidencije na ime okrivljenog Ministarstva pravde br. 0203/21165 od 09.06.2015. godine okrivljeni nije osuđivan, međutim, nakon što je sud od strane ovlašćenog predstavnika oštećenog preduzeća upoznat da je okrivljeni osuđivan od strane ovog suda, izvršen je uvid u spise predmeta Osnovnog suda u Baru K br. 32/15 iz kojih je utvrđeno da je okrivljeni B</span><span class="span4">.</span><span class="span4"> N</span><span class="span4">.</span><span class="span4"> presudom od 13.05.2015. godine, koja je postala pravosnažna dana 24.06.2015.godine, zbog produženog kriv. djela šumska krađa iz čl.324.st.1. u vezi čl.49 KZ osuđen, da mu je izrečena uslovna osuda i to kazna zatvora u trajanju od 30 dana, uslovno za jednu godinu i novčana kazna u iznosu od 600 eura. Dakle, okrivljeni se javlja kao specijalni povratnik. Sud je okrivljenog osudio na kaznu zatvora u trajanju od 30 dana. </span><span class="span10">Sud okrivljenom nije mogao izreći uslovnu osudu jer je čl. 54 st.3 Krivičnog zakonika propisano da </span><span class="span10">se u</span><span class="span2">slovna osuda ne može izreći ako nije proteklo više od </span><span class="span2">pet godina od pravosnažnosti osude kojom je učiniocu izrečena kazna za umišljajno krivično djelo, jer je okrivljenom uslovna osuda izrečena i presudom Osnovnog suda u Baru K br. </span><span class="span4">32/15</span><span class="span2">,  od čije pravosnažnosti nije protekao period od 5 godina. Izrečena kazna zatvora po ocjeni suda odgovara težini izvršenog krivičnog djela i krivici okrivljenog i predstavlja mjeru koja je neophodna da bi se postigla svrha </span><span class="span2">kažnjavanja. Sud je okrivljenog osudio na novčanu kaznu u iznosu od 600,00 €, koja je propisana za predmetno krivično djelo. Prilikom utvrđivanja imovinskih prilika okrivljenog sud je cijenio da je okrivljeni nezaposlen, da mu je i supruga takođe nezaposlena, da se u njegovoj porodičnoj zajednici nalazi i Č</span><span class="span2">.</span><span class="span2"> Ž</span><span class="span2">.</span><span class="span2">, koji je veoma lošeg zdravstvenog stanja, što sve ukazuje da je okrivljeni lice lošeg imovnog stanja. Sud je okrivljenog osudio na kaznu zatvora u iznosu od 600,00 €, kao minimalnu kaznu za predmetno krivično djelo. </span><span class="span4">Izrečena novčana kazna po ocjeni suda odgovara težini izvršenog krivičnog djela i krivici okrivljenog, kojom će se u potpunosti postići kažnjavanja, a neće uticati na izdržavanje okrivljenog.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">Sud okrivljenom nije opozvao uslovnu osudu koja je izrečena presudom K broj 32/15. Navedena presuda postala je pravosnažna dana 24.06.2015. godine od kada je počelo vrijeme provjeravanja od jedne godine. </span><span class="span2">Krivični zakonik u čl.55 st.1 propisuje da će sud opozvati uslovnu osudu, ako osuđeni u vrijeme </span><span class="span2">provjeravanja učini jedno ili više krivičnih djela za koja je izrečena kazna zatvora od dvije godine ili u dužem trajanju. U konkretnom slučaju nisu ispunjeni uslovi za obavezno opozivanje uslovne osude. U čl. 55 st.2 propisano je da ako osuđeni u vrijeme provjeravanja učini jedno ili više </span><span class="span2">krivičnih djela za koja je izrečena kazna zatvora manja od dvije godine ili novčana kazna, sud će, pošto ocijeni sve okolnosti koje se odnose na učinjena krivična djela i učinioca, a posebno srodnost učinjenih krivičnih djela, njihov značaj i pobude iz kojih su učinjena, odlučiti da li će opozvati uslovnu osudu. Pri tome sud je vezan zabranom izricanja uslovne osude, ako učiniocu za krivična djela utvrđena u uslovnoj osudi i za nova krivična djela treba izreći kaznu preko dvije godine zatvora (član 54 stav 1). Cijeneći da je krivično djelo za koje je okrivljeni osuđen učinjeno dana 07.02.2015. godine, dakle, prije početka vremena provjeravanja određenog presudom K broj 32/15, koje je započelo dana 24.06.2015. godine, ocijenjeno je da nisu ispunjeni uslovi za opozivanja uslovne osude. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Od olakšavajućih okolnosti na strani okrivljenog B</span><span class="span2">.</span><span class="span2">R</span><span class="span2">.</span><span class="span2"> sud je cijenio priznanje krivičnog djela i raniji život jer nije osuđivan. Od otežavajućih okolnosti na strani okrivljenog nije bilo. Ocijenjeno je da prema okrivljenom nije potrebno izricanje efektivne kazne zatvora, da će se izricanjem uslovne osude u potpunosti postići svrha izricanja uslovne osude i na taj način dovoljno uticati da u buduće ne čini krivična djela. Sud je okrivljenog osudio na novčanu kaznu u iznosu od 600,00 €, koja je propisana za predmetno krivično djelo. Prilikom utvrđivanja imovinskih prilika okrivljenog sud je cijenio da je okrivljeni </span><span class="span4">podstanar, da ni on ni supruga nisu zaposleni. Iz svega navedenog utvrđeno je da je imovno stanje okrivljenog loše. Sud je okrivljenog osudio na novčanu kaznu u iznosu od 600,00 €, kao minimalnu kaznu. Izrečena novčana kazna po ocjeni suda odgovara težini izvršenog krivičnog djela i krivici okrivljenog, kojom će se u potpunosti postići kažnjavanja, a neće uticati na izdržavanje okrivljenog. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span></span><span class="span2">Odluka o imovinsko pravnom zahtjevu zasniva se na odredbi čl. 212 st.2 ZKP. </span><span class="span2">Ovlašćeni predstavnik oštećenog preduzeća je postavio imovinsko pravni zahtjev, navodeći da će isti </span><span class="span4">naknadno precizirati na osnovu količine koju je utvrdio vještak šumarske struke. Sudu nije dostavljeno preciziranje imovinsko pravnog zahtjeva. Kako </span><span class="span4">sud nije mogao odlučiti o visini imovinskopravnog zahtjeva, jer nije raspolagao sa podacima koji se odnose na cijenu posječenih stabala, uputio je oštećeno preduzeće na parnični postupak. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Odluka o troškovima krivičnog postupka zasnovana je na odredbi čl. 202 ZKP-a, koja se odnosi na troškove vještačenja vještaka šumarske struke u iznosu od 132,50 €, koje su okrivljeni dužni da plate po pola, troškove medicinskog vještačenja u iznosu od 181,50 €, koje je dužan da plati okrivljeni B</span><span class="span2">.</span><span class="span2"> i troškove rad suda koji su za obojicu okrivljenih određeni prema složenosti, postupka trajanju i imovinskim prilikama okrivljenog.</span>
+</p>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Na osnovu izloženog odlučeno je kao u izreci presude</span>
+</li>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<li style="text-align:center;">
+<span class="span1">OSNOVNI SUD U BARU</span>
+</li>
+<li style="text-align:center;">
+<span class="span1">Dana 26.01.2016. godine</span>
+</li>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<li>
+<span class="span1"> ZAPISNIČAR,</span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1">                                     S U D I J A</span>
+</li>
+<li>
+<span class="span1">Milijana Minić</span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1">                             Goran Šćepanović</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2"> </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span1">PRAVNA POUKA</span><span class="span2">:Protiv ove presude može se </span>
+</li>
+<li>
+<span class="span2">izjaviti žalba Višem sudu u Podgorici u roku od</span>
+</li>
+<li>
+<span class="span2">8 (osam) dana od dana prijema pismenog otpravka.</span>
+</li>
+<li>
+<span class="span2">Žalba se predaje ovom sudu u dva primjerka.</span>
+</li>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">DNA:- </span><span class="span2">1 x ODT</span>
+</p>
+<p>
+<span class="span2">          - 1 x okrivljenim </span>
+</p>
+<p>
+<span class="span2">          - 1 x oštećenom preduzeću nakon pravosnažnosti. </span>
+</p>
+<p>
+<span class="span2">          - u spise</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+
+
+</body>

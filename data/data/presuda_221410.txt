@@ -1,0 +1,263 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.window1{background:#fff; margin:0 auto;width:210mm;}
+.page1{ background:#fff; margin:0 1.0in;padding-top:20px;}
+.span1{;font-size:12pt;font-family:'Arial'}
+.span2{;font-size:12pt;font-family:'Arial';font-weight:800}
+.span3{color:#C00000;font-size:12pt;font-family:'Arial'}
+.span4{color:#FF0000;font-size:12pt;font-family:'Arial'}
+.span5{;font-family:'Arial'}
+.span6{color:#000000;font-size:13pt;font-family:'Arial'}
+.span7{color:#000000;font-size:12pt;font-family:'Arial'}
+</style>
+</head>
+<body class="b1" style="background: #aaa;">
+<div class="window1">
+<div class="page1">
+<p style="text-align:center;">
+<span class="span1"></span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:right">
+<span class="span1">K.br.393/15</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">U  IME CRNE GORE</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">OSNOVNI SUD U NIKŠIĆU, kao prvostepeni krivični, sudija Kovačević Vesna, uz sudjelovanje Nikolić Rade, kao zapisničara, u krivičnom predmetu protiv okrivljenih B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1">i M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1">,  zbog krivičnih djela laka tjelesna povreda iz čl.152 st.2 u vezi st.1 KZCG po optužnom predlogu ODT-a u Nikšiću, Kt.br.419/15 od 02.12.2015.godine, nakon završenog glavnog i javnog pretresa, dana 24.01.2017. godine u prisustvu državnog tužioca Sinđić Vanje, okrivljenih B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1"> i M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1">, branioca okrivljenog B</span><span class="span1">..</span><span class="span1">M</span><span class="span1">..</span><span class="span1">, S</span><span class="span1">..</span><span class="span1"> D</span><span class="span1">..</span><span class="span1">, advokata iz Nikšića i branioca okrivljenog M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1">, M</span><span class="span1">..</span><span class="span1"> J</span><span class="span1">..</span><span class="span1">, advokata iz Nikšića, istog dana je donio i javno objavio</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">P R E S U D U</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1">, </span><span class="span1">jmbg  </span><span class="span1">..</span><span class="span1"> od oca  M</span><span class="span1">..</span><span class="span1"> i majke  S</span><span class="span1">..</span><span class="span1"> ,rodjene  S</span><span class="span1">..</span><span class="span1">, rodjen </span><span class="span1">..</span><span class="span1"> god.u Nikšiću, sa prebivalištem u Nikšiću -  ul. B</span><span class="span1">..</span><span class="span1"> br.</span><span class="span1">..</span><span class="span1">, državljenin CG, oženjen, otac jednog djeteta, završio osnovnu školu,nezaposlen, srednjeg imovnog stanja, ranije osuđivan presudama Osnovnog suda Nikšić, K.br.277/12 od 10.07.2012.godine za krivično djelo šumska kradja iz čl.324 KZ, na novčanu kaznu u iznosu od 200,00 eura, K.br.178/10 od 10. 11. 2010. godine za krivično djelo teška tjelesna povreda iz čl.151st.1 KZ CG, na kaznu zatvora u trajanju od 6 mjeseci, K.br.714/08 od06.04.2009.godine za krivično djelo laka tjelesna povreda iz čl.152 st.2 u vezi st.1 KZ, na kaznu zatvora u trajanju od 30 dana, K. br. 609/06 od 12.02.2008.godine za krivično djelo sprečavanje službenog lica u vršenju službene radnje iz čl.375 st. 3 u vezi st.1 KZ, na kaznu zatvora u trajanju od 3 mjeseca, </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1">, jmbg </span><span class="span1">..</span><span class="span1">, od oca L</span><span class="span1">..</span><span class="span1"> i majke M</span><span class="span1">..</span><span class="span1"> rođene K</span><span class="span1">..</span><span class="span1">, rođen </span><span class="span1">..</span><span class="span1">. godine u Nikšiću, sa prebivalištem u Nikšiću, ul. B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1">br</span><span class="span1">.</span><span class="span1">, državljanin CG, oženjen otac dvoje djece, pismen, sa završenom srednjom školom, autoprevoznik, lošeg imovnog stanja, ranije neosuđivan  </span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">K r i v i   s u</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Što su:</span>
+</p>
+<p>
+<span class="span1"></span>
+</p>
+<p>
+<span class="span1">Dana 18.08.2015. godine u Nikšiću, u ulici K</span><span class="span1">..</span><span class="span1"> K</span><span class="span1">..</span><span class="span1">, svjesni svog djela čije izvršenje su htjeli, i to okrivljeni B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1">, lako tjelesno povrijedio okrivljenog Matović Rada na način što ga je metalnom šipkom – pajserom dužine 0,80cm, sredstvom podobnim da tijelo teško povrijedi ili zdravlje teško naruši, udario u predjelu podlaktice lijeve ruke, kada mu je nanio laku tjelesnu povredu u vidu oguljotine kože u predjelu lijeve podlaktice, </span><span class="span1">nakon čega je okrivljeni M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1"> navedenim sredstvom - pajserom  dužine 0,80cm gadjao okrivljenog B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1"> i pogodio ga u predjelu lijevog koljena, kada je zadobio laku tjelesnu povredu u vidu hiperemične zone – crvenila i bla</span><span class="span1">žeg otoka</span><span class="span1"> u predjelu lijevog koljena,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">čime su izvršili po jedno krivično djelo laka tjelesna povreda iz čl.152 st.2 u vezi st.1 Krivičnog zakonika Crne Gore,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">pa sud okrivljenog B</span><span class="span1">..</span><span class="span1">M</span><span class="span1">..</span><span class="span1">shodno čl.4 st.2, čl.42 i čl.39.</span><span class="span1"> čl. 45 tač. 3 i čl. 46 st. 1 tač. 6</span><span class="span2"> </span><span class="span1">Krivičnog zakonika Crne Gore i čl. 226, 229 i čl.374 Zakonika o krivičnom postupku </span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">O S U Đ U J E</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Na novčanu kaznu u iznosu od 1.200,00 (hiljadu i dvijestotine) EUR-a, koju kaznu je dužan platiti u roku od 90 dana po prijemu pravosnažnosti presude, koja kazna će se u slučaju da istu ne plati zamijeniti kaznom zatvora, tako da se svakih započetih 25,00 EUR-a novčane kazne ima računati kao (jedan) dan zatvora,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">a sud okrivljenom M</span><span class="span1">..</span><span class="span1">R</span><span class="span1">..</span><span class="span1"> primjenom čl. 4.st.2, čl.42, čl.52, čl.53 i čl.54 Krivičnog zakonika Crne Gore i čl.226, 229 i 374  Zakonika o krivičnom postupku,  i z r i č e</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">U S L O V N U   O S U D U</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Sa kojom mu utvrđuje kaznu zatvora u trajanju od 60 (šesdeset) dana i ujedno određuje da se ova kazna neće izvršiti ukoliko okrivljeni u roku od jedne godine po pravosnažnosti presude ne učini novo krivično djelo.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Na osnovu čl. 226 i čl.229 st.3 Zakonika o krivičnom postupku OBAVEZUJU SE okrivljeni da na ime troškova krivičnog postupka plate solidarno novčani iznos od 71,50 eura, a pojedinačno iznos od po 40,00 eura koji se odnosi na ime paušala, kao djela troškova krivičnog postupka, sve u roku od 15 dana po pravosnažnosti presude, pod prijetnjom prinudnog izvršenja na žiro račun Osnovnog suda u Nikšiću br. 832-152-32 i da sudu dostave dokaz o izvršenoj uplati</span><span class="span3">.</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">O b r a z l o ž e nj e</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Osnovno državno tužilaštvo u Nikšiću svojim optužnim aktom Kt.br. 419/15 od 02.12.2015.godine stavilo je na teret okrivljenima izvršenje po jednog krivičnog djela </span><span class="span1">laka tjelesna povreda iz čl.152 st.2 u vezi st.1 Krivičnog zakonika Crne Gore, </span><span class="span1">pa je  državni tužilac Sinđić Vanja prije davanja završnih riječi precizirala činjenični opis optužnog predloga dok je pravna kvalifikacija ostala neizmijenjena, </span><span class="span1">a u završnim riječima je ostala pri preciziranom činjeničnom opisu i pravnoj kvalifikaciji i predložila sudu da okrivljene oglasi krivim i osudi po zakonu.</span>
+</p>
+<p>
+<span class="span2"></span><span class="span2"></span>
+</p>
+<p>
+<span class="span1">Okrivljeni B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1"> je u svojoj odbrani u bitnom istakao da se konkretnom prilikom kretao ul. K</span><span class="span1">..</span><span class="span1">K</span><span class="span1">..</span><span class="span1"> svojim vozilom – kamionom i u jednom momentu je pokušao da se </span><span class="span1">mimoidje sa drugim kamionom kojim je upravljao M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1">, pa pošto je M</span><span class="span1">..</span><span class="span1"> prešao na njegovu traku on se pomjeri na zemljište pored puta. Kada se zaustavio, M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1"> je krenuo prema njemu i počeo da viče i da ga psuje, a zatim se zaletio i da ga udari, zbog čega je morao da reaguje i istog da odgurne kako bi izbjegao udarac, tako da  postoji mogućnost da je M</span><span class="span1">..</span><span class="span1"> pao kada ga je odgurnuo i udario se od kamion. Zatim je M</span><span class="span1">..</span><span class="span1"> iz svog kamiona uzeo pajser, pa je on pošao do svog kamiona ali ga je Matović gađao pajserom koji je uspio uzeti iz kamiona i tim pajserom ga pogodio u predjelu lijevog koljena. Zbog prednjeg je i sam uzeo pajser iz svog kamiona ali Matović mu ga je odmah iščupao iz njegovih ruku i udario nekolika puta po vratima i staklu od njegovog kamiona. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Okrivljeni je na glavnom pretresu dodao da je vidio da je M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1"> pao svojim tijelom na lijevu stranu od asfalt ali da se odmah ustao, te da ga je Matović prvo svojim pajserom gađao i pogodio u predjelu lijevog koljena, a zatim je uzeo pajser koji je prethodno njemu ispao i sa tim pajserom udarao po njegovom vozilu. Objašnjavajući  razliku u kazivanju kod tužioca i na glavnom pretresu okrivljeni izjavi da je siguran da je Matović pao, a da li se udario od kamion nije se mogao izjasniti, a kada je dao izjavu pred tužiocem i tada je kazao da je sigurno pao i da se možda udario od kamion i da je pred ODT-om kazao da je njemu taj pajser ispao iz ruku i da ga je Matović uzeo sa ulice a ne da mu ga je isčupao iz ruku.  </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">U završnoj riječi B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1"> je lično i preko svoga branioca istakao da nije na nesumnjiv i jasan način utvrđeno da je izvršio krivično djelo koje mu je optužbom stavljeno na teret, i u konačnom je zatražio da ga sud oslobodi od optužbe.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Okrivljeni M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1"> je u svojoj odbrani u bitnom istakao da se negdje u avgustu mjesecu kretao se svojim kamionom ulicom Krsta Kostića iz pravca Rastoka ka Pivari i tom prilikom je da bi zaobišao grane od drveća skrenuo oko pola metra do desne ivice kolovoza, kada je iz suprotnog pravca većom brzinom naišao kamion marke „Fap“ pa mu je on blicao i pomjerio se desno koliko je mogao, a ovaj drugi kamion se zaustavio na zemljište pored puta. Vozač ovog kamiona B</span><span class="span1">..</span><span class="span1">je došao do njega vičući, a on mu je odgovrio „šta radiš čovječe“ nakon čega ga je B</span><span class="span1">..</span><span class="span1">udario dva puta pesncom u predjelu usana od kojih udaraca je pao i dočekao se na ruke, ali ga je Božović i dalje nastavio udarati pa je nekako uspio da dođe do svoje kabine i kada je vidio da Božović otvara vrata od svog kamiona i da izvlači jedan metalni pajser dužine oko pola metra i okreće se put njega zamahujući tim pajserom i udara ga u predjelu podlaktice lijeve ruke, uspio je da ga uhvati za pajser i isti mu oduzeo, zbog čega je Božović ušao u kabinu svog kamiona i zatvorio vrata za sobom. Zbog prednjeg ponašanja Božovića iz revolta je tada pajserom jednom ili dva puta udario u vrata kamiona Božovića i nanio mu oštećenje</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Okrivljeni M</span><span class="span1">..</span><span class="span1"> je na glavnom pretresu dodao da je tom metalnom šipkom koju je uzeo Božoviću iz ruku udario samo po njegovom vozilo a ne po njemu, jer je u tom trenutku  B</span><span class="span1">..</span><span class="span1">ušao u svoje vozilo i krenuo da zatvori vrata i možda je uspio da ih zatvori, ali je iz revolta reagovao i udario tom šipkom po vozilu. Objašnjavajući razliku u kazivanju pred ODT-om i na glavnom pretresu u pogledu povrede podlaktice lijeve ruke okrivljeni ističe da zna da je Božović tim pajserom htio da ga udari zato što je zamahivao prema njemu, i da je udarac po ruci bio od pajsera, ali da li ga je tim pajserom udario ili ga je zakačio dok su se čupali oko pajsera nije siguran. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">U završnoj riječi M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1"> je lično i preko svoga branioca istakao da pitanje svoje odgovornosti ostavlja sudu na ocjenu.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Sud je u dokaznom postupku neposredno saslušao svjedoke A</span><span class="span1">..</span><span class="span1"> S</span><span class="span1">..</span><span class="span1">, D</span><span class="span1">..</span><span class="span1"> Č</span><span class="span1">..</span><span class="span1">,G</span><span class="span1">..</span><span class="span1">O</span><span class="span1">....</span><span class="span1">a, K</span><span class="span1">..</span><span class="span1"> V</span><span class="span1">..</span><span class="span1"> i P</span><span class="span1">..</span><span class="span1">V</span><span class="span1">--</span><span class="span1">, na saglastan predlog stranaka pročitao nalaz i mišljenje i neposredno saslušao na glavnom pretresu sudskog vještaka medicinske struke dr Bulatović Veselina o vrsti i prirodi povreda koje su zadobili okrivljeni, izvršio uvid u fotodokumentaciju UPCB Nikšić br.612/15 od 18. 08. 2015. godine, pročitao potvrdu o privremeno oduzetim predmetima UPCB Nikšić UBD br.487 od 18. 08. 2015. godine i izvode iz kaznene evidencije na ime okrivljenih</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Svjedok A</span><span class="span1">..</span><span class="span1"> S</span><span class="span1">..</span><span class="span1"> je u svom iskazu u bitnom naveo da su ga kritičnog dana iz dežurne službe obavijestili da je njegov kolega Krsmanović tražio vozilo za privod, zbog čega je postupajući po upustvima izašao na licu mjesta gdje je zatekao B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1"> i M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1">, da je zatim Božovića sjeo u svoje službeno vozilo i priveo u stanicu policije i od istog u uzeo izjavu o predmetnom dogadjaju. Njegov kolega je oduzeo neke predmete sa lica mjesta i sačinio službenu zabolješku i sjeća se da su na vozilu Božovića bila neka oštećenja na staklu i vratima o čemu postoji fotodokumentacija. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Svjedok D</span><span class="span1">...</span><span class="span1"> Č</span><span class="span1">..</span><span class="span1"> je u svom iskazu u bitnom istiakao da ga je konkretnog dana pozvao B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1">i kazao mu da je napadnut od nekog lica zbog čega je odamah obavijestio dežurnu službu i otišao na mjestu gdje mu je Božović objasnio da se nalazi a zatim dolaskom na lice mjesta zatekao je Božovića koji mu je kazao da je povrijedjen u nogu pajserom. Nakon toga  došla je soabraćajna kontrola i kolega Ašanin koji je preuzeo službene radnje, ali se sjeća da su dva kamiona bila parkirana i da se saobraćaj mogao odvijati normalno. Tom prilikom je vidio da su vrata na kamionu Božovića oštećena i da je staklo polomljeno ali da povredu nije vidio, iako se Božović žalio na povredu. Dalje je naveo da je vidio jedan pajser koji je uzet sa karoserije kamiona Božovića i da je taj pajser izuzet, ali Božović mu nije objašnjavao čiji je to pajser. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Svjedok G</span><span class="span1">..</span><span class="span1"> O</span><span class="span1">..</span><span class="span1"> je u svom iskazu u bitnom naveo da se kritičnom prilikom sasvim slučajn zadesio na licu mjesta kada je čuo škripu kočnica vozila kojim je upravljao Božović a dok je M</span><span class="span1">..</span><span class="span1"> stajao pored puta sa svojim vozilom, da je tada B</span><span class="span1">..</span><span class="span1"> zaustavio kamion i krenuo prema Matoviću govoreći mu šta radi i slično na šta mu je Matović ogovorio da je samo stao da Božović prođe. Sjeća se da je Božović nasrtao na Matovića  i da je u lijevoj ruci držao jednu šipku nalik na pajser i istom prišao i stisnutom pesnicom ga udario u predjelu brade od kojeg udarca je Matović pokleknuo, pa je on nakon toga prišao da ih razdvoji dok su se oni čupali oko tog pajsera, da bi u jednom momentu Matović uzeo pajser od Božovića i kako je Božović i dalje nastavio da nasrće na njega, a isti je bio u vidno alkoholisanom stanju, Matović je taj pajser htio da ubaci u kabinu i istim je udario u kabinu vozila Božovića. </span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Svjedok K</span><span class="span1">..</span><span class="span1"> V</span><span class="span1">..</span><span class="span1"> je u svom iskazu u bitnom naveo da je od dežurne službe obaviješten da je došlo da narušavanja reda i mira između dva vozača, pa je izlaskom na lice mjesta zatekao B</span><span class="span1">..</span><span class="span1"> i M</span><span class="span1">..</span><span class="span1">. U momentu kada je on došao između ta dva lica nije bilo nikakve tuče, a kada ih je pitao šta se dogodilo kazali su mu da je među njima došlo do fizičkog obračuna, naime Matović mu je kazao da je Božović pokušao da ga udari metalnom šipkom koju je on zatim izuzeo a nakon toga pošto je Matović želio da </span><span class="span1">prijavi slučaj policiji on ga je uputio u stanicu dok je Božović priveden. Taj pajser je neko bacio na kamion, a ne može se sjetiti sivh detalja ali zna da je neko u njegovom prisustvu bacio taj pajser na kamion, pa kada je krenuo da ga uzme sa kamiona njemu je Matović dodao taj pajser. Sjeća se da je Božović bio malo agresivan pa je on pozvao drugo vozilo da dođe, ali njegova procijena je bila da Božović nije bio u alkoholisanom stanju.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Svjedok P</span><span class="span1">..</span><span class="span1">V</span><span class="span1">..</span><span class="span1"> je u svom iskazu istakao da se uopšte ne može sjetiti konkretnog događaja a možda je postupao kao pripadnik-vođa interventne grupe. Poznaje G</span><span class="span1">..</span><span class="span1">O</span><span class="span1">..</span><span class="span1"> ali se ne sjeća događaja, a obzirom da poznaje i Božović Marka sigurnio bio se sjetio da je prijavljena neka tuča, ali se uopšte ne sjeća da je privodio Božovića ovim povodom.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Svjedok V</span><span class="span1">...</span><span class="span1"> D</span><span class="span1">..</span><span class="span1"> je u svom iskazu u birnom naveo a nakon uvida u izvještaj koji je sačinio prilikom pregleda M</span><span class="span1">..</span><span class="span1">R</span><span class="span1">..</span><span class="span1">a u odnosu na konkretni dogadjaj da je omaškom upisao da je oguljotina u predjelu podlaktice veličine 2 mm jer je sigurno veličine 2 cm.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Fotodokumentacijom Uprave Polcije CB Nikšić br.612/15 od 18.08.2015.godine prikazan je izgled vozila okrivljenog Božović Marka, kao i polomljeno staklo i oštećenje na vratima vozača.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Iz potvrde o privremeno oduzetim predmetima Uprave Polcije CB Nikšić UBD br 487 od 18.08.2015.godine proizilazi da je ovlašćeni policijski službenik od Matović Rada privremeno oduzeo jednu metalnu šipku dužine oko 80 cm.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Sudski vještak medicinkse struke dr Bulatović Veselin je u svom nalazu i mišljenju datom pred ODT-om konstatovao da je B</span><span class="span1">..</span><span class="span1">M</span><span class="span1">..</span><span class="span1"> zadobio laku tjelesnu povredu u vidu hiperemične zone (crvenila) u predjelu lijevog koljena, te da je ista mogla nastati dejstvom tupotvrde sile srednjeg intenziteta djelovanja (udarcem nogom na kojoj je obuća sa tvrdim đonom, drvenom motkom, štapom, metalnom šipkom i sl.), a da je Matović Rade zadobio laku tjelesnu povredu u vidu oguljotine kože u predjelu lijeve podlaktice, otoka donje usne i luksacije zuba II u donjoj vilici sa lijeve strane. Povreda u predjelu usta kod Matović Rada je mogla nastati udarcem stisnutom pesnicom, otovorenim dlanom tj.šamarom, a povreda u predjelu podlaktice je mogla nastati udarcem drvenom motkom, metalnom šipkom, drvenim štapom i sl. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Navedeni vještak je pojasnio</span><span class="span4"> </span><span class="span1">svoj nalaz i mišljenje na glavnom pretresu održanom dana 16.01.2017.godine i naveo da ostaje pri osnovnom nalazu i mišljenju, s tim da ako se radi o metalnom pajseru povreda kod M</span><span class="span1">....</span><span class="span1"> R</span><span class="span1">..</span><span class="span1"> je mogla nastati okrznućem navedene metalne šipke, odnosno da je bio u pitanju blaži kontakt metalne šipke u predjelu podlaktice sa spoljne strane gdje je bliža kost. Ne može se isključiti da je oguljotina u predjelu lakta nastala i prilikom pada i kontakta povrijeđene podlaktice sa tvrdom podlogom, betonom, asvaltom i sl., ali bi u tom slučaju povrijeđena zona bila mnogo veća i šira obzirom da je oguljotina bila 2 cm.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Dalje je naveo da što se tiče povrede kod B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1"> u predjelu lijevog koljena nesporno je da je povreda postojala i da je povrijeđeni došao na pregled sat, dva od momenta povrede jer je konstatovano da je povreda u vidu manje huipermične zone što podrazumijeva crvenilo i blagi otok, jer je u dijagnozi napisano da se radi o </span><span class="span1">nagnječenju a što ukupno predstavlja laku tjelesnu povredu. Ova metalna šipka kojom ga je gađalo drugo lice je samo dodirnulo B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1"> i napravila blaži kontakt sa površinom koljena što je dovelo do crvenila sa blagim otokom, a da ga je šipka udarila srednjim intezitetom djelovanja sigurno bi došlo do pojave razderne rane u predjelu koljena jer je tu koža tanka i neposredno vezana za kost.</span>
+</p>
+<p>
+<span class="span1"> </span>
+</p>
+<p>
+<span class="span1">Sud je nalaz i mišljenje </span><span class="span1">sudskog vještaka medicinske struke u cjelosti prihvatio kao stručan, jasan i objektivan</span><span class="span5">.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Nakon ocjene provedenih dokaza i to svakog ponaosob i u njihovoj međusobnoj povezanosti, te dovođenja istih u vezu sa odbranama okrivljenih, sud je odlučio kao u izreci presude i to iz sljedećih razloga:</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Naime, sud je na nesumnjiv način utvrdio da je dana 18.08.2015.godine u ulici Krsta Kostića u Nikšiću, nakon nesporazuma u saobraćaju došlo do fizičkog obračuna između okrivljenih, te da je okrivljeni B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1"> lako tjelesno povrijedio M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1"> na način što ga je metalnom šipkom - pajserom udario i okrznuo u predjelu podlaktice lijeve ruke </span><span class="span1">a da je bio u pitanju blaži kontakt metalne šipke sa predjelom podlaktice sa spoljne strane gdje je bliža kost</span><span class="span1"> i nanio mu laku tjelesnu povredu u vidu oguljotine oko 2 cm, sud je utvrdio iz nalaza i mišljenja vještaka medicinske struke (</span><span class="span1">vještak navodi da se ne može isključiti da je oguljotina u predjelu lakta nastala i prilikom pada i kontakta povrijeđene podlaktice sa tvrdom podlogom, betonom, asvaltom i sl. ali bi u tom slučaju povrijeđena zona bila mnogo veća i šira obzirom da je oguljotina bila 2 cm) tako da prednje mišljenje vještaka opovrgava odbranu okrivljenog B</span><span class="span1">..</span><span class="span1"> da je okrivljeni M</span><span class="span1">..</span><span class="span1"> zadobio povredu prilikom pada. Osim prednjeg da je okrivljeni B</span><span class="span1">..</span><span class="span1">udarao pesnicama Matovića kako to isti objašnjava potvrdjeno je i </span><span class="span1">iskazom svjedoka G</span><span class="span1">..</span><span class="span1"> O</span><span class="span1">..</span><span class="span1"> koji vidio da je okrivljeni Božović pesnicom udario Matovića</span><span class="span1"> i navodima vještaka da je Matović imao i povredu u predjelu usta koja je mogla nastati udarcem stisnutom pesnicom, otovorenim dlanom tj.šamarom, tako da sve prednje daje kredibilitet iskazu okrivljenog Matovića u tom dijelu.</span><span class="span1"> </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Da je došlo do sukoba okrivljenih proizilazi i iz njihovih navoda koji ne opsoravaju da je među njima došlo do konflikta, medjutim jasno je da žele predstaviti kako su se samo branili jedan od drugog što dalje znači da žele predstaviti da su bili napadnuti i da su postupali u nužnoj odbrani, medjutim iako sud nije imao očevica dogadjaja od samog početka sukoba a imajući u vidu da su njihove odbrane kontradiktorne, da su se različito izjašnjavali u toku postupka o pojedinostima nastanka i toka dogadjaja sud nije mogao prihvatiti navode odbrane jednog od njih da je prvi napadnut a da se drugi samo branio već je obojicu okrivljenih oglasio krivim za djelo koje im je optužbom ovlašćenog tužioca stavljeno na teretu jer je sud dokazao da su zaista jedan drugog povrijedili metalim šipkama ili pajserima.</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Da je kritičnom prilikom okrivljeni Bo</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1"> u tom sukobu udario odnosno okrznuo metalnim pajserom koji je držao u ruci okrivljenog M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1"> potvrđuje i sam M</span><span class="span1">..</span><span class="span1">. U prilog prednjem zaključku suda je i iskaz svjedoka Glogovca da su se okrivljeni čupali oko pajsera nakon čega je okrivljeni Matović metalni pajser oduzeo od okrivljenog Božovića. Međutim da se tu ne završava konfliktna situacija već da je i M</span><span class="span1">..</span><span class="span1">nakon što je oduzeo pajser istim povrijedio okrivljenog B</span><span class="span1">..</span><span class="span1"> u predjelu lijevog koljena, potkrijepljeno je bez sumnje osim navodima okrivljenog B</span><span class="span1">..</span><span class="span1"> i nalazom i mišljenjem </span><span class="span1">vještaka medicinske struke dr. Bulatović Veselin</span><span class="span1"> da su povrede kod okrivljenog B</span><span class="span1">..</span><span class="span1"> M</span><span class="span1">..</span><span class="span1"> u predjelu lijevog koljena u vidu manje huipermične zone što podrazumijeva crvenilo i blagi otok, nastale kao posledica blažeg kontakta metalne šipke sa površinom koljena što je dovelo do crvenila sa blagim otokom. Ni sam okrivljeni Matović ne negira da je u jednom momentu gadjao prema Božoviću (ali da ga nije pogodio, medjutim isto je opovrgnuto prednjim dokazima) pajserom ali imajući u vidu da je kako kaže predhodno uzeo pajser od okrivljenog </span><span class="span1">B.</span><span class="span1"> u tom momentu prestaje napad tako da se ne može govoriti da je okrivljeni M</span><span class="span1">..</span><span class="span1"> postupao u nužnoj odbrani, da</span><span class="span6"> </span><span class="span7">zaista odbija istovremeni i protivpravni napad. Da bi se za neko lice utvrdilo da je postupalo u nužnoj odbrani treba da se utvrdi (dokaže) da je to lice</span><span class="span7">&nbsp;</span><span class="span7">od</span><span class="span7">&nbsp;</span><span class="span7">sebe odbijalo istovremen ili neposredno predstojeći protivpravan napad, a njegova odbrana je bila neophodno potrebna da od svog dobra odbije taj protivpravni napad. U konkretnom slučaju je nedvosmisleno utvrdjeno da je okrivljeni Matović oduzeo metalnu šipku okrivljenom B</span><span class="span7">..</span><span class="span7">&nbsp;a zatim kada je okrivljeni Božović krenuo prema svom vozilu okrivljeni M</span><span class="span7">..</span><span class="span7"> ga gadjao sa istom i pogodio u nogu </span><span class="span7">što znači da je napad od Božovića bio prestao, </span><span class="span1">a da je zatim okrivljeni Matović istom šipkom i oštetio vozilo okrivljenog Božovića ni sam ne negira a isto je i potvrdjeno uvidom u fotodokumentaciju i iskazima saslušanih svjedoka.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Sud je cijenio i iskaze svjedoka A</span><span class="span1">...</span><span class="span1">S</span><span class="span1">..</span><span class="span1">, D</span><span class="span1">..</span><span class="span1">Č</span><span class="span1">..</span><span class="span1">, Kr</span><span class="span1">..</span><span class="span1">Vi</span><span class="span1">..</span><span class="span1">, P</span><span class="span1">..</span><span class="span1"> </span><span class="span1">V..</span><span class="span1"> pa je našao da njihovi iskazi nijesu od uticaja na drugačije presuđenje, jer se isti nijesu mogli izjasniti na odlučne i važne činjenice kritičnog događaja osim da je došlo do konflikta, da je slučaj prijavljen policiji i da su bila oštećenja na vozilu okrivljenog Božovića.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Imajući sve prednje u vidu nesumljivo je utvrđeno da su okrivljeni kritičnom prilikom lako tjelesno povrijedili jedan drugog i to okrivljeni B</span><span class="span1">,,</span><span class="span1">metalnom šipkom udario u predjelu ruke okrivljenog M</span><span class="span1">,,</span><span class="span1">, dok je okrivljeni Matović metalnom šipkom gadjao okrivljenog Bo</span><span class="span1">,,</span><span class="span1"> kao sredstvom podobnim da tijelo teško povrijede ili zdravlje teško naruše tako da su okrivljeni prilikom izvršenja djela bio svjesni da će preduzimajući prednje radnje lako tjelesno povrijediti jedan drugog što su i htjeli, dakle da su postupali sa direktnim umišljajem prilikom izvršenja djela, pa su se u njihovim radnjama pored objektivnih stekli subjektivni elementi bića krivičnog djela stavljenog mu na teret.</span>
+</p>
+<p>&nbsp;</p>
+<li>
+<span class="span1">Prilikom utvrđivanja vrste i visine krivične sankcije, sud je na strani okrivljenog B</span><span class="span1">,,</span><span class="span1"> M</span><span class="span1">,,</span><span class="span1"> u smislu čl.42 st.1 KZCG, kao olakšavajuće okolnosti cijenio njegovu porodičnost - otac jednog djeteta, iskreno kajanje, dok je kao otežavajuću okolnost sud cijenio činjenicu da je isti ranije više puta osuđivan, što je sud utvrdio iz izvoda iz kaznene evidencije na ime okrivljenog, </span><span class="span1">pa je cijeneći prednje olakšavajuće okolnosti na strani okrivljenog sud našao da se u konkretnom slučaju radi o naročito olakšavajućim okolnostima i shodno čl. 45 tač. 3 i čl. 46 st. 1 tač. 6 KZCG, okrivljenom ublažio kaznu po vrsti i umjesto zaprijećene kazne zatvora, osudio ga na novčanu kaznu primjenom čl. 39 st.2 tč.5 KZCG u iznosu od 1.200,oo eura, umjesto efektivne kazne zatvora, nalazeći i da će se sa ovako utvrdjenom kaznom na okrivljenog u dovoljnoj mjeri uticati da ubuduće ne čini nova krivična djela, čime će se sa uspjehom postići opšta svrha kažnjavanja iz čl. 32 KZCG u okviru opšte svrhe izricanja krivičnih sankcija u smilu čl. 4 st. 2 KZCG.   </span>
+</li>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Prilikom utvrđivanja vrste i visine krivične sankcije, sud je na strani okrivljenog M</span><span class="span1">,,</span><span class="span1"> R</span><span class="span1">,,</span><span class="span1"> u smislu čl.42 st.1 KZCG, sud je na strani okrivljenog kao olakšavajuće okolnosti </span><span class="span1">cijenio njegovu porodičnost, loše imovno stanje kao i njegovu raniju neosuđivanost, što je sud utvrdio iz izvoda iz kaznene evidencije na ime okrivljenog, dok otežavajućih okolnosti sud nije našao, pa je primjenom čl. 53 i 54 KZ CG, okrivljenom M</span><span class="span1">..</span><span class="span1"> R</span><span class="span1">..</span><span class="span1"> izrekao uslovnu osudu, kao u izreci presude, nalazeći da će se sa prijetnjom izvršenja utvrđene kazne zatvora, te provjerom ponašanja okrivljenog u periodu od jedne godine u dovoljnoj mjeri uticati na njega da ubuduće ne čini nova krivična djela, čime će se sa uspjehom ostvariti svrha uslovne osude iz čl. 52 KZ CG u okviru opšte svrhe izricanja krivične sankcije u smislu čl. 4 st. 2 KZ CG .</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">                     Kako su okrivljeni oglašeni krivim, sud ih je obavezao da na osnovu čl. 226 i 229 ZKP-a, na ime troškova krivičnog postupka solidarno plate iznos od 71,50 eura na ime naknade za vještačenje po vještaku medinske struke dr Bulatović Veselinu, i da svako od okrivljenih na ime sudskog paušala plati iznos od po 40,00 €, što je srazmjerno trajanju i složenosti krivičnog postupka i imovnim prilikama okrivljenih. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Sa svega izloženog, a primjenom čl. 374 ZKP-a, odlučeno je kao u izreci presude.</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">OSNOVNI SUD U NIKŠIĆU</span><span class="span1">, dana 24.01.2017.godine.</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Zapisničar,                                                                             S U D I J A,</span>
+</p>
+<p>
+<span class="span1">Rada Nikolić,s.r.                                                              Vesna Kovačević,s.r.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">                        Za tačnost otpravka tvrdi i ovjerava</span>
+</p>
+<p>
+<span class="span1">                                             službenik suda</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1"> PRAVNA POUKA:Protiv ove presude nezadovoljna stranka ima pravo                            </span><span class="span1"></span><span class="span1">           žalbe u roku od  8 dana od dana prijema iste preko </span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1">           ovog suda, Višem sudu Podgorica.</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+
+
+</body>

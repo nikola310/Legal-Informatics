@@ -1,0 +1,416 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.window1{background:#fff; margin:0 auto;width:210mm;}
+.page1{ background:#fff; margin:0 1.0in;padding-top:20px;}
+.span1{;font-family:'Arial Narrow'}
+.span2{;font-family:'Arial'}
+.span3{;font-family:'Arial';font-weight:800}
+</style>
+</head>
+<body class="b1" style="background: #aaa;">
+<div class="window1">
+<div class="page1">
+<p style="text-align:center;">
+<span class="span1"></span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:right">
+<span class="span2">K.br. 498/14</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span2">U   IME CRNE GORE</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">OSNOVNI SUD U NIKŠIĆU, </span><span class="span2">sudija</span><span class="span2"> Ivan </span><span class="span2">Perović</span><span class="span2">, </span><span class="span2">uz</span><span class="span2"> </span><span class="span2">sudjelovanje</span><span class="span2"> Plane </span><span class="span2">Ćuzović</span><span class="span2"> </span><span class="span2">kao</span><span class="span2"> </span><span class="span2">zapisničara</span><span class="span2">, u </span><span class="span2">krivičnom</span><span class="span2"> </span><span class="span2">predmetu</span><span class="span2"> </span><span class="span2">optuženih</span><span class="span2">  VUČINIĆ MITRA, VUKASOVIĆ MILANA i KAVAJA MARKA  </span><span class="span2">zbog</span><span class="span2">    </span><span class="span2">krivičnog</span><span class="span2"> </span><span class="span2">djela</span><span class="span2"> </span><span class="span2">teška</span><span class="span2">  </span><span class="span2">krađa</span><span class="span2"> </span><span class="span2">iz</span><span class="span2"> čl.240  st.1  tač.1 KZ, </span><span class="span2">po</span><span class="span2"> </span><span class="span2">optužnici</span><span class="span2">  VT-a </span><span class="span2">Podgorica</span><span class="span2">  Kt.br. 72/99 </span><span class="span2">od</span><span class="span2"> 30.04.1999., </span><span class="span2">nakon</span><span class="span2"> </span><span class="span2">održanog</span><span class="span2"> </span><span class="span2">glavnog</span><span class="span2"> </span><span class="span2">javnog</span><span class="span2"> </span><span class="span2">pretresa</span><span class="span2"> </span><span class="span2">dana</span><span class="span2">  22.06.2015.g.  </span><span class="span2">u</span><span class="span2"> </span><span class="span2">prisustvu</span><span class="span2"> </span><span class="span2">zamjenika</span><span class="span2"> ODT-a </span><span class="span2">KrivokapiĆ</span><span class="span2"> </span><span class="span2">Vesne</span><span class="span2">, </span><span class="span2">optuženih</span><span class="span2">  </span><span class="span2">Vučinić</span><span class="span2"> </span><span class="span2">Mitra</span><span class="span2">, </span><span class="span2">Vukasović</span><span class="span2"> </span><span class="span2">Milana</span><span class="span2"> i </span><span class="span2">Kavaja</span><span class="span2"> </span><span class="span2">Marka</span><span class="span2">  i  </span><span class="span2">branioca</span><span class="span2"> </span><span class="span2">optuženih</span><span class="span2"> – </span><span class="span2">advokata</span><span class="span2"> </span><span class="span2">Mitrić</span><span class="span2"> </span><span class="span2">Dragana</span><span class="span2">, </span><span class="span2">donio</span><span class="span2"> je i </span><span class="span2">istog</span><span class="span2">  </span><span class="span2">dana</span><span class="span2">  </span><span class="span2">javno</span><span class="span2"> </span><span class="span2">objavio</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span2">PRESUDU</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                  </span><span class="span2">I  </span><span class="span2">Optuženi</span><span class="span2">:</span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">VUČINIĆ MITAR </span><span class="span2">od</span><span class="span2"> </span><span class="span2">oca</span><span class="span2"> </span><span class="span2">Milana</span><span class="span2"> i </span><span class="span2">majke</span><span class="span2"> </span><span class="span2">Radmile</span><span class="span2"> </span><span class="span2">rođene</span><span class="span2"> </span><span class="span2">Vukotić</span><span class="span2">, </span><span class="span2">rođen</span><span class="span2"> 01.11.1978.g. u </span><span class="span2">Nikšiću</span><span class="span2">, </span><span class="span2">nastanjen</span><span class="span2"> u </span><span class="span2">mjestu</span><span class="span2"> </span><span class="span2">rođenja</span><span class="span2"> </span><span class="span2">ul</span><span class="span2">. </span><span class="span2">Milovana</span><span class="span2"> </span><span class="span2">Pekovića</span><span class="span2"> </span><span class="span2">broj</span><span class="span2"> 9, </span><span class="span2">završio</span><span class="span2"> </span><span class="span2">srednju</span><span class="span2"> </span><span class="span2">školu</span><span class="span2">, </span><span class="span2">nezaposlen</span><span class="span2">, </span><span class="span2">srednjeg</span><span class="span2">  </span><span class="span2">imovnog</span><span class="span2"> </span><span class="span2">stanja</span><span class="span2">, </span><span class="span2">otac</span><span class="span2"> </span><span class="span2">dvoje</span><span class="span2"> </span><span class="span2">djece</span><span class="span2">, </span><span class="span2">ranije</span><span class="span2"> </span><span class="span2">neosuđivan</span><span class="span2">, </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                    </span><span class="span2">VUKASOVIĆ MILAN </span><span class="span2">od</span><span class="span2"> </span><span class="span2">oca</span><span class="span2"> </span><span class="span2">Tomislava</span><span class="span2">, </span><span class="span2">majke</span><span class="span2"> </span><span class="span2">Milomirke</span><span class="span2"> </span><span class="span2">rođene</span><span class="span2"> </span><span class="span2">Kostić</span><span class="span2">, </span><span class="span2">rođen</span><span class="span2"> 16.03.1976.g. u </span><span class="span2">Nikšiću</span><span class="span2">, </span><span class="span2">nastanjen</span><span class="span2"> u </span><span class="span2">mjestu</span><span class="span2"> </span><span class="span2">rođenja</span><span class="span2"> </span><span class="span2">ul</span><span class="span2">. </span><span class="span2">Milovana</span><span class="span2"> </span><span class="span2">Pekovića</span><span class="span2"> </span><span class="span2">broj</span><span class="span2"> 25, </span><span class="span2">završio</span><span class="span2"> </span><span class="span2">srednju</span><span class="span2"> </span><span class="span2">školu,nezaposlen</span><span class="span2">, </span><span class="span2">lošeg</span><span class="span2"> </span><span class="span2">imovnog</span><span class="span2"> </span><span class="span2">stanja</span><span class="span2">, </span><span class="span2">neoženjen</span><span class="span2">, </span><span class="span2">istome</span><span class="span2"> je </span><span class="span2">odlukom</span><span class="span2"> </span><span class="span2">Osnovnog</span><span class="span2"> </span><span class="span2">suda</span><span class="span2"> </span><span class="span2">Nikšić</span><span class="span2"> K.br. 124/93 </span><span class="span2">od</span><span class="span2"> 2.07.1993.g. </span><span class="span2">zbog</span><span class="span2"> </span><span class="span2">krivičnog</span><span class="span2"> </span><span class="span2">djela</span><span class="span2"> </span><span class="span2">iz</span><span class="span2"> </span><span class="span2">čl</span><span class="span2">. 153 </span><span class="span2">st.</span><span class="span2"> 1 i 2 KZ RCG </span><span class="span2">izrečena</span><span class="span2"> </span><span class="span2">vaspitna</span><span class="span2"> </span><span class="span2">mjera</span><span class="span2"> </span><span class="span2">upućivanja</span><span class="span2"> u </span><span class="span2">vaspitno</span><span class="span2"> </span><span class="span2">popravni</span><span class="span2"> </span><span class="span2">dom</span><span class="span2"> u </span><span class="span2">trajanju</span><span class="span2"> od 6 </span><span class="span2">mjeseci</span><span class="span2"> do tri </span><span class="span2">godine</span><span class="span2">.,</span>
+</p>
+<p>
+<span class="span2"> </span>
+</p>
+<p>
+<span class="span2">                  </span><span class="span2">KAVAJA MARKO </span><span class="span2">od</span><span class="span2"> </span><span class="span2">oca</span><span class="span2"> </span><span class="span2">Đorđija</span><span class="span2"> i </span><span class="span2">majke</span><span class="span2"> </span><span class="span2">Dragice</span><span class="span2"> </span><span class="span2">rođene</span><span class="span2"> </span><span class="span2">Vorotović</span><span class="span2">, </span><span class="span2">rođen</span><span class="span2"> 30.07.1974.g u </span><span class="span2">Nikšiću</span><span class="span2">, </span><span class="span2">nastanjen</span><span class="span2"> u </span><span class="span2">mjestu</span><span class="span2"> </span><span class="span2">rođenja</span><span class="span2"> </span><span class="span2">ul</span><span class="span2">. </span><span class="span2">VI </span><span class="span2">crnogorske</span><span class="span2"> S-4/2, </span><span class="span2">završio</span><span class="span2"> </span><span class="span2">srednju</span><span class="span2"> </span><span class="span2">školu</span><span class="span2">, </span><span class="span2">nezaposlen</span><span class="span2">, </span><span class="span2">lošeg</span><span class="span2"> </span><span class="span2">imovnog</span><span class="span2"> </span><span class="span2">stanja</span><span class="span2">, </span><span class="span2">oženjen</span><span class="span2"> </span><span class="span2">otac</span><span class="span2"> </span><span class="span2">dvoje</span><span class="span2"> </span><span class="span2">djece</span><span class="span2">, </span><span class="span2">ranije</span><span class="span2"> </span><span class="span2">neosuđivan</span><span class="span2">.</span><span class="span2"> </span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span2">Krivi su</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                  </span><span class="span2">Što su:</span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Neutvrđenog dana decembra 1998.g. u ulici Partizanski put bb, u Nikšiću, po dogovoru, obijanjem oduzeli tuđu pokretnu svar drugom u namjeri da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist na način što su podesnim sredstvom pajserom polomili katanac na ulaznim vratima maloprodajnog objekta, vlasništvo Pavićević Ranka iz Nikšića, ušli u objekat, oduzeli i prisvojili raznih cigareta i sitne galanterije veće vrijednosti, </span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                 </span><span class="span2">II  Optuženi  VUČINIĆ MITAR i VUKASOVIĆ MILAN, sa generali</span><span class="span2">jama kao pod st.1 izreke presude</span>
+</p>
+<p style="text-align:center;">
+<span class="span2">Krivi su</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                </span><span class="span2">Što su:</span>
+</p>
+<p>
+<span class="span2">                  </span><span class="span2">Noću 7/8 decembar 1998.g. u ulici Baja Pivljanina u Nikšiću, obijanjem oduzeli tuđu pokretnu stvar drugom, u namjeri  da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist na način što su po dogovoru podesnim sredstvom – pajserom odvalili katanac na ulaznim vratima kioska br.81, vlasništvo DP Štampa ušli u kiosk, odakle su oduzeli i prisvojili  cigarete „point“ , „ lovćen“ i „ drina“    u vrijednosti od 10.250,00 dinara, koje stvari imaju veliku  vrijednost. </span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                      </span><span class="span2">III  Optuženi VUKASOVIĆ MILAN sa generalijama kao pod st.1 izreke presude</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span2">Kriv je</span>
+</p>
+<p>
+<span class="span2">                 </span><span class="span2">Što je:</span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Noću 4/5 februara 1999.g. u ulici Peka Pavlovića u Nikšiću, provaljivanjem oduzeo tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribavi sebi protivpravnu imovinsku korist na način što je podesnim ključem kalauzom, otvorio vrata putničkog vozila marke „jugo“  reg.oznake NK 110-22, vlasništvo Kovačević Zorke, iz kojeg je oduzeo i prisvojio radio kasefoton marke „pionir“ u vrijednosti od 850,00 dinara,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                  </span><span class="span2">IV  Optuženi VUČINIĆ MITAR sa generalijama kao pod st.1 izreke presude</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span2">Kriv je</span>
+</p>
+<p>
+<span class="span2">                 </span><span class="span2">Što je:</span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Noću  2/3 februara 1999.g. u ulici V proleterske u Nikšiću, provaljivanjem oduzeo tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribavi sebi protivpravnu imovinsku korist, na način što je podesnim ključem kalauzom otključao putničko vozilo „golf“ reg.oznaka NK 68-41, vlasništvo Stanisavić Dragana iz Nikšića, zatim iz vozila oduzeo i prisvojio  auto radio kasetofon marke „blaunpunkt“, sa dva zvučnka, u vrijednosti od 1.250,00 dinara, </span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Noću 15/16.januara 1999. g. u ulici Alekse Backovića u Nikšiću broj 115, provaljivanjem oduzeo  tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribavi sebi protivpravnu imovinsku korist na način što je podesnim ključem otključao bravu na vratima sa desne strane vozila marke „golf“ reg. oznaka NK 97-07 vlasništvo Stanišić Dragana iz Nikšića i iz vozila oduzeo i prisvojio auto radio kasetofon marke „filips“  u vrijednosti od 850,00 dinara,</span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Noću 10/11 januara 1999.g u ulici Vuka Karadžića  u Nikšću, obijanjem oduzeo  tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribavi sebi protivpravnu imovinsku korist, na način što je  podesnim sredstvom polomio katanac na rešetkama, šaltera na kiosku broj 11 vlasništvo Duvanskog kombinata iz Podgorice, zatim upotrebom fizičke sile  polomio staklo na šalteru i kroz načinjeni </span><span class="span2">otvor ušao u kiosk odakle je oduzeo i prisvojio više kutija cigareta „lovćena“ i „pointa“ i jednu grijalicu u virijednosti  od 6.019,00 dinara, </span>
+</p>
+<p>
+<span class="span2">                 </span><span class="span2">Noću 2/3 novembra 1998.g u ulici Vuka Karadžića u Nikšiću, obijanjem oduzeo  tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribavi sebi protivpravnu imovinsku korist na način što je  podesnim sredstvom pajserom odvalio sporedna vrata prodavnice  bravarskih artikala vlasništvo Bajović Gojka iz Nikšća, ušao u prodavnicu iz koje je oduzeo i prisvojio više ručica eloksiranih i aluminijskih, mesinganih štitova, ukrasnih štitova i ručica , cilindričnih brava za drvena i metalna vrata, katanaca, bravica za namještaj, ručica za balkonska vrata i prozore i usadnih jezičaka i druga sitnije robe i time pribavio sebi imovinsku korist velikog obima u iznosu od 55.824,00 dinara, </span>
+</p>
+<li>
+<span class="span2">čime su učinili i to optuženi Kavaja Marko krivično djelo teška krađa iz čl. 240 st. 1 tač. 1 Krivičnog zakonika a optuženi Vučinić Mitar i Vukasović Milan su učinili po jedno  produženo krivično djelo teška kradja iz čl.240 st.1 tač.1 u vezi čl.49 Krivičnog zakonika.</span>
+</li>
+<p>
+<span class="span2">                   </span><span class="span2">Sud optužene </span><span class="span2">KAVAJA MARKA, VUČINIĆ MITRA i VUKASOVIĆ MILANA  </span><span class="span2">primjenom čl.4 st.2, čl.32, čl.36, čl.42, čl. 45 st.1 tač.3, čl.46 st.1 tač.4 i čl.51 Krivičnog zakonika i čl.374 Zakonika o krivičnom postupku</span>
+</p>
+<p style="text-align:center;">
+<span class="span2">O S U Đ U J E</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Na  kazne zatvora u trajanju od po 7 /sedam/  mjeseci, u koje kazne optuženima će se uračunati vrijeme provedeno u pritvoru počev od </span><span class="span2">8.02.1999.g. do 30.09.1999.g</span><span class="span2">. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                 </span><span class="span2">Sud će o troškovima krivičnog postupka odlučiti posebnim rješenjem.</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">       </span><span class="span2"> V Prema optuženom KAVAJA MARKU, sa generalijama kao po stavom 1 izreke presude, </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">            </span><span class="span2">     </span><span class="span2">Na osnovu čl. 372 st. 1 tač. 1 ZKP-a, </span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span2">ODBIJA SE OPTUŽBA</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                 </span><span class="span2">Da je:</span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Noću 7/8 decembar 1998.g. u ulici Baja Pivljanina u Nikšiću, sa optuženima Vučinić Mitrom i Vukasović Milanom, obijanjem oduzeo tuđu pokretnu stvar drugom, u namjeri  da njenim prisvajanjem sa istima pribavi sebi protivpravnu imovinsku korist na način što su po dogovoru  podesnim sredstvom – pajserom odvalili katanac na ulaznim vratima kioska br.81, vlasništvo DP Štampa ušli u kiosk, odakle su oduzeli i prisvojili  cigarete „point“ , „ lovčen“ i „ drina“    u vrijednosti od 10.250,00 dinara, koje stvari imaju veliku  vrijednost. </span>
+</p>
+<p>
+<span class="span2">- </span><span class="span2">                    </span><span class="span2">čime bi učinio krivično djelo teška krađa iz čl. 240 st. 1 tač. 1 Krivičnog zakonika.</span>
+</p>
+<p>
+<span class="span2">                                   </span><span class="span2">VI Prema optuženima VUČINIĆ MITRU i KAVAJA MARKU, </span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Na osnovu čl. 372 st. 1 tač. 1 ZKP-a, </span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span2">ODBIJA SE OPTUŽBA</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                 </span><span class="span2">Da su:</span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Noću 4/5 februara 1999.g. u ulici Peka Pavlovića u Nikšiću, zajedno sa optuženim Vukasović Milanom, provaljivanjem oduzeli tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist na način što su po dogovoru, podesnim ključem kalauzom, otvorili vrata putničkog vozila marke „jugo“  reg.oznake NK 110-22, vlasništvo Kovačević Zorke, iz kojeg su oduzeli i prisvojili radio kasefoton marke „pionir“ u vrijednosti od 850,00 dinara,</span>
+</p>
+<p>
+<span class="span2">- </span><span class="span2">                  </span><span class="span2">čime bi učinili  krivično djelo teška krađa iz čl. 240 st. 1 tač. 1 Krivičnog zakonika.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                                   </span><span class="span2">VII  Prema optuženima VUKASOVIĆ MILANU i KAVAJA MARKU </span>
+</p>
+<p>
+<span class="span2"> </span>
+</p>
+<p>
+<span class="span2">                       </span><span class="span2">Na osnovu čl. 372 st. 1 tač. 1 ZKP-a, </span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span2">ODBIJA SE OPTUŽBA</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                 </span><span class="span2">Da su:</span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Noću  2/3 februara 1999.g u ulici V proleterske u Nikšiću, sa optuženim Vučinić Mitrom provaljivanjem oduzeli tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist, na način što su po dogovoru, podesnim ključem kalauzom otključali putničko vozilo „golf“ reg.oznaka NK 68-41, vlasništvo Stanisavić Dragana iz Nikšića, zatim iz vozila oduzeli i prisvojili auto radio kasetofon marke „blaungt“, sa dva zvučnka, u vrijednosti od 1.250,00 dinara, </span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Noću 15/16.januara 1999. g. u ulici Alekse Backovića u Nikšiću broj 115, sa optuženim Vučinić Mitrom, provaljivanjem oduzeli tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist na način što su podesnim kljčem otkljčali bravu na vratima sa desne strane vozila marke „golf“ reg. oznaka NK 97-07 vlasništvo Stanišić Dragana iz Nikšića i iz vozila oduzeli i prisvojili auto radio kasetofon marke „filips“  u vrijednosti od 850,00 dinara,</span>
+</p>
+<p>
+<span class="span2">                  </span><span class="span2">Noću 10/11 januara 1999.g u ulici Vuka Karadžića  u Nikšiću, sa optuženim Vučinić Mitrom, obijanjem oduzeli tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist, na način što su po dogovoru, podesnim sredstvom polomili katanac na rešetkama, šaltera na kiosku broj 11 vlasništvo Duvanskog kombinata iz Podgorice, zatim upotrebom fizičke sile  polomili staklo na šalteru i kroz načinjeni otvor ušli u kiosk odakle su oduzeli i prisvojili više kutija cigareta „lovćena“ i „pointa“ i jednu grijalicu u virijednosti  od 6.019,00 dinara, </span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Noću 2/3 novembra 1998.g u ulici Vuka Karadžića u Nikšiću, sa optuženim Vučinić Mitrom, obijanjem oduzeli tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist na način što su po dogovoru, podesnim sredstvom pajserom odvalili sporedna vrata prodavnice  bravarskih artikala vlasništvo Bajović Gojka iz Nikšća, ušli u prodavnicu iz koje su oduzeli i prisvojili više ručica eloksiranih i aluminijskih, mesinganih štitova, ukrasnih štitova i ručica , cilindričnih brava za drvena i metalna vrata, katanaca, bravica za namještaj, ručica za balkonska vrata i prozore i usadnih jezičaka i druga sitnije robe i time pribavili sebi imovinsku korist velikog obima u iznosu od 55.824,00 dinara, </span>
+</p>
+<p>
+<span class="span2">                     </span><span class="span2">- čime bi učinili  krivično djelo teška krađa iz čl. 240 st. 1 tač. 1 Krivičnog zakonika.</span>
+</p>
+<p>
+<span class="span2">                 </span><span class="span2">Sud će odlučiti o troškovima krivičnog postupka posebnim rješenjem. </span>
+</p>
+<p style="text-align:center;">
+<span class="span2">Obrazloženje</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">                  </span><span class="span3">VT </span><span class="span3">iz</span><span class="span3"> </span><span class="span3">Podgorice</span><span class="span3"> </span><span class="span2">  </span><span class="span2">optužnicom</span><span class="span2">  Kt.br.72/99 </span><span class="span2">stavio</span><span class="span2"> je </span><span class="span2">na</span><span class="span2"> </span><span class="span2">teret</span><span class="span2"> </span><span class="span2">optuženima</span><span class="span2">  </span><span class="span2">VUkasović</span><span class="span2"> </span><span class="span2">Milanu</span><span class="span2">, </span><span class="span2">Vučinić</span><span class="span2"> </span><span class="span2">Mitru</span><span class="span2"> i </span><span class="span2">Kavaja</span><span class="span2"> </span><span class="span2">Marku</span><span class="span2"> </span><span class="span2">izvršenje</span><span class="span2"> </span><span class="span2">većeg</span><span class="span2"> </span><span class="span2">broja</span><span class="span2">   </span><span class="span2">krivičnih</span><span class="span2">  </span><span class="span2">djela</span><span class="span2"> </span><span class="span2">teška</span><span class="span2"> </span><span class="span2">krađa</span><span class="span2">  iz čl.145 KZ RCG, a kako je došlo do izmjene materijalnih propisa , stvarno nadležan postao je Osnovni sud u Nikšiću za postupanje u ovoj krivičnoj stvari , pa je zamjenik ODT-a Nikšić Krivokapić Vesna koja je zastupala optužni akt na glavnom pretresu odustala od krivičnog gonjenja u odnosu na određene optužene za određena krivična djela da bi u konačnom pošto je prethodno pravno izmijenila optužbu stavljajući na teret optuženima izvršenje krivičnih djela teška krađa iz čl. 240 st. 1 tač. 1 KZ, ostala pri izmijenjenom optužnom aktu uz predlaganje sudu da optužena lica oglasi krivima i osudi po zakonu. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Optuženi </span><span class="span3">VUČINIĆ MITAR</span><span class="span2"> naveo je u svojoj odbrani pred istražnim sudijom Višeg suda u Podgorici od  12.02.1999.g., da  je sa Vukasović Milanom i Vučinić Mitrom izvršio provalnu krađu maloprodajnog objekta u vlasništvu Pavićević Ranka u ulici Partizanski put bb početkom decembra 1998.g., tako što su se po prethodnom dogovoru vozilom marke „zastava 101“ vlasništvo Kavaja Marka dovezli. Kavaja je vozilom upravljao a zatim je on sam metalnom šipkom koju su našli u blizini polomio katanac na ulaznim vratima objekta pa su ušli unutar istog i otuđili izvjesnu količinu raznih cigareta i nešto galanterije ali se nije mogao precizno izjasniti usled proteka vremena o količini robe koju su odnijeli. Otuđenu robu su unijeli u vozilo „zastava 101“ a zatim su vozilom napustili lice mjesta. Kasnije su robu prodali njemu nepoznatoj osobi za iznos od 60,00 maraka. U noći 7/8.12.1998.g., on i Vukasović su izvršili provalnu krađu kioska broj 81 vlasništvo „ Štampe „ u ulici Baja Pivljanina a u ovoj krađi nije učestvovao Kavaja. Provalu su izvršili na način što su otkinuli katanac sa jednom metalnom polugom a zatim otvorili ulazna vrata , ušli u kiosk i iz njega otuđili izvjesnu količinu sitne galanterije dok cigareta u kiosku nije bilo.  On unazad tri mjeseca uživa heroin koji koristi na svaka dva tri dana plaćajući 70 maraka gram heroina pri čemu je zadnjih 15 dana prestao da ga konzumira. Vukasović Milan je njemu dao prvi put da proba heroion a takođe mu je i u nekoliko navrata poklonio po dozu heroina.  </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Optuženi </span><span class="span3">VUČINIĆ MITAR</span><span class="span2"> naveo je u svojoj odbrani pred istražnim sudijom Višeg suda u Podgorici od 16.02.1999.g., da Vukasović Milan nije sa njim učestvovao u izvršenju provalnih krađa osim u slučaju kada su to uradili zajedno sa Kavaja Markom – kada su početkom decembra 1998.g., obavili provalnu krađu maloprodajnog objekta Pavićević Ranka u ulici Partizanski put bb a u prethodnom saslušanju je pominjao Vukasovića da je sa njim učestvovao u krađama jer mu je inspektor Lješković prijetio da će ga vratiti u Nikšić ukoliko to ne učini. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Optuženi </span><span class="span3">VUČINIĆ MITAR</span><span class="span2"> naveo je u svojoj odbrani na glavnom pretresu pred Višim sudom u Podgorici od 7.09.1999.g. da poznaje ostale optužene pri čemu je Vukasović Milan njegov komšija ali se nikada sa istim nije družio. Samo je počinio krivično djelo na štetu Pavićević Ranka ali ne i ostala krivična djela. Kada je davao drugu izjavu istražnom sudiji rekao je kako Kavaja Marko nije imao nikakvog učešća u obijanju objekta Pavićević Ranka. Te večeri njemu je Kavaja dao svoje vozilo marke „ zastava 101“ da bi izašao sa djevojkom ali on nije te večeri bio sa djevojkom i ne može objasniti zbog čega je Kavaji to pomenuo kada uopšte nije imao namjeru da izlazi sa djevojkom. Sa njim je bio Vukasović Milan i zajedno su uživali heroin </span><span class="span2">ušmrkavanjem a on sam je obio kiosk tako što je metalnom šipkom odvalio katanac na ulaznim vratima i ušao unutra odakle je oduzeo koliko se sjeća jednu šteku cigareta „ danhil“ , jednu šteku cigareta „LM“ i jednu šteku cigareta „ bond“ te izvjesnu količinu žvakaćih guma, sve u vrijednosti oko 100 DM, pa je to sve smjestio u kartonsku kutiju i odnio do vozila „ zastava 101“ u kome se nalazio Vukasović Milan pri čemu je vozilo bilo parkirano na 20 metara od ovog objekta. Pri unošenju kartona u vozilo iz njega su poispadale neke žvakaće gume tako da je Vukasović iste vratio u karton. Mjesto gdje se kiosk nalazio djelimično je osvijetljeno, odnosno nije osvijetljeno uličnom rasvjetom a bilo je oko 21 – 22 časa kada je on ovo uradio. Vukasović je te noći bio pod dejstvom droge tako da misli da Vukasović nije znao šta je on uradio. Vozilo je sjutradan vratio Kavaji a cigarete i žvakaće gume je prodao u Nikšiću jednom licu koje prodaje na ulici za 60 maraka i ništa od toga novca nije dao Vukasoviću dok je novac kasnije potrošio sa djevojkom. Tačno je da je obio kiosk preduzeća „ štampa „ u ulici Baja Pivljanina tako što je polomio šalter staklo rukom a zatim provukao ruku kroz tako napravljeni otvor i sa izloga oduzeo izvjesnu količinu sitne galanterije – upaljača i još nekih predmeta koje je namjeravao da proda ali su oni kasnije kod njega pronađeni prilikom pretresa. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Objašnjavajući razlike u odnosu na kazivanje pred istražnim sudijom Višeg suda u Podgorici od 12.02.1999.g. optuženi je naveo da je sigurno njega istražni sudija pogrešno bio shvatio kako je njega i Vukasovića Kavaja dovezao budući da je on istražnom sudiji rekao da su se do kioska dovezli vozilom Kavaje kojim je on sam upravljao a iz straha od inspektora Lješkovića on je na prvom saslušanju pred istražnim sudijom kazao da je Vukasović sa njim  učestvovao u obijanju kioska a tačno je da je on sam šakom polomio šalter staklo kioska u koji nije ulazio. Krađu trafike je istražnom sudiji isprava priznao a kasnije negirao na drugom saslušanju pred istražnim sudijom u strahu od inspektora Lješkovića koji mu je uputio prijetnje prilikom obrađivanja ovog slučaja u nikšićkoj policiji. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                  </span><span class="span2">Optuženi </span><span class="span3">VUČINIĆ MITAR</span><span class="span2"> naveo je u svojoj odbrani na glavnom pretresu od 9.06.2015.g. da se u kri</span><span class="span2">ritičnom periodu družio sa Vukasovićem i Kavajom ali to nije bilo neko intenzivno druženje. Oni nikada zajedno nijesu učinili ili pokušali da učine neko krivično djelo. Dakle, on ništa ne zna vezano za slučajeve koji su mu stavljeni na teret a ističe u vezi sa tač.24 optužbe da je njemu policija skinula sve brave sa vrata od njegove kuće i kazala da je on te brave prethodno bio otuđio. Nakon što mu je predočeno šta je kazivao na dva saslušanja pred istražnim sudijom Višeg suda u Podgorici i na glavnom pretresu pred Višim sudom u Podgorici, optuženi je istakao da je njemu sve to sada novo što mu je predočeno. Dok se nalazio u pritvoru bio je tučen od strane policijskih inspektora Lješković Miodraga i  izvjesnog Damjanovića, sjeća se da su oni njemu na teret istovremeno stavljali izvršenje na primjer dva krivična djela počinjena u različitim djelovima grada a od njihog udaranja imao je vidljive povrede koje u ZIKS-u Podgorica nijesu konstatovane jer je pregledan nakon dvadesetak dana nakon što je pritvoren. Ista lica su njega maltretirala i prije suđenja u Podgorici, ali on nikada njih nije prijavio. Takođe su njegova priznanja ostala dva krivična djela iz faze istrage i suđenja u Podgorici, razultat prinude koja je nada njime sprovođena. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Optuženi </span><span class="span3">VUKASOVIĆ MILAN </span><span class="span2"> naveo je u svojoj odbrani pred istražnim sudijom Višeg suda u Podgorici od  12.02.1999.g da nije počinio predmetna krivična djela već mu ista namješta inspektor Lješković već dvije tri godine zbog čega ga sudije pritvore a kasnije i oslobode u nedostatku dokaza. Inače Lješković se zakleo da će mu namjestiti deset godina zatvora. Zavisnik je heroina oko pet godina i pokušao je </span><span class="span2">dva tri puta da se skine ali mu nije uspjelo a u nedostatku heroina koristi raznorazne tablete i kapi – fermidal, metadon i slično. Kada ima novca heroin kupuje kod albanskih državljana u Tuzima a ne sjeća se da je heroin davao Vučinić Mitru, ne isključuje tu mogućnost ali se toga ne može sjetiti. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Optuženi </span><span class="span3">VUKASOVIĆ MILAN </span><span class="span2"> naveo je u svojoj odbrani pred istražnim sudijom Višeg suda u Podgorici od  16.02.1999.g. da je od strane radnika CB Nikšić od njega oduzet radio kasetofon marke „ pionir „ koji je on pronašao u blizini zelenih solitera – isti je bio bačen sa komplet plastikom a pored kasetofona je našao jedan šrafciger i jednu lampu a od mjesta pronalaska ovih predmeta odmakao se oko 20 metara i stao ispod jednog balkona da bi šrafcigerom makao plastični okvir i oslobodio kasetofon ali je naišla policija i prijavila ga da je izvršio provalnu krađu nekog vozila sa čime on nema nikakve veze. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Optuženi </span><span class="span3">VUKASOVIĆ MILAN </span><span class="span2"> naveo je u svojoj odbrani na glavnom pretresu pred Višim sudom u Podgorici od 7.09.1999.g. da poznaje ostale optužene, da je sporni radio kasetofon marke „pionir „ slučajno našao jedne večeri kada se vraćao iz grda prolazeći pored solitera u blizini bolnice – išao je sam , bila je noć i taj potez nije bio osvijetljen  uličnom rasvjetom pa je sasvim slučajno primjetio radio i neku plastiku. Sagnuo se da dohvati kasetofon, uzeo ga je u ruke i baš tada su naišli uniformirani policajci  koji su ga lišili slobode a kasnije su i pretresli stan u kome stanuje sa roditeljima, babom , bratom i stricem ali pretresom nije ništa nađeno kod njega. Nakon podizanja optužnice u zatvoru Podgorica razgovarao je sa Vučinić Mitrom koji mu je kazao da su jedne večeri bili zajedno te da je i on učestvovao u izvršenju nekog krivičnog djela ne govoreći mu pri tome šta je Vučinić oduzeo. On se prisjetio da je jedne večeri bio u društvu Vučinića i Kavaje koji je vozio „ zastavu“. Našli su se sa Kavajom u jednom lokalu u Nikšiću a nakon izvjesnog vremena Vučinić je pitao Kavaju da mu posudi vozilo ne govoreći zbog čega mu treba isto. Lično nije čuo taj njihov razgovor ali je pretpostavio da Vučinić traži vozilo kako bi sa njim konzumirao drogu. Kavaja je dao ključeve od vozila Vučiniću a on sam je sjeo u vozilu kojim je upravljao Vučinić. Vozili su se po gradu a zatim vozilo zaustavili. On je imao kod seba dva tri grama heriona koji su zajedno uživali ušmrkavanjem a zatim su nastavili vožnju po gradu i napustili Nikšić ali ne zna tačno gdje su otišli a kad je Vučinić zaustavio vozilo izašao je iz istog i negdje otišao ne govoreći mu gdje ide a on je ostao u vozilu da bi zatim Vučinić došao noseći sa sobom neki paket pri čemu on ne zna šta je bilo u paketu niti je o tome pitao Vučinića ali je vidio da su mu neki predmeti iz paketa ispali ali tačno ne zna o kojim se predmetima radilo. Pomogao je Vučiniću da vrati pakete pa su otišli   kod njega kući gdje ga je Vučniić ostavio a sam negdje otišao. Narednih dana gledao je Vučinića ali ga nije interesovalo šta je ovaj kritične večeri uradio i šta je bilo u paketu. Inače, lično je uživalac heroina već deset godina od čega je liječen u Beogradu u privatnoj ordinaciji. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Optuženi </span><span class="span3">VUKASOVIĆ MILAN </span><span class="span2"> naveo je u svojoj odbrani na glavnom pretresu od 9.06.2015.g. da se </span><span class="span2"> u kritičnom periodu družio sa ostalim optuženima ali nikada nijesu zajedno vršili krivična djela ili pokušavali da ih izvrše. Nakon što mu je predočeno da je na saslušanjima u istrazi i na suđenju pred Višim sudom optužio  inspektora Lješkovića da mu namješta slučajeve, optuženi je istakao da je to tačno a sada se ne može sjetiti slučaja vezano za otuđeni kasetofon. Sada se ne sjeća slučaja sa vozilom “zastava 101” koje je pomenuo na suđenju u Višem sudu a vjerovatno da je to tačno.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Optuženi </span><span class="span3">KAVAJA MARKO  </span><span class="span2"> naveo je u svojoj odbrani pred istražnim sudijom Višeg suda u Podgorici od  12.02.1999.g. i od 16.02.1999.g.  da ne priznaje izvršenje krivičnih djela stavljenih mu na teret, da je policija njega osumnjičila samo na osnovu priče Vučinić Mitra koji je pod pritiskom policije kazao da je bio sa njim i učestvovao u krađama pri čemu je isti to morao da kaže jer je tučen a policija je znala da se njih dvojica druže. Lično je uživao heroin ali je prestao u zadnjih godinu dana a počeo je da ga konzumira unazad četiri godine povremeno pri čemu je zadnju godinu prije prestanka uzimao heroin svaki treći četvrti dan. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Optuženi </span><span class="span3">KAVAJA MARKO  </span><span class="span2"> naveo je u svojoj odbrani na glavnom pretresu pred Višim sudom u Podgorici od 7.09.1999.g. da dobro zna Vučnić Mitra te da se družio sa Vukasović Milanom sa kojim je više puta izlazio u jedan lokal u Nikšiću. Posjeduje vozilo marke „ zastava 101“ pri čemu je Vučinić Mitar na oko četiri mjeseca prije njegovog hapšenja tražio od njega da mu posudi to vozilo da bi izašao sa djevojkom a tada je Vučinić bio u društvu jedne djevojke koju poznaje izviđenja. Te večeri on je sjedio u lokalu kada mu se obratio Vučinić sa molbom da mu posudi vozilo a Vukasović je sjedio u istom lokalu za drugim stolom a gdje su njih troje otišli sa vozilom ne zna. Sjutradan mu je Vučinić vozilo vratio i vozilo je bilo u voznom stanju. Nije rađen pretres njegove kuće. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Optuženi </span><span class="span3">KAVAJA MARKO </span><span class="span2"> naveo je u svojoj odbrani na glavnom pretresu od 9.06.2015.g. da jeste</span><span class="span2"> poznavao iz viđenja ostale optužene ali se sa njima nikada nije družio, a Vučinića poznaje preko svoga brata. Tačno je da je imao tada vozilo ali se sada ne može sjetiti koje je bilo a Vučiniću je jednom ili dva puta posudio to vozilo ali se ne sjeća da li je on bio sam ili ne kada je vozilo preuzimao. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Optuženi su u završnim riječima lično i preko branioca ostali pri odbranama sa glavnog pretresa pred Osnovnim sudom u Nikšiću, predlažući sudu da ih oslobodi od optužbe. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Sud je u dokaznom postupku saslušao oštećene svjedoke Stanisavić Dragana i Stanišić Dragana, na saglasn predlog stranaka pročitao iskaze oštećenih svjedoka Kovačević Zorke i Bajović Gojka iz ranijih faza postupka, pročitao potvrdu CB Nikšić od 9.02.1999.g., potvrdu CB Nikšić od 5.02.1999.g.,zapisnik o uviđaju UP CB Nikšić od 10.02.1999.g., zapisnik o uviđaju UP CB Nikšić od 10.02.1999.g., na saglasan predlog stranaka pročitao  nalaz i mišljenje sudskog vještaka ekonomsko finansijeke struke Boričić  Borke i njegovu dopunu iz ranijih faza postupka i pročitao izvode iz kaznene evidencije za optužene.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Oštećena svjedok  </span><span class="span3">KOVAČEVIĆ ZORKA</span><span class="span2"> navela je u svom iskazu pred istražnim sudijom Višeg suda u Podgorici od 16.04.1999.g., da je u noći 4/5.02.1999.g., obijeno njeno vozilo marke JUGO reg.broj NK 110-22 koje je bilo parkirano u ulici Peka Pavlovića ispred zgrade u kojoj stanuje. Kada je narednoga jutra došla do vozila u namjeri da pođe na posao primjetila je da su otvorena prednja desna vrata iako je vozilo kada ga je bila ostavila parkirano na pomenutom mjestu propisno obezbijedila zaključala. Iz vozila je otuđen  radio kasetofon marke PIONIR koji košta oko 150 maraka. Krađu je odmah prijavila policiji a kasnije joj je saopšteno da su izvršioci krađe uhvaćeni a kasetofon oduzet od njih. Kasetofon je njoj vraćen. Istakla je da se ne pridružuje krivičnom gonjenju protiv optuženih niti ispostavlja imovinsko pravni zahtjev. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Oštećeni svjedok  </span><span class="span3">STANISAVIĆ DRAGAN</span><span class="span2"> naveo je u svom iskazu pred istražnim sudijom Višeg suda u Podgorici od 30.03.1999.g. da je u noći 2/3.02.1999.g., izvršena provalna krađa u njegovom vozilu marke GOLF 2, reg.broj NK 64-41 koje je bilo parkirano ispred njegovog stana u ulici V proleterske broj 35B. Vozilo je bio parkirao i zaključao a narednoga jutra primjetio je da je isto otvoreno te da su provalnici iz vozila otuđili radio kasetofon marke BLAUNGPUNT sa dva zvučnika dok su iz kase vozila otuđili njegove naočare marke Đani versaći“ u crnoj kožnoj futroli sa natpisom iste marke. Dana 15.02.1999.g pozvan je od strane radnika CB Nikšić radi prepoznavanja futrole od naočara koja futrola je pronađena prilikom pretresa u kući Vučinić Mitra i on je odmah prepoznao futrolu s tim što u istoj nije bilo naočala. Ovaj kasetofon košta 400 maraka sa zvučnicima a naočare koštaju 300 maraka. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                  </span><span class="span2">Oštećeni svjedok </span><span class="span3">STANISAVIĆ DRAGAN</span><span class="span2"> naveo je u svom iskazu na glavnom pretresu pred Višim sudom u Podgorici od 30.09.1999.g. da je vlasnik vozila marke GOLF 2, reg.oznaka NK 68-41 sa dvoje vrata koje je bio uredno parkirao na parkingu ispred stambene zgrade i zaključao ih a u toku noći to vozilo je obijeno i iz njega oduzet radio kasetofon marke Blaungpunt sa dva zvučnika čija je vrijednost 300 maraka , naočare VERSAĆi u futroli vrijednosti 300maraka, što je odmah ujutro prijavio. Njemu je dana 26.02.1999.g., vraćena futrola od naočara koja je pronađena kod Vučinić Mitra i on je istu jasno prepoznao – prvo je radnicima policije u njihovim prosotrijama opisao izgled futrole a kada su mu je pokazali jasno je istu prepoznao. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Oštećeni svjedok </span><span class="span3">STANISAVIĆ DRAGAN</span><span class="span2"> naveo je u svom iskazu pred Osnovnim sudom u Nikšiću od 22.06.2015.g., ponavljajući ranije kazivanje da se ne pridružuje krivičnom gonjenju protiv optuženih niti ispostavlja imovinsko pravni zahtjev. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Oštećeni svjedok </span><span class="span3">STANIŠIĆ DRAGAN</span><span class="span2"> naveo je u svom iskazu pred istražnim sudijom Višeg suda u Podgorici od 14.04.1999.g., da su u noći 15/16.01.1999.g., nepoznati izvršioci obili njegovo vozilo marke GOLF reg.broj NK 97-07 koje je bilo parkirano ispred zgrade u ulici Alekse Backovića broj 115 gdje stanuje a iz vozila je otuđen radio kasetofon marke FILIPS. U jutarnjim časovima zatekao je otvorena prednja desna vrata a kada je prethodno bio vozilo ostavio parkirano , bio ga je zaključao. </span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Oštećeni svjedok Stanišić Dragan naveo je u svom iskazu na glavnom pretresu pred Višim sudom u Podgorici od 27.10.1999.g. naveo je da je moguće da je u istrazi kazao kako mu je u noći 15/16.01.1999.g., obijeno vozilo GOLF i iz njega oduzet radio kasetofon marke FILIPS ali je zapravo siguran da mu je taj kasetofon oduzet dva mjeseca kasnije kada se desilo novo obijanje njegovog vozila pri čemu je on ovaj kasetofon ugradio u vozilo dan prije obijanja. Prvi put kada je bilo obijanje tog vozila – u noći 15/16.01.1999.g. tada je oduzet radio kasetofon marke BLAUNTPUNT vrijednosti 100 maraka. Djelovano je na bravu od vozila i on je tako otključano a nakon što je slučaj prijavio policiji nije vršen uviđaj jer je vozilom dolazio ispred prostorija CB Nikšić a njemu nikada niko nije pokazivao bilo kakav radio radi prepoznavanja.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                  </span><span class="span2">Oštećeni svjedok  </span><span class="span3">STANIŠIĆ DRAGAN</span><span class="span2"> naveo je u svom iskazu na glavnom pretresu pred  Osnovnim sudom u Nikšiću od 22.06.2015.g. da se sada precizno ne može sjetiti da li mu je kritičnom prilikom otuđen radio marke FILIPS ili neki drugi radio zbog proteka vremena te zbog činjenice da mu je tada u više navrata vozilo obijano. Istakao je da se ne pridružuje krivičnom gonjenju protiv  optuženih niti ispostavlja imovinsko pravni zahtjev. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                  </span><span class="span2">Oštećeni svjedok </span><span class="span3">BAJOVIĆ GOJKO</span><span class="span2"> naveo je u svom iskazu na glavnom pretresu pred Višim sudom u Podgorici od 27.10.1999.g., da je njegov objekat veličine 25m2, da mu je u policiji rečeno kako je jedan čovjek vidiio da je pet mladića kritične noći dolazilo kombijem do njegovog objekta pri čemu su u prvom navratu udarali u objekat a kasnije su se vratili , nastavili sa obijanjem i u objektu su bili sat dva vremena. Njemu su kasnije u policiji pokazani neki predmeti koje je on jasno prepoznao kao njegove predmete koji su otuđeni kritičnom prilikom. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">                   </span><span class="span3">POTVRDOM</span><span class="span2"> CB Nikšić od 9.02.1999.g., konstatovano je da se od Vučinić Mitra oduzima više predmeta – kompleti šildova i mesinganih kvaka , futrola za naočare VERSAĆI. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">                   </span><span class="span3">POTVRDOM</span><span class="span2"> CB Nikšić od 5.02.1999.g., konstatovano je da se od Vukasović Milana oduzimaju predmeti autokasetofon PIONIR , plastično postolje za kasetofon, štrafciger i baterijska lampa. </span>
+</p>
+<p>
+<span class="span2"> </span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Oštećeni svjedok </span><span class="span3">BAJOVIĆ GOJKO</span><span class="span2"> naveo je u svom iskazu pred istražnim sudijom Višeg suda u Podgorici od 24.03. 1999.g. da je u noći 2/3.11.1998.g., izvršena provalna krađa u njegovoj prodavnici OKOV u kojoj prodaje bravarke artikle u ulici Vuka Karadžića. Provalnici su u objekat ušli kroz sporedna vrata pri čemu su prerezali dva željezna ankera kojima su ta vrata bila blokirana i obezbijeđena a iz objekta je otuđena roba u vrijednosti od 55.824,00 dinara. Najveći dio te robe bile su eloksirane, aluminijske kvake, mesingane kvake i štitovi, ukrasne kvake i štitovi , cilindri , brave za drvena vrata i slično, pri čemu nijedan komad koji je otuđen nije koštao ispod 10 dinara. Njegova prodavnica se duži finansijski tako da ne vode materijalno knjigovodstvo. Istakao je da se pridružuje krivičnom gonjenju protiv optuženih. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">                   </span><span class="span3">ZAPISNIKOM</span><span class="span2"> o uviđaju UP CB Nikšić od 10.02.1999.g. navedno je da je prijavljeno obijanje vozila Tomašević Zorke – da se nijesu mogli pronaći materijalni tragovi jer je vlasnik vozilo pomjerao sa lica mjesta.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">                   </span><span class="span3">ZAPISNIKOM</span><span class="span2"> o uviđaju UP CB Nikšić od 10.02.1999.g. navedno je da je vozilo Stanišić Dragana zatečeno parkirano ispred zgrade u ulici Alekse Backovića broj 115 ali da krim.tehničar nije mogao pronaći tragove koji bi ukazivali na izvršenje krivičnog djela. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">                   </span><span class="span3">NALAZOM</span><span class="span2"> i </span><span class="span3">MIŠLJENJEM</span><span class="span2"> sudskog vještaka ekonomsko finansijeke struke Boričić Borke navedeno je da vrijednost robe oduzete u noći 7/8.12.1998.g. iz kioska broj 81 AD ŠTAMPA iznosi 10.259,00 dinara; da vrijednost autoradio kasetofona otuđenog iz vozila Tomašević Zorke u noći 4/5.02.1999.g.iznosi 850,00 dinara; da vrijednost autoradio kasetofona BLAUNGPUNT sa dva zvučnika otuđenog u noći 2/3.02.1999.g. iz vozila Stanisavić Dragana iznosi 1.250,00 dinara ; da vrijednost autoradio kasetofona FILIPS otuđenog u noći 15/16.01.1999.g iz vozila Stanišić Dragana iznosi 850,00 dinara; da vrijednost više cigareta LOVĆEN, više cigareta POINT i jedne grijalice otuđenih u noći 10/11.01.1999.g. iznosi 6.019,00 dinara; da vrijednost predmeta otuđenih u noći 2/3.11.1998.g., iz objekta Bajović Gojka iznosi 55.824,00 dinara.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">                   </span><span class="span3">DOPUNOM</span><span class="span2"> nalaza i mišljenja sudskog vještaka ekonomsko finansijske struke Boričić Borke od 20.09.1999.g. navedeno je da vrijednost predmeta otuđenih u </span><span class="span2">decembru 1998.g. iz objekta Pavićević Ranka / jedna šteka cigareta DANHIl, jedna šteka cigareta LM i jedna šteka cigareta BOND/ iznosu 235,00 dinara. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Sud je u konačnom odlučio da se optužba odbija prema optuženom Kavaja Marku da je n</span><span class="span2">oću 7/8 decembar 1998.g. u ulici Baja Pivljanina u Nikšiću, sa optuženima Vučinić Mitrom i Vukasović Milanom, obijanjem oduzeo tuđu pokretnu stvar drugom, u namjeri  da njenim prisvajanjem sa istima pribavi sebi protivpravnu imovinsku korist na način što su po dogovoru  podesnim sredstvom – pajserom odvalili katanac na ulaznim vratima kioska br.81, vlasništvo DP Štampa ušli u kiosk, odakle su oduzeli i prisvojili  cigarete „point“ , „ lovčen“ i „ drina“    u vrijednosti od 10.250,00 dinara, koje stvari imaju veliku  vrijednost, čime bi učinio krivično djelo teška krađa iz čl. 240 st. 1 tač. 1 KZ; da se </span><span class="span2">prema  </span><span class="span2">optuženima Vučinić Mitru i Kavaja Marku  </span><span class="span2">odbija optužba da su </span><span class="span2">noću 4/5 februara 1999.g. u ulici Peka Pavlovića u Nikšiću, zajedno sa optuženim Vukasović Milanom, provaljivanjem oduzeli tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist na način što su po dogovoru, podesnim ključem kalauzom, otvorili vrata putničkog vozila marke „jugo“  reg.oznake NK 110-22, vlasništvo Kovačević Zorke, iz kojeg su oduzeli i prisvojili radio kasefoton marke „pionir“ u vrijednosti od 850,00 dinara, čime bi učinili  krivično djelo teška krađa iz čl. 240 st. 1 tač. 1 KZ; da se </span><span class="span2">prema  </span><span class="span2">optuženima  </span><span class="span2">Vukasović Milanu i Kavaja Marku odbija optužba da su </span><span class="span2">noću  2/3 februara 1999.g u ulici V proleterske u Nikšiću, sa optuženim Vučinić Mitrom provaljivanjem oduzeli tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist, na način što su po dogovoru, podesnim ključem kalauzom otključali putničko vozilo „golf“ reg.oznaka NK 68-41, vlasništvo Stanisavić Dragana iz Nikšića, zatim iz vozila oduzeli i prisvojili auto radio kasetofon marke „blaungt“, sa dva zvučnka, u vrijednosti od 1.250,00 dinara, da su noću 15/16.januara 1999. g. u ulici Alekse Backovića u Nikšiću broj 115, sa optuženim Vučinić Mitrom, provaljivanjem oduzeli tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist na način što su podesnim kljčem otkljčali bravu na vratima sa desne strane vozila marke „golf“ reg. oznaka NK 97-07 vlasništvo Stanišić Dragana iz Nikšića i iz vozila oduzeli i prisvojili auto radio kasetofon marke „filips“  u vrijednosti od 850,00 dinara, da su noću 10/11 januara 1999.g u ulici Vuka Karadžića  u Nikšiću, sa optuženim Vučinić Mitrom, obijanjem oduzeli tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist, na način što su po dogovoru, podesnim sredstvom polomili katanac na rešetkama, šaltera na kiosku broj 11 vlasništvo Duvanskog kombinata iz Podgorice, zatim upotrebom fizičke sile  polomili staklo na šalteru i kroz načinjeni otvor ušli u kiosk odakle su oduzeli i prisvojili više kutija cigareta „lovćena“ i „pointa“ i jednu grijalicu u virijednosti  od 6.019,00 dinara, da su noću 2/3 novembra 1998.g u ulici Vuka Karadžića u Nikšiću, sa optuženim Vučinić Mitrom, obijanjem oduzeli tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist na način što su po dogovoru, podesnim sredstvom pajserom odvalili sporedna vrata prodavnice  bravarskih artikala vlasništvo Bajović Gojka iz Nikšća, ušli u prodavnicu iz koje su oduzeli i prisvojili više ručica eloksiranih i aluminijskih, mesinganih štitova, ukrasnih štitova i ručica , cilindričnih brava za drvena i metalna vrata, katanaca, bravica za namještaj, ručica za balkonska vrata i prozore i usadnih jezičaka i druga sitnije robe i time pribavili sebi imovinsku korist velikog obima u iznosu od 55.824,00 dinara, čime bi učinili  krivično djelo teška krađa iz čl. 240 st. 1 tač. 1 KZ. Naime, k</span><span class="span2">ako je zastupnik optužbe na glavnom pretresu odustao od krivičnog gonjenja u odnosu na optuženog Kavaja Marka u pogledu izvršenja krivičnog djela na štetu DP Štampa iz noći 7/8.12.1998.g.; u odnosu na optužene Vučinić Mitra i Kavaja Marka u pogledu </span><span class="span2">izvršenja krivčnog djela na štetu Kovačević Zorke iz noći 4/5.02.1999.g., te u odnosu na optužene Vukasović Milana i Kavaja Marka u pogledu izvršenja krivičnog djela na štetu Stanisavić Dragana iz noći 2/3.02.1999.g., na štetu Stanišić Dragana iz noći 15/16.01.1999.g., na štetu DKP iz Podgorice iz noći 10/11.1999.g., te na štetu Bajović Gojka iz noći 2/3.11.1998.g., to je sud donio odluku kojom se optužba odbija u odnosu na navedena lica za predmetna krivična djela budući da nije postojao zahtjev ovlašćenog tužioca za dalje krivično gonjenje istih. </span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Sa druge strane sud nalazi da je na nesumnjiv način utvrđeno da su o</span><span class="span2">ptuženi</span><span class="span2">  </span><span class="span2">Vučinić</span><span class="span2"> </span><span class="span2">Mitar</span><span class="span2">, </span><span class="span2">Vukasović</span><span class="span2"> Milan i  </span><span class="span2">Kavaja</span><span class="span2"> Marko  </span><span class="span2">neutvrđenog dana decembra 1998.g. u ulici Partizanski put bb, u Nikšiću, po dogovoru, obijanjem oduzeli tuđu pokretnu svar drugom u namjeri da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist na način što su podesnim sredstvom pajserom polomili katanac na ulaznim vratima maloprodajnog objekta, vlasništvo Pavićević Ranka iz Nikšića, ušli u objekat, oduzeli i prisvojili raznih cigareta i sitne galanterije veće vrijednosti; da su optuženi  Vučinić Mitar i Vukasović Milan noću 7/8 decembar 1998.g. u ulici Baja Pivljanina u Nikšiću, obijanjem oduzeli tuđu pokretnu stvar drugom, u namjeri  da njenim prisvajanjem pribave sebi protivpravnu imovinsku korist na način što su po dogovoru podesnim sredstvom – pajserom odvalili katanac na ulaznim vratima kioska br.81, vlasništvo DP Štampa ušli u kiosk, odakle su oduzeli i prisvojili  cigarete „point“ , „ lovćen“ i „ drina“    u vrijednosti od 10.250,00 dinara, koje stvari imaju veliku  vrijednost; da je optuženi Vukasović Milan noću 4/5 februara 1999.g. u ulici Peka Pavlovića u Nikšiću, provaljivanjem oduzeo tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribavi sebi protivpravnu imovinsku korist na način što je podesnim ključem kalauzom, otvorio vrata putničkog vozila marke „jugo“  reg.oznake NK 110-22, vlasništvo Kovačević Zorke, iz kojeg je oduzeo i prisvojio radio kasefoton marke „pionir“ u vrijednosti od 850,00 dinara; da je optuženi Vučinić Mitar noću  2/3 februara 1999.g. u ulici V proleterske u Nikšiću, provaljivanjem oduzeo tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribavi sebi protivpravnu imovinsku korist, na način što je podesnim ključem kalauzom otključao putničko vozilo „golf“ reg.oznaka NK 68-41, vlasništvo Stanisavić Dragana iz Nikšića, zatim iz vozila oduzeo i prisvojio  auto radio kasetofon marke „blaunpunkt“, sa dva zvučnka, u vrijednosti od 1.250,00 dinara, da je noću 15/16.januara 1999. g. u ulici Alekse Backovića u Nikšiću broj 115, provaljivanjem oduzeo  tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribavi sebi protivpravnu imovinsku korist na način što je podesnim ključem otključao bravu na vratima sa desne strane vozila marke „golf“ reg. oznaka NK 97-07 vlasništvo Stanišić Dragana iz Nikšića i iz vozila oduzeo i prisvojio auto radio kasetofon marke „filips“  u vrijednosti od 850,00 dinara, da je noću 10/11 januara 1999.g u ulici Vuka Karadžića  u Nikšću, obijanjem oduzeo  tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribavi sebi protivpravnu imovinsku korist, na način što je  podesnim sredstvom polomio katanac na rešetkama, šaltera na kiosku broj 11 vlasništvo Duvanskog kombinata iz Podgorice, zatim upotrebom fizičke sile  polomio staklo na šalteru i kroz načinjeni otvor ušao u kiosk odakle je oduzeo i prisvojio više kutija cigareta „lovćena“ i „pointa“ i jednu grijalicu u virijednosti  od 6.019,00 dinara, da je noću 2/3 novembra 1998.g u ulici Vuka Karadžića u Nikšiću, obijanjem oduzeo  tuđu pokretnu stvar drugom u namjeri da njenim prisvajanjem pribavi sebi protivpravnu imovinsku korist na način što je  podesnim sredstvom pajserom odvalio sporedna vrata prodavnice  bravarskih artikala vlasništvo Bajović Gojka iz Nikšća, ušao u prodavnicu iz koje je oduzeo i prisvojio više ručica eloksiranih i aluminijskih, mesinganih štitova, ukrasnih štitova i ručica , cilindričnih brava za drvena i metalna vrata, katanaca, bravica za namještaj, ručica za balkonska vrata i prozore i usadnih jezičaka i druga sitnije robe i time pribavio sebi imovinsku korist velikog obima u iznosu od 55.824,00 dinara, č</span><span class="span2">ime su </span><span class="span2">učinili i to optuženi Kavaja Marko krivično djelo teška krađa iz čl. 240 st. 1 tač. 1 KZ a optuženi Vučinić Mitar i Vukasović Milan su učinili po jedno  produženo krivično djelo teška kradja iz čl.240 st.1 tač.1 u vezi čl.49 KZ.</span>
+</p>
+<p>
+<span class="span2">                   </span><span class="span2">Što se tiče krivičnog djela učinjenog na štetu Pavićević Ranka iz decembra mjeseca 1998.g. optuženi Vučinić Mitar je na prvom saslušanju kod istražnog sudije Višeg suda u Podgorici jasno i precizno naveo kako je došlo do izvršenja predmetnog krivičnog djela, opisujući učešće kako sebe samog tako i optuženih Vukasović Milana i Kavaja Marka. Na narednom saslušanju pred istražnim sudijom Višeg suda u Podgorici Vučinić je takođe naveo da je zajedno sa ostalim optuženima počinio ovo krivično djelo tako da za sud nije bilo sumnje u konačnom da oni zaista jesu izvršili dati krivični delikt. Što se tiče odbrane optuženog Vučinić Mitra na glavnom pretresu pred Višim sudom u Podgorici, isti je istakao da je zapravo od Kavaja Marka samo bio pozajmio vozilo dok je Vukasović zaista bio sa njim u vozilu ali uopšte mu nije pomagao u izvršenju krivičnog djela tako da on čak misli d aovaj nije ni znao šta je to Vučinić uradio. Ovolike izmjene u kazivanju optuženi Vučinić Mitar nije uspio po ocjeni suda da na racionalan način objasni budući da je naveo kako je zapravo prilikom saslušanja kod istražnog sudije bio pogrešno shvaćen od strane onoga ko ga je saslušavao. Prethodno navedeno sud ne može tretirati kao prihvatljivo objašnjenje budući da je optuženi lično potpisao oba zapisnika o saslušanjima kod istražnog sudije Višeg suda u Podgorici pri čemu je u svojim odbranama jasno navodio kako je zajedno sa ostalim optuženima počinio predmetno krivično djelo. U konačnom, koliko su odstupanja optuženog Vučinić Mitra od onoga što je pričao istražnom sudiji predstavljalo samo paušalan pokušaj izbjegavanja sopstvene odgovornosti vidi se i po tome što je na glavnom pretresu iz 2015.g. isticao da zapravo nikada nije počinio niti jedno krivično djelo što će reći da je opovrgao čak i ono što je govorio na pretresu pred Višim sudom u Podgorici. Ovakvu izmjenu u kazivanju optuženi tek nije umio da objasni pa je naveo da je zapravo nakon što mu je predočeno šta je kazivao na pretresu pred Višim sudom njemu sve to novo. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                  </span><span class="span2">Sudu je jasno da kada optuženi Vučinić Mitar mijenja odbranu to čini na nedosledan način pa na glavnom pretresu pred Višim sudom pominje da je on sam izvršio predmetno krivično djelo dok ostali optuženi u tome nijesu sudjelovali da bi na glavnom pretresu pred ovim sudom naveo da čak ni on sam nije izvršio to krivično djelo. Kada se uz prethodno navedeno uzme u obzir da je optuženi Kavaja Marko naveo na glavnom pretresu pred Višim sudom u Podgorici kako mu je Vučinić tražio da mu posudi vozilo kako bi izašao sa djevojkom pri čemu je tada bio u društvu sa Vučinićem, Vukasovićem i tom djevojkom , pa mu je on dao vozilo što se razlikuje od odbrana optuženih Vučinića i Vukasovića sa glavnog pretresa pred Višim sudom budući da niko od njih nije pominjao da je u društvu Vučinića te noći zaista i bila neka djevojka, jasno je da je sud morao prihvatiti kazivanje optuženog Vučinić Mitra iz istrage u pogledu izvršenja krivičnog djela na štetu Pavićević Ranka. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Što se tiče krivičnog djela na štetu Kovačević Zorke, iz potvrde o privremenom oduzimanju predmeta CB Nikšić jasno proizilazi da je od optuženog Vukasović Milana u noći 4/5.02.1999.g., oduzet kasetofon marke „ pionir“ a po kazivanju oštećene upravo je te marke bio kasetofon otuđen iz njenog vozila pri čemu joj je isti kasnije vraćen. Optuženi Vukasović Milan je naveo da je on zapravo u blizini solitera našao taj kasetofon a pored njega šrafciger i lampu. Ne samo da je krajnje nelogično da bi neko obio vozilo Kovačević Zorke i izvukao iz njega kasetofon da bi </span><span class="span2">ga zatim tek tako ostavio na zemlji pa da ga optuženi nađe već i sam optuženi je bio nedosledan budući da je na saslušanju u istrazi tvrdio kako se od mjesta pronalaska predmeta odmakao 20-tak metara i tek ga je tada policija zatekla i lišila slobode dok je na glavnom pretresu pred Višim sudom u Podgorici naveo da je zapravo njega polciija odmah zatekla i lišila slobode kada je pronašao date predmete što će reći da nije pominjao odmicanje za tih 20-tak metara. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">U pogledu izvršenja krivičnog djela na štetu DP Štampa iz noći 7/8.12.1998.g., optuženi Vučinić Mitar je na prvom saslušanju pred istražnim sudijom Višeg suda u Podgorici jasno i precizno opisao kako je to skupa sa Vukasović Milanom počinio ovo krivično djelo. Već na narednom saslušanju kod istražnog sudije optuženi Vučinić Mitar je naveo kako zapravo Vukasović sa njim nije to učinio ali ga je pomenuo usled prijetnji policijskog inspektora Lješkovića dok je na glavnom pretresu pred Višim sudom u Podgorici istakao da nikada nijedno djelo nije počinio sa Vukasovićem. Prethodno je već navedeno ali valja se ponoviti – izmjene u odbrani optuženog Vučinić Mitra gdje on najprije umanjuje sudjelovanje Vukasovića u kriminalnim radnjama /saslušanje kod istražnog sudije po drugi put / a zatim i sasvim eliminiše /saslušanje na glavnim pretresima iz 1999.g. i 2015.g. / sud tretira kao paušalan pokušaj da se optuženom Vukasović Milanu pomogne odnosno da se isključi iz izvršenja konkretnih krivičnih delikata. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Što se tiče krivičnog djela učinjenog na štetu Stanisavić Dragana, slijedeći iskaz oštećenog jasno je da su iz njegovog vozila otuđeni kasetofon sa dva zvučnika te naočari u crnoj kožnoj futroli a kako je kasnije predmetna futrola pronađena kod Vučinić Mitra pri čemu je istu oštećeni prepoznao kao svoju /vraćanje futrole notirano je potvrdom o vraćanju predmeta/ jasno je da je upravo optuženi Vučinić Mitar počinio predmetno krivično djelo.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Što se tiče krivičnih djela na štetu Stanišić Dragana, DKP te Bajović Gojka nesporno je da su neki od otuđenih predmeta iz datih krađa pronađeni kod optuženog Vučinić Mitra pa je jasno da je isti počinio predmeta krivična djela.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                  </span><span class="span2"> </span><span class="span2">Kako je optuženi Kavaja Marko, bio svjestan da oduzima tuđe pokretne stvari očito u namjeri pribavljanja protivpravne imovinske kosti što je i htio učestvujući u izvršenju teške krađe obijanjem na štetu Pavićević Ranka, jasno je da je djelovao sa direktnim umišljajem. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Sud je donio rešenje da se neće saslušavati oštećeni pavićević Ranko kao ni predstavnik oštećenog preduzeća DKP nalazeći da bi insistiranje na izvođenju datih dokaza isključivo doprinijelo odugovlačenju postupka.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                  </span><span class="span2"> </span><span class="span2">Kako su optuženi Vučinić Mitar i Vukasović Milan bili svjesni da   oduzimaju  tuđe pokretne stvari očito u namjeri pribavljanja protivpravne imovinske kosti što su  i htjeli  učestvujući u izvršenju teških  krađa jasno je da su djelovali sa direktim umišljajem pri čemu su počinili više istih krivičnih djela u vremenskom kontinuitetu uz postojanje jedinstva umišljaja i jedinstva mjesta djelovanja – na teritoriji opštine Nikšić. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                   </span><span class="span2">Prilikom</span><span class="span2"> </span><span class="span2">odlučivanja</span><span class="span2"> o </span><span class="span2">kazni</span><span class="span2">, </span><span class="span2">shodno</span><span class="span2"> čl.42 KZ </span><span class="span2">sud</span><span class="span2"> je </span><span class="span2">kao</span><span class="span2"> </span><span class="span2">olakšavajuće</span><span class="span2"> </span><span class="span2">okolnosti</span><span class="span2"> </span><span class="span2">na</span><span class="span2"> </span><span class="span2">strani</span><span class="span2"> </span><span class="span2">optuženih</span><span class="span2"> </span><span class="span2">Vučinić</span><span class="span2"> </span><span class="span2">Mitra</span><span class="span2"> i </span><span class="span2">Kavaja</span><span class="span2"> </span><span class="span2">Marka</span><span class="span2">  </span><span class="span2">cijenio</span><span class="span2"> </span><span class="span2">njihovu</span><span class="span2"> </span><span class="span2">porodičnost</span><span class="span2"> – </span><span class="span2">isti</span><span class="span2"> </span><span class="span2">su</span><span class="span2"> </span><span class="span2">oženjeni</span><span class="span2"> i </span><span class="span2">očevi</span><span class="span2"> </span><span class="span2">su</span><span class="span2"> </span><span class="span2">po</span><span class="span2"> </span><span class="span2">dva</span><span class="span2"> </span><span class="span2">djeteta</span><span class="span2">, </span><span class="span2">na</span><span class="span2"> </span><span class="span2">strani</span><span class="span2"> </span><span class="span2">optuženih</span><span class="span2"> </span><span class="span2">Vukasović</span><span class="span2"> </span><span class="span2">Milana</span><span class="span2"> i </span><span class="span2">Kavaja</span><span class="span2"> </span><span class="span2">Marka</span><span class="span2"> </span><span class="span2">njihovo</span><span class="span2"> lose </span><span class="span2">imovno</span><span class="span2"> </span><span class="span2">stanje</span><span class="span2">, </span><span class="span2">na</span><span class="span2"> </span><span class="span2">strani</span><span class="span2"> </span><span class="span2">sva</span><span class="span2"> tri </span><span class="span2">optužena</span><span class="span2"> </span><span class="span2">njihovu</span><span class="span2"> </span><span class="span2">nezaposlenost</span><span class="span2">, </span><span class="span2">na</span><span class="span2"> </span><span class="span2">strani</span><span class="span2"> </span><span class="span2">optuženih</span><span class="span2"> </span><span class="span2">Vučinića</span><span class="span2"> i </span><span class="span2">Kavaje</span><span class="span2"> </span><span class="span2">njihovu</span><span class="span2"> </span><span class="span2">neosuđivanost</span><span class="span2">, </span><span class="span2">pri</span><span class="span2"> </span><span class="span2">čemu</span><span class="span2"> </span><span class="span2">na</span><span class="span2"> </span><span class="span2">strani</span><span class="span2"> </span><span class="span2">Vučinića</span><span class="span2"> i </span><span class="span2">Kavaje</span><span class="span2"> </span><span class="span2">nije</span><span class="span2"> </span><span class="span2">bilo</span><span class="span2"> </span><span class="span2">otežavajućih</span><span class="span2"> </span><span class="span2">okolnosti</span><span class="span2"> </span><span class="span2">dok</span><span class="span2"> je </span><span class="span2">na</span><span class="span2"> </span><span class="span2">strani</span><span class="span2"> </span><span class="span2">optuženog</span><span class="span2"> </span><span class="span2">Vukasović</span><span class="span2"> </span><span class="span2">MIlana</span><span class="span2"> </span><span class="span2">otežavajuća</span><span class="span2"> </span><span class="span2">okolnost</span><span class="span2"> </span><span class="span2">bila</span><span class="span2"> da mu je </span><span class="span2">ranije</span><span class="span2"> </span><span class="span2">izricana</span><span class="span2"> </span><span class="span2">vaspitna</span><span class="span2"> </span><span class="span2">mjera</span><span class="span2">, pa je </span><span class="span2">sud</span><span class="span2"> u </span><span class="span2">konačnom</span><span class="span2"> </span><span class="span2">nalazeći</span><span class="span2"> da </span><span class="span2">na</span><span class="span2"> </span><span class="span2">strani</span><span class="span2"> </span><span class="span2">optuženih</span><span class="span2"> </span><span class="span2">postoje</span><span class="span2"> </span><span class="span2">naročito</span><span class="span2"> </span><span class="span2">olakšavajuće</span><span class="span2"> </span><span class="span2">okolnosti</span><span class="span2">, </span><span class="span2">istima</span><span class="span2"> </span><span class="span2">shodno</span><span class="span2"> čl.45 st.1 tač.3 KZ i čl.46 st.1 tač.4 KZ </span><span class="span2">ublažio</span><span class="span2"> </span><span class="span2">kazne</span><span class="span2"> </span><span class="span2">ispod</span><span class="span2"> </span><span class="span2">propisanog</span><span class="span2"> </span><span class="span2">minimuma</span><span class="span2"> </span><span class="span2">za</span><span class="span2"> </span><span class="span2">predmetno</span><span class="span2"> </span><span class="span2">krivično</span><span class="span2"> </span><span class="span2">djelo</span><span class="span2">, </span><span class="span2">osuđujući</span><span class="span2"> </span><span class="span2">ih</span><span class="span2"> u </span><span class="span2">konačnom</span><span class="span2"> </span><span class="span2">na</span><span class="span2"> </span><span class="span2">kazne</span><span class="span2"> </span><span class="span2">zatvora</span><span class="span2"> u </span><span class="span2">trajanju</span><span class="span2"> od </span><span class="span2">po</span><span class="span2"> 7 </span><span class="span2">mjeseci</span><span class="span2"> </span><span class="span2">kojim</span><span class="span2"> </span><span class="span2">će</span><span class="span2"> se </span><span class="span2">kaznama</span><span class="span2">  </span><span class="span2">po</span><span class="span2"> </span><span class="span2">ocjeni</span><span class="span2"> </span><span class="span2">suda</span><span class="span2"> </span><span class="span2">ostvariti</span><span class="span2"> </span><span class="span2">svrha</span><span class="span2"> </span><span class="span2">kažnjavanja</span><span class="span2"> </span><span class="span2">iz</span><span class="span2"> čl.32 KZ u </span><span class="span2">okviru</span><span class="span2"> </span><span class="span2">opšte</span><span class="span2"> </span><span class="span2">svrhe</span><span class="span2"> </span><span class="span2">propisivanja</span><span class="span2"> i </span><span class="span2">izricanja</span><span class="span2"> </span><span class="span2">krivičnih</span><span class="span2"> </span><span class="span2">sankcija</span><span class="span2"> </span><span class="span2">iz</span><span class="span2"> čl.4 st.2 KZ  a u </span><span class="span2">izrečene</span><span class="span2"> </span><span class="span2">kaznu</span><span class="span2"> </span><span class="span2">optuženima</span><span class="span2">  </span><span class="span2">će</span><span class="span2"> se </span><span class="span2">uračunati</span><span class="span2"> </span><span class="span2">shodno</span><span class="span2"> čl.51 KZ </span><span class="span2">vrijeme</span><span class="span2"> </span><span class="span2">koje</span><span class="span2"> </span><span class="span2">su</span><span class="span2">  </span><span class="span2">proveli</span><span class="span2">  u </span><span class="span2">pritvoru</span><span class="span2"> </span><span class="span2">počev</span><span class="span2"> od </span><span class="span2">8.02.1999.g. do 30.09.1999.g. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                 </span><span class="span2">Iz</span><span class="span2"> </span><span class="span2">iznijetih</span><span class="span2"> </span><span class="span2">razloga</span><span class="span2">, </span><span class="span2">sud</span><span class="span2"> je </span><span class="span2">odlučio</span><span class="span2"> </span><span class="span2">kao</span><span class="span2"> u </span><span class="span2">izreci</span><span class="span2"> </span><span class="span2">presude</span><span class="span2">.</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span2">OSNOVNI SUD U NIKŠIĆU, </span><span class="span2">dana</span><span class="span2"> 22.06.2015.g.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                         Zapisničar,                                                                            SUDIJA,</span>
+</p>
+<p>
+<span class="span2">      </span><span class="span2">                 </span><span class="span2">Ćuzović Plana    s.r.                                                           Perović Ivan s. r.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">                                         ZA TAČNOST OTPRAVKA TVRDI:</span>
+</p>
+<p>
+<span class="span2">                                                        radnik suda</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">              P</span><span class="span2">RAVNA POUKA:   </span><span class="span2">Protiv</span><span class="span2"> </span><span class="span2">ove</span><span class="span2"> </span><span class="span2">presude</span><span class="span2"> </span><span class="span2">dozvoljena</span><span class="span2"> je </span><span class="span2">žalba</span><span class="span2"> u </span><span class="span2">roku</span><span class="span2"> od </span><span class="span2">15  </span><span class="span2">dana</span><span class="span2"> o </span><span class="span2">dana</span><span class="span2"> </span>
+</p>
+<p>
+<span class="span2">                                </span><span class="span2">              </span><span class="span2"> </span><span class="span2">prijema</span><span class="span2"> </span><span class="span2">iste</span><span class="span2">  </span><span class="span2">preko</span><span class="span2"> </span><span class="span2">ovog</span><span class="span2"> SUDA VIŠEM  SUDU PODGORICA.</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+
+
+</body>

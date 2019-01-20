@@ -1,0 +1,319 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.b2{margin: 0.82708335in 0.82708335in 0.82708335in 0.82708335in;}
+.s1{font-family:Arial;}
+.p1{text-indent:0.19722222in;margin-right:-0.375in;text-align:end;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.p2{text-indent:0.19722222in;margin-right:-0.375in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p3{text-indent:0.19722222in;margin-right:-0.375in;text-align:center;hyphenate:auto;keep-with-next.within-page:always;font-family:Arial;font-size:12pt;}
+.p4{margin-right:-0.375in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p5{text-indent:0.19722222in;margin-right:-0.375in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p6{text-indent:0.19722222in;margin-right:-0.375in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p7{text-indent:0.19722222in;margin-right:-0.375in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p8{text-indent:0.25in;margin-right:-0.375in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p9{margin-right:-0.375in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p10{margin-right:-0.375in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p11{text-indent:0.39444444in;margin-right:-0.375in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p12{text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.td1{width:2.6034722in;padding-start:0.075in;padding-end:0.075in;}
+.td2{width:3.5465279in;padding-start:0.075in;padding-end:0.075in;}
+.td3{width:2.7in;padding-start:0.075in;padding-end:0.075in;}
+.td4{width:3.75in;padding-start:0.075in;padding-end:0.075in;}
+.td5{width:1.825in;padding-start:0.075in;padding-end:0.075in;}
+.td6{width:3.625in;padding-start:0.075in;padding-end:0.075in;}
+.r1{keep-together:always;}
+.t1{table-layout:fixed;border-collapse:collapse;border-spacing:0;}
+</style>
+<meta content="Željka Jovović" name="author">
+</head>
+<body class="b1 b2">
+<p class="p1">
+<span class="s1">			K. br.1239/12</span>
+</p>
+<p class="p2"></p>
+<p class="p3">
+<span>U IME CRNE GORE</span>
+</p>
+<p class="p4"></p>
+<p class="p5">
+<span>   OSNOVNI SUD U PODGORICI, po sudiji Željki Jovović, uz sudjelovanje Danijele Rajković, kao zapisničara, u krivičnom postupku protiv optuženog M. P., zbog krivičnog djela teško djelo protiv opšte sigurnosti iz čl. 338 st. 3 u vezi čl. 327 st. 4 u vezi st. 1 Krivičnog zakonika, rješavajući po optužnici ODT Podgorica Kt. br. 1598/11-2 od 13. 11. 2012. godine, nakon održanog glavnog javnog pretresa dana 13. 06. 2013. godine, u prisustvu zamjenika ODT-a Podgorica Miroslava Turkovića, optuženog i njegovog branioca adv. M. M., donio je i dana 14. 06. 2013. godine  javno objavio </span>
+</p>
+<p class="p5"></p>
+<p class="p6">
+<span>P R E S U D U</span>
+</p>
+<p class="p7">
+<span>	</span>
+</p>
+<p class="p8">
+<span>Optuženi:  </span>
+</p>
+<p class="p8">
+<span>P. M., JMBG xxxxxxxxxxxxx, od oca D. i majke S., rođene M., rođen xx. xx. 19xx. godine u Nikšiću, sa prebivalištem u Podgorici, Stara Zlatica bb, državljanin Crne Gore, sa završenom srednjom školom, po zanimanju građevinski tehničar, oženjen, otac dvoje djece, srednjeg imovnog stanja, neosuđivan</span>
+</p>
+<p class="p9"></p>
+<p class="p10">
+<span>Kriv je</span>
+</p>
+<p class="p9"></p>
+<p class="p8">
+<span>Zato što:</span>
+</p>
+<p class="p8">
+<span>Dana 20. januara 2006. godine, u Podgorici, kao poslovođa grupe radnika u preduzeću "Č." D.O.O. iz Podgorice, nije postupao po propisima i tehničkim pravilima o mjerama zaštite na radu, tako što prilikom izvođenja radova na rušenju pregradnih zidova u unutrašnjost zgrade "M. banke", u Bulevaru Revolucije br. x u Podgorici, suprotno čl. 17 Pravilnika o zaštiti na radu "Č." D.O.O., angažovane radnike V. Lj. i P. V., nije upoznao sa načinom ručnog rušenja pregradnih zidova koji se, shodno čl. 138 st. 1 Pravilnika o zaštiti na radu u građevinarstvu, mora izvoditi odozgo naniže, i suprotno čl. 138 st.3 pravilnika o zaštiti na radu u građevinarstvu, nije obezbijedio pokretne skele na nogarima kako bi radnici pristupili rušenju slobodno stojećih zidova odozgo naniže, te shodno čl. 137 Pravilnika o zaštiti na radu u građevinarstvu, nije obezbijedio neposredan i stalni stručni nadzor nad izvođenjem tih radova, iako je to bio dužan, već im je suprotno navedenim pravnim aktima, izdao radni nalog da poruše slobodno-stojeće pregradne zidove, pa su radnici potkopavanjem donjeg dijela zida, započeli njegovo rušenje, zbog čega je došlo do pada zida na oštećenog V. Lj., koji je tom prilikom zadobio tešku tjelesnu povredu u vidu preloma kostiju lobanje i lica sa oštećenjem po život važnih moždanih centara, usljed kojih povreda je došlo do nastupanja smrti, iako je okrivljeni bio svjestan da svojom radnjom može prouzrokovati zabranjenu posljedicu - ugroziti sigurnost ljudi i tako izazvati opasnost za živog i tijelo ljudi, ali je olako držao da do toga neće doći, a u odnosu na težu posljedicu je takođe postupio sa svjesnim nehatom, jer je znao da svojim radnjama takva posljedica može nastupiti, ali je olako držao da do toga neće doći,</span>
+</p>
+<p class="p9">
+<span>	- čime je izvršio krivično djelo teško djelo protiv opšte sigurnosti  iz čl. 338 st. 4 u vezi čl. 329 st. 3 u vezi st. 2 Krivičnog zakonika.</span>
+</p>
+<p class="p9"></p>
+<p class="p9">
+<span>	Pa mu Sud za navedeno krivično djelo primjenom  čl. 4 st. 2, čl. 42 st. 1, čl. 52 st. 2, čl. 53 i 54 Krivičnog zakonika i čl. 226, 229, 239 i 374 Zakonika o krivičnom postupku, izriče </span>
+</p>
+<p class="p10"></p>
+<p class="p10">
+<span>USLOVNU OSUDU</span>
+</p>
+<p class="p9">
+<span>	</span>
+</p>
+<p class="p9">
+<span>	Kojom mu predhodno utvrđuje kaznu zatvora u trajanju od 1 (jedne) godine i istovremeno određuje da se ista neće izvršiti, ako okrivljeni u roku od 3 (tri) godine po pravosnažnosti presude ne izvrši novo krivično djelo. </span>
+</p>
+<p class="p9">
+<span>	Obavezuje se okrivljeni da plati na ime troškova krivičnog postupka iznos od 435,50 €, u roku od 15 dana po pravosnažnosti presude, pod prijetnjom prinudnog izvršenja.</span>
+</p>
+<p class="p9">
+<span>	Oštećena porodica pok. V. Lj. se radi ostvarivanja imovinsko pravnog zahtjeva upućuje na parnični postupak.</span>
+</p>
+<p class="p9">
+<span>	</span>
+</p>
+<p class="p3">
+<span>O b r a z l o ž e n j e</span>
+</p>
+<p class="p5"></p>
+<p class="p5">
+<span>  Osnovni državni tužilac u Podgorici optužnicom Kt. br. 1598/11-2  stavio je na teret okrivljenom P. M. izvršenje krivičnog djela teško djelo protiv opšte sigurnosti iz čl. 338 st. 4 u vezi čl. 329 st. 3 u vezi st. 2 Krivičnog zakonika, pri kojem optuženom aktu je ostao do kraja glavnog pretresa i u završnoj riječi, nalazeći da je provedenim dokazima u postupku nesumnjivo utvrdjeno da je optuženi izvršio krivično djelo stavljeno mu na teret, predložio sudu da optuženog oglasi krivim i osudi po zakonu. </span>
+</p>
+<p class="p5">
+<span>  Optuženi P. M.  je u svojoj odbrani u bitnom istakao, da je 2002. godine ili 2003. godine bio zaposlen u kompaniji "Č." kao gradjevinski tehničar, gdje je radio sve do 2008. godine, pri čemu je njegovo zaduženje bilo - poslovodja na gradilištu. Krajem 2005. godine ova kompanija je dobila posao na adaptaciji zgrade bivše "M.banke", za potrebe Agencije za nacionalnu bezbjednost. Ta adaptacija je obuhvatila naprije čišćenje svih prostorija od zaostalog namještaja, zatim rušenje predhodnih zidova, skidanje stolarije, elektro i vodovodnih instalacija, da bi nakon toga krenuli u izradnji novo projektovanih prostorija i postavljanju nove instalacije. Kada se dogodila predmetna nezgoda na gradilištu su bili on i radnici V., P., jedan radnik po imenu P. i još nekoliko radnika, misli da je bilo ukupno oko 15. Tog dana izvodili su radove na rušenju pregradnih zidova, kao i čišćenju tzv. šuta. U jednom trenutku pozvao ga je P. G. da sa ovog gradilišta ponese kabal na gradilište na kome se on nalazio. Kada je krenuo prema svojim kolima sreo je V., koji mu je rekao da su završili sa istovaranjem šuta, a on mu je odgovorio da pripremi skelu i sve što je potrebno za rušenje pregradnih zidova, i da ga sačekaju dok se ne vrati sa drugog gradilišta. Nedugo zatim, tj. kada je prešao most "Union Bridž", na mobilni telefon ga je pozvao G. Lj. i saopštio mu da je V. Lj. povrijedjen, jer je neki zid pao na njega. Odmah se vratio na gradilište gdje je na kapiji sreo radnike koji su nekim vozilom odveli V. u KBC da bi mu se ukazala pomoć, nakon čega je i on otišao tamo. Pojasnio je da su kritičnog dana radnici na sebi imali zaštitnu opremu i to zaštitne rukovice, šlem i jednaka radna odijela, kao i radničke cipele. Na gradilištu su se nalazile skele koje su bile napravljene od cijevi a popatošene daskama, koje skele su se nalazile na spoljašnjoj fasadi objekta radi skidanja stolarije. Takodje su na gradilištu postojale i manje skele tzv. "metalne ramovske skele", koje su bile mobilne u smislu da su se mogle pomjerati sa jednog mjesta na drugo, a po potrebi posla su mogle biti i u unutrašnjosti objekta, a kojih skela su na ovom gradilištu imali sigurno 5 - 6 komada. Radnicima je uvjek govorio kako da obave pojedini posao a u trenutku kada je stradao V. Lj., adaptiranje objekta je u značajnoj mjeri bilo privedeno kraju, odnosno svi pregradni zidovi su bili porušeni. Za svaki objekat koji su gradili su imali elaborat sa programom radova, opasnostima i mjerama zaštite na radu, a takav elaborat su imali i za konkretan objekat. Takodje, na nivou kompanije "Č." postoji Pravilnik o zaštiti na radu, a svu tu dokumentaciju su morali da posjeduju jer im je istu tražila Inspekcija kada bi obilazila gradilište. Svaki dan je imao radni sastanak sa P. G. ali i sa drugim odgovornim licima iz njihove kompanije, jer su to bili zajednički sastanci. Od nadzornog organa su dobili plan koji se odnosi na radove koje treba da izvedu na gradilištu a ovi organi su davali upustva G. P. i D. V., ili nekom od drugih inžinjera a koja su se odnosila na to šta treba da se uradi. Ove zadatke na njega su prenosili ili P. G. ili D. V.. Na predmetnom gradilištu šef je bio G. P., sa kojim je imao korektnu saradnju, a kritičnog dana oni nijesu imali neki poseban sastanak, obzirom da su rušenje zidova vršili ranije i da nikada nijesu imali problema sa tim, tako da je to bio skoro rutinski posao. Svi radovi i sva upustva koje mu je davao P., a on radnicima, su bila u skladu sa Pravilnikom o zaštiti na radu i naprijed pomenutim elaboratom. Takodje je istakao da se inače sve vrijeme dok je V. ležao u bolnici interesovao za njegovo zdravlje, da sa njegovom porodicom ima korektne odnose a da je kompanija u kojoj radi podmirila troškove vezano za sahranu, a on je zajedno sa 10 zaposlenih bio na sahrani pok. V. u Doboju, kada je T. Č. u ime kompanije predao koverat sa novcem majci preminulog radnika a takodje mu je poznato da je ova kompanija porodici pokojnika obezbjedila gradjevinski materijal za izgradnju kuće. Na glavnom pretresu je dodao da su svi radnici koji su bili zaposleni na gradilištu kritičnog dana bili osposobljeni za rad, tj. da je u pitanju bila grupa koja je bila kvalifikovana za rad. Inače, na ovom gradilištu je trebalo porušiti nekih 70 zidova u okviru objekta a u trenutku kada se desio predmetni slučaj bilo je završeno 90% posla. Zidovi su predhodnih dana rušeni odozgo prema dolje, a on je bio prisutan na gradilištu dok su se izvodili ovi radovi.</span>
+</p>
+<p class="p5">
+<span>Branilac optuženog je  u završnoj riječi u bitnom istakao da smatra da optuženi P. M. nije postupio u suprotnosti sa bilo kojim blanketim propisom navedenim u dispozitivu optužnice, po osnovu čega je predložio da ga sud oslobodi od krivično pravne odgovornosti. Takodje je ukazao da u slučaju drugačije odluke, sud uzme u obzir sve olakšavajuće okolnosti koje stoje na strani optuženog i istom izrekne eventualno uslovnu osudu, čime bi bila ostvarena svrha kažnjavanja i postignuti ciljevi kako individualne, tako i specijalne prevencije. Optuženi P. M. se pridružio završnoj riječi svog branioca.</span>
+</p>
+<p class="p5">
+<span>U dokaznom postupku na glavnom pretresu sud je saslušao svjedoka P. G., na saglasan predlog stranaka pročitao iskaze svjedoka P. V., L. P. i D. S.,  pročitao zapisnik o uviđaju Uprave policije PJ Podgorica Pu. br. 207/06 od 20. 01. 2006. godine, službenu zabilješku Uprave policije PJ Podgorica Pu. br. 207/08 od 20. 01. 2006. godine, službenu zabilješku Uprave policije PJ Podgorica Pu. br. 207/08 od 20. 01. 2006. godine, zapisnik o inspekcijskom pregledu Inspekcije rada za poslove zaštite na radu Podgorica broj 0102-1-11 od 20.01.2006. godine, ugovor o izvođenju radova zaključen između Agencije za nacionalnu bezbjednost Podgorica i Privrednog društva "Č." DOO iz Podgorice od 15.11.2011. godine,  dopis "Č." DOO Podgorica br. 308 od 03. 02. 2011. godine, odbukcioni zapisnik JZU KKC CG Odjeljenja za sudsku medicinu Podgorica S. br. 18/2006 od 26. 01. 2006. godine, po saglasnom predlogu stranaka pročitan je nalaz i mišljenje sudskog vještaka građevinske struke P. M. Ki.br.06/171 od 11. 07. 2006. godine, te nalaz i mišljenje sudskog vještaka zaštite na radu P. S. Ki. br. 06/171 od 06. 02. 2011. godine, pročitan je izvještaj Uprave policije PJ Nikšić iz kaznene evidencije na ime okrivljenog P. M. od 07. 03. 2013. godine, izvršen je uvid u foto dokumentaciju Uprave policije PJ Podgorica broj 47-18-244-66/136 od 20. 01. 2006. godine, te u foto dokumentaciju Uprave policije PJ Podgorica broj 47-18-244-76/167 od 26. 01. 2006. godine. Na saglasan predlog stranaka, sud je donio rješenje da se na glavnom pretresu ne saslušava ovlašćeni predstavnik oštećene porodice, koga je sud radi ostvarivanja imovinskopravnog zahtjeva uputio na parnični postupak.</span>
+</p>
+<p class="p5">
+<span>Svjedok P. G. je u svom iskazu u bitnom naveo da je u preduzeću "Č." zaposlen kao gradjevinski inžinjer. Na izvodjenju radova koji su se obavljali na zgradi bivše "M.banke" je bio šef gradilišta, zajedno sa koleginicom V. D.. Djelokrug rada šefa gradilišta je organizacija cjelokupnog posla, koji oni obavljaju  sa poslovodjama i brigadirima a nemaju neposrednu komunikaciju sa radnicima, odnosno izvršiocima posla. Projektom za adaptaciju predmetne zgrade bilo je predvidjeno rušenje dijela pregradnih zidova, dok je kasnije nadzorni organ B. M. donijela odluku zapisnički u gradjevinskom dnevniku da se izvrši rušenje svih pregradnih zidova u ovoj zgradi, shodno kojem nalogu se pristupilo. Pojasnio je da, kada se ruše pregradni zidovi, koji nijesu noseći, nema potrebe da se konsultuje bilo ko, jer imaju karakter konstruktivnih elemenata, to su zidovi debljine 12 cm od šuplje opeke. Prilikom rušenja ovog zida veći dio se srušio i pao na radnika koji je povrijedjen i koji je nakon par dana preminuo u bolnici. Na glavnom pretresu je dodao da je kritičnog dana kao poslovodja na objektu radio P. M.. Pošto je u to vrijeme radio na dva gradilišta, kritičnog dana je pozvao P. da mu na drugo gradilište donese produžni kabal. Inače, tog dana su se na objektu gdje je poginuo radnik rušili pregradni zidovi a koji posao je bio započet 20 dana ranije. Siguran je da je izdao nalog kako treba rušiti ove zidove prije započinjanja samog posla. Dalje je naveo da su svi radnici koji su radili na ovom gradilištu bili inače zaposleni u firmi "Č." i da su bili kvalifikovani, te da su prošli obuku iz oblasti Zaštite na radu i svi su bili zaduženi opremom neophodnom za rad na gradjevini. Pojasnio je da se zidovi ruše odozgo na dolje, pomoći metalnih skela kojih je na tom gradilištu bilo 5 do 7, a skele su bile montažne i prenosile su se sa mjesta na mjesto. </span>
+</p>
+<p class="p5">
+<span>Svjedok P. V. je u svom iskazu naveo da je u januaru mjesecu 2006. godine radio na gradjevinskim radovima u Podgorici. Kritičnog dana, kada je Lj. poginuo, od opreme na sebi su imali  rukavice i kombinezone a nijesu imali šlem na glavi. Inače, sa šlemom su bili zaduženi, ali ga obično nijesu nosili jer im je smetao kada rade. Šlem im je uvijek bio dostupan a šef P. M., kada bi ih vidio bez šlema, ih je opominjao i govorio im da ga obavezno nose, a kada su znali da je šef na gradilištu šlem bi nosili na glavi. Nijesu imali specijalne cipele koje su sačinjene od čvrste kože jer su im se pocijepale, pa su tražili da im se nabave nove. Kritičnog dana Lj., S. i on su bili zaduženi za izbacivanje šuta. Kada su završili posao, negdje oko 10 časova, ne sjeća se da li im je šef rekao ili je pokojni Lj. pitao šefa šta dalje da rade a P.  je rekao da uzmu macolu i ruše zidove. Objasnio je da su oni vidjeli kak to rade iskusniji i stariji radnici, ali im niko nije rekao kako se to zapravo radi. Pošto je macola kojom se ruše zidovi velika i teška oni su na smjenu počeli da ruše predmetni zid i to tako što je on počeo prvi, podkopavajući zid negdje na pola. Onda je preuzeo Lj., jer su tako radili inače i ostali radnici, mijenjali su se. Kada je Lj. preuzeo rušenje zida, njih dvojica su odmorili, a kada su odmorili Lj. je otišao u mali hodnik i sa te strane počeo da ruši zid, dok je on počeo da ruši sobe, odnosno sa druge strane zida. Pitao je Lj. zašto na taj način ruši zid a on mu je rekao da mu je tako jednostavnije jer je i on dešnjak, pa mu je tako na ruku. Dalje je objasnio da je, dok je Lj. rušio zid, u jednom trenutku stao na prozor da uzme malo vazduha, jer je bilo mnogo prašine u prostoriji, a kada se okrenuo vidio je da je Lj. skoro do kraja potkopao zid i ako to nijesu nikada radili, ni oni ni  drugi radnici, već su uvjek ostavljali oko 40 cm da bi se zid postepeno srušio. Nije stigao da odreaguje kada je Lj. u potpunosti potkopao zid koji je tada pao na kant, tu se zadržao trenutak, a onda se prevalio na stranu na kojoj se nalazio Lj. i tu se zadržao sekudnu, da bi se potom odmah rasuo u komade, padajući po njemu. Vidio je kako se Lj. stropoštava u sjedeći položaj i pozvao pomoć, nakon čega su pritrčali ostali radnici i počeli da sklanjaju komade zida sa Lj., kako bi ga izvukli.</span>
+</p>
+<p class="p5">
+<span>Svjedok L. P. je u svom iskazu naveo da je bio zaposlen u preduzeću "Č." kao fizički radnik i da su kritičnog dana na predmetnom objektu od strane poslovodje dobili nalog da ruše pregradne zidove na prvom spratu zgrade. Jedna ekipa za rušenje pregradnih zidova je bila u sastavu pok. Lj. V., P. V. i D. S., dok su u drugoj ekipi bili D. M. i on. Udaljenost izmedju ove dvije ekipe bila je otprilike 15-ak metara, možda i malo više, a dok on i M. rušili svoj zid, ova trojica su rušili svoj, tako da on nije gledao kako oni to rade. Prvo što je čuo u jednom trenutku je bio tresak zida, kada se okrenuo i čuo P. kako zove upomoć. Odmah su potrčali tamo i našli pok. V., na koga je pao dio zida po njegovoj procjeni oko 5-6 kvadrata. V. je u tom trenutku bio živ a oni su sa njega sklanjali zid i odmah nakon toga je obezbjedjen prevoz, pa je V. odvezen u bolnicu, gdje je kasnije preminuo. Šef gradilišta je bio P. M..</span>
+</p>
+<p class="p5">
+<span>Svjedok D. S. je u svom iskazu naveo da je kritičnog dana, kao fizički radnik u preduzeću "Č.", radio na rekonstrukciji zgrade bivše "M.banke" u Podgorici. Tog dana su on, pok. Lj. V. i P. V. od šefa gradilišta P. M. dobili nalog da ruše pregradne zidove, a za rušenje je tog dana postojala i druga ekipa u sastavu L. P. i D. M.. U trenutku kada je zid pao na pok. V. Lj. on nije bio prisutan, već je bio vani kako bi izbacio šut koji su predhodno srušili. Dok je izbacivao materijal od srušenog zida kroz prozor, čuo je da je odjednom pao zid i P. kako doziva u pomoć, pa je odmah otišao tamo. Tada je vidio da je zid pritisnuo V., pa je pomogao P. da skinu jedan komad zida sa njega, nakon čega je istrčao vani da obezbjedi prevoz do bolnice a onda su snijeli V. i odvezli ga u KC. </span>
+</p>
+<p class="p5">
+<span>Iz zapisnika o uvidjaju UP PJ Podgorica od 20.01.2006. godine, foto dokumentacije Uprave policije PJ Podgorica broj 47-18-244-66/136 od 20.01.2006. godine te dvije službene zabiljške od 20.01.2006. godine, proizilazi da se lice mjesta nalazi u unutrašnjosti objekta zgrade "M.banke", koja je locirana u Bul. Revolucije br.x i to u prizmenom dijelu navedenog objekta, gdje je zatečena veća količina polomljenih cigli, šuta i instalacije- raznih kablova od struje i telefona, koja je nastala prilikom rušenja jednog od pregradnih zidova u tom dijelu, u dužini od 7 metara. Na jednom kraju porušenog pregradnog zida, na nekoliko polomljenih djelova cigli i raznog šuta, zatečeni su tragovi tamo crvene boje nalik na krv kao i jedna radnička platnena rukavica, koja je pronadjena ispod navedenog šuta i polomljenih cigli. </span>
+</p>
+<p class="p5">
+<span>Iz ugovora o izvodjenju radova koje je zaključen izmedju Agencije za nacionalnu bezbjednost Podgorica, kao investitora i privrednog društva "Č." DOO iz Podgorice,  kao izvodjača radova od 15. 11. 2011. godine, proizilazi da je predmet istog izvodjenje radova na adaptaciji poslovnog objekta koji se nalazi u ul.Bul.Revolucije br.x u Podgorici, uz utvrdjenu cijenu izvodjenja radova, rokove izvodjenja istih, kao i obaveze investitora.</span>
+</p>
+<p class="p5">
+<span>Iz Zapisnika o izvršenom inspekcijskom pregledu od 20.01.2006. godine, proizilazi da je kontrolom utvrdjeno da je 20. 01. 2006. godine u 10.00h došlo do povrede na radu zaposlenog V. Lj. tako što je prilikom rušenja pregradnog zida u predmetnom objektu došlo do pada dijela zida na istog. Republičkom inspektoru rada je stavljen na uvid dokaz o sposobnosti za bezbjedan rad V. Lj., uvjerenje o zdravstvenom stanju istog, Pravilnik o zaštiti na radu, kao i potvrda o preuzimanju ličnih zaštitnih sredstava i opreme, zaštitino odijelo, zaštitna radna kapa, zaštitne radne  rukavice, zaštitne radne cipele, šlem, radne čizme, kao i zaštitni opasač. </span>
+</p>
+<p class="p5">
+<span>Iz obdukcionog zapisnika JZU KC CG odjeljenja za sudsku medicinu Podgorica- obducenta doc. dr. M. Š. od 26. 01. 2006. godine, utvrdjeno je da je kod V. Lj. starog 23 godine, dana 24. 01. 2006. godine u 21,00h nastupila nasilna smrt, usled oštećenja po život važnih moždanih centara, zbog preloma kostiju lobanje i lica. Oštećenje po život važnih moždanih centara, prelomi kostiju, kao i druge spolja i unutra opisane povrede, nanešene su tupim, teškim i jako zamahnutim mehaničkim orudjem.</span>
+</p>
+<p class="p5">
+<span> Iz nalaza i mišljenja vještaka građevinske struke P. M. od 11. 07. 2006. godine, sud je utvrdio da su dva angažovana fizička radnika, prije početka rušenja predmetnog pregradnog zida od strane stručnog lica, neposrednog poslovodje, na gradilištu morala dobiti upustvo o načinu rušenja zida, kao i sredstava za rušenje, obzirom na njegovu visinu od 3,03 metra. Prema gradjevinskim propisima zidovi ove visine se ruše sa pokretnih skela i to razidjivanjem opeke red po red, odozgo naniže, tj. od plafona prema podu da ne bi došlo do obrušavanja zida, pri čemu lice koje obavlja ovaj posao mora imati obaveznu zaštitnu opremu. Dakle, da je rušenje zida vršeno u skladu sa gradjevinskim pravilima, ne bi došlo do urušavanja predmetnog zida i nesrećnog slučaja.</span>
+</p>
+<p class="p5">
+<span> Iz nalaza i mišljenja vještaka iz oblasti zaštite na radu P. S. od 06. 02. 2011. godine, sud je utvrdio da je konkretnom prilikom do pada zida došlo kao posledica ne preduzimanja potrebnih mjera na organizaciji bezbjednog rada radnika, kako od strane odgovornog rukovodioca radova, tako i od strane poslovodjenje navedene grupe radnika. Njihovi propusti se ogledaju u tome što su rad radnika, shodno Zakonu o zaštiti na radu i Pravilniku o zaštiti na radu u gradjevinarstvu, morali organizovati tako da se prije početka rada morao izgraditi program radova sa svim preciziranim mjerama zaštite na radu koje je potrebno sprovesti da bi se rad radnika izvodio bezbjedno. Zbog nestabilnog zida isti se prije početka samog rušenja morao obezbjediti od prevrtanja putem obostranog podupiranja pa tek onda pristupiti njegovom rušenju. Nadalje, samo ručno rušenje zida mora se izvoditi postepeno odozgo naniže sa radnicima koji su stručno osposobljeni za ovakav rad i pod stalnim nadzorom stručnog lica za poslove gradjevinarstva, dok se rušenje zida nikako ne smije vršiti podkopavanjem. Kod ovako slobodno stojećeg zida, to je bio imeprativ jer i kod veoma malih uticaja na njega moglo je doći do njegovog rušenja. Rušenje zida se moralo izvoditi sa skele postepenim rušenjem redova opeke odozgo naniže i takodje blagovremenim uklanjanjem šuta nastalog ovakvim rušenjem, jer on takodje predstavlja opasnost od nastanka povrede radnika a sprečava normalno kretanje i pristup radnom mjestu radnika. Takav postupak se ponavlja sve do kraja radova. Medjutim, ovdje je radjeno u potpunosti suprotno i bez skele, vršeno je podkopavanje zida, što je nedopustivo sa aspekta zaštite na radu prilikom izvodjenja ove vrste radova, i što je dovelo do rušenja istog. Od svih naprijed navedenih mjera konkretnom prilikom nije bila sprovedena ni jedna, a preduzimanjem navedenih mjera na organizovanju rada radnika omogućio bi se njihov rad na bezbjedan način, i time eliminisala mogućnost povredjivanja radnika. </span>
+</p>
+<p class="p5">
+<span>  Iz dopisa "Č." doo Podgorica br. 308 od 03. 02. 2011. godine, utvrdjeno je da tehničar i poslovodja na garadilištu treba da organizuje posao za sve radnike na gradilištu, daje raspored zaduženja za obavljanje odredjenih poslova prema kvalifikaciji, obezbjedjuje materijal- naručuje  i organizuje istovar materijala i ugradnju istog, prati kvalitet pozicija koje se izvode, prati da li radnici koriste zaštitnu opremu, vodi evidenciju prisustva radnika na poslu, vodi gradjevinski dnevnik i radi grdjevinsku knjigu.</span>
+</p>
+<p class="p5">
+<span>  Na osnovu rezultata cjelokupnog postupka i ocjene svih izvedenih dokaza pojedinačno i u njihovoj međusobnoj vezi, i dovodeći ih u vezu sa odbranom optuženog koji ne spori  da je  bio zaposlen u preduzeću "Č." kao gradjevinski tehničar gdje je radio sve do 2008. godine, pri čemu je njegovo zaduženje bilo - poslovodja na gradilištu, koje zaduženje je imao i prilikom izvođenja poslova adaptacije na predmetnom objektu, a što je potvrđeno i iskazom svjedoka P. G., te navode svjedoka P. V. koji je između ostalog naveo da je kritičnog dana nakon što su završili sa izbacivanjem šuta pok. V.  Lj. pitao šefa P. M. šta dalje da rade pa im  je on rekao da uzmu macolu i da  ruše zidove, da su oni vidjeli kako to rade iskusniji i stariji radnici i da im niko nije rekao kako se to zapravo radi, da su na smjenu počeli da ruše predmetni zid i to tako što je on počeo prvi podkopavajući zid negdje na pola a onda je preuzeo Lj. jer su tako radili inače i ostali radnici, mijenjali su se, da je Lj.  otišao u mali hodnik i sa te strane počeo da ruši zid, dok je on počeo da ruši iz sobe, odnosno sa druge strane zida, da je u jednom trenutku stao da odmori dok je V. nastavio sa potkopavanjem zida te da nije stigao da odreaguje kada je Lj. u potpunosti potkopao zid koji je tada pao na kant, tu se zadržao trenutak a onda se prevalio na stranu na koju se nalazio Lj. i tu se zadržao sekudnu, da bi se potom odmah rasuo u komade padajući po njemu,  sud  je  na nesumnjiv način utvrdio da je optuženi P. M. izvršio  krivično djelo stavljeno mu na teret na način u vrijeme i na mjestu kako je to bliže opisano izrekom presude.</span>
+</p>
+<p class="p5">
+<span>Naime, odredbom čl. 17 Pravilnika o zaštiti na radu "Č." D.O.O. je izmedju ostalog propisano da neposredni rukovodilac ima prava, obaveze i odgovornosti da zaposlenog na pogodan način upoznaje sa uslovima rada i izvorima opasnosti i štetnosti na radnom mjestu, da zaposlenog poučava o namjeni i načinu upotrebe sredstava i opreme lične i kolektivne zaštite, te da povremeno u toku rada kontroliše obučenost zaposlenog u vezi sa zaštitom na radu , dok je odredbama čl. 138 st.1 i st. 3 i čl. 137 Pravilnika o zaštiti na radu u gradjevinarstvu, propisano da se ručno rušenje objekta mora izvoditi postepeno odozgo naniže, te da je rušenje zidova potkopavanjem zabranjeno i da se rušenje objekta smije vršiti samo sa radnicima stručno osposobljenim i obučenim za odnosni način rušenja i pod neposrednim i stalnim nadzorom odredjenog stručnog lica na gradilištu. Slijedeći prednje, i dovodeći isto u logičnu vezu sa nalazom i mišljenjem vještaka gradjevinske struke M. P., koji nalazi da do urušavanja predmetnog zida i nesrećnog slučaja ne bi došlo da je rušenje zida vršeno u skladu sa gradjevinskim pravilima, kao i nalazom i mišljenjem vještaka zaštite na radu S. P. koji je u istom istakao da se prije početka predmetnog rada morao izraditi program radova, da se zbog nestabilnosti zida isti prije početka samog rušenja morao obezbjediti od prevrtanja putem obostranog podupiranja pa tek onda pristupiti njegovom rušenju, te da se samo ručno rušenje zida mora izvoditi postepeno odozgo naniže sa radnicima koji su stručno osposobljeni za ovakav rad i pod stalnim nadzorom stručnog lica za poslove gradjevinarstva a da se nikako ne smije vršiti rušenje zida podkopavanjem, dok je po nalazu vještaka navedeno radjeno u potpunosti suprotno i bez skele, pri čemu od svih naprijed navedenih mjera  u konkretnom nije bila ni jedna sprovedena, to sud nalazi da optuženi P. M. kao neposredni rukovodilac- poslovodja grupe radnika u preduzeću "Č." D.O.O, kritičnog dana angažovane radnike V. Lj. i P. V., na predmetnom objektu, nije upoznao sa načinom ručnog rušenja pregradnih zidova, što potvrdjuje i iskaz svjedoka P. V., niti je obezbjedio pokretne skele na nogarima kako bi radnici pristupili rušenju slobodno stojećih zidova odozgo naniže, a što je potvrđeno i zapisnikom o uviđaju i fotoelaboratom, a takodje nije obezbijedio ni neposredni i stalni stručni nazdor nad izvodjenjem tih radova već im je, suprotno navedenim pravnim aktima, izdao radni nalog da poruše slobodno stojeće pregradne zidove, po kojem nalogu su radnici postupili i pristupili podkopavanju donjeg dijela zida, započeli njegovo rušenje, zbog čega je došlo do pada zida na oštećenog V. Lj. koji je tom prilikom zadobio tešku tjelesnu povredu, prelom kostiju lobanje i lica sa oštećenjem po život važnih moždanih centara usled kojih povreda je došlo do nastupanja smrti, a kojim radnjama je optuženi ostvario sve bitne objektivne i subjektivne elemente bića krivičnog djela, teško djelo protiv opšte sigurnosti iz čl. 338 st. 4 u vezi čl. 329 st. 3 u vezi st. 2 Krivični zakonika.</span>
+</p>
+<p class="p11">
+<span>Postupajući na naprijed opisani način, optuženi P. M. je bio svjestan da time što kao poslovođa na predmetnom gradilištu, angažovane radnike V. Lj. i P. V. prije nego što im je izdao radni nalog, nije upoznao sa načinom ručnog rušenja pregradnih zidova, niti je obezbijedio pokretne skele na nogarima kako bi radnici pristupili rušenju slobodno stojećih zidova odozgo naniže, niti je obezbijedio neposredni i stalni stručni nazdor nad izvodjenjem tih radova, može prouzrokovati zabranjenu posledicu- ugroziti sigutnost ljudi i tako izazvati opasnost za život i tijelo ljudi, ali je olako držao da do toga neće doći, usled čega je kao kvalifikovana posledica nastupila smrt oštećenog V. Lj., za koju posledicu  je optuženi očigledno olako držao da do iste neće doći ili da će je moći izbjeći, u čemu se u odnosu na osnovno krivično djelo i kvalifikovanu posledicu iscrpljuje njihov svjesni nehat.</span>
+</p>
+<p class="p5">
+<span>Sud je cijenio i navode odbrane optuženog P. M. u kojoj navodi da ga je kritičnog dana u jednom trenutku pozvao P. G. da sa ovog gradilišta ponese kabal na gradilište na kojem se on nalazi, da je pri polasku sreo V. koji mu je rekao da su završili sa istovaranjem šuta a da mu je on odgovorio da pripremi skelu i sve što je potrebno za rušenje pregradnih zidova i da ga sačekaju dok se ne vrati sa drugog gradilišta, te da je na ovom gradilištu bilo 5 - 6 komada manjih skela tzv. "metalne ramovske skele" koje su bile mobilne u smislu da su se mogle pomjerati sa jednog mjesta na drugo a po potrebi posla mogle su biti i u unutrašnjosti objekta, pa sud ovakve navode nije prihvatio, ocijenivši ih kao sračunato date radi izbjegavanja krivice, u cjelosti opovrgnute iskazom svjedoka P. V. koji je u svom iskazu naveo da su kritičnog dana Lj., S. i on bili zaduženi za izbacivanje šuta, pa kada su završili posao, P. im je rekao da uzmu macolu i ruše zidove, da su oni vidjeli kako to rade iskusniji i stariji radnici, ali im niko nije rekao kako se to zapravo radi. Pored navedenog, da je optuženi kao poslovođa na predmetnom gradilištu zaista obezbijedio pokretne skele i upoznao sa načinom ručnog rušenja pregradnih zidova radnike, isti bi znali na koji način da izvrše radni nalog, to jest ne bi potkopavali zidove, već bi rušenju slobodno stojećih zidova  pristupili sa pokretnih skela, odozgo naniže, a posebno kod činjenice što je, kako i sam optuženi u svojoj odbrani navodi, posao adaptiranja predmetnog objekta u trenutku kada je stradao V. Lj. u značajnoj mjeri bio priveden kraju, odnosno svi pregradni zidovi su bili porušeni.</span>
+</p>
+<p class="p5">
+<span>Sud je cijenio i ostale provedene dokaze, ali je kod nesumnjivo utvrđenog činjeničnog stanja, našao da su bez uticaja na drugačije presuđenje.		</span>
+</p>
+<p class="p5">
+<span> Prilikom odmjeravanja krivične sankcije za izvršeno krivično djelo, sud je u smislu čl. 42 st. 1 Krivičnog zakonika, cijenio sve okolnosti koje utiču da kazna bude manja ili veća, pa je optuženom kao olakšavajuće okolnosti cijenio lične prilike, porodičnost, činjenicu da se radi o ocu dvoje djece, ranije dobro ponašanje i s tim u vezi raniju neosuđivanost, što je sud utvrdio iz izvoda iz kaznene evidencije na ime okrivljenog, protek vremena od izvršenja krivičnog djela sedam i po godina, kome okrivljeni svojim ponašanjem nije doprinio, a u kojem periodu nije izvršio novo krivično djelo, pa je u odsustvu otežavajućih okolnosti primjenom čl. 53 i 54 Krivičnog zakonika optuženom izrekao uslovnu osudu kao u izreci, nalazeći da će se i sa prijetnjom izvršenja utvrdjene kazne zatvora, te provjerom ponašanja optuženog u periodu od tri godine, na optuženog u dovoljnoj mjeri uticati da u buduće ne vrši nova krivična djela, čime će se sa uspjehom ostvariti svrha uslovne osude iz čl. 52 Krivičnog zakonika u okviru opšte svrhe izricanja krivičnih sankcija u smislu čl. 4 st. 2 Krivičnog zakonika.   	</span>
+</p>
+<p class="p5">
+<span>Pošto je optuženi oglašen krivim obavezan je da na ime troškova krivičnog postupka plati iznos od 435,50 €, od čega se iznos od 405,00 €, odnosi na ime naknade za sprovedena vještačenja, dok se iznos od 30,00 € odnosi na ime paušala kao dijela troškova krivičnog postupka a koji iznos je srazmjeran imovinskim prilikama optuženog, trajanju i složenosti krivičnog postupka, a ovo shodno čl. 226 i 229 Zakonika o krivičnom postupku. </span>
+</p>
+<p class="p5">
+<span> Na osnovu izloženog u smislu čl. 374 Zakonika o krivičnom postupku, odlučeno je kao u izreci presude.</span>
+</p>
+<p class="p9"></p>
+<p class="p2">
+<span>	OSNOVNI SUD U PODGORICI, dana 14.06.2013. godine</span>
+</p>
+<p class="p2"></p>
+<table class="t1">
+<tbody>
+<tr class="r1">
+<td class="td1">
+<p class="p2">
+<span>                 ZAPISNIČAR:</span>
+</p>
+</td><td class="td2">
+<p class="p6">
+<span>S U D I J A:</span>
+</p>
+</td>
+</tr>
+<tr class="r1">
+<td class="td1">
+<p class="p6">
+<span>Danijela Rajković</span>
+</p>
+<p class="p2"></p>
+</td><td class="td2">
+<p class="p6">
+<span>Željka Jovović</span>
+</p>
+<p class="p2"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p5">
+<span>DN-a: Po primjerak presude dostaviti:</span>
+</p>
+<p class="p5">
+<span>- ODT Podgorica,</span>
+</p>
+<p class="p5">
+<span>- Okrivljenim,  braniocu,</span>
+</p>
+<p class="p5">
+<span>- Oštećenoj porodici po pravosnažnosti,</span>
+</p>
+<p class="p5">
+<span>- A/a.</span>
+</p>
+<p class="p5">
+<span>Postupljeno dana ______________</span>
+</p>
+<p class="p5">
+<span>Radnik suda  __________________</span>
+</p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<table class="t1">
+<tbody>
+<tr class="r1">
+<td class="td3">
+<p class="p2">
+<span>             ZAPISNIČAR:</span>
+</p>
+</td><td class="td4">
+<p class="p6">
+<span>S U D I J A:</span>
+</p>
+</td>
+</tr>
+<tr class="r1">
+<td class="td3">
+<p class="p6">
+<span>Danijela Rajković,s.r.</span>
+</p>
+<p class="p2"></p>
+</td><td class="td4">
+<p class="p6">
+<span>Željka Jovović,s.r.</span>
+</p>
+<p class="p2"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p5"></p>
+<table class="t1">
+<tbody>
+<tr class="r1">
+<td class="td5">
+<p class="p2">
+<span>PRAVNA POUKA:</span>
+</p>
+</td><td class="td6">
+<p class="p9">
+<span>Protiv ove presude dozvoljena je žalba u roku</span>
+</p>
+<p class="p9">
+<span> od 15 dana od dana prijema pismenog otpravka iste, preko ovog suda Višem sudu u Podgorici. </span>
+</p>
+<p class="p6"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p6">
+<span>ZTO Danijela Rajković</span>
+</p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p5"></p>
+<p class="p5"></p>
+<p class="p5"></p>
+<p class="p5"></p>
+<p class="p5"></p>
+<p class="p5"></p>
+<p class="p5"></p>
+<p class="p5"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+
+
+</body>

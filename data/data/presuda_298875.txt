@@ -1,0 +1,750 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.window1{background:#fff; margin:0 auto;width:210mm;}
+.page1{ background:#fff; margin:0 1.0in;padding-top:20px;}
+.span1{;font-size:12pt;font-family:'Arial';font-weight:800}
+.span2{;font-size:12pt;font-family:'Arial'}
+.span3{color:#000000;font-size:12pt;font-family:'Arial'}
+.span4{color:#000000;font-size:12pt;font-family:'Arial';font-weight:800}
+.span5{color:#7030A0;font-size:12pt;font-family:'Arial'}
+.span6{color:#C00000;font-size:12pt;font-family:'Arial'}
+</style>
+</head>
+<body class="b1" style="background: #aaa;">
+<div class="window1">
+<div class="page1">
+<p>
+<span class="span1">                                                                                                          K.br.454/12</span>
+</p>
+<p style="text-align:center;">
+<span></span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">U IME CRNE GORE</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">OSNOVNI SUD U BARU,</span><span class="span2"> </span><span class="span2">kao prvostepeni krivični, sudija Tamara Spasojević, kao sudija pojedinac, sa zapisničarom Zoricom Ivanović, u krivičnom predmetu optuženih K. Š., G. S. i S. Š. zbog krivičnog djela </span><span class="span2">falsifikovanje isprave iz čl.412 st.2 u vezi st.1 KZ u sticaju sa krivičnim djelom prevara iz čl.244 st.1 KZ, u vezi čl.23 KZ, krivičnog djela </span><span class="span3">prevara u pokušaju iz čl.244 st.3 u vezi st.1 u vezi čl.20 i 23 st.2 KZ CG, krivičnog djela </span><span class="span2">falsifikovanje isprave iz čl.412 st.1 KZ u sticaju sa krivičnim djelom prevara iz čl.244 st.1 KZ i 23 (dvadeset i tri) krivična djela falsifikovanje isprave iz čl.412 st.2 u vezi st.1 KZ u vezi člana 23 KZ</span><span class="span2">, po optužnici Osnovnog državnog tužilaštva iz B. KT.br.... od 28.11.2012.godine, nakon održanog glavnog javnog pretresa dana 11.12.2017.godine u prisustvu zastupnika optužbe državnog tužioca u Osnovnom državnom tužilaštvu u B.  </span><span class="span2">M. T. V., optuženog K. Š. i njegovog branioca I. K. po zamjeničkom punomoćju branioca D. M., advokata iz P., optuženog S. Š. i branioca po službenoj dužnosti okrivljenog G. S. S. B., advokata iz B.</span><span class="span2">, dana 14.12.2017.godine donio je i javno objavio</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">P R E S U D U</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Optuženi,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">1.K. Š.</span><span class="span2">, (jmbg ...) zvani Š., od oca J.  i majke B. Z., rođen 10.07.1974.godine u P., nastanjen u P., V. R., završio tri razreda osnovne škole, nezaposlen, oženjen, otac dvoje djece, lošeg imovnog stanja,neosuđivan i</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">2. G. S.</span><span class="span2">, (jmbg ...), od oca R. i majke Đ. rođene B., rođen 27.07.1974.godine u B., sa prebivalištem u B., B., nezaposlen, otac dvoje djece, pismen, završio osnovnu školu, lošeg imovnog stanja, osuđivan </span><span class="span2">presudom Osnovnog suda u Baru K.br.529/13 od 07.03.2017.godine zbog krivičnog djela iz člana 244 st.3 u vezi st.1 KZCG na kaznu zatvora u trajanju od jedne godine, presudom Višeg suda u POdgorici K br. 306/10 od 09.02.2012.godine zbog krivičnog djela iz čl.242 st.4 i 2 u vezi čl.23 Krivičnog zakonika na kaznu zatvora u trajanju od tri godine, presudom OSnovnog suda u Baru K.br.67/11 od 20.04.2011.godine zbog krivičnog djela iz čl.239 stav 1 u vezi čl.23 na kaznu zatvora u trajanju od šest mjeseci, presudom Osnovnog suda u U.u K.br.43/08 od 15.02.2011.godine zbok krivičnog djela iz čl.376 stav 3 u vezi st.1 KZ RCG uslovno na kaznu zatvora u trajanju od 60 dana na jednu godinu, presudom OSnovnog suda u Baru K.br.225/09 od 10.09.2009.godine zbog krivičnog djela iz čl.239 stav 1 Krivičnog zakonika uslovno tri mjeseca zatvora na jednu godinu. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">                                                          I</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">                                                  K r i v i   s u</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Zato što su: </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2"> </span><span class="span2">Neutvrđenog dana, u toku maja mjeseca 2008.godine u B., svjesni svoga djela i htjeli su njegovo izvršenje, iako su znali da je njihovo djelo zabranjeno, u namjeri da sebi pribave protivpravnu imovinsku korist, optuženi G. S. i K. Š., pribavili lažne isprave – administrativne zabrane na lična primanja žiranata i izjave za žirante i to na ime oštećenih H. F. iz P., koje isprave nije potpisao oštećeni i koje nijesu ovjerene pečatom Fonda PIO u P., na ime oštećenog M. K. iz P., koje isprave nije potpisao žirant oštećeni i koje isprave nijesu ovjerene u JP „Čistoća“ u P., na ime oštećenog P. A. koje isprave nije potpisao oštećeni i koje isprave nijesu ovjerene pečatom L. B. u B., upotrijebili kao prave, na način što su navedene isprave dali okrivljenom S. Š., koji je isprave upotrijebio kao prave  a koje isprave je priložio uz prijavu za mikrokredit br.... od 12.05.2008.godine, koju je predao O. B. u B. i tako su optuženi G. S. i K. Š. doveli u zabludu lažnim prikazivanjem činjenica ovlašćenim licima u O. B. da S. Š. ispunjava sve uslove za dobijanje kredita i na taj način pokušali da iste navedu da odobre kredit, da bi nakon što je banka provjerom utvrdila da su isprave - administrativne zabrane na ime žiranata lažne, nije odobrila kredit, pa su optuženi pokušali da na ovaj način sebi pribave protivpravnu imovinsku korist u iznosu od 5.000,00 eura,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">- čime su kao saizvršioci izvršili krivično djelo prevara u pokušaju iz čl.244 st.3 u vezi st.1 u vezi čl.20 i 23 st.2 KZ CG.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span4">Pa sud optuženom K. Š.</span><span class="span3"> primjenom članova </span><span class="span2">čl. 2, 4, 5, 13, 15, 36, 42, 52, 53 i 54 Krivičnog zakonika Crne Gore i čl. </span><span class="span2">226, 229 i 374  </span><span class="span2">Zakonika o krivičnom postupku, i z r i č e</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">USLOVNU OSUDU</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Kojom mu utvrđuje kaznu zatvora u trajanju od 1 (jedne) godine i istovremeno određuje da se kazna neće izvršiti ukoliko okrivljeni u roku od 3 (tri) godine po pravosnažnosti presude ne izvrši novo krivično djelo.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Optuženi G. S.</span><span class="span2"> se primjenom članova 2, 4, 5, 13, 15, 36 i 42 Krivičnog zakonika Crne Gore i članova </span><span class="span2">226, 229 i 374  </span><span class="span2">Zakonika o krivičnom postupku</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">O S U Đ U J E</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Na kaznu zatvora u trajanju od 1 ( jedne ) godine. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Oštećeni M. c. b. (raniji naziv A. b.), P. A. i M. K. se radi ostvarivanja imovinsko pravnog zahtjeva upućuju na parnični postupak. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optuženi  su dužni da plate ovom sudu troškove krivičnog postupka u iznosu od po 250,00 €,  u roku od 15 dana od dana pravosnažnosti presude, pod prijetnjom prinudnog izvršenja.</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">II</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Optuženi,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1"> S. Š.,</span><span class="span2"> </span><span class="span2">(</span><span class="span2">jmbg ...), od oca B. i majke Z., rođene B., rođen 31.03.1978.godine u B., sa prebivalištem u B., S. B., B., radnik bez zaposlenja, oženjen, otac petoro djece, završio osnovnu školu. lošeg imovnog stanja, osuđivan </span><span class="span2">osuđivan presudom Osnovnog suda u Baru K.br.475/08 od 16.02.2009.godine zbog krivičnog djela iz čl.260 st.5 u vezi stava 1 i 2 na kaznu zatvora u trajanju od šest mjeseci, presudom Osnovnog suda u Baru K.br.607/06 od 02.07.2008.godine zbog krivičnog djela iz čl.403 stav 1 KZ CG na kaznu zatvora u trajanju od 30 dana, presudom Osnovnog suda u Baru K.br.49/03 od 19.06.2006.godine zbog krivičnog djela iz čl.37 st.2 KZ uslovno 2 mjeseca na dvije godine i presudom Osnovnog suda u Baru K.br.387/02 od 27.05.2004.godine zbog krivičnog djela iz čl.37 stav 2 KZ na kaznu zatvora u trajanju od 3 mjeseca</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Na osnovu čl. 373 st.1 tač. 2 Zakonika o krivičnom postupku     </span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">OSLOBAĐA SE OD OPTUŽBE</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Da je:</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Neutvrđenog dana, u toku maja mjeseca 2008.godine u B., svjestan svoga djela i htio njegovo izvršenje, iako je znao da je njegovo djelo zabranjeno, u namjeri da sebi pribavi protivpravnu imovinsku korist, nakon što su  optuženi G. S. i K. Š., pribavili lažne isprave – administrativne zabrane na lična primanja žiranata i izjave za žirante i to na ime oštećenih H. F. iz P., koje isprave nije potpisao oštećeni i koje nijesu ovjerene pečatom Fonda PIO u P., na ime oštećenog M. K. iz P., koje isprave nije potpisao žirant oštećeni i koje isprave nijesu ovjerene u JP „Čistoća“ u P., na ime oštećenog P. A. koje isprave nije potpisao oštećeni i koje isprave nijesu ovjerene pečatom L. B. u B., upotrijebili kao prave, na način što su navedene isprave dali okrivljenom S. Š., koji je isprave upotrijebio kao prave iako je znao da su lažne i da oštećene ne poznaje i da isti nijesu saglasni da mu budu žiranti za navedeni kredit, a koje isprave je priložio uz prijavu za mikrokredit br.... od 12.05.2008.godine, koju je predao O. B. u B. i tako doveo u zabludu lažnim prikazivanjem činjenica ovlašćena lica u O. B. da ispunjava sve uslove za dobijanje kredita i pokušao iste da navede da mu odobre kredit, da bi nakon što je banka provjerom utvrdila da su isprave - administrativne zabrane na ime žiranata lažne, nije odobrila kredit, pa su optuženi pokušali da na ovaj način sebi pribavi protivpravnu imovinsku korist u iznosu od 5.000,00 eura,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">- čime bi kao saizvršilac izvršio krivično djelo prevara u pokušaju iz čl.244 st.3 u vezi st.1 u vezi čl.20 i 23 st.2 KZ CG</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Jer nije dokazano da je učinio krivično djelo za koje je optužen. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Troškovi krivičnog postupka u odnosu na okrivljenog S. Š. padaju na teret budžetskih sredstava suda.</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">III</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Prema optuženima: </span>
+</p>
+<p>&nbsp;</p>
+<li>
+<span class="span1">K. Š.</span><span class="span2"> (sa podacima kao pod tačkom </span><span class="span1">I</span><span class="span2"> izreke presude) </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span1">G. S.</span><span class="span2"> (sa podacima kao pod tačkom </span><span class="span1">I</span><span class="span2"> izreke presude) i</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span1">S. Š.</span><span class="span2"> (sa podacima kao pod tačkom </span><span class="span1">II</span><span class="span2"> izreke presude)</span>
+</li>
+<p>&nbsp;</p>
+<p>
+<span class="span2">     Na osnovu čl. 372  tč.3 Zakonika o krivičnom postupku</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">ODBIJA SE OPTUŽBA</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Da su:</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optuženi K. Š. i G. S., neutvrđenog dana u toku aprila mjeseca 2008.godine u B., pribavili lažne isprave administrativne zabrane i izjave za žirante, koje su dali okrivljenom S. Š. koji je navedene isprave upotrijebio kao prave, svjesni da svojim radnjama mogu učiniti djelo i htjeli su njegovo izvršenje, na način što je isprave administrativne zabrane na ime oštećenog A. Š., koje isprave nije potpisao i koje isprave nijesu ovjerene u JP "Čistoća" u P., lažne isprave administrtivnu zabrana i izjavu za žirante na ime žiranta oštećenog P. A., koje isprave nije potpisao i koje isprave nijesu ovjerene u L. B. u B., upotrijebio u postupku zaključivanja ugovora o zajmu koji je podigao na svoje ime broj ... dana 14.04.2008.godine u iznosu od 3.000 eura, kao prave,lažno prikazujući da su isprave potpisane od strane žiranata, i da su ovjerene u preduzećima u kojima navodno žiranti rade, dovodeći u zabludu ovlašćena lica "A." iz B. da im na štetu imovine A. iz B. odobri kredit u iznosu od 3.000 eura, koji novac su osumnjičeni medjusobno podijelili, da bi nakon toga banka zbog neispunjenja ugovorenih obaveza preuzetih ugovorom o zajmu, vraćanja zajma pokušala od sredstava žiranata tj. solidarnih dužnika realizovati naplatu svojih dospjelih potraživanja, ali kako P. A. nije zaposlen u L. B., a ni A. Š. nije zaposlen u JP "Čistoća" u P., to oštećeni A. iz B. nije mogao naplatiti svoja dospjela potraživanja pa su osumnjičeni lažnim prikazivanjem činjenica sebi pribavili protinravnu imovinsku korist u iznosu od 3.000 eura, a u tom iznosu pričinili štetu "A." iz B.,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">-čime bi kao saizvršioci izvršili krivično djelo prevara iz čl.244 st.1 KZ, u vezi čl.23 KZ.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Jer je nastupila zastarjelost krivičnog gonjenja.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Oštećeni M. c. b. (raniji naziv A. b.) i A. Š.  se radi ostvarivanja imovinsko pravnog zahtjeva upućuje na parnični postupak. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Troškovi krivičnog postupka padaju na teret budžetskih sredstava suda.</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">IV</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Prema optuženom G. S.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Na osnovu čl. 372 tč.3 Zakonika o krivičnom postupku</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">ODBIJA SE OPTUŽBA</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Da je,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2"> U toku aprila mjeseca 2008.godine u B., pribavio lažne isprave administrativne zabrane nalična primanja žiranata i takve isprave upotrijebio kao prave, svjestan da svojim radnjama može učiniti djelo i htio je njegovo izvršenje, na način što je isprave - adm.zabrane na ime oštećenog R. D., koje isprave nije potpisao oštećeni i koja isprava nije ovjerena kod "Tržnice -pijaca" DOO P., upotrijebio u postupku zaključivanja ugovora o zajmu sa "A." iz B., koji je podigao na svoje ime broj ..., dana 06. 04. 2008. godine, u iznosu od 500,00 eura, kao prave, dovodeći u zabludu ovlašćena lica "A." iz B., da im na štetu imovine "A." iz B. odobri kredit u iznosu od 500,00 eura, da bi nakon toga banka zbog neispunjenja ugovorenih obaveza preuzetih ugovorom o zajmu, vraćanja zajma, pokušala od sredstava žiranata kao solidarnih dužnika realizovati naplatu svojih dospjelih potraživanja, ali kako R. D. nije zaposlen u preduzeću “Tržnice-pijaca“ DOO P., to oštećena "A." iz B. nije mogla naplatiti svoja dospjela potraživanja pa je osumnjičeni lažnim prikazivanjem činjenica sebi pribavio protivravnu imovinsku korist u iznosu od 500,00 eura, a u tom iznosu je pričinilo štetu "A." iz B.,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">-čime bi izvršio krivično djelo prevara iz čl. 244 st.1 KZ CG.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Jer je nastupila zastarjelost krivičnog gonjenja.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Oštećeni M. c. b. (raniji naziv A. b.) i R. D. se radi ostvarivanja imovinsko pravnog zahtjeva upućuje na parnični postupak. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Troškovi krivičnog postupka padaju na teret budžetskih sredstava suda.</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">V</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Prema optuženima K. Š. i G. S. </span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">ODBIJA SE OPTUŽBA</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Da su:</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Neutvrdjenog dana i mjeseca u toku 2008.godine u B., svjesni da svojim radnjama mogu izvršiti djelo i htjeli su njegovo izvršenje, pribavili lažne  isprave adminsitrativne zabrane u kojima su unijeti lažni podaci da je P. T. G. iz N. saglasan da bude žirant M. K., da je ovjerena originalnim pečatom Doma zdravlja u P. dana 24.03.2009.godine, lažnu ispravu adm. zabranu i izjavu za žirante u kojoj su unijeti lažni podaci da je K. K. iz P. da je utisnut prijemni štambilj i ovjerena originalnim pečatom Područnog odjeljenja PIO P. na ime K. K., dana 01.04.2008.godine, lažnu ispravu administrativnu zabranu u kojoj su unijeti lažni podaci daje utisnut prijemni štambilj i originalni pečat "E. C. G. AD " N. dana 13.03.2008.godine na ime G. B. iz N. lažne  isprave administrativnu zabranu i izjavu za žirante na ime Č. S., ukojoj su unijeti lažni podaci da je utisnut prijemni štambilj i ovjerena originalnim pečatom L. B. u B. dana 02.04.2008.godine, lažne isprave administrativnu zabranu i izjavu za </span><span class="span2">žirante na ime Č. S. u kojoj su unijeti lažni podaci da je utisnut prijemni štambilji 1 originalnim pečatom ovjereno pečatom L. B. dana 24.03.2008.godine, lažne  isprave adm. zabranu i izjavu za žirante u kojoj su unijeti lažni podacii na je utisnut prijemni štambilj! i ovjerena originalnim pečatom L. B. AD u B. dana 10.04.2010.godine na ime A. M. iz B. lažne isprave administrativne zabrane i izjave za žirante u kojoj su unjeti lažni podaci da je utisnut prijemni štambilj i ovjeren orginalnim pečato, „Tržnica i pijaca“ DOO P. dana 15.02.2008.godine na ime H. N., lažnu isporavu-izjavu za žirante u kojj su unjeti lažni podaci da je ovjerena orginalnim pečatom JP „Čistoća“ P. na ime S. G. iz P., lažnu ispravu za žirante u kojoj su unjeti lažni podaci da je ovjerena pečatom JP „Čistoća“ DOO P. na ime M. E. dana 26.03.2008.godine lažnu ispravu izjavu za žirante u kojoj su unjeti lažni podaci da je ovjerena orginalnim pečatom JKP „U.“ na ime B. C. dana 06.11.2007.godine, lažnu ispravu za žirante u kojoj su unjeti lažni podaci da je ovjerena orginalnim pečatom JKP B. na ime V. N., lažnu ispravu izjavu za žirante u kojoj su ovjereni lažni podaci da je ovjerena orginalnim pečatom JKP B. na ime T. R. dana 15.01.2008.godine, lažnu ispravu izjavu za žirante u kojoj su unjeti lažni podaci da je ovjerena orginalnim pečatom JKP B. na ime B. A. dana 15.01.2008.godine , lažnu ispravu izjavu za žirante u kojoj su unjeti lažni podaci da je ovjerena orginalnim pečatom JKP B. na ime P. A. dana 06.05.2008.godine, u namjeri da navedene lažne isprave upotrijebe kao prave,</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">- čime bi kao saizvršioci izvršili 23 krivična djela – falsifikovanje isprave iz čl.412 st.1 KZ CG u vezi sa čl.23 KZ CG.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Jer je nastupila zastarjelost krivičnog gonjenja.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span3">Troškovi krivičnog postupka padaju na teret budžetskih sredstava suda.</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">O b r a z l o ž e nj e</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optužnicom Osnovnog državnog tužilaštva u B. </span><span class="span2">KT.br... od 28.11.2012. godine, koja je izmjenjena na glavnom pretresu održanom dana 01.12.2017.godine, </span><span class="span2"> stavljeno je na teret optuženima krivično djelo kao u izreci presude.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Glavni pretres je održan u odsustvu optuženog G. S. na osnovu rješenja Kv.br.236/15 od 21.10.2015.godine.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optuženi K. Š. je u svojoj odbrani naveo da </span><span class="span2">ne priznaje krivično djelo koje mu se stavlja na teret. S. Š. uopšte ne poznaje, prvi put ga je  vidio u sudu, dok G. S. poznaje od 2007.godine ili 2008.godine, ne može se tačno sjetiti.  Nije tačno da je u toku aprila mjeseca 2008. godine zajedno sa G. S. pribavio administrativne zabrane i izjave za žirante A. Š., P. A., niti je bilo kakve administrativne zabrane dao okrivljenom S. Š.. Nikada nije podigao kredit kod A. banke, medjutim, poznato mu je da je G. S.   podizao kredit i da je njegova tetka bila njemu žirant, makar mu je tako on rekao. Lice P. A. ne  poznaje, dok poznaje lice A. Š., zato što njih dvojica žive zajedno na K., medjutim za to lice nikada nije koristio ili pribavio administrativne zabrane za kredite. Takodje nije tačno da je u toku maja mjeseca 2008. godine zajedno sa G. S. pribavljao administrativne zabrane na ime H. B., M. E., P. A., niti je te administrativne zabrane dao okrivljenom S. Š..  Na kraju je istakao da nikada nikakav kredit nije podizao niti kod A. banke, niti kod O. b., niti je zajedno sa G. pribavljao bilo kakve administrativne zabrane i izjave za žirante, niti je bilo što davao </span><span class="span2">na upotrebu S. Š., koga je prvi put vidio u sudu, koga od ranije ne poznaje. Od 2008.godine tačnije od aprila, moguće maja ili juna mjeseca sa svojom porodicom pošao je da živi u Nj. i do 2012.godine se nije vraćao u C. G..</span><span class="span2"> </span><span class="span2">G. S. poznaje  od 2007.godine, a prodavao mu je jastuke koje je zajedno sa svojom familijom proizvodio. Nikada nije podigao kredit za G. S.. Na pitanje odakle je okrivljenom poznato da je G. podigao kredit kod A. banke izjavio je da mu je poznato zato što je G. S. novac koji je podigao na ime kredita u iznosu do 1.000,00 eura njemu dao. </span><span class="span2">Njemu</span><span class="span2"> je novac bio potreban kako bi kupio sirovinu, a G. S. je rekao da mu može završiti neki kredit i da će vidjeti da mu pomogne, to je bilo 2008.godine. Na pitanje šta je dostavio od dokumentacije okrivljenom G. S. naveo je da nije ništa.  Svu potrebnu dokumentaciju je G. S. pribavio i on je podigao novac kod banke sam, nikada sa njim nije ulazio u banku, a on mu je taj novac dao u jednoj kafani u S. B.. Na pitanje,  obzirom da je G. S. dao novac okrivljenom od kredita kakve su obaveze optuženog bile, naveo je da mu je G. S. rekao da mjesečno na 24 mjeseca treba da mu daje pare, lično njemu, na ime kredita koji je podigao. Tada je bio dogovor da G. daje iznos od 65,00 do 70,00 eura mjesečno, ne sjeća se tačno i to je trebalo da mu na ruke daje novac. G. S. je davao novac svakomjesečno, možda mu je ostao dužan dvije ili tri rate, na način što bi svakog mjeseca u B. G. S. donio novac, u S. B.. Zna gdje G. živi i često je išao kući kod njega, ali nikada G. nije donosio u kući ili bilo gdje drugo bilo kakve administrativne zabrane. Na pitanje zna li na čije je ime G. podigao kredit naveo je da mu je G. S.  rekao da je podigao kredit kod A. banke ali ne zna na čije ime je podigao taj kredit, ali na njegovo ime nije podigao. Na pitanje kako je, obzirom na odbranu koju je dao na glavnom pretresu  kada je izjavio da je od  maja - juna mjeseca 2008.godine do 2012.godine sa svojom porodicom bio u Nj., te da nije boravio u C. G. mogao svakomjesečno G. S. da vraća novac na ime podignutog kredit naveo je  da je G. S. vraćao novac dok je bio u C.G. do 2008.godine. Na pitanje kada mu je G. S. dao novac naveo je da se tačno ne sjeća da li je to 2007. ili 2008.godine. Potpuno mu je nejasno o kojim kreditima je riječ, a koji su navedeni u optužnom aktu. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optuženi G. S. je u svojoj odbrani u prethodnom postupku naveo da nije izvršio krivično djelo falsifikovanje isprave, a nije učinio ni krivično djelo neosnovano dobijanje kredita i korišćenje kredita i druge pogodnosti. Kroz svoju izjavu nije osporio da poznaje K. Š. iz P.. Taj čovjek je iz P. dolazio kod njega. Nije znao da se bavi dobijanjem nezakonitih kredita. Prije nego što će se ovo desiti Š. je bio kod njega, imao je jednu kesu u kojoj je bila fascikla sa jednom dokumentacijom, niti ga je pitao šta je to, niti je znao. On je radnik L. B., radi po čitav dan da bi izdržavao porodicu. Te noći kada je bio kod njega je čitav dan radio , bio je umoran. Š. je pitao ima li što da se popije, rekao je da nije bila plata, on je ostavio 10,00 eura, tu je bio S. l., medjutim neko ga je nazvao telefonom i Š. je otišao. Rekao je da će se vratiti i fascikla je ostala na stolu. Po odlasku je rekao da nešto kupe da će se brzo vratiti. Nema pojma kako je ta dokumentacija završila u žutom golfu koji nije u voznom stanju. Ne zna da li je Š. ponovo dolazio ili ne. Zna samo da je izvršen pretres njegove kuće i na pretresu nije ništa nadjeno. Bio je kod inspektora J. kada ga je neko nazvao od gradjana i tada mu  je rekao da moraju ponovo u S. B. i pitao ga za žuti golf. On mu je rekao da nema žuti golf već da ima reno. Kada je inspektor ponovio, on se sjetio da tu ima žuti golf, da on nije u voznom stanju i da je to vozilo njegovog oca tu već 4–5 godina i kako je dokumentacija dospjela tu ne zna, a sa tom dokumentacijom postoji još neka lična dokumentacija. Tu su bili računi za vodu, za struju i ostala dokumentacija iz kuće. On je poslednji kredit podigao kod A. banke čije </span><span class="span2">se prostorije nalaze kod stare škole M.. Kredit je podigao i za sebe i za svoju suprugu u iznosu od po 2.000,00 eura, a godinu dana ranije je podigao kredit kod O. b. u iznosu od 10.000 eura, a ima na isti toliki iznos kredit i kod C. k. b.. Ima na sebe i na suprugu kredit i kod firme A. m.. Banka daje kredit na osnovu prodaje robe koju vrši njegova supruga. Sa svim ovim papirima koje je Uprava policije pribavila nema apsolutno nikakve veze. Ne sjeća se da je te večeri kod Š. vidio pečate, ni bjanko papire, a inače tog čovjeka poznaje 5–6 godina I ovako kod njega nikada nije nešto vidio, to je poslovni čovjek koji se bavi izradom odjevnih predmeta, posteljine, živi na K., ponekad je kod njega dolazio sam ili sa svojim stričevima, a nekad i sa prijateljima. Nije mu poznata situacija da je Š. dva brata S. doveo Pred O. b., da im je dao dokumentaciju za koju je zamolio da predaju u banku. Možda je tako bilo, ali on nije bio prisutan. Prvo mu je I. S., a onda i Š. S. rekao da se tako dogodilo, ali nije bio prisutan. Nije tačno da je falsifikovao lične karte žiranata ili bilo kakve administrativne zabrane odnosno nije tačno da je pribavio lažne administrativne zabrane žiranata i izjave žiranata i na osnovu njih podizao mikro kredite kod banaka. Navodi da je istina da je</span><span class="span2"> podizao kredite u više navrata. </span><span class="span2">Na glavnom pretresu je naveo da je</span><span class="span2"> tokom 2008.godine radio u L. B..  K. Š. poznaje unazad 5 - 6 godina, a upoznao ga je preko jednog njihovog zajedničkog prijatelja koga zovu K., čije ime i prezime ne zna, moguće da je to bilo 2005. ili 2006.godina, a sa K. se upoznao zato što je htio da podigne kredit kod nekadašnje O. b.. Njemu je takodje poznato da je taj zajednički prijatelj K. podigao jedan kredit kod O. b. i novac dao K. Š. jer je lično vidio kako mu daje novac. Misli da je to bio kredit u iznosu od 4.000,00 - 5.000,00 eura, ne može se tačno sjetiti. Takodje se jedne prilike sa K. Š. sreo u jednoj kafani u S. B.. On je takodje imao materijalnih problema,  zbog čega je pristao tada da pomogne K. Š. i to tako što je njegova tetka B. S. podigla kredit kod A. b. na iznos od 2.000,00 eura. Tom prilikom u kafani administrativne zabrane za kredit je donio K. Š. a iste su glasile na ime jednog penzionera, ne može se sjetiti imena tog penzionera, ali je postupak za taj kredit vodjen kod predsjednika suda G. Š.. Medjutim, novac koji je njegova tetka podigla na ime K. Š. obzirom da je boravio u P., te da u to vrijeme lica iz P. nijesu mogla podizati kredit u B.. K. taj novac nije vratio njegovoj tetki, a niti je plaćao u banku rate. Isto mu je poznato da su braća S. i K. pomagali, takodje preko zajedničkog prijatelja da mu učine uslugu i da mu podignu kredit koji će on da vraća. Poznaje P. A. i A. M., jer su zajedno radili u L. B.. Medjutim, nikada sa K. nije pribavio administrativne zabrane i izjave za žirante za lica koja su navedena u optužnom aktu, niti  bilo koja druga lica, ali je jedne prilike administrativne zabrane, ne zna imena žiranata, koja mu je pribavio K. dao S. Š.,a koje administrativne zabrane je S. Š. upotrebio kod O. b. za jedan kredit, ali ne zna u kom iznosu jer je to davno bilo. Dakle, nisu tačni navodi koji su navedeni u optužnom aktu, jer on nikakve administrativne zabrane nije pribavio sa K. Š. i zašto bi to radio jer je imao svoje kredite i tu su mu bili žiranti, tata, tetke, B. A. i ostali. Ne priznaje krivična djela  koja mu se stavljaju na teret niti pojma ima o čemu se radi.</span><span class="span2"> </span><span class="span2">Moguće je da je u toku aprila mjeseca 2008.god. kod A. banke podigao kredit od 500,00 eura. Administrativne zabrane na ime R. D.a je pribavio K. Š. i te zabrane mu je dao jedne prilike kada je došao u B., jer mu se požalio da ima zdrastvenih problema i da je obolio. On je lično administrativne zabrane za žiranta R. D. kao i svu ostalu dokumrntaciju predao prilikom zaključivanja ugovora kod A. b. i nakon toga, kada mu je odobren kredit  podigao je novac u iznosu od 500,00 eura. Na pitanje da li je optuženi u momentu kada je upotrebio administrativne zabrane na ime R. D., imao saglasnost od R. D. naveo je da nije imao saglasnost od R. D. da njegovu izjavu upotrijebi u banci, jer to nije tada ni trebalo. Na pitanje šta mu je poznato vezano za kredit koji je S. Š. </span><span class="span2">podigao kod O. b. na iznos od 3.000,00 eura, odnosno ko je pribavio dokumentaciju za taj kredit, ko je potpisao ugovor o kreditu i slično naveo je da mu je poznato da je K. Š. pribavljao sva potrebna dokumenta koja su bila neophodna da S. Š. da u banci jer je on bio korisnik kredita, ne zna tačno na koji iznos, a takodje mu je poznato da je S. Š. taj kredit podigao kod A. b. zato što je K. bio potreban novac i poznato mu je da je taj novac S.  dao K., to se dešavalo u S. B. u kafani, kada je K. primio novac, a sva potrebna dokumenta, izjave za žirante, je pribavio K. Š..To mu je poznato zato što je to lično K. donio sa sobom. Sva potrebna dokumenta koja je njemu lično predao, a nakon toga je pred njim ta dokumenta dao braći S.  koji su podigli novac u banci, ne zna ko je od S.  podigao novac. Na pitanje da li se poznaju S. Š. i K. Š. i od kada, naveo je da koliko mu je poznato K. i S.  se još od tada poznaju od kada su podizali te kredite. Poznato mu je da je postojao dogovor izmedju S. Š. i K. Š., da će K. da vrati novac od kredita, jer je imao neku firmu za proizvodnju, te da će on da vraća novac od kredita. Na pitanje  ko je predavao dokumentaciju i ko je potpisao kredit izjavio je da to ne zna, ali misli da je S.  potpisao taj ugovor o kreditu, a novac u banci je podigao nosilac kredita, ali ne može da tvrdi da je S.  podigao novac lično u banci, mada je on morao da podigne novac u banci, ali on to nije vidio. Na pitanje da li zna koju tačno dokumentaciju je K. Š. predao S. Š. kada je podigao kredit navodi da ne zna, ali to su bila  dokumenta koja su bila potrebna da se omogući kredit.</span><span class="span2"> </span><span class="span2">Na pitanje ko je pošao do banke da podigne novac, naveo je da je S. Š.  pošao u banku da podigne novac, a K. ga je čekao u kafani u S. B..</span><span class="span2"> </span><span class="span2">Na pitanje koliko dugo se znao sa K. Š. i da li je često dolazio kod njega kući naveo je da se sa K. poznaje od 2006 – 2007.godine, a kod njega kući je dolazio jedno dva-tri puta, ne više.Na pitanje čiji su bili pečati, štambilji, ovjerene administrativne zabrane sa neautentičnim pečatima EP CG AD N., Doma zdravlja P., PIO P., JP "Čistoća"DOO P., JKP B. naveo je da su  to svi pečati i štambilji kao i administrativne zabrane koje su bile ovjerene koje je K. Š. njemu donio uz ostalu dokumentaciju.Te pečate je vidio tek sjutradan, a iste mu je donio K. Š., medjutim, te pečate nije upotrebljavao, a nije ni znao da su tu dok nije policija sve to pronašla  u  vozilu koje nije bilo  ni u upotrebi.</span><span class="span5"> </span><span class="span2">Na pitanje šta mu je poznato za  kredit u iznosu do 5.000,00 eura koji je trebalo da se podigne kod O. b., a isti nije podignut naveo je da je za taj kredit K. sve pribavio, sva potrebna dokumenta  i kada je u SUP trebao da dodje i sve to potvrdi trag K. se gubi u potpunosti. Na pitanje  ko se dogovarao za kredit koji je trebalo da podigne S.  Š. izjavio je da ne zna. Na pitanje da li je lično optuženi podigao novac kod A. b. u iznosu od 5.000,00 eura izjavio je da je lično podigao novac kod A. b.. Na pitanje zašto je G. S. posredovao odnosno zašto je K. Š. najprije administrativne zabrane dao G., a nakon toga G. S. Š. naveo je zato što tada K. nije poznavao S. , a on je poznavao S.  i zbog toga je posredovao. Na pitanje zašto štambilje, pečate i ostalu dokumentaciju G. nije vratio K. obzirom da je kako je isti naveo svu dokumentaciju, štambilje i pečate K. njemu donio, naveo je da je za pečate i štambilje mislio da su to pečati firme koju ima K., isti su bili vezani u kesi, a tek je u SUP-u saznao za ostalu dokumentaciju. </span><span class="span2">Na pitanje ko je pribavio administrativne zabrane za kredit koji je podigao S. Š. naveo je da je bio na poslu i kada je došao kući njega je na stolu čekala dokumentacija vezana za predmetni kredit, odnosno kredit koji je uzeo S. Š., a tu dokumentaciju je njemu donio optuženi K. Š., a prethodno ga je telefonskim putem obavjestio K. Š. da će donijeti tu dokumentaciju.Na</span><span class="span5">  </span><span class="span2">pitanje šta se nalazilo u toj fascikli i  čija imena su se nalazila na tim administrativnim zabranama  naveo je da ne može da se sjeti koja su se imena žiranata nalazila na administrativnim zabranama, a imajući u vidu da je prošlo dosta vremena od tada. Na pitanje šta se dalje desilo sa tom dokumentacijom naveo je da tu dokumentaciju nije u bilo koju </span><span class="span2">svrhu zloupotrebio, samo je dodao S. Š.. To je uradio iz razloga što K. Š. nije poznavao S. Š., a S. Š. je njegov komšija i on je iz tog razloga uzeo dokumentaciju i predao je S. Š.. Na pitanje kakav je dogovor bio izmedju njega i K.  i njega i S.   naveo je da je K. Š. iz P., a uslov za kredit je bio da korisnik kredita bude iz B.. S.  je pristao da mu učini uslugu, odnosno da učini uslugu K. Š., da uzme taj kredit. Na pitanje da li je bio prisutan tom njihovom dogovoru naveo je da nije prisustvovao njihovom dogovoru, oni su se dogovarali, a sve je išlo preko njega telefonskim putem. On je prvo komunicirao sa K., pa onda sa S.  i bio je tu kao posrednik izmedju njih. Na pitanje ko je pribavljao dokumentaciju vezano za ove kredite naveo je da sva dokumentacija vezana za kredite koji su podignuti u O. b. je pribavljanja na isti način, odnosno ta dokumentacija je  čekala kući na stolu. Kada je pošao u policiju da da izjavu, rekao je  da nema nikakve veze sa dokumntacijom koja se odnosi na predmetne kredite. Na pitanje ko je podigao novac iz banke naveo je S. Š.. Na pitanje da li je bio prisutan i on naveo je da je S.  povezao kolima do CKB b.. Na  pitanje koliko novca je podigao S.  i za koji kredit naveo je da je podigao iznos od 3.000,00 eura od A. b.. Povezao je S.  da uzme kredit a K. Š. ih je čekao u kafani u S. B. i kada je uzeo S.  kredit oni kreću za S.B..  S. Š. je uzeo novac, a taj novac se nalazio u koverti i oni odlaze u S. B. i S.  je predao tu kovertu njemu, a on kovertu K. Š.. S. Š. je otišao kući, a on je nastavio put ka toj kafani i kao što je naprijed naveo predao je kovertu K. Š.. Tada je K. Š. prebrojao novac iz koverte i njemu je dao 50,00 ili 100,00 eura ne sjeća se, a kako bi taj novac dao S. Š. i on mu je dao taj novac, a taj novac ga je častio K. Š. za uslugu. Na pitanje  ko je pribavio dokumentaciju koja je priložena kod O. b. na ime S. Š. naveo je da je tu dokumentaciju pribavio K. Š.. Na pitanje, a imajući u vidu da je prilikom pretresa u njegovoj kući policija pronašla pečate, ovjerene izjave administrativnih zabrana,sa falsifikovanim pečatima, ko je pribavio te pečate i administrativne zabrane naveo je da je  K. Š. donio više pečata i ovjerene administrativne zabrane i izjave žiranta, a kako bi on udarao pečate, a tako je bukvalno ispalo. Na  pitanje s obzirom da su lica iz P., da li ta lica poznaje naveo je da od žiranta je samo poznavao A. P.. On je radio sa njim u L. B. i A. M., a ostale žirante nije poznavao. Na pitanje ko je ovjerio izjave žiranta naveo je da pojma nema. Na pitanje da li su mu se javljali žiranti kojima su se odbijale rate kredita naveo je da ga žiranti nijesu zvali ali ga je zvao S.  i rekao mu da su njega zvali iz banke i da rate nijesu uplaćene. Na pitanje da li je nakon toga kontaktirao K. naveo je da kad je njega pozvao S. Š. i rekao mu da ima problema, odnosno da su ga zvali iz O. b. i rekli mu da se ne plaćaju rate na ime kredita, nije tada pozvao K. Š. iz razloga što on nije bio u C. G. i tada su nastali svi ovi problemi. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optuženi S. Š. je u svojoj odbrani u prethodnom postupku naveo da poznaje G. S.. Kod njega je dolazio jedan omanji čovjek iz P. za koga je kroz priču čuo da je raseljeno lice, da ima novčanih problema, da ima bolesno dijete, a u kući G. možda ga je prije toga vidio dva puta. Ne sjeća se tačno ali misli da je bilo prije mjesec dana kada je taj čovjek došao iz P., bio u kući G. i zamolio ga da na njegov žiro račun legnu neke pare od kredita. Nikakav papir nije trebalo potpisati, tražili su samo njegovu ličnu kartu. Nakon što su je fotokopirali vratili su je. Shvatio je da ne čini nikakvo zlo ako dozvoli da pare od kredita uplate na njegov račun, a onda da ih podigne i preda Š.. Nijednom rječju tokom razgovora nije bilo govora o tome da je nosilac kredita.Novac je trebalo podići kod O. b.. Ličnu kartu je dao S., on je kopirao i vratio je. O A. b. i kreditu u toj banci nema pojma. Š. mu je dao ček da kod O. b. koja se nalazi nedaleko od policije podigne novac. Pošao je i dao ček i podigao 2.960,00 eura. Novac je odmah predao Š. u ruke, a pored njega je bio S.. Tog dana ne, ali </span><span class="span2">narednih par dana S. mu je za tu uslugu dao 10,00 ili 20,00 eura, ne sjeća se tačno, jer im je učinio uslugu. Ugovor o zajmu sa pratećom dokumentacijom nije imao prilike niti da pročita niti ga je vidio. Drugom prilikom Š. je imao kompletnu dokumentaciju, počev od zahtjeva za podizanje kredita kod O. b.. Sve je bilo popunjeno samo mu je pokazao mjesto gdje da potpiše i on je potpisao. Š. mu je objasnio gdje treba da udje, na koji šalter treba da preda. Ušao je u kancelariju, predao je tu dokumentaciju, te papire nije otvarao i ne zna koliko je para trebalo dobiti po osnovu tog kredita. Na tom formularu je bio njegov broj telefona, taj kredit je trebalo da glasi na njegovo ime. Medjutim, u toku dana Š.ga je zvao, dao mu je odredjeni broj telefona preko koga bi mogao da provjerir da li su pare od kredita uplaćene. Nakon toga ga je ponovo zvao, rekao da je on provjerio, da novac nije uplaćen, da je zahtjev odbijen i da ne treba da zove. Nije njemu banka javila da mu je kredit odbijen već mu je to rekao Š., a nije obavijestio ni S. jer nije bilo potrebe za tim. Zna samo da ga je Š. savjetovao da isključi telefon. Lica koja su bila žiranti ovog kredita uopšte ne poznaje. Nije tacno da je dana 12.05.2008.godine predao zahtev za mirko kredit kod O. b. u iznosu od 5.000 eura kojom prilikom je navodno dostavio i doktimentaciju za žirante P. A., M. K. i H. K.. Naime, on uopšte nije odlazio u O. b. da predaje bilo kakav zahtjev za kredit.Tacno se sjećam kada su ga G. S. i njegov drug Š. zamolili da im predam ličnu kartu kako bi na njegovo ime bio otvoren žiro račun kod CKB b. i kako bi na njegovom računu legao neki novac. Dakle, tom prilikom ga je G. S. zamolio samo da mu da svoju ličnu kartu, kako bi na njegovo ime otvorio žiro račun, a ne nikako da on bude korisnik bilo kog kredita. On je G. S. dao svoju ličnu kartu, koji je sam pošao do banke i na njegovo ime otvorio žiro račun. On je nakon nekih desetak dana pošao do CKB B. zajedno sa G. S. i njegovim drugom čije ime ne znam, zna ga samo po nadimku Š., kako bi sa njegovog žiro računa podigao novac u iznosu od 2.960 eura. On je taj novac predao na ruke Š. koji je bio zajedno sa S.. Tom prilikom mu je Š. za uslugu koju im je napravio dao nekih 50-100 eura, ali se ne može tačno izjasniti kolika je to suma bila. Dakle, još jednom odgovorno tvrdi da nije potpisivao niti predavao bilo kakva dokumenta za kredit, odnosno nije ni predavao bilo kakvu dokumentaciju za žirante P. A., M. K. i H. F., jer ta lica uopšte i ne poznaje. Nije tačno da je pred policijom izjavio da je pokušao da podigne kredit kod O. b. na iznos od 5.000 eura, i da mu je taj kredit odbijen.</span><span class="span2">Nakon što mu je prezentiran ugovor o zajmu LD br.... ne može se sa sigurnošću izjasniti da li je to njegov potpis na ugovor, a ne sjeća se da je ikad podizao novac kod A.. </span><span class="span2">Na glavnom pretresu je naveo da je</span><span class="span2"> samo jedan kredit podigao kod CKB b., ne zna tačno kada je to bilo i na koji iznos, a ne može da se sjeti  da je  kod O. ili A. b. podigao bilo kakav kredit.  G. S. zna dugi niz godina jer mu je komšija, a  K. poznaje odavno, ali su se jedne prilike vidjeli, a lično ga ne zna. Jednom je K. vidio u S. B., prije jedno 6,7 ili 8 godina.  G. S. mu je dao sve potrebne papire za kredit koje je podigao kod CKB b., ne zna tačno na koji iznos.  Kod CKB b. nije podigao nikakva dokumenta ali je podigao novac.  Ne sjeća se da je kod O. i A. b. podigao kakav novac. Nikada nije pribavio niti upotrijebio bilo kakvu adm. zabranu kod nijedne banke. Samo jedne prilike kada je podigao kredit napravio je  uslugu G. i za tu uslugu je dobio 40 ili 50 eura, ne mogu tačno da  se sjeti, a cjelokupan iznos novca od kredita koji je podigao je predao G. S. a on je trebalo nekom drugom da preda, ne zna kome. Ne može da se sjeti je li još neko bio prisutan kada je novac predao G. i u kom iznosu je bio taj novac. On je potpisao prijavu na iznos od 5.000,00 eura. Na pitanje da li je ugovor o zajmu kod A. b. za kredit u iznosu od 3.000 eura potpisao on naveo je da to nijenjegov potpis. Na pitanje sa kim je pošao do CKB b.,izjavio je da ga je  ispred banke čekao G.. Ne zna šta mu je predao G.. G. je nakon što je podigao novac dao sav iznos,a G. ga je častio 40 do </span><span class="span2">50 eura, ne zna tačno. Svu dokumetnaciju za kredit u iznosu od 5.000 eura kod O. b. mu je pribavio G. S., ali se ne sjeća da je kod O. b. ulazio. Uopšte se ne sjeća da je kod O. b. predavao bilo kakva dokumenta za kredite, niti je ulazio u O. b., niti je podizao bilo kakav novac u Oportuniti banku. Na pitanje od koga je optuženi saznao da za kredit u iznosu od 5.000 eura ne može podići kod O. b. naveo je da mu je gospodin G. javljao kada treba da podigne novac, ali mu on nije javljao da ne može da podigne novac kod O. b.. Nije podigao novac kod O. b.. Prijavu za kredit kod O. b. na iznos od 5.000,00 eura je potpisao, medjutim,tu prijavu i ostalu dokumentaciju nije predao kod O. b.. Za predmetni kredit je pozivan u policiju, postoji pisana izjava ali se ne sjeća šta je tada rekao</span><span class="span2">. </span><span class="span2">Na pitanje  da li je  znao da se radilo o ugovoru o zajmu i da uzeta sredstva treba da vrati naveo je da je  znao nakon dva dana nakon što je podigao novac da treba da vrati ta sredstava. Na pitanje  da li je ikada S.  predao bilo kakvu adm. zabranu naveo je da  lično njemu nije nikada predao adm. zabranu,  niti ga je ikada pozvao telefonom da ga pita za bilo kakav kredit. Njega je pozivao samo G. S. i on mu je predavao dokumentaciju. Na pitanje gdje je prvi put S. vidio K. naveo je da je to u S. B., ali ne može tačno da se sjeti kada i ne zna da da li je to bilo u kafani. Na pitanje  da li K.  ima prijatelja pod nadimkom K. naveo je da se ne sjeća. Na pitanje da objasni razlike u kazivanju jer je na zapisniku Kri.br.... od 29.05.2008.godine do detalja opisao ulogu K. Š. i G. S., te naveo da je išao u O. b. naveo je da se zbog proteka vremena zaista ne može sjetiti da li je išao u O. B.,  toga se uopšte ne sjeća, a i ako jeste to je učinio samo da bi pomogao svom komšiji G. S.. Nikakvu korist od tih kredita nije imao, cilj mu je je bio samo da pomogne. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">U dokaznom postupku sud je na saglasan predlog stranaka pročitao iskaze svjedoka H. N., P. A., M. K., A. M., kao i  ovlašćenih predstavnika O. b. sada E. b. D. Č. i ovlašćenog predstavnika nekadašnje A. i. b., sada M. c. b. M. V., pročitao je </span><span class="span2">dopis E. Crne Gore AD N. br.... od 28.04.2009.godine, dopis Fonda penzijskog I invalidskog  Crne Gore – Područnog odjeljenja B. br.... od 12.05.2009.godine, dopis  A. MFI P., poslovne jedinice B. od 24.04.2009.godine, dopis E. Crne Gore  AD N. br.... od 21.04.2010.godine, dopis L. B. br.... od 13.04.2011.godine, dopis Javnog preduzeća Komunalne djelatnosti B. br.... od 21.04.2011.godine, dopis Tržnice i pijace DOO P., br.... od 21.04.2011.godine, dopis Javnog  preduzeća  Čistoća  P. br.... od 19.04.2011.godine, dopis Doma  zdravlja P. br.... od 21.04.2011.godine, dopis Javnog  preduzeća Čistoća P. br.... od 15.05.2008.godine, dopis Javnog  preduzeća Čistoća P. br.... od 07.05.2008.godine, dopis Uprave policije – Područne jedinice P. br.... od 29.05.2008.godine, dopis “O. b.” br....  od  15.05.2008.godine, dopis L. B. br.... od 09.07.2008.godine, dostavljen Osnovnom državnom tužilaštvu B., dopis Javnog preduzeća Čistoća P. br.... od 07.07.2008.godine, dostavljen Osnovnom  državnom  tužilaštvu B.; prijava za mikro kredit dostavljena od “O. b.” od 12.05.2008.godine nosioca kredita S. Š., administativna zabrana navodno ovjerena u L. B., pod brojem ... od 08.05.2008.godine, administrativna zabrana ovjerena u Javnom preduzeću Čistoća P., pod brojem... od 09.05.2008.godina, dopis L. B. br.... od 15.05.2008.godine, dostavljen CB B., original ugovor o zajmu dostavljan od “A.” DOO B. na ime zaimoprimca Š. S.  od 14.04.2008.godine, plan otplate kredita dostavljen od “A. b.” DOO B., nosioca kredita S. Š., original administrativna zabrana za žiranta ovjerena navodno u JP Čistoća  P. pod brojem ... dana 07.04.2008.godine, na ime A. Š., original izjava žiranata dostavljena od “A.” DOO B., navodno ovjerena  u akcionarskom društvu AD “L. B.” u B. pod brojem ... od 09.04.2008.godine na ime P. A., original administrativna zabrana za žiranta dostavljena od “A.” DOO B. navodno ovjerena akcionarskom društvu AD “L. B.” u B., pod brojem ... od </span><span class="span2">09.04.2008.godine na ime P. A., original obrazac rješenja  o administrativnoj  zabrani, navodno ovjereno u JP “Komunalne djelatnosti” B., pod brojem ... dana 15.01.2008.godine, na ime B. A., original obrazac potvrde o visini primanja, navodno ovjeren u JP “Komunalne djelatnosti” B., dana 15.01.2008.godine, original obrazac rješenja o administrativnoj  zabrani  navodno ovjeren u JP “Komunalne djelatnosti” pod brojem ... dana 15.01.2008.godinem na ime K. N., original obrazac potvrde o visini primanja, navodno ovjerena u JP “Komunalne djelatnosti” u B. dana 15.01.2008.godine, original obrazac izjave žiranata navodno ovjeren u Javnoj zdravstvenoj ustanovi doma zdravlja P. na ime P. G., original izjava žiranata P. A. navodno ovjerena u “L. B.” u B. dana 06.05.2008.godine, original administrativna zabrana na žiranta navodno ovjerena pod brojem  ... dana 01.04.2008.godine na ime K. K. u Republičkom fondu PIO P., original izjava žiranata navodno ovjerena u Republičkom fondu PIO P. pod brojem ... dana 01.04.2008.godine na ime K. K., original administrativna zabrana za žiranta navodno ovjerena u Republičkom fondu PIO P., na ime V. N., original izjava žiranata navodno ovjerena u AD “L. B.” u B., pod brojem ... dana 02.04.2008.godine, na ime Ć. S., original administrativna zabrana za žiranta navodno ovjerena u akcionarskom društvu AD “L. B.” u B., pod brojem ... dana 02.04.2008.godine, na ime Ć. S., original administrativna zabrana za žiranta navodno ovjerena u akcionarskom društvu AD “L. B.” u B., pod brojem ... dana 24.03.2008.godine, na ime Ć. S., original izjava žiranata navodno ovjerena u AD “L. B.” u B., dana 24.03.2008.godine, na ime Ć. S., original izjava navodno ovjerena u L. B. u B., pod brojem ... dana 10.04.2008.godine na ime A. M., original administrativna zabrana za žiranta navodno ovjerena u akcionarskom društvu AD “L. B.” u B. pod brojem ... dana 10.04.2008.godine, original ovjera podataka za žiranta navodno ovjerena u JKP U. dana 06.11.2007.godine, na ime B. C., administrativna zabrana za žiranta navodno ovjerena u JKP U., dana 16.01.2008.godine, na ime B. C., original izjava žiranta navodno ovjerena u Tržnici i pijace DOO P. dana 13.02.2008.godine, na ime T. N., original administrativna zabrana za žiranta, navodno ovjerena u Tržnice i pijace DOO P., dana 13.02.2008.godine, na ime T. N., original izjave žiranata navodno ovjerena u Tržnice i pijace dana 15.02.2008.godine na ime H. N., original izjave žiranata navodno ovjerena u JP Čistoća P. dana 25.06.2008.godine, na ime S. G., original izjave žiranata navodno ovjerena u JP Čistoća P. dana 26.03.2008.godine, na ime M. E., original izjave navodno ovjerena pečatom i prijemnim štambiljom E. Crne Gore AD N., original administrativna zabrana  za žiranta navodno ovjerena prijemnim štambiljom i original pečatom E. Crne Gore AD N. dana 28.05.2008.godine, original administrativna zabrana za žiranta navodno ovjerena pečatom i prijemnim štambiljom E. Crne Gore AD N. u N., original izjave žiranata navodno ovjerena u E.  Crne Gore AD N. u N., na ime B. R., original administrativna zabrana za žiranta navodno ovjerena pečatom i prijemnim štambiljom Republičkog  fonda PIO P., dvije originalne administrativne zabrane navodno ovjerene u JZU Doma zdravlja P., prijemnim štambiljom I okruglim pečatom, dvije originalne administrativne zabrane navodno ovjerene okruglim pečatom I prijemnim štambiljom JZU Doma zdravlja P., originalna administrativna zabrana za žiranta navodno ovjerena okruglim pečatom I prijemnim štambiljem pod brojem ... od 27.05.2008.godine, originalna administrativna zabrana za žiranta navodno ovjerena okruglim pečatom I prijemnim štambiljem Republičkog fonda PIO P., pod brojem ... od 27.05.2008.godine, dvije original isprave administrativne zabrane i izjave za žirante navodno ovjerene u JP Komunalne djelatnosti B., u B., prijemnim štambiljem i okruglim pečatom, nalaz vještaka grafologa J. Z. br.... od 24.05.2012.godine, nalaz vještaka grafologa J. Z. br..... od 24.05.2012.godine, nalaz vještaka grafologa J. Z. </span><span class="span2">br.... od 24.05.2012.godine, nalaz vještaka grafologa J. Z. br.... od 24.05.2012. godine, dopis glavne direkcije za ljudske resurse I opšte poslove E. Crne Gore AD N. br.... od 27.03.2012.godine, dopis E. Crne Gore AD N. – Sektora za upravljanje ljudskim resursima br.... od 20.03.2012.godine, dopis glavne direkcije za ljudske resurse I opšte poslove E. Crne Gore AD N. br.... od 20.03.2012.godine, dopis E. Crne Gore AD N. – Direkcija za radne odnose I administrativne ljudske resurske br.... od 26.03.2012.godine, dopis E. Crne Gore AD E. P. br.... od 22.03.2012.godine, zapisnik o pretresanju stana I drugih prostorija Uprave policije – PJ B. KU br.... od 27.05.2008.godine, potvrda o privremeno oduzetim predmetima KU br.... od 27.05.2008.godine, </span><span class="span2">dopis JP Čistoća P. broj ... od 09.02.2015.godine, </span><span class="span3">na saglasan predlog pročitani su iskazi svjedoka B. A., D. R., G. K., S. N., Đ. M., J. E., A. Š. i Đ. G., pročitao je  izvod iz registra kaznenih evidencija za optuženog K. Š., a pribavljen od strane Ministarstva pravde CG Ke.br.... od 01.12.2017.godine, izvod iz registra kaznenih evidencija za optuženog G. S., a pribavljen od strane Ministarstva pravde CG Ke.br.... od 01.12.2017.godine, izvod iz registra kaznenih evidencija za optuženog S. Š., a pribavljen od strane Ministarstva pravde CG Ke.br.... od 01.12.2017.godine.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Svjedok H. N. je u svom iskazu naveo da </span><span class="span2">uopšte ne poznaje okrivljene K., G. i S. . Nikada u životu im nije bio žirant. Radi u "Tržnica i pijace" DOO P., a radio je i tokom 2008.godine. Nikada nije pristao niti je bio žirant okrivljenima za bilo kakav kredit. Dva-tri puta je podizao kredit kod P. b., medjutim nikada nije podizao kredite niti kod A. niti kod O. b..</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Svjedok oštećeni P. A. je u svom iskazu naveo da je</span><span class="span2"> 2008.godine radio u L. B. i te godine sa kolegom Č. N. htio je da podigne kredit, a radi biznisa na buvljaku. Oni su fotokopirali lične karte, pošli u banku i u banci su ih odbili, jer su bili pod ugovorom i nijesu imali stalni radni odnos.  Kada je izašao iz banke, pocjepao je fotokopiju njegove lične karte i fotokopiju lične karte Č., i nakon dva - tri dana dobija poziv od A. b., koji su mu tada rekli da dodje u banku kako bi platio ratu za kredit. Bio je začudjen i otišao je u banku i ne sjeća se šta su rekli. Tada se vratio na posao u L. B., a tada su mu u L. B. blokirali platu i otpustili ga, a s obzirom da je bio pod ugovorom. Siguran je, odnosno tvrdi da je G. S. podizao te kredite jer nema ko drugi. Pošao je u policiju  da prijavi sve to i inspektor koji se tada nalazio u policijskim prostorijama ukucao je  neka  imena u kompjuter, a izmedju kojih imena se nalazilo i ime G. S. i tada mu je rekao ''a ova lica su nama odavno poznata, jer su na   takav način i ranije podizali kredit''. Tada je taj inspektor otišao u L. B. i urgirao je da ga vrate na posao, jer nema nikakve veze sa tim već ta lica koja je naveo. Ne zna ko je uzeo taj kredit, a na pitanje G. S. da li ga je ikad molio da uzme neki kredit naveo je da ga nikad nije molio,ali se pita otkud njegova lična karta kod G. S.. Pridružio se krivičnom gonjenju protiv optuženih i postavio je imovinsko pravni zahtjev čiju visinu nije precizirao. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Svjedok oštećeni M. K. je u svom iskazu naveo da mu </span><span class="span2">nije poznata činjenica da su optuženi uzimali neke kredite, a gdje je on bio žirant. Nigdje nije zaposlen tako da nije ni mogao biti nikome žirant, jer živi od socijalne pomoći koja iznosi 170,00 eura. K. Š. zna samo iz vidjenja dok G. S. i S. Š. ne poznaje, niti ih je ikada vidio u životu, nego ih je prvi put vidio ovdje u sudu.Nikada nije radio u JP ''Čistoća'' u P., a radio je privatno  na tuškoj pijaci.Vezano za podizanje nekih kredita, može reći da nikada nikome nije dao nikakvu dokumentaciju niti je ikada ikome žirirao. Pridružio se </span><span class="span2">krivičnom gonjenju protiv optuženih i postavio je imovinsko pravni zahtjev čiju visinu nije precizirao. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Svjedok A. M. je u svom iskazu naveo da </span><span class="span2">nije znao o čemu se radi dok nijesu došla dva policajca u njegovu radnju i tada rekli da mora doći u sud. Dok je čekao u hodniku suda, saznao je da je riječ o nekim kreditima, jer je vidio neke ljude iz banke i došao je do takvog zaključka. G. i S.  poznaje, dok je K. prvi put vidio ovdje u sudu. Nikada nije nikome  bio žirant.  Zaposlen je u ''F. s.'' kod O., a u L. B. je radio otprilike do prije nekih 5 godina, a sigurno je radio 2010.godine. Na izjavi žiranta nije siguran da je njegov potpis, a vidi da u tom ispisivanju njegovog imena postoji razlika u ispisivanju u slovu T, jer on nikada tako ne piše T nego kao krstić, a što se tiče administrativne zabrane tvrdi da se na njoj ne nalazi njegov potpis. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Ovlašćeni predstavnik O. b. sada E. b. D. Č. je u svom iskazu naveo da u kratkom vremenskom intervalu tj. u roku od 15 dana su u barskoj filijali tadašnje O. b. sada E. b. zahtjev za kredit predala dva lica sa istim prezimenom i to S. Š. i S.  I. uz uredno popunjenu dokumentaciju. Medjutim, on kao i drugi službenik banke R. I. posumnjali su u vjerodostojnost priložene dokumentacije iz razloga što po svom slobodnom ubjedjenju su zaključili da se potpisi žiranata na administrativnim zabranama i izjavama razlikuju od potpisa na ličnim kartama. Nakon toga su kontaktirali ovlašćene osobe u pravnim licima gdje su ovjerene administrativne zabrane i to Javno preduzeće Čistoća P., L. B. kao i Republički fond PIO. Od njih su dobili informaciju da pomenuta lica ili ne rade u navedenim preduzećima odnosno nisu penzioneri ili su zaposleni ali da zabrane nisu ovjerene kod njih i da ti radnici nisu potpisali administrativne zabrane i izjave. Gore navedena pravna lica su kontaktirali u vezi aplikacije za kredit od strane S. Š. koji je od banke tražio kredit u iznosu od 5.000,00 eura. Što se tiče kreditne aplikacije za S.  Isata koji je podnio zahtjev za kredit u iznosu od 7.000,00 eura kontaktirali su Javno preduzeće Čistoća P. E. Crne Gore u N. i Republički fond PIO od kojih su dobili isto obrazloženje. Nakon toga banka je odbila zahtjev za odobrenje ovih zajmova nakon čega je 15.05.2008.godine dostavio fotokopiju dokumentacije MUP-u B. ukazavši na eventulno postojanje falsifikovanih dokumenata, o čemu prilaže kompletnu orginalnu dokumentaciju u vezi oba zahtjeva za kredit. </span><span class="span2">Na glavnom pretresu je naveo da tokom 2008.godine tadašnjem savjetniku O. b. za kredite R. I. dostavljena dokumentacija radi odobrenja kredita na ime S. Š. i S.  I..  Savjetnik za kredite je iste njemu dostavio na uvid jer je  posumnjao u vjerodostojnost podataka oko visine ličnih dohodaka koji su navedeni na administrativnim zabranama. Nakon toga on je zvao pravna lica kod kojih su bile ovjerene te administrativne zabrane i od istih je obavješten da su u pitanju falsifikati i da isti nikada nisu ovjereni kod njih pod tim djelovodnim brojevima. Usled toga predmetni zahtjevi su odbijeni i krediti nisu odobreni. Pridružio se krivičnom gonjenju, a nije postavio imovinsko pravni zahtjev.  </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Ovlašćeni predstavnik nekadašnje A. b., sada M. c. b. M. V. je u svom iskazu navela da je </span><span class="span2">Š. S.  dana 14.04.2008.godine kod tada A. b. podigao kredit u iznosu od 3.000,00 eura, na 30 mjeseci. Prilikom apliciranja za kredit kao sredstvo obezbjedjenja priložio je administrativne zabrane na ime A. P. i Š. A.. Novac je podignut na šalteru CKB b., od početka kredita vraćeno je ukupno 72,00 eura, i to 2 puta po 36 eura, 16.05.2008.godine i 30.06.2008.godine. Dug po ovom kreditu na dan davanja iskaza iznosi 4.008,00 eura, od toga 3.000,00 eura na ime glavnice i 1.008,00 eura na ime kamate, o čemu dostavlja sudu dokaz izvod iz sistema.  G. S. </span><span class="span2">je dana 06.04.2008.godine potpisao ugovor sa ovlašćenim predstavnikom tada A. banke o zajmu u iznosu od 500 eura  sa rokom otplate od 9 mjeseci. Prilikom apliciranja za kredit kao sredstvo obezbjedjenja dostavio je adm. na ime D. R..Novac je podignut na šalteru CKB b..  Od početka kredita vraćeno je samo 65,00 eura i to 23.05.2008.godine.  Dug na dan davanja iskaza iznosi 502,50 eura, od čega na glavnicu otpada 442,50€, dok je kamata u iznosu od 60,00 eura. Prema okrivljenom S. G. u ime M. pridružuje se krivičnom gonjenju i postavlja imovinsko pravni zahtjev u iznosu od 502,50 eura, o čemu sudu dostavlja dokaz. Ovlašćeni predstavnik navedene firme je u prethodnom postupku navela da je </span><span class="span2">ugovor o zajmu LD ... zaključen 14.04.2008. godine na iznos od 3.000 eura sa S. S.  a dug po tom ugovoru je na današnji dan 4.008,00 eura. S.S. je uredno dostavio svu neophodnu dokumentaciju, popunjen je zahtjev za odobrenje kredita, priložio je fotokopiju lične karte kao i izjave žiranata A. P. sa fotokopijom njegove lične karte i A. Š. takodje sa fotokopljom lične karte. Ugovor o zajmu LD... zaključen 06.04.2008.godine na iznos od 500,090 eura sa S. Š., a dug po tom ugovoru je na dan davanja iskaza dan 502,50 eura. G. je uredno popuno zahtjev za odobrenje kredita i priložio svu neophodnu dokumentaciju, a takodje i izjavu za žiranta D. R. sa fotokopijom njegove lične karte. Ugovor o zajmu LD ... zaključen 06.02.2008.godine na iznos od 2.000,00 eura sa Isatom S. , a dug po tom ugovoru je na dan davanja iskaza 2.246,00 eura. Isat S.  je uredno popunio zahtjev za odobrenje kredita i priložio svu neophodnu dokumentaciju, a takodje i izjavu za žirante E. J. i G. K. i njihove fotokopije ličnih karata. Imajući navedeno u vidu A. postavlja imovinsko pravni zahtjev u iznosu od 6.756,50 eura i pridružuje se krivičnom gonjenju protiv okrivljenih. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz </span><span class="span2">dopisa E. Crne Gore AD N. br.... od 28.04.2009.godine je utvrđeno da Đ. G. i G. B. nisu radnici E. CG AD N. –E. P..</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa Fonda penzijskog I invalidskog  Crne Gore – Područnog odjeljenja B. br.... od 12.05.2009.godine je utvrđeno da administrativne zabrane za H. F., Đ.ć M., J. E., K. F. K., K. K. F. i F. T. G. nije ovjerilo Područno odjeljenje B. Fonda Penzijskog Invalidskog osiguranja Crne Gore. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa A. MFI P., poslovne jedinice B. od 24.04.2009.godine je utvrđeno da postupak prinudne naplate preko solidarnih dužnika –žiranata J. E., K. G. koji su bili žiranti korisniku kredita S.  I.  LD/... iz B. nije pokrenut. Žirantu S. G. LD/... R. D. iz P. nije pokrenut postupak prinudne naplate duga . Takođe žirantima kredta S. Š. LD/... P. A. iz B. i A. Š. iz P. nisu pokrenuti postupci prinudne naplate.Korisnik kredita S. G. LD/... dužan je A.u 502,50€. Korisnik kredita Isad S.  LD/... dužan je A. 2.246,00€. Korisnik kredita Š. S.  LD/... dužan je A. 4.008,00€.Navedeni krediti prema informacijama kojima oni raspolažu nisu namjenski utrošeni, ali za to nemaju nikakve konkretne dokaze. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa E. Crne Gore AD N. br.... od 21.04.2010.godine je utvrđeno da Đ. G. i G. B. nisu radnici E. Crne Gore AD N.-E. P. i u njihovom djelovodnom protokolu nisu, pod nazanačenim brojevima i datumima evidentirane administrativne zabrane za navedena lica. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa L. B. br.... od 13.04.2011.godine je utvrđeno da Ć. S. i A. M. nisu zaposleni u L. B. AD B.. U pogledu ovjera administrativnih zabrana na ime Ć. S. od 24.03.2008.godine i 02.04.2008.godine i ovjere administrativne zabrane na ime A. M. </span><span class="span2">od 10.04.2008.godine ne posjeduju podatke, odnosno u L. B. se ne vodi predmetna evidencija. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa Javnog preduzeća Komunalne djelatnosti B. br.... od 21.04.2011.godine je utvrđeno da u djelovodniku ovog preduzeća dana 15.01.2008.godine zavedene administrativne zabrane na ime zaposlenog T. H. pod brojem .... Za P. A. i V. N. nema podataka. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa Tržnice i pijace DOO P., br.... od 21.04.2011.godine je utvrđeno da na arhivi ovog preduzeća nisu zavedene ni ovjerene administrativne zabrane na ime T. N. i H. N., te da je samo H. N. sa jmbg ... zaposlen u ovom društvu. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa Javnog preduzeća Čistoća  P. br.... od 19.04.2011.godine je utvrđeno da u ovom preduzeću ne postoje evidentirane ovjere administrativne zabrane na ime S. G. i M. E.. Navedena lica nikada nijesu bila zaposlena u ovom preduzeću. Navode da je u predmetnom periodu u više navrata u Filijali O. b. B. (sad E. b.) korišćen falsifikovan pečat i štambilj preduzeća, o čemu su obavjestili policiju u P..  </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa Doma  zdravlja P. br.... od 21.04.2011.godine je utvrđeno da administartivnu zabranu na ime P. G. iz P. nije ovjerio ovlašćeni službenik njihove ustanove, uz konstataciju da imenovana nije zaposlena u njihovoj ustanovi niti je ikada bila zaposlena kod pravnog prethodnika ove ustanove . Obavjestili su sud da se u konkretnom očigledno radi o zloupotrebi pečata njihove ustanove, koji su ukradeni i o čemu su obavjestili CB Podgorica i sud u Podgorici. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa Javnog  preduzeća Čistoća P. br.... od 15.05.2008.godine je utvrđeno da da je navedeno preduzeće proslijedilo prijavu Upravi policije PJ P. o falsifikovanju pečata preduzeća.Obavjestavaju da im je od strane O. b. dostavljena administrativna zabrana za njihovog radnika M. K.. kao žiranta korisniku kredita S. Š..Naznačena administrativna zabrana, čiju su fotokopiju dostavili u prilogu  zavedena je falsifikovanim štambiljem i ovjerena falsifikovanim pečatom, a potpis na zabrani nije potpis ovlašćene osobe u preduzeću. Prijavu je potpisao zemjenik direktora V. K.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa Javnog  preduzeća Čistoća P. br.... od 07.05.2008.godine je utvrđeno da su ovom prerduzeću putem faksa dostavljeni formulari o administrativnoj zabrani za žirante S. N. i A. Š. od strane O. b. P. P.. Provjerom dostavljenih obrazaca zabrane konstatovali su da su isti ovjereni falsifikovanim  pečatom i štambiljom  preduzeća, a takođe je i potpis ovlašćenog lica falsifikovan. Imenovani žiranti se nalaze u radnom odnosu na određeno vrijeme u ovom preduzeću. Kako se radi o očiglednom falsifikatu pečata i štambilja preduzeća navode da su i ranije imali sličnu prijavu. U prilogu su dostavili fotokopije formulara administrativne zabrane za A. Š. i S. N.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa Uprave policije – Područne jedinice P. br.... od 29.05.2008.godine je utvrđeno da  je od odgovornog lica JP Čistoća  prikupljeno obavještenje na okolnosti ovjeravanja administartivnih zabrana da se na osnovu kopija administrativnih zabrana za lica S. N. i A. Š. prostim uvidom vide razlike u pečatu i štambilju preduzeća, te da pod brojevima ... od 10.04.2008.godina, ... od 07.04.2008.godine </span><span class="span2">kao i broja ... od 15.04.2008.godine u preduzeću „Čistoća“ nije zavedeno ništa, jer se djelovodnik vodi pod drugačijom numeracijom. U zapisniku prikupljenom od građanina R. N., šefa računovodstva navedenog preduzeća ista navodi da su ova lica radnici njihovog preduzeća, te da služba računovodstva nije dala bilo kakve podatke, niti popunila administrativne zabrane za gore navedena lica. Štos e tiče lica M. K. provjerama je utvrđeno da isti nije zaposlen u ovom preduzeću. Provjerama u Fond PIO, a štos e potvrđuje iz izjava načelnika J. M. utvrđeno je da u bazi podataka ovog fonda nije evidentirano lice Đ. M., kao starosni penzioner, kao i ad lice H. F. i J. E. nijesu evidentirani kao korisnici prava Fonda PIO. Provjerama u preduzeću Tržnica i pijaca P., a iz izjave odgovornog lica A. D. utvrđeno je da lice R. D.  nije zaposlen u njihovom preduzeću, te da pod djelovodnim brojem... u njihovom djelovodniku je zaveden zahtjev za godišnji odmor, te da broj pod kojim je zavedena administrativna zabrana  za pomenuto lice ne postoji, niti se tako vode brojevi.  </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa “O. b.” br....  od  15.05.2008.godine je utvrđeno da je u</span><span class="span3"> postupku apliciranja za kredit dana 12.05.2008.godine potencijalni korisnik S. Š. iz B., S.B., B. broj ..., JMBG ..., broj telefona ... dostavio dokumentaciju za navodnog žiranta iz AD L. B. i to P. A. iz B., P., JMBG .... Kontaktom sa nadležnim licima u L. B. saznali su da je P. A. njihov radnik na određeno vrijeme ali da osporovaju vjerodostojnost pečata i potpisa na administrativnim zabranama.&nbsp;Za isti kredit je podnijeta dokumentacija za žiranta M. K. iz P., ul.K. R., JMBG ..., na administrativnoj zabrani piše da je isti zaposlen u JP “Čistoća” u P., međutim, iz pomenute firme su ih obavijestili da imenovani nije njihov radnik, te osporovaju vjerodostojnost pečata i potpisa na administrativnim zabranama.&nbsp;Takođe, podnijeta je dokumentacija za žiranta H. F. iz P., ul. A. P. broj ..., JMBG ..., na administrativnoj zabrani piše da je isti penzioner Fonda PIO, Područna jedinica u P.. Kontaktom sa Fondom PIO su došli do saznanja da imenovani nije njihov korisnik, te osporavaju vjerodostojnost pečata i potpisa na administrativnim zabranama.&nbsp;</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa L. B. br.... od 09.07.2008.godine, dostavljen Osnovnom državnom tužilaštvu B. je utvrđeno da P. A. i A. M. nijesu u stalnom radnom odnosu u L. B., već obavljaju poslove po potrebi, po osnovu ugovora o povremeno privremenim poslovima, a Ć. S. nije lučki radnik, niti je u Kadrovskim poslovima evidentiran da je iakda bio u radnom odnosu. U djelovodniku L. B. nijesu zavedene administrativne zabrane pod brojevima iz zahtjeva tužilaštva, kao ni imena i lica koja su iste dostavili na ovjeru. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa Javnog preduzeća Čistoća P. br.... od 07.07.2008.godine, dostavljen Osnovnom  državnom  tužilaštvu B. je utvrđeno da je u radnom odnosu na određeno vrijeme u ovom preduzeću samo S. N. i A. Š.. U radnom odnosu su na određeno vrijeme počev od 15.05.2007.godine. U vezi brojeva djelovodnika ističu da se pod brojevima koji su nazanačne vode prijave o učešću na oglas za zasnivanje radnog odnosa i da nema zavedenih administrativnih zabrana. Na opisani način se ne vodi djelovodnik u ovom preduzeću, odnosno nema pojave podbroja ... kako se to navodi a takođe nema ni razdvojenih brojeva. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz prijave za mikro kredit dostavljena od “O. b.” od 12.05.2008.godine nosioca kredita S. Š. je utvrđeno da je navedenoj banci prijavu podnjelo navedeno lice kod savjetnika banke po imenu I.. U prilogu prijave nalazi s ekopija lične karte S. Š., zatim ovjerene administrativne zabrane i lične karte na ime žiranata P. A., H. F. i M. K.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz administativne zabrane navodno ovjerene u L. B., pod brojem ... od 08.05.2008.godine je utvrđeno da je zaposleni P. A. raspoređen na radnom mjestu L.T.R. na neodrđeno vrijeme, sa platom od 340,00 eura, te da je zaposleni saglasan da bude žirant licu S. Š. za kredit u iznosu od 5.000,00€ kod O. b.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz administrativne zabrana ovjerena u Javnom preduzeću Čistoća P., pod brojem ... od 09.05.2008.godina je utvrđeno da je zaposleni M. K. raspoređen na radnom mjestu čistač sa platom od 230,00 eura saglasan da bude žirant licu S. Š. za kredit u iznosu od 5.000,00€ kod O. b.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa L. B. br.... od 15.05.2008.godine, dostavljen CB B. je utvrđeno da je dana 08.05.2008.godine L. B. u Službi za obračun plata prispjela administrativna zabrana na ime P. N. A., rođ.20.07.1964.godine u L., nastanjen u B., B., koji je u L. B.  zaposlen na odrđeno vrijeme na poslovima LTR radnika, kao žiranta korisnika kredita S. Š. u iznosu od 5000 eura kod O. b. u B.. Vizuelnim pregledom radnika Službe koji obavljaju poslove obračuna plata i obustave kredita, ustanovljeno je da su potpis ovlašćenog lica u ovom sučaju Izvršnog direktora i pečat firme falsifikovani, krivotvoreni i na taj način zloupotrijebljeni od starne učinilaca ovih radnji. L. B. je odmah obustavila sve radnje kod banke radi isplate kredita korisniku. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original ugovor o zajmu br LD... dostavljan od “A.” DOO B. na ime zaimoprimca Š. S.  od 14.04.2008.godine je utvrđeno je isti zaključen u svrhu opremanja prodavnice na iznos od 3000,00€ za period od 30 mjeseci. Regulisana su prava i obaveze, te da je isti potpisan od strane zajmodavca  i zajmoprimca. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz plana otplate kredita dostavljen od “A. b.” DOO B., nosioca kredita S. Š. je utvrđeno kada i u kojem iznosu zajmoprimac vraća zajam iz ugovora br. LD....  </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original administrativna zabrana za žiranta ovjerena navodno u JP Čistoća  P. pod brojem ... dana 07.04.2008.godine, na ime A. Š. je utvrđeno da je na saglasnost radnika A. Š. sa upisanim ličnim podacima poslodavaca se obavezao da stavi zabranu na njegovu platu na žiro račun A. do konačne isplate kredita. Zabranu je postpisao šef računovodstva i ovlašćena osoba i isti je snadbjeven okruglim pečatom firme. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original izjava žiranata dostavljena od “A.” DOO B., navodno ovjerena  u akcionarskom društvu AD “L. B.” u B. pod brojem ... od 09.04.2008.godine na ime P. A. je utvrđeno da navedeno lice preuzima da će ispuniti obavezu ukoliko nosilac kredita S. Š. ne bude ispunjavao preuzete obaveze iz ugovora o kreditu. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original administrativna zabrana za žiranta dostavljena od “A.” DOO B. navodno ovjerena akcionarskom društvu AD “L. B.” u B., pod brojem ... od 09.04.2008.godine na ime P. A. je utvrđeno da je na saglasnost P. A. poslodavac se obavezao da stavi zabranu na njegovu platu na žiro račun A. do konačne isplate kredita. Zabranu je postpisao šef računovodstva i ovlašćena osoba i isti je snabdjeven ovalnim pečatom firme. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original obrasca rješenja  o administrativnoj  zabrani, navodno ovjereno u JP “Komunalne djelatnosti” B., pod brojem ... dana 15.01.2008.godine, na ime B. A. </span><span class="span2">je utvrđeno da su u djelu obrasca koji popunjava poslodavac za zaposlenog B. A. upisani njegovi lični podaci, te potpisan šef računovodstva i ovlašćeno lice, čiji su potpisi nečitki. Poleđina ovog obrasca je snabdjevena sa dva djelovodna pečata AD L. B. i jednim ovalnim pečatom iste firme. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original obrasca potvrde o visini primanja, navodno ovjeren u JP “Komunalne djelatnosti” B., dana 15.01.2008.godine je utvrđeno da je isti popunjen sa ličnim podacima zaposlenog B. A., podacima o poslodavcu, navedeno je gdje je zaposlen i sa kojom prosječnom zaradom, te da je snadbjeven sa tri okrugla pečata navedene firme uz nečitki potpis ovlašćenog lica. POleđina ovog obrsca je snabdjevena sa više okruglih, djelovodnih i drugih pečata raznih firmi. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original obrasca rješenja o administrativnoj  zabrani  navodno ovjeren u JP “Komunalne djelatnosti” pod brojem... dana 15.01.2008.godinem na ime T. N. je utvrđeno da su u djelu obrasca koji popunjava poslodavaca za zaposlenog T. N.,  upisani njegovi lični podaci, te potpisan šef računovodstva i ovlašćeno lice, čiji su potpisi nečitki. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original obrasca potvrde o visini primanja, navodno ovjerena u JP “Komunalne djelatnosti” u B. dana 15.01.2008.godine je utvrđeno da je isti popunjen sa ličnim podacima zaposlenog T. N.,podacima o poslodavcu, navedeno je gdje je zaposlen i sa kojom prosječnom zaradom, te da je snabdjeven sa jednim okruglim pečatom navedene firme uz nečitki potpis ovlašćenog lica. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original obrasca izjave žiranata navodno ovjeren u Javnoj zdravstvenoj ustanovi doma zdravlja P. na ime P. G. je utvrđeno da navedeno lice preuzima da će ispuniti obavezu ukoliko nosilac kredita M. K. ne bude ispunjavao preuzete obaveze iz ugovora o kreditu.</span>
+</p>
+<p>
+<span class="span2"> </span>
+</p>
+<p>
+<span class="span2">Iz original izjave žiranta P. A. navodno ovjerena u “L. B.” u B. dana 06.05.2008.godine je utvrđeno da navedeno lice preuzima da će ispuniti obavezu ukoliko nosilac kredita V. B. ne bude ispunjavao preuzete obaveze iz ugovora o kreditu kod O. b. AD na iznod od pet hiljada eura. </span>
+</p>
+<p>
+<span class="span2"> </span>
+</p>
+<p>
+<span class="span2">Iz original administrativne zabrane na žiranta navodno ovjerena pod brojem  ... dana 01.04.2008.godine na ime K. Kada u Republičkom fondu PIO P. je utvrđeno da je na saglasnost K. F. K. poslodavac se obavezao da stavi zabranu na njegovu platu na žiro račun A. do konačne isplate kredita. Zabranu je postpisao šef računovodstva i ovlašćena osoba i isti je snabdjeven pečatom firme.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original izjave žiranata navodno ovjerena u Republičkom fondu PIO P. pod brojem ... dana 01.04.2008.godine na ime K. K. je utvrđeno da navedeno lice preuzima da će ispuniti obavezu ukoliko nosilac kredita- (ime nosioca kredita nije upisano) ne bude ispunjavao preuzete obaveze iz ugovora o kreditu kod A.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original administrativne zabrane za žiranta navodno ovjerena u Republičkom fondu PIO P., na ime V. N. je utvrđeno da da je na saglasnost V. N. poslodavac se obavezao da stavi zabranu na njegovu platu na žiro račun A. do konačne isplate kredita. Zabranu je postpisao šef računovodstva i ovlašćena osoba i isti je snabdjeven pečatom firme.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original izjave žiranata navodno ovjerena u AD “L. B.” u B., pod brojem ... dana 02.04.2008.godine, na ime Ć. S. je utvrđeno da navedeno lice preuzima da će ispuniti obavezu ukoliko nosilac kredita- (ime nosioca kredita nije upisano) ne bude ispunjavao preuzete obaveze iz ugovora o kreditu kod A.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original administrativne zabrane za žiranta navodno ovjerena u akcionarskom društvu AD “L. B.” u B., pod brojem ... dana 02.04.2008.godine, na ime Ć. S. je utvrđeno da je na saglasnost Ć. S. poslodavac se obavezao da stavi zabranu na njegovu platu na žiro račun A. do konačne isplate kredita. Zabranu je postpisao šef računovodstva i ovlašćena osoba i isti je snabdjeven pečatom firme.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original administrativne zabrane za žiranta navodno ovjerena u akcionarskom društvu AD “L. B.” u B., pod brojem ... dana 24.03.2008.godine, na ime Ć. S. je utvrđeno da je na saglasnost Ć. S. poslodavac se obavezao da stavi zabranu na njegovu platu na žiro račun A. do konačne otplate kredita. Zabranu je postpisao šef računovodstva i ovlašćena osoba i isti je snabdjeven pečatom firme.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original izjave žiranata navodno ovjerena u AD “L. B.” u B., dana 24.03.2008.godine, na ime Ć. S. je utvrđeno da navedeno lice preuzima da će ispuniti obavezu ukoliko nosilac kredita I. V. ne bude ispunjavao preuzete obaveze iz ugovora o kreditu kod A.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original izjave navodno ovjerene u L. B. u B., pod brojem ... dana 10.04.2008.godine na ime A. M.  je utvrđeno da navedeno lice preuzima da će ispuniti obavezu ukoliko nosilac kredita - (ime nosioca kredita nije upisano) ne bude ispunjavao preuzete obaveze iz ugovora o kreditu kod A..</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original administrativne zabrana za žiranta navodno ovjerena u akcionarskom društvu AD “L. B.” u B. pod brojem ... dana 10.04.2008.godine je utvrđeno da je na saglasnost A. M. poslodavac se obavezao da stavi zabranu na njegovu platu na žiro račun A. do konačne otplate kredita. Zabranu je postpisao šef računovodstva i ovlašćena osoba i isti je snabdjeven pečatom firme.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original ovjera podataka za žiranta navodno ovjerena u JKP U. dana 06.11.2007.godine, na ime B. C. su utvrđeni lični podaci navedenog lica i koja je njegova mjesečna plata te da je navedenu ovjeru potpisao diretor preduzeća i finansijski direktor, čiji su potpisi nečitki, kao i okruglim pečatom  navedene firme.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz administrativne zabrane za žiranta navodno ovjerena u JKP U., dana 16.01.2008.godine, na ime B. C., sa ličnim podacima i podacima o mjesečnoj zaradi, te da se navedena firma obavezuje da će staviti i admistrativnu zabranu na platu rdanika na žiro račun CKB B. ukoliko ne dođe do neplaćanja arta od strane korisnika kredita. Administrativnu zabranu je potpisao žirant, olašćena osoba u preduzeći i zabrana je snabdjeveno okruglim pečatom.  </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original izjave žiranta navodno ovjerena u Tržnici i pijace DOO P. dana 13.02.2008.godine, na ime T. N. je utvrđeno da navedeno lice preuzima da će ispuniti obavezu ukoliko nosilac kredita - (ime nosioca kredita nije upisano) ne bude ispunjavao preuzete obaveze iz ugovora o kreditu kod A..</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original administrativne zabrana za žiranta, navodno ovjerena u preduzeću “Tržnice i pijace” DOO Podgorica, dana 13.02.2008.godine, na ime Toskić Nurije je utvrđeno da je na saglasnost T. N. poslodavac se obavezao da stavi zabranu na njegovu platu na žiro račun A. do konačne otplate kredita. Zabranu je postpisao šef računovodstva i ovlašćena osoba i isti je snadbjeven pečatom firme.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original izjave žiranata navodno ovjerena u preduzeću “Tržnice i pijace” dana 15.02.2008.godine na ime H. N. je utvrđeno da su u navednoj izjavi  upisani lični podaci navedenog lica  i da  je utvrđeno da navedeno lice preuzima da će ispuniti obavezu ukoliko nosilac kredita - (ime nosioca kredita nije upisano) ne bude ispunjavao preuzete obaveze iz ugovora o kreditu kod A..</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original izjave žiranata navodno ovjerena u JP Čistoća P. dana 25.06.2008.godine, na ime S. G. je utvrđeno da su u navednoj izjavi upisani lični podaci navedenog lica i da  je utvrđeno da navedeno lice preuzima da će ispuniti obavezu ukoliko nosilac kredita - (ime nosioca kredita nije upisano) ne bude ispunjavao preuzete obaveze iz ugovora o kreditu kod A..</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz original izjave žiranata navodno ovjerena u JP Čistoća P. dana 26.03.2008.godine, na ime M. E. je utvrđeno da su u navednoj izjavi  upisani lični podaci navedenog lica  i da  je utvrđeno da navedeno lice preuzima da će ispuniti obavezu ukoliko nosilac kredita - (ime nosioca kredita nije upisano) ne bude ispunjavao preuzete obaveze iz ugovora o kreditu kod A..</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz nalaza vještaka grafologa J. Z. br.... od 24.05.2012.godine je utvrđeno da </span><span class="span2"> sporni otisci pečata E. Crne Gore AD N. E. P. konstatovani kako na original spornom primjerku Administrativne zabrane za žiranta  MFI A. b. VFI DOO P. broj ... kojom se G. B. dana 13.03.2008.godine stavlja Administrativna zabrana na lična primanja u korist MFI A. b. VFI DOO P. sve do otplate kredita i drugih potraživanja kao i na original spornom primjerku izjave žiranta MFI A. b. VFI DOO P. broj ... kojom G. B. dana 13.03.2008 .godine izjavljuje da je saglasan da bude žirant korisniku kredita K. M., nijesu autentični otisci pečata E. Crne Gore A.D. N.. Sporni otisak djelovodnog štambilja E. Crne Gore AD N.– E. P. konstatovan na orginalnom spornom primjerku izjave žiranta MFI A. b. VFI DOO P. broj ... kojom G. B. dana 13.03.2008.godine izjavljuje da je saglasan da bude žirant korisniku kredita K. M., nije autentičan otisak djelovodnog štambilja E. Crne Gore A.D. N.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz nalaza vještaka grafologa J. Z. br.... od 24.05.2012.godine je utvrđeno da je sporni otisak pečata E. </span><span class="span2">Crne Gore A.D. N. FC Održavanje N.  konstatovan na original spornom primjerku Administrativne zabrane na lična  primnja/zaradu zaposlenog O. b. AD P. kojom se Đ. G. dana 22.04.2008.godine stavlja Administrativna zabrana na lična primanja u korist O. b. A.D.P. sve do otplate kredita i drugih potraživanja, nije autentičan otisak pečata E. Crne Gore A.D. N.. Sporni otisak djelovodnog štambilja E. Crne Gore A.D. N. FC Održavanje N. konstatovan na original spornom primjerku Administrativne zabrane na lična primnja/ zaradu zaposlenog O. b. AD P. kojom se D. G. dana  22.04.2008.godine stavlja Administrativna zabrana na lična primanja u korist O. b. A.D. P. sve do otplate kredita i drugih potraživanja, nije autentičan otisak djelovodnog štambilja E. Crne Gore A.D. N.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz nalaza vještaka grafologa J. Z. br.... od 24.05.2012.godine je utvrđeno da sporni otisci pečata Republičkog fonda penzijskog i inavlidskog osiguranja-Područno Osjeljenje P. konsatovani kako na original spornom primjerku Administrativne zabrane na penziju O. b. AD P. brojn ... kojom se Đ. M. </span><span class="span2">dana 06.05.2008.godine stavlja Administrativna zabrana na penziju u korist O. b. A.D. P. sve do otplate kredita i drugih potraživanja kao na original spornom primjerku Administrativne zabrane na penziju O. b. AD P. broj ... kojom se H. F. dana 08.05.2008.godine stavlja Administrativna zabrana na penziju u korist O. b. AD P. sve do otplate kredita I drugih potraživanja, nijesu autentični otisci pečata Republičkog fonda penzijskog I invalidskog osiguranja Područno Odjeljenje P.. Sporni otisci djelovodnih štambilja Republičkog fonda penzijskog i invalidskog osiguranja Područno Odjeljenje P. konstatovani kako na original spornom primjerku Administrativne zabrane na penziju O. b. AD P. broj ... kojom se Đ. M. dana 06.05.2008.godine stavlja administrativna zabrana na penziju u korist O. b. AD P. sve do otplate kredita i drugih potraživanja kao i na original spornom primjerku Administrativne zabrane na penziju O. b. AD P. broj ... kojom se H. F.  dana 08.05.2008.godine stavlja na administrativna zabrana na penziju u korist O. b. AD P. sve do otplate kredita i drugih potraživanja, nije autentični otisci djelovodnih štambilja Republičkog fonda penzijskog i invalidskog osiguranja–Područno Odjeljenje P..</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz nalaza vještaka grafologa J. Z. br.... od 24.05.2012.godine je utvrđeno da sporni otisci pečata Javnog preduzeća Komunalne djelatnosti B. konstatovani kako na original spornom primjerku Rješenja o administrativnoj zabrani NLB M.b. AD P. broj ... kojom se B. A. dana 15.01.2008.godine stavlja administrativna zabrana na lična primnja u korist NLB M. b. ad P. sve do otplate spornog kredita i drugih potraživanja, te na original spornom primjerku Potvrde o visini primnja NLB M.b. ad P. kojim se konstatuje visina primnja B. A. na dan 15.01.2008.godine, te na original spornom primjerku Rješenja o administrativnoj zabrani NLB M.b. ad P. broj ... kojom se T. N. dana 15.01.2008.godine stavlja administrativna zabrana na lična primanja u korst NLB M.b. sve do otplate spornog kredita i drugih potraživanja kao i na original spornom primjerku Potvrde o visini primanja NLB M.b. ad P. kojim se konstatuje visina primnja T. N. na dan 15.01.2008.godine, su autentični otisci pečata Javnog preduzeća Komunalne djelatnosti B..Sporni otisci djlovodnih štambilja Javnog preduzeća Komunalne djelatnosti B. konstatovani kako na original spornom primjerku Rješenja o administrativnoj zabrani NLB M.b. ad P. broj... kojom se B. A. dana 15.01.2008.godine stavlja adiministrativna zabrana na lična primanja u korist NLB M.b. ad P. sve do otplate spornog kredita i drugih potraživanja, te na original spornom primjerku Potvrde o visini primanja NLB M.b. ad P. kojim se konstatuje visina primanja B. A. na dan 15.01.2008.godine, te na original spornom primjerku Rješenja o administrativnoj zabrani NLB M.b. ad P. broj ... kojim se T. N. dana 15.01.2008.godine stavlja administrativna zabrana na lična primanja u korist NLB M. b. ad P. sve do otplate spornog kredita i drugih potraživanja kao i na original spornom primjerku Potvrde o visini primnja NLB M.b. ad P. kojim se konstatuje visina primnja T. N. na dan 15.01.2008.godine su autentični otisci djelovodnih štambilja Javnog preduzeća „Komunalne djelatnosti“ B..  </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa glavne direkcije za ljudske resurse I opšte poslove E. Crne Gore AD N. br.... od 27.03.2012.godine je utvrđeno da je su sudu dostavljeni podaci iz Sektora za upravljanje ljudskim resursima, Direkcije za ljudske resurse I opšte poslove i Direkcije za radne odnose I administrativne ljudske resurske navedene firme. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa E. Crne Gore AD N. – Sektora za upravljanje ljudskim resursima br.... od 20.03.2012.godine je utvrđeno da 2008.godine G. R. B. jmbg ..., nije bio u radnom odnosu u E. Crne Gore-E. P., isto kao ni Đ. N. G. jmbg ..., nije bio u radnom odnosu u E. CG-FC Održavanje N.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa glavne Direkcije za ljudske resurse I opšte poslove E. Crne Gore AD N. br.... od 20.03.2012.godine je utvrđeno da su dostavljeni otisci štambilja i pečata važećih iz 2008.godine a odnose na E. P.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa E. Crne Gore AD N. – Direkcija za radne odnose I administrativne ljudske resurske br.... od 26.03.2012.godine je utvrđeno da se Đ. G. u mjesecu aprilu 2008.godine nije nalazio u obračunskoj evidenciji EPCG pa time sa te strane nije ni potpisana administrativna zabrana kod O. b.. Za G. B.a provjeru je izvršila E. čiji dopis su dostavili u prilogu. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz dopisa E. Crne Gore AD E. P. br... od 22.03.2012.godine je utvrđeno da </span><span class="span2">G. B. nije nikada radio u E. P. ,pa samim tim administrativna zabrana i izjava žiranta nisu ni ovjereni u E. P.. Naveli su da se Iz priloženih fotokopija  jasno vidi da su falsifikovani potpisi i šefa računovodstva i ovlašćenog lica–direktora te da u E. su zabrane potpisivali Ž. D. i S. M. i ni jedan od ovih potpisa nije njihov. Takođe navode da su i pečat i štambilj E. falsifikovani, jer broj u štambilju i pečatu kod E. je 60–00, a ne 00-00, kako stoji u pečatu i štambilju dostavljenih fotokopija. Navode da je ovo još jedan u nizu falsifikata koji se pojavljivao kod E. P. i da se ovaj broj u pečetu i štambilju pojavljivao i ranijih godina, te da je Mup Crne Gore vršio provjere tačnost podataka za više lica koja nikada nisu radila u E. P.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz zapisnika o pretresanju stana i drugih prostorija Uprave policije – PJ B. KU br.... od 27.05.2008.godine je utvrđeno da je isti obavljen u stanu vlasništvo S. Š. i S.  I.. Prilikom pretresa nisu nađeni predmeti koji su traženi niti drugi koji mogu ukazati na neko krivično djelo. Zapisnik je uredno potpisan od strane ovlašćenih policijskih službenika i lica S. Š. i S.  Isada. Istog dana izvršen je pretres u kući G. S. koji je sačinjeni zapisnik prilikom pretresa uredno potpisao. Prilikom pretresa pronađena je veća količina dokumentacije koja se odnosi na podizanje kredita kod banaka, na razna imena građana, kopije ličnih karata, izjavew žiranata, koji predmeti su bliže opisnai u službenoj zabilješci. Pronađena je i praškasta materija braon boje za koju se sumnjalo da se radi o heroinu, kao i druga dokumentacija koja služi za podizanje kredita. Konstatovano je gdje je pronađena. Zapisnik je uredno potpisan od strane ovlašćenih policijskih službenika i lica G. S.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz potvrde o privremeno oduzetim predmetima KU.br... od 27.05.2008.godine je utvrđeno da su od lica G. S.</span><span class="span2">, privremeno oduzeti sledeći predmete: M-t. pospejd sim kartica ser.br...., Omot pripejd broja M., broj ..., Račun P. za mjesec Oktobar za broj ..., koji glasi na ime G. S., Račun za mobilni telefon broj ..., koji glasi na ime G. S., Kartica za pin i puk P. broja ..., Kartica za pin i puk P. Dj. broj..., Telefonski račun za mjesec Novembar P. broj ..., na ime G. S., Telefonski račun za mjesec Septembar P. broj ..., na ime G. S., Telefonski račun za mjesec Decembar 07. P. broj ..., na ime G. S., Ovjera podataka za žiranta B. C. iz U. od strane JKP U. radi podizanja kredita kod CKB b., Kopija LK B. C. iz U., Administrativna zabrana za žiranta B. C. iz U., Telefonski račun za 04/2008. T-m. za broj ..., na ime G. S., Naprijed pomenuti </span><span class="span2">predmeti pronađeni su u unutrašnjosti kuće u dvema prostorijama dnevnog boravka, a nalazili su se na stolu, šanku i vitrini. Niže navedeni predmeti pronađeni su u unutrašnjosti PMV marke »G.«, I, žute boje, reg.oznake BR ..., vlasništvo G. S., koji se nalazio parkiran na ulici neposredno u blizini njegove kuće:bjanko izjave i administrativne zabrane za žirante radi podizanja kredita kod A., a koje su ovjerene štambiljima ustanova i preduzeća: Republički fond PIO Područno odjeljenje P., E. Crne Gore AD N. FC Održavanje N., JZU Dom zdravlja P., JP Komunalne djelatnosti 1 B. i jedna bjanko Administrativna zabrana NLB M. b. ovjerena pečatom JP Komunalne djelatnosti B. (karakteristično za par zabrana je da su štambilji JZU Doma zdravlja P., a pečati Republičkog fonda PIO P.), Štampani list »O.« b. na čijoj poleđini je više utisnutih pečata i štambilja preduzeća i Ustanova,Kopija administrativne zabrane »A.« na ime V. N., na čijoj poleđini su štambiiji i pečati preduzeća i ustanova, izjava P. A., od »O.« b. na čijoj poleđini je utisnuto više štambilja i pečata, Administrativne zabrana JP Komunalno B. na ime B. K., na čijoj poleđini su utisnuti štambilji i pečati, Potvrda o visini primanja na ime B. K. za NLB M. b. na kojoj je utisnuto na prednjoj i zadnjoj strani više pečata, izjava žiranta na ime V. kod »A.«, na čijoj poleđini su utisnuti pečati i štamblji, Administrativna zabrana »O.« banke na ime D. M., na čijoj poleđini su utisnuti pečati i štambilji; izjave žiranata i administrativne zabrane kod »A. « na ime H. N. iZ P., K. K. iz P., G. B. |z N., M. E. iz P., Č. S. iz B., G. B., S.G. iz P., M. B. iz B., Č. S. iz B. (tri), T. N. iz P. (3), A. M. iz B. (2), K.F. iz P., P. G. iz B., kod »O.« b. R. D. iz P., M. K. iz P., N. B. iz U., kod NLB M. b. T. R. iz B.(2), Ugovor o kreditu na ime B. N.M. za iznos od 10.000,00 € kod CKB b.; kopije ličnih karti na imena građana: K. K. iz P. (x2), A. S. iz U., Č. M. iz B., H. S. iz PG, B. V. iz BR, N. R. iz PG, P. G. iz BR, S. M. iz UL, B. A. iz BR, S. F. iz UL, S. N. iz UL(x2), K. K. iz PG, G. B. iz NK (x2), R. D. iz PG, ć. S. iz BR, Č. K. iz BR, H. F. iz PG, B. R. iz NK, P. M. iz BR, Ž. M. iz NK, R. R. iz NK, T. N. iz PG, M. E. iz PG;Ugovori o zajmu kod »A.« VFIDO P., Poslovna jedinica B., na ime G. S., (x2) B. F., M. A., B. M., l. S. , A. G., S. B., S. L. svi sa područja B.;Planovi otplate kredita kod »A.« iz B., A. M., S. B., F. B., S. G. (2x), M. B., S. L., i. S.  i A. G. svi sa područja B..;Više bjanko obrazaca zahtjeva za odobrenje kredita kod »A.«, CKB B., NLB M. b., kao izjave žiranata, potvrde o visini primanja kao i rješenja o administrativnim zabranama kod navedenih banaka; Recept na ime G. S., priznanice »A.« na ime G. S. i A., zapisnik o obavještenju prikupljenom od građanina na ime G. S., pregled sati rada radnika L. B., među i kojima je szaković S., nalog za uplatu koji je vršen kod CKB b. Filijala B., a radi se o iSplati kratkoročnog kredita »A.« na ime G. S., potvrda JZU Opšte bolnice B. na ime G. S., izvještaj specijalne bolnice »P. na ime G. S., telefonski račun M. na ime G. S. za 02/08. ..., telefonski račun za 01/08. P. za broj ... naime G. S., Ugovor o radu L. B. od 04/08. za G. S., Potvrda o izvršenoj transakciji kod »O.« b. na ime K. Z., na ime klijenta G. A., Ugovor o kreditu kod »O.« b. na ime klijenta K. Z. (kao klijent je potpisan G. S.) kojoj su žiranti N. D. i B. S., plan otplate kredita kod »O.« b., Drimjerak Ugovor kod »O.« b. gdje je korisnik G. S., Opomena od NVO A. broj ... od 25.01.2008.g. na ime G. S., potvrda o izvršenoj transakciji kod »O.« b. za klijenta G. A., nalog blagajni kod CKB b. Filijala B. na ime G. S., nalog za davanje injekcija na ime G. S. od 02/08., izvještaj o uspjehu Učenika G. S. od strane OŠ »S.« B. od 2005.g , djelovodni broj ..., račun »E. na ime B. M., priznanica »A.« na ime G. A., priznanica »A.« na ime L. S., potvrda od izvršenoj transakciji kod »O.« b. na ime K. Z. od 10/07.g., priznanica od »A.« na ime G. S. od 15.02.2008.g.,prijedlog i rješenje o izvršenju Vodovod i kanalizacija iz B. koji se odnosi na dužnika G. S., ovjeren kod Osnovnog suda u Baru, opomena za plaćanje duga dužnika G. S. za P. račun, obavještenje A. na ime G. A. i G. S., tri potvrde o izvršenoj transakciji na ime </span><span class="span2">K. Z. od strane G. A. i jedna potvrda o izvršenoj tranasakciji na ime S. G. za vlasnika računa K. Z.. Potvrdu je potpisao građanin G. S. i ovlašćeni policijski služebnik. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz </span><span class="span2">dopisa JP Čistoća P. broj ... od 09.02.2015.godine je utvrđeno da M. K. nikada nije bio zaposlen u „Čistoća“ P.. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Svjedok B. A. je u svom iskazu naveo da poznaje G. i S. , dok K. ne poznaje. G. i S.  poznaje godinama, a zajedno su išli i u školu. Unazad 4, 5 ili 6 godina bio je dva-tri puta G. žirant, ne zna na koje iznose je bio žirant, ni u kojim bankama, ali sve te kredite G. je redovno vratio. Radi u JKP B., a radio je i 2008.godine. Nakon što mu je predočeno rješenje o administrativnoj zabrani naveo je da ne vjeruje da je on ta dokumenta nosio u preduzeće da mu se popune. Svaki kredit gdje je bio žirant G. je vraćen. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Svjedok oštećeni D. R.  je u svom iskazu naveo je prijatelj</span><span class="span2"> sa bratanićem K. Š., koji se zove K. E.. Jedne veceri je prenoćio kod njega kući, a to je bilo početkom 2008.godine i nakon nekih desetak dana zaustavila ga je policija i zatražila mu na uvid ličnu kartu. Tražio je u svojim dokumentima ali nije mogao da je pronađe i pretpostavlja da mu je neko ukrao. Kasnije je prijavio gubitak lične karte. Ne poznaje lice G. S. i nikada mu nije bio žirant za kredit. Nakon što mu je od strane suda predočena izjava za žirante i administrativna zabrana naveo je da se na tim ispravama ne nalazi njegov potpis. Nije bio zaposlen u tom periodu u preduzeću „Tržnice i pijace“ DOO P., a nije ni sada nigdje zaposlen. Ne poznaje okrivljene u ovom postupku i nikada nije podizao kredit, niti bio žirant nikome. Pridružuje se krivičnom gonjenju protiv okrivljenih i želi da se pokrene postupak protiv lica odgovornih u banci koja im je odobrila kredit i postavlja imovinsko pravni zahtjev jer mu je povrijeđen ugled, policija ga stalno privodi za nešto što nije učino.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Svjedok G. K. je u svom iskazu naveo da </span><span class="span2">ne poznaje lica u ovom postupku izuzev K. Š. kome je rođeni stric. Nikada nije bio žirant nikome, niti je podizao kredit kod bilo koje banke. Nezaposlen je. Nikada nije radio u preduzeću L. t. u P.. Nakon što mu je sud predočio izjavu za žirante i administrativnu zabranu na kojim ispravama se nalazi njegov potpis naveo je da on to nije potpisao i da ne zna odakle je uz te isprave priložena njegova lična karta u kopiji. Ličnu kartu nije nikome davao i ne zna ko je zloupotrijebio. Pridružuje se krivičnom gonjenju protiv okrivljenih ali ne postavlja imovinsko pravni zahtjev.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Svjedok S. N. je u svom iskazu naveo da je </span><span class="span2">radnik JP «Čistoće» od 2006.godine i nije zaposlen za stalno u ovoj firmi već mu se ugovor produžava svaka tri mjeseca, tako da nije mogao biti nikome žirant jer </span><span class="span2">nije stalno zaposlen. Sa ovim slučajem je upoznat jer je prošle godine negdje u ljeto pozvan od strane pravne službe svog preduzeća da hitno dođe i kada je došao rekli su mu da je neko pokušao podignuti kredit gdje je naveden kao žirant, a takođe pored njega je bio kao žirant naveden i A. Š., koji je takođe radnik JP «Čistoće». Tada su mu u firmi rekli imena i prezimena ovih lica i da su isti iz B., a onda je pozvao šuru da se raspita ko su ova lica i da stupi u kontakt s njima. Njegov šura ih je pronašao i G. S., S.  S. i S.  Isad su došli u P., a našli su se u kući njegovog šuraka i sa njim je bio A. S.. Navedena lica je tada prvi put vidio u životu i isti su tvrdili da nemaju nikakve veze sa kreditom i da nijesu podnijeli papire za odobrenje kredita, a njemu je rečeno od strane firme da je kredit bio na 7.000,00 eura. Oni kao što je </span><span class="span2">rekao tvrdili su da nemaju veze sa kreditima, tada su se razdvoili i više nijesu bili u kontaktu. Ne pridružuje se krivičnom gonjenju i ne postavlja imovinsko pravni zahtjev.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Svjedok Đ. M. je u svom iskazu naveo da ne poznaje G. S., S.  E. i S. Š. i tek prilikom saslušanja saznaje da je ovim licima bio žirant, ali to nije tačno, on je penzioner i jedino što može reći da je nekom C. sa K., a zove se Š., prezime ne zna žirirao jer ga je kumio i molio njegov sestrić. Tad je pristao i izvadio potrebna dokumenta iz Fonda PIO, a sa navedenim čovjekom je išao u banku u T., NLB M. i tamo potpisao mjenicu. Kako ovaj čovjek nije vraćao kredit njemu se taj iznos odbija od penzije i to je jedini kredit u kojem je bio žirant. Na papirima koje posjeduje, a u vezi kredita koje je podigao ovom licu piše njegovo ime i prezime i drugi lični podaci. Za ovaj kredit je žirirao godinu dana prije ovog saslušanja, a ovo lice je podiglo kredit i otišlo u Nj.. Pridružuje se krivičnom gonjenju i postavlja imovinsko pravni zahtjev. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Svjedok J. E. je u svom iskazu naveo da ne poznaje optužene i nije mu jasno odkud je pozvan kao svjedok. Prilikom saslušanja prvi put saznaje da je bio žirant po kreditu S.  E.. Ističe da nije penzioner, već se nalazi na birou rada kao nezapolseno lice.Unazad dvije godine je radio je u RTCG, kao direktor proizvodnje, odnosno producent i u njegovoj evidenciji se vodi da li je nekome žirirao. Nije  mu kradena lična karta, niti je izgubio. </span>
+</p>
+<p>
+<span class="span5"> </span>
+</p>
+<p>
+<span class="span2">Svjedok oštećeni A. Š. je u svom iskazu naveo da ne poznaje optužene i da nikada nije bio žirant bilo kome od njih, nije potpisao izjavu za žirante i administrativnu zabranu. Nakon što su mu od strane suda predočene navedene isprave istakao je da na njima nije njegov potpis, jer se on drugačije potpisuje. Radi u JP Čistoća osam godina i nikada nije bio žirant nikome. Pridružio se krivičnom gonjenju protiv optuženih, a nije postavio imovinsko pravni zahtjev.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Svjedok DJ. G. je u svom iskazu naveo da ne poznaje optužene. Prvi put je za njihova imena čuo prije dvije-tri godine kada su ga pozvali iz B. u vezi nekog žiriranja. Tada im se javio i rekli su mu da se radi o grešci i da on nije taj Đ. G.. Nikada nije radio u ED N., bio je zaposlen u Veterinarskoj stanici „G.“ 4 godine, ali je poslednju godinu bez zaposlenja. Nisu mu stizale nikakve administrativne zabrane na njegova primanja, korisnik je sopstvenog kredita koji uredno vraća, tako da sa ovim nema nikakve veze. Nije nikom žirirao i nije davao svoja lična dokumenta da bi bila iskorišćena. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz  izvoda iz registra kaznenih evidencija za optuženog K. Š., a pribavljen od strane Ministarstva pravde CG Ke.br.... od 01.12.2017.godine je utvrđeno da nije osuđivan.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz izvoda iz registra kaznenih evidencija za optuženog G. S., a pribavljen od strane Ministarstva pravde CG Ke.br.... od 01.12.2017.godine je utvrđeno da je osuđivan presudom Osnovnog suda u Baru K.br.529/13 od 07.03.2017.godine zbog krivičnog djela iz čl.244 st.3 u vezi st.1 KZCG na kaznu zatvora u trajanju od jedne godine, presudom Višeg suda u POdgorici K br. 306/10 od 09.02.2012.godine zbog krivičnog djela iz čl.242 st.4 i 2 u vezi čl.23 Krivičnog zakonika na kaznu zatvora u trajanju od tri godine, presudom OSnovnog suda u Baru K.br.67/11 od 20.04.2011.godine zbog krivičnog djela iz čl.239 st.1 u vezi čl.23 na kaznu zatvora u trajanju od šest mjeseci, presudom Osnovnog suda u U.u K.br.43/08 od </span><span class="span2">15.02.2011.godine zbog krivičnog djela iz čl.376 st.3 u vezi st.1 KZ RCG uslovno na kaznu zatvora u trajanju od 60 dana na jednu godinu, presudom Osnovnog suda u Baru K.br.225/09 od 10.09.2009.godine zbog krivičnog djela iz čl.239 st.1 Krivičnog zakonika uslovno tri mjeseca zatvora na jednu godinu. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Iz izvoda iz registra kaznenih evidencija za optuženog S. Š., a pribavljen od strane Ministarstva pravde CG Ke.br.... od 01.12.2017.godine je utvrđeno da je osuđivan presudom Osnovnog suda u Baru K.br.475/08 od 16.02.2009.godine zbog krivičnog djela iz čl.260 st.5 u vezi st.1 i 2 na kaznu zatvora u trajanju od šest mjeseci, presudom Osnovnog suda u Baru K.br.607/06 od 02.07.2008.godine zbog krivičnog djela iz čl.403 stav 1 KZ CG na kaznu zatvora u trajanju od 30 dana, presudom Osnovnog suda u Baru K.br.49/03 od 19.06.2006.godine zbog krivičnog djela iz čl.37 st.2 KZ uslovno 2 mjeseca na dvije godine i presudom Osnovnog suda u Baru K.br.387/02 od 27.05.2004.godine zbog krivičnog djela iz čl.37 stav 2 KZ na kaznu zatvora u trajanju od 3 mjeseca. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Sud je donio rješenje da se neće saslušavati svjedoci H. F., K. K., Ć. S., S. G., M. E. i T. R., obzirom da u spisima predmeta postoji relevantna pisana dokumentacija, pa saslušanje ovih svjedoka ne bi bilo od uticaja na odlučivanje u ovoj krivično pravnoj stvari. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Ocjenom izvedenih dokaza utvrđeno je da su optuženi K. Š. i G. S. učinili krivično djelo pod tačkom I izreke presude, dok je sud optuženog S. Š. oslobodio od optužbe za navedeno krivično djelo, kako je to navedeno pod tačkom II izreke presude.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optuženima K. Š. i G. S.  je stavljeno na teret da su </span><span class="span2">neutvrđenog dana, u toku maja mjeseca 2008.godine u B., pribavili lažne isprave – administrativne zabrane na lična primanja žiranata i izjave za žirante i to na ime oštećenih H. F. iz P., koje isprave nije potpisao oštećeni i koje nijesu ovjerene pečatom Fonda PIO u P., na ime oštećenog M. K. iz P., koje isprave nije potpisao žirant oštećeni i koje isprave nijesu ovjerene u JP „Čistoća“ u P., na ime oštećenog P. A. koje isprave nije potpisao oštećeni i koje isprave nijesu ovjerene pečatom L. B. u B., upotrijebili kao prave, na način što su navedene isprave dali optuženom S. Š., a koje isprave je priložio uz prijavu za mikrokredit br.... od 12.05.2008.godine, koju je predao O. B. u B. i tako doveo u zabludu lažnim prikazivanjem činjenica ovlašćena lica u O. B. da ispunjava sve uslove za dobijanje kredita i pokušao iste da navede da mu odobre kredit, da bi nakon što je banka provjerom utvrdila da su isprave - administrativne zabrane na ime žiranata lažne, nije odobrila kredit, pa su optuženi pokušali da na ovaj način sebi pribavi protivpravnu imovinsku korist u iznosu od 5.000,00 eura. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optuženi K. Š. ne priznaje krivično djelo navodeći da nikada nije pribavljao administrativne zabrane i izjave za žirante lica navedenih u ispravama, da optuženog G. S. poznaje, dok optuženog S. Š. nikada nije vidio. Optuženi G. S. takođe ne priznaje izvršenje krivičnog djela. Sud je odbrane optuženih K. Š. i G. S. cijenio kao neosnovane, te u svemu u suprotnosti sa ostalim dokazima izvedenim na glavnom pretresu. Nesporno je utvrđeno da je kritične prilike optuženi S. Š. predao prijavu za mikrokredit O. B. u B. ali nakon što su mu prethodno za to dali već pripremljenu dokumentaciju optuženi K. Š. i G. S.. Optuženi S. Š. navodi da je tom prilikom samo želio da pomogne svom komšiji-okrivljenom G. S., da je potpisao unaprijed </span><span class="span2">pripremljenu dokumentaciju i kao takvu je predao u banku, to je uradio na molbu okrivljenog G. S., navodeći da je i ranije pomagao svom komšiji G. S. u smislu da je jednom podigao neki kredit, dao novac okrivljenom G. S., za šta ga je on častio, ali nikada nije pribavljao ove isprave, niti lica iz tih isprava poznaje. Navedeno u svojoj odbrani potvrđuje optuženi G. S., te potvrđuje i ranije poznanstvo okrivljenih S. Š. i K. Š., s tim što su optuženi K. Š. i G. S. u svojim odbranama jedan na drugog prebacivali krivicu koja se tiče pribavljanja falsifikovane dokumentacije. O</span><span class="span2">štećeni P. A. i M. K. su u svojim jasnim, detaljnim i objektivnim iskazima kojima je sud poklonio punu vjeru naveli da se na ispravama-administrativnim zabranama za žirante koje glase na njihove ime nijesu potpisali što je potvrdjeno i dopisima dostavljenim od JP Čistoća u P., L. B. u B. i Fondu PIO u P., iz kojih se utvrdjuje da administrativne zabrane i izjave za žirante koje glase na ime oštećenih nisu ovjerene pod brojem i datumom kako je to upisano pod navedenim ispravama. Međutim, takve lažne isprave su optuženi K. Š. i G. S. upotrijebili kao prave i iste dali optuženom S. Š. kojiih je priložio uz prijavu za mikrokredit. Kako su ovlašćeni predstavnici banke posumnjali u vjerodostojnost isprava, nisu odborili kredit. </span><span class="span2">Dakle, optuženi S. Š. nije sačinjavao, pribavljao administrativne zabrane i izjave,a kako mu je nakon podnošenja dokumentacije ista prihvaćena, jedino što je mogao da zaključi jeste da je dokumentacija koja je podnijeta validna. </span><span class="span2">Krivično djelo prevare može se izvršiti samo sa direktnim umišljajem, koji obuhvata svijest o navodjenju na činjenje ili nečinjenje kao i svijest da se to čini dovodjenjem ili održavanjem pasivnog subjekta u zabludi. Kada je riječ o svijesti kao elementu direktnog umišljaja treba imati u vidu da kod krivičnog djela prevare nije dovoljna samo predstava o svim obilježjima krivičnog djela, već je potreban još jedan subjektivni elemenat, a to je namjera da se na taj način sebi ili drugom pribavi protivpravna imovinska korist. Prema tome, treba se utvrditi da postoji namjera pribavljanja sebi protivpravne imovinske koristi. Ova namjera treba da postoji kod učinioca u vrijeme kada drugo lice dovodi u zabludu. Namjera, kao i druge subjektivne okolnosti utvrđuje se posredno, preko objektivnih okolnosti, tj.na osnovu ponašanja izvršioca, radnji koje je preduzeo i svih okolnosti pod kojima su te radnje preduzete. </span><span class="span2">Po mišljenju suda, u konkretnom slučaju nije dokazano da je optuženi S. Š. postupao sa prevarnom namjerom, odnosno sa namjerom da sebi pribavi protivpravnu imovinsku korist. </span><span class="span2">Stoji činjenica da je optuženi S. Š. na osnovu  dokumentacije potrebne za podizanje kredita kod "O." B. u B.koju su mu pripremili optuženi K. Š. i S. G. predao istu, ali to ne znači da je isti doveo u zabludu bilo koje lice, pa ni službenika banke da mu na štetu banke, na ime kredita isplati navedeni iznos, </span><span class="span2">optuženi S. Š. nije sačinjavao, pribavljao administrativne zabrane i izjave,a kako mu je nakon podnošenja dokumentacije ista prihvaćena, jedino što je mogao da zaključi jeste da je dokumentacija koja je podnijeta validna, </span><span class="span2">z</span><span class="span2">bog čega je sud optuženog S. Š. oslobodio od optužbe. Sud je imao u vidu da je ovakvo stanovište zauzeo i Viši sud u Podgorici u svojoj presudi Kž.br.428/15 od 02.06.2016. godine.</span><span class="span2"> </span><span class="span2">Sud je iz dispozitiva optužnice pod tačkom I u odnosu na činjenični opis krivičnog djela izostavio dio koji se odnosi na optuženog S. Š. obzirom da je isti oslobođen od optužbe.</span><span class="span6">     </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optuženi K. Š. i G. S. su</span><span class="span2"> krivično djelo izvršili postupajući sa direktnim umišljajem. Optuženi su bili svjesni da lažnim prikazivanjem činjenica dovode u zabludu ovlašćenog radnika »O.« b., a na strani optuženih utvrđena je i namjera pribavljanja protivpravne imovinske koristi. Krivično djelo je ostalo u pokušaju, u smislu člana 20 Krivičnog zakonika Crne Gore, jer ovlaščena lica u banci nisu odobrili kredit jer su utvrdili da su administrativne zabrana i izjave za žirante lažne. Utvrđeno </span><span class="span2">je da su optuženi K. Š. i G. S. postupali kao saizvršioci u smislu čl.23 st.2 KZ CG, zajedno, po prethodnom dogovoru.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Za predmetno krivično djelo propisana je kazna zatvora u trajanju od jedne do osam godina. Na strani optuženog K. Š. sud je cjenio </span><span class="span2">sve olakšavajuće i otežavajuće okolnosti iz čl.42 Krivičnog zakonika. Od olakšavajućih okolnosti na strani optuženog K. Š. sud je cjenio njegove porodične prilike jer je oženjen i otac dvoje djece, njegove imovinske prilike jer je nezaposlen, lošeg imovnog stanja i njegov raniji život jer je do sada neosuđivan. Otežavajućih okolnosti nije bilo. Ocijenjeno je da prema optuženom K. Š. nije potrebno izricanje efektivne kazne zatvora, da će se izricanjem uslovne osude u potpunosti postići svrha izricanja uslovne osude i na taj način dovoljno uticati na optuženog da u buduće ne čini krivična djela. Na strani optuženog G. S. sud je cjenio njegove porodične prilike jer je oženjen i otac dvoje djece i imovinske prilike jer je nezaposlen i lošeg imovnog stanja. Od otežavajućih okolnosti sud je cijenio da je optuženi osuđivan više puta zbog izvršenja krivičnih djela protiv imovine, te da se javlja kao višestruki povratnik pa ga je  osudio na kaznu zatvora u trajanju od jedne godine koja po ocjeni suda odgovara težini krivičnog djela i krivici optuženog i predstavljaju mjeru koja je neophodna da bi se postigla svrha kažnjavanja.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optuženima K. Š., G. S. i S. Š. stavljeno na teret da su kao </span><span class="span2">saizvršioci izvršili krivično djelo falsifikovanje isprave iz čl.412 st.2 u vezi st.1 KZ CG u sticaju sa krivičnim djelom prevara iz čl.244 st.1 KZCG u vezi čl.23 KZ CG i to da su </span><span class="span2">optuženi K. Š. i G. S. </span><span class="span2">neutvrđenog dana u toku aprila mjeseca 2008.godine pribavili lažne javne isprave administrativne zabrane i izjave za žirante oštećenih A. Š. i P. A., koje lažne javne isprave nisu oni potpisali i koje nisu ovjerene u preduzećima u kojima žiranti navodno rade, pa su takve lažne javne isprave dali optuženom S. Š. da ih upotrijebi u postupku zaključivanja ugovora o zajmu kod A. banke, sa namjerom da sebi pribave protivpravnu imovinsku korist .</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Prema tome optuženima je stavljeno na teret da su izvršili krivično djelo falsifikovanje isprave iz čl.412 st.2 u vezi 1 KZ u sticaju sa krivičnim djelom prevara iz čl.244 st.1 KZ u vezi čl.23 KZ. </span><span class="span2">Po ocjeni suda administrativne zabrane i izjave koje se koriste u postupku odobravanja kredita predstavljaju privatne isprave, a ne javne. Administrativna zabrana i izjava potpisana od strane žiranta ne može dobiti svojstvo javne isprave radnjom ovjere, jer nadležni organ koji vrši ovjeravanje isprave na taj način potvrđuje da je žirant potpisao administrativnu zabranu ili izjavu, ali je izdavalac isprave i dalje žirant kao fizičko lice, pa administrativna zabrana i izjava, kao izjava volje fizičkog lica može biti samo privatna, a ne javna isprava. </span><span class="span2">Kako administrativne zabrane i izjave za žirante ne predstavljaju javnu već privatnu ispravu, to znači da se optuženima može staviti na teret samo krivično djelo falsifikovanje isprave iz čl.412.st.1 Krivičnog zakonika Crne Gore, a kako se falsifikovanje isprave pojavljuje kao način izvršenja krivičnog djela prevara, nema sticaja između ta dva djela, već se u ovom slučaju samo radi o krivičnom djelu prevara iz čl.244 st.1 KZ CG. </span><span class="span2">Medjutim, u konkretnom slučaju je nastupila zastarjelost krivičnog gonjenja s obzirom da je za ovo krivično djelo Krivičnim zakonikom Crne Gore propisana novačana kazna ili kazna zatvora u trajanju do tri godine. Čl.124 st.1 tač.6 KZ CG je propisano da se krivično gonjenje ne može preduzeti kada proteknu 3 godine od izvršenja krivičnog djela za koje se po zakonu može izreći kazna zatvora preko jedne godine, a čl.125 st.7 KZ CG je propisano da zastarjelost krivičnog gonjenja nastaje u svakom slučaju </span><span class="span2">kad protekne dvostruko vrijeme koje se po Zakonu traži za zastarjelost krivičnog gonjenja. U konkretnom slučaju zastarjelost nastupa kada protekne 6 godina od izvršenja krivičnog djela, što znači da je apsolutna zastarjelost nastupila u aprilu mjesecu 2014.godine. Iz tog razloga je sud za ovu tačku optužnice donio presudu u kojoj se optužba odbija.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optužnicom je optuženom G. S. stavljeno na teret i da je izvršio krivično djelo falsifikovanje isprave iz čl.412 st.1 KZ u sticaju sa krivičnim djelom prevara iz čl.244 st.1 KZ CG i to da je </span><span class="span2">u toku aprila mjeseca 2008. godine u B., pribavio lažne isprave administrativne zabrane na lična primanja žiranata i takve isprave upotrijebio kao prave, na način što je isprave - administrativne zabrane na ime oštećenog R. D., koje isprave nije potpisao oštećeni i koja isprava nije ovjerena kod "Tržnice -pijaca" DOO P., upotrijebio u postupku zaključivanja ugovora o zajmu sa "A." iz B., koji je podigao na svoje ime broj LD..., dana 06.04.2008.godine, u iznosu od 500,00 eura, kao prave, dovodeći u zabludu ovlašćena lica "A." iz B., da im na štetu imovine "A." iz B. odobri kredit u iznosu od 500,00 eura, da bi nakon toga banka zbog neispunjenja ugovorenih obaveza preuzetih ugovorom o zajmu, vraćanja zajma, pokušala od sredstava žiranata kao solidarnih dužnika realizovati naplatu svojih dospjelih potraživanja, ali kako R. D. nije zaposlen u preduzeću “Tržnice-pijaca“ DOO P., to oštećena "A." iz B. nije mogla naplatiti svoja dospjela potraživanja pa je osumnjičeni lažnim prikazivanjem činjenica sebi pribavio protivravnu imovinsku korist u iznosu od 500,00 eura, a u tom iznosu je pričinilo štetu "A." iz B.. </span>
+</p>
+<p>
+<span class="span2">        Kao što je već navedeno prilikom obrazloženja presude falsifikovanje isprave pojavljuje se kao način izvršenja krivičnog djela prevara i nema sticaja između ta dva djela, već se u ovom slučaju samo radi o krivičnom djelu prevara iz čl.244 st.1 KZ CG. </span><span class="span2">Medjutim, u konkretnom slučaju je nastupila zastarjelost krivičnog gonjenja prema optuženom G. S. s obzirom da je za ovo krivično djelo Krivičnim zakonikom Crne Gore propisana novačana kazna ili kazna zatvora u trajanju do tri godine. Članom 124 st.1 tač.6 KZ CG je propisano da se krivično gonjenje ne može preduzeti kada proteknu 3 godine od izvršenja krivičnog djela za koje se po zakonu može izreći kazna zatvora preko jedne godine, a čl.125 st.7 KZ CG je propisano da zastarjelost krivičnog gonjenja nastaje u svakom slučaju kad protekne dvostruko vrijeme koje se po Zakonu traži za zastarjelost krivičnog gonjenja. U konkretnom slučaju zastarjelost nastupa kada protekne 6 godina od izvršenja krivičnog djela, što znači da je apsolutna zastarjelost nastupila u aprilu mjesecu 2014.godine. Iz tog razloga je sud za ovu tačku optužnice donio presudu u kojoj se optužba odbija.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Optužnicom je takođe optuženima K. Š. i G. S. stavljeno na teret da su kao </span><span class="span2">saizvršioci izvršili 23 krivična djela falsifikovanje isprave iz čl.412 st. 2 u vezi st.1 KZ u vezi čl.23 KZ i to da su </span><span class="span2">optuženi K. Š. i G. S. </span><span class="span2">neutvrđenog dana i mjeseca u toku 2008.godine u B. pribavili lažne javne isprave administrativne zabrane i izjave za žirante oštećenih, koje lažne javne isprave nisu oni potpisali i koje nisu ovjerene u preduzećima u kojima žiranti navodno rade u namjeri da ih upotrijebe kao prave. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Kao što je već navedeno administrativne zabrane i izjave za žirante koje se koriste u postupku odobravanja kredita predstavljaju privatne, a ne javne isprave. Kako administrativne zabrane i izjave za žirante ne predstavljaju javnu već privatnu ispravu, to znači da se optuženima može staviti na teret samo krivično djelo falsifikovanje isprave iz čl.412.st.1 u vezi čl.23 st.2 Krivičnog zakonika Crne Gore.</span><span class="span2"> </span><span class="span2">Medjutim, u konkretnom slučaju je nastupila zastarjelost krivičnog gonjenja s obzirom da je za ovo krivično djelo Krivičnim zakonikom Crne Gore propisana kazna zatvora do tri godine. Članom 124 st.1 tač. tač.6 KZ CG je propisano da se krivično gonjenje ne može preduzeti kada proteknu 3 godine od izvršenja krivičnog djela za koje se po zakonu može izreći kazna zatvora preko jedne godine, a čl.125 st.7 KZ CG je propisano da zastarjelost krivičnog gonjenja nastaje u svakom slučaju kad protekne dvostruko vrijeme koje se po Zakonu traži za zastarjelost krivičnog gonjenja. U konkretnom slučaju zastarjelost nastupa kada protekne 6 godina od izvršenja krivičnog djela, što znači da je nastupila apsolutna zastarjelost nastupila 1.januara 2014.godine, obzirom da se ne zna datum i mjesec izvršenja krivičnog djela. Iz tog razloga je sud za ovu tačku optužnice donio presudu u kojoj se optužba odbija.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Oštećeni M. c. b. (raniji naziv A. b.), P. A., M. K., R. D. i A. Š. se radi ostvarivanja imovinsko pravnog zahtjeva upućuju na parnični postupak. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Sud je cijenio i ostale izvedene dokaze ali je našao da su isti bez uticaja na drugačije odlučivanje u ovoj krivično pravnoj stvari.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Odluka o troškovima u osuđujućem dijelu zasniva se na odredbi čl.229 st.1 ZKP-a. Dosuđeni iznos se odnosi na plaćanje troškova vještaka grafološke struke Z. J. u iznosu od 440,00 € i  paušalnog iznosa koji je određen prema trajanju, složenosti krivičnog postupka i imovinskim prilikama optuženih. O troškovima branioca po službenoj dužnosti advokata S. B. sud će odlučiti rješenjem nakon dostavljanja troškovnika koji sud nije imao prilikom objavljivanja presude. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Odluka o troškovima u oslobađajućem i odbijajućem dijelu zasniva se na odredbi čl.230 st.1 ZKP, pa troškovi padaju na teret budžetskih sredstava suda.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Na osnovu izloženog odlučeno je kao u izreci presude.</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">OSNOVNI SUD U BARU</span>
+</p>
+<p style="text-align:center;">
+<span class="span1">Dana 14.12.2017.godine</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">  Zapisničar</span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1">                                                      S U D I J A</span>
+</p>
+<p>
+<span class="span1">Zorica Ivanović</span><span class="span1"></span><span class="span1">                                                         Tamara Spasojević</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">PRAVNA POUKA</span><span class="span2">: Protiv ove presude može se izjaviti žalba Višem sudu u Podgorici u roku od 15 dana od dana prijema pismenog otpravka,preko ovog suda, u dva primjerka.</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">          DNA:</span>
+</p>
+<p>
+<span class="span2">-Odt B.</span>
+</p>
+<p>
+<span class="span2">-optuženom K. Š.</span>
+</p>
+<p>
+<span class="span2">          -optuženom G. S.-oglasna tabla suda</span>
+</p>
+<p>
+<span class="span2">          -optuženom S. Š.</span>
+</p>
+<p>
+<span class="span2">-branilac D. M., advokat iz P.</span>
+</p>
+<p>
+<span class="span2">-branilac S. B., advokat iz B.</span>
+</p>
+<p>
+<span class="span2">-oštećena </span><span class="span2"> A. i. b., sada M. c. b.-ovlašćeni predstavnik M. V.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">-oštećena</span><span class="span2"> O. b. sada E. b.-ovlašćeni predstavnik D. Č.</span><span class="span2"> </span>
+</p>
+<p>
+<span class="span2">-oštećeni P. A., </span>
+</p>
+<p>
+<span class="span2">-oštećeni M. K.,</span>
+</p>
+<p>
+<span class="span2">-oštećeni R. D. i </span>
+</p>
+<p>
+<span class="span2">-oštećeni A. Š.</span>
+</p>
+<p>
+<span class="span2">-spisi. </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2"> </span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+
+
+</body>

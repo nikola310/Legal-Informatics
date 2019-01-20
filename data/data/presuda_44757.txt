@@ -1,0 +1,464 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.b2{margin: 1.0in 1.25in 1.0in 1.25in;}
+.s1{font-weight:bold;}
+.s2{font-size:12pt;font-weight:bold;}
+.s3{display: inline-block; text-indent: 0; min-width: 0.2361111in;}
+.p1{text-align:end;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p2{text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p3{text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p4{text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p5{text-indent:0.375in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p6{text-align:center;hyphenate:auto;keep-with-next.within-page:always;font-family:Times New Roman;font-size:13pt;}
+.p7{text-indent:0.5in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p8{text-indent:0.5in;text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p9{text-indent:-0.25in;margin-left:0.5in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p10{margin-left:0.25in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:14pt;}
+.p11{text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p12{text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+</style>
+<meta content="ana.vukovic" name="author">
+</head>
+<body class="b1 b2">
+<p class="p1">
+<span class="s1">K.br. 165/2012</span>
+</p>
+<p class="p2">
+<!--Image link to '0.jpg' can be here-->
+</p>
+<p class="p1"></p>
+<p class="p2"></p>
+<p class="p2">
+<span class="s1">U IME CRNE GORE</span>
+</p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p3">
+<span class="s1">VIŠI SUD U PODGORICI, </span><span>po sudiji pojedincu Ani Vuković, uz učešće zapisničara</span><span class="s2"> </span><span>Vinke Rakočević, u krivičnom predmetu protiv optuženog G.V., iz P., zbog krivičnog djela neovlašćena proizvodnja, držanje i stavljanje u promet opojnih droga iz čl. 300 st. 1 KZ-a, i optužene K. K,, iz B., R. S., zbog krivičnog djela neprijavljivanje pripremanja krivičnog djela iz čl. 385 st.1 KZ-a u sticaju sa krivičnim djelom pomoć učiniocu posle izvršenog krivičnog djela iz čl. 387 st. 1 KZ-a, odlučujući po optužnici VDT-a Podgorica Kt.br. 88/11 od 25.07.2011. godine, nakon održanog glavnog,  javnog pretresa dana 25.02.2013. godine, u prisustvu zastupnika optužbe Ž. T., zamjenika VDT-a Podgorica, optuženog G.V.a, njegovog branioca  S.R., adv. iz P. po zamjeničkom punomoćju branioca odredjenog po službenoj dužnosti, D. M., adv. iz P., optužene K. K. i njenog branioca Lj. K., advokata iz P.,  donio je a dana 26.02.2013. godine godine javno objavio</span>
+</p>
+<p class="p3"></p>
+<p class="p2">
+<span class="s1">PRESUDU</span>
+</p>
+<p class="p2"></p>
+<p class="p2">
+<span class="s1">I</span>
+</p>
+<p class="p2"></p>
+<p class="p3">
+<span class="s1">OPTUŽENI: </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>G.V., zv. V., JMBG ..., od oca R. i majke B., rođene O., rođenog ... godine u B. P., sa prebivalištem u P., ul..., državljanin C. G., nezaposlen, neoženjen, završio srednju školu, lošeg imovnog stanja,  osuđivan presudom Opštinskog suda u Staroj Pazovi K.br. 249/06 od 10.09.2008. godine zbog krivičnog djela  iz čl. 344 st. 1 KZ R Srbije, na kaznu zatvora u trajanju od 2 mjeseca uslovno na 1 godinu, presudom Osnovnog suda u Baru K.br. 619/06 od 09.03.2009. godine zbog krivičnog djela nasilničko ponašanje iz čl. 399 KZ-a u sticaju sa krivičnim djelom teška tjelesna povreda iz čl. 151 st. 1 KZ-a na kaznu zatvora u trajanju od 10 mjeseci i presudom Višeg suda u Podgorici K.br. 337/2009 od 07.12.2010. godine, zbog krivičnog djela iz čl. 300 st. 1 KZ-a na kaznu zatvora u trajanju od 1 godine, nalazi se u pritvoru od 18.06.2011. godine od 09:00 časova pa nadalje,</span>
+</p>
+<p class="p3"></p>
+<p class="p2">
+<span class="s1">K r i v     j e </span>
+</p>
+<p class="p2"></p>
+<p class="p3">
+<span class="s1">Zato što je:</span>
+</p>
+<p class="p2"></p>
+<p class="p3">
+<span>Dana 18.06.2011. godine, u P., u stanu koji se nalazi u P. u ulici .., koji stan je koristio zajedno sa optuženom K. K., neovlašćeno radi prodaje držao marihuanu i kokain - supstance proglašene za opojnu drogu Rješenjem o utvrdjivanju opojnih droga ("Sl. List SRJ" br. 44/02), koja droga je pretresom navedenog stana izvršenim dana 18.06.2011. godine od strane ovlašćenih službenika Uprave polcije - Područne jedinice P. pronadjena i oduzeta i to 16 pakovanja marihuane, jedno veće pakovanje marihuane, jedna ručno pravljena cigareta sa marihuanom i rasuta marihuane, sve u količini od 90,07 grama marihuane, te jedno pakovanje kokaina u količini od 0,83 grama, koja opojna droga je bila namijenjena daljoj prodaji,</span>
+</p>
+<p class="p3"></p>
+<p class="p4">
+<span>čime je izvršio krivično djelo  - neovlašćena proizvodnja, držanje i stavljanje u promet opojnih droga iz člana 300 stav 1 Krivičnog zakonika; </span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span>pa ga sud, primjenom citirane zakonske odredbe, te čl. 2, 4, 5, 15, 32, 36, 42, i  51. Krivičnog zakonika, te čl. 229 i 374 Zakonika o krivičnom postupku</span>
+</p>
+<p class="p5"></p>
+<p class="p6">
+<span class="s1">O S U Đ U J E</span>
+</p>
+<p class="p4"></p>
+<p class="p3">
+<span class="s1">Na kaznu zatvora</span><span> </span><span class="s1">u trajanju od 2 (dvije) godine,</span><span> u koju kaznu  se uračunava vrijeme provedeno u pritvoru - od 18. 06. 2011.godine od 09,00 h  pa nadalje.</span>
+</p>
+<p class="p5"></p>
+<p class="p3">
+<span>Dužan je optuženi, na ime troškova krivičnog postupka – paušala uplatiti ovom Sudu, iznos 188,00</span><span class="s1"> </span><span>€, u roku od 15 dana po pravosnažnosti presude. </span>
+</p>
+<p class="p7"></p>
+<p class="p3">
+<span>Na osnovu čl. 75 i čl. 300 st. 7 Krivičnog zakonika, prema optuženom se  i z r i č e</span>
+</p>
+<p class="p7"></p>
+<p class="p8">
+<span class="s1">MJERA BEZBJEDNOSTI</span>
+</p>
+<p class="p8"></p>
+<p class="p3">
+<span class="s1">ODUZIMA se</span><span> od optuženog 90,07 grama marihuane, te jedno pakovanje kokaina u količini od 0,83 grama, koja droga se ima uništiti nakon pravosnažnosti presude. </span>
+</p>
+<p class="p3"></p>
+<p class="p2">
+<span class="s1">II</span>
+</p>
+<p class="p2"></p>
+<p class="p3">
+<span class="s1">OPTUŽENA:</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">K.K</span><span>, zv. K., od oca V. i majke K., rođene K., rođene ... godine u B., R. S., sa prebivalištem u B. ul...., državljanka R. S., nezaposlena, neudata, završila srednju školu, lošeg imovnog stanja, </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span> </span>
+</p>
+<p class="p3">
+<span>Na osnovu čl. 373 tač.  2  Zakonika o krivičnom postupku,</span>
+</p>
+<p class="p3"></p>
+<p class="p3"></p>
+<p class="p2">
+<span class="s1">OSLOBADJA SE OD OPTUŽBE</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Da je :</span>
+</p>
+<p class="p3"></p>
+<p class="p3"></p>
+<p class="p3">
+<span>1. U periodu od kraja marta 2011. godine do 18.06.2011. godine, u P., iako je znala da se optuženi G.V. priprema za izvršenje krivičnog djela iz člana 300 stav 1 KZ tj. da neovlašćeno radi prodaje kupuje, neovlašćeno prodaje i neovlašćeno radi prodaje drži marihuanu i kokain - supstance proglašene za opojnu drogu Rješenjem o utvrdjivanju opojnih droga ("Sl. List SRJ" br. 44/02), na način što je u četiri navrata od nepoznatog lica kupio po jednu polovinu kilograma marihuane, koju marihuanu je potom u stanu koji se nalazi u P. u ul..., koji stan je koristio zajedno sa optuženom K. K. prepakivao u manje paketiće i u više navrata prodavao nepoznatim licima na teritoriji Opštine P., dok je pretresom od strane ovlašćenih službenika Uprave polcije - Područne jedinice P. pronadjena i oduzeta navedena količina marihuane i kokaina, bliže opisana u stavu I izreke presude, za koje djelo se po zakonu može izreći pet godina zatvora ili teža kazna, u vremenu kad je još bilo moguće spriječiti izvršenje tog djela, to nije prijavila, te je došlo do izvršenja navedenog krivičnog djela od strane optuženog G., </span>
+</p>
+<p class="p3"></p>
+<p class="p3"></p>
+<p class="p3">
+<span>- čime bi izvršila krivično djelo - neprijavljivanje pripremanja krivičnog djela iz člana 385 stav 1 Krivičnog zakonika, </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>2. U  periodu od kraja marta 2011. godine do 18.06.2011. godine, optužena K.K u stanu u P. u ulici..., krila optuženog  G.V.a, koji je osudjeno lice, kako se ne bi izvršila izrečena kazna zatvora, iako je znala da je protiv njega izdata potjernica zbog izdržavanja kazne zatvora, koja mu je izrečena pravosnažnom presudom Višeg suda u Podgorici K.br. 337/09 od 18.03.2010. godine, zbog krivičnog djela neovlašćena proizvodnja, držanje i stavljanje u promet opojnih droga iz člana 300 stav 1 Krivičnog zakonika,</span>
+</p>
+<p class="p3">
+<span> </span>
+</p>
+<p class="p9">
+<span class="s3">-​&nbsp;</span><span>čime bi izvršila krivično djelo - pomoć učiniocu poslije izvršenog krivičnog djela iz člana 387 stav 1 Krivičnog zakonika.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Troškova krivičnog postupka nije bilo.</span>
+</p>
+<p class="p10"></p>
+<p class="p3"></p>
+<p class="p2">
+<span class="s1">O b r a z l o ž e nj e</span>
+</p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p3">
+<span>Optužnicom VDT-a Podgorica Kt.br. 88/11 od 25.07.2011. godine, optuženom G.V.u stavljeno je na teret izvršenje krivičnog djela neovlašćena proizvodnja, držanje i stavljanje u promet opojnih droga iz čl. 300 st. 1 KZ, a optuženoj K. K. da je izvršila krivično djelo neprijavljivanje pripremanja krivičnog djela iz čl. 385 st.1 KZ-a u sticaju sa krivičnim djelom pomoć učiniocu posle izvršenog krivičnog djela iz čl. 387 st. 1 KZ-a.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Zastupnik optužbe je u završnoj riječi u cjelosti  ostao pri podignutoj optužnici, smatrajući da je provedenim dokazima utvrđeno da su optuženi izvršili krivična djela stavljena im na teret,  predložio je da sud optužene  oglasi krivim i osudi po zakonu.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Optuženi G.V. </span><span>je u odbrani prilikom saslušanja pred </span><span class="s1">ovlašćenim policijskim službenikom</span><span>, datoj u prisustvu branioca odredjenog po službenoj dužnosti, naveo da optuženu K. K. poznaje nekih četiri mjeseca, koliko je sa njom bio  u emotivnoj vezi te da je nešto prije navedenog imao  intimne odnose i sa njenim drugaricama M. i M.. Kako je optužena dva do tri mejseca prije kritičnog događaja iznajmila stan u..., svaki drugi-treći dan dolazioje kod nje, a dešavalo se i da ostane kod nje i po nekoliko dana. Istakao je da nije konzument nijedne vrste droge, te da je bio  prisutan više puta kada je optužena u više navrata konzumirala ''džoint'', za koje ne zna gdje ih je nabavljala, što se pretežno dešavalo dok je optužena radila kao poslovna pratnja u hotelu ,,M.'', u B. Naveo je da mu je poznato da je optužena zarađivala dosta novca, jer  je ponekada za noć donosila i po 500 €. Kritičnog dana, boravio je duže vrijeme u kafani u blizini zgrade gdje optužena stanuje, odakle se prilično pripit jer je konzumirao rakiju i pivo, oko 21-22 h, uputio u stan kod optužene. Kada su u stan došli očuh i majka optužene, nakon izvjesnog vremena, posvađali su se ne zna iz kojeg razloga, da bi potom  njih troje krenuli da se fizički obračunaju sa njim. Tom prilikom, nanijeli su mu par lakših povreda u vidu ogrebotina i oguljotina u predjelu desnog unutrašnjeg lakta, jagodične kosti lijeve strane, lijeve strane vrata, desne strane vilice i drugih mjesta po tijelu a takodje je  polomljen i veći dio stvari po stanu, nakon čega su svi izašli u hodnik, a potom je on ušao nazad u stan, zaključao se i legao da spava. Probudila ga je policija, nakon čega su policijski službenici izvršili pretres stana. Istakao je da predmetna  marihuana</span><span class="s1"> </span><span>pronađena u navedenom stanu nije njegova niti sa njom ima ikakve veze, već da najvjerovatnije pripada optuženoj K., u čijem stanu je boravio. Pojasnio je da je u posjetu kod optužene trebala da dodje i njena sestra M., što se nije desilo jer je majka optužene, koja se  nije slagala sa njihovom vezom, rekla da M. nije došla jer će  biti problema i da će doći policija. Odgovarajući na  pitanja, naveo je da je optužena i u ranijem periodu nabavljala marihuanu, te da je gledao kada je savijala ''džoint'', kao i da je osim marihuane koju je nabavljala u količinama od po 10-20g do 50 ga, nabavljala i koristila kokain, u manjim količinama, od 1-2 grama, pojašnjavajući da je optužena drogu držala u ormaru zajedno sa tašnama, kojih je imala više. U odbrani datoj pred </span><span class="s1">istražnim sudijom</span><span> ponovio je ranije navode, dodajući da ne zna kome je to davao drogu na uživanje, optuženoj  K.nije sigurno, jer ni on sam nije konzument, ističući da je nađena droga pripadala optuženoj tako da ona zna što je i kako radila sa drogom. Ponovio je navode da je sa optuženom u vezi te da je kod nje često dolazio  i boravio u stanu koji je iznajmila.Dodao je da je policija kritičnog dana došla zato što su ga majka optužene i čovjek sa kojim njena majka izlazi, napali i tukli, ali  ne zna ko je pozvao policiju  jer on to nije uradio, već vjerovatno neko od ovo troje, kojom prilikom je izvršen pretres stana, što je optužena odobrila. </span><span class="s1">U odbrani na glavnom pretresu u ranijem i ponovljenom postupku</span><span>, optuženi je u bitnom  ponovio ranije navode, dodajući da je u kritično vrijeme optužena  sa kojom je bio u emotivnoj  vezi, bila trudna. Dalje je naveo da ga je optužena kritične večeri dok je bio u lokalu koji se nalazi u sklopu zgrade u kojoj se nalazi predmetni stan, obavijestila da želi da ga upozna sa svojom majkom, čiji je dolazak najavila zbog čega su njih dvoje pošli u predmetni stan, gdje je došla  majka optužene sa svojim dečkom. Iz razloga što se optužena bavila prostitucijom, sumnjao je da je dijete koje nosi njegovo, pa je  tim povodom  došlo do svađe između njega s jedne, i optužene, njene majke i dečka njene majke, sa druge strane, koja svadja je prerasla i u fizički obračun, tako što su ga njih troje  napali, ali kako je on fizički jači, izgurao ih je iz stana, ostao sam u stanu i zaključao ulazna vrata, nakon čega je legao da spava. Iste noći  u stan je došla policija upravo zbog opisane tuče,  kako je tada mislio. Dalje je naveo da iako je gledao optuženu kako puši travu, nije znao da se predmetna droga nalazila u stanu, objašnjavajući  da je u suprotnom, da je droga bila njegova, imao  dovoljno vremena da drogu uništi. Odgovarajući na pitanja, pojasnio je da u predmetnom stanu nije živio sa optuženom K., već da je samo dolazio kod nje, te da nema nikakve veze sa iznajmljivanjem stana,  čiju zakupninu nije plaćao niti poznaje zakupodavca. Takodje je pojasnio da je par dana prije kritičnog događaja saznao  da se optužena bavi prostitucijom, što mu je i ona sama priznala nakon što  je zbog kasnih izlazaka i dolazaka, posumnjao u nju. Kritične večeri, prvi put  je rekao optuženoj  da sumnja da je  otac djeteta, na što je optužena reagovala histerično i vičući pokušala da ga izgrebe po vratu. Naveo je da ne poznaje lica po imenu B., R., kao ni I. Iz  B.,  tako da ga navedena lica nikada nijesu kontaktirala na mobilni telefon br. ..., te  da poznaje više lica iz T. po imenu Z., ali da nikada ni sa jednim od njih nije kontaktirao povodom kupovine ili prodaje droge. Saznao je  od policajci, da su komšije prijavile buku, dok je  iz spisa predmeta upoznat  da je optužena insistirala da policija uđe u stan. Istakao je da je optužena znjući da se predmetna droga nalazi u stanu, bila sigurna da mu niko neće vjerovati da droga nije njegova jer se samo on nalazio  u stanu, iz kojih razloga je i pozvala policiju kako bi mu se osvetila, za što je imala povoda, budući da  nije htio da  prizna da je otac  dijeteta jer u to nije bio siguran. Nadalje, optuženi je pojasnio, da  kada je u prethodnoj odbrani rekao da je optužena držala drogu u ormaru gdje joj stoje tašne, mislio je na raniji period, tako da kritične večeri nije znao da u stanu ima droge, već je mislio da je baš tada nestalo droge ili da je optužena drogu izbacila zbog dolaska majke, da joj majka ne bi primijetila da konzumira drogu. Pojasnio je  da  u vrijeme kada su se  upoznali, optužena nije živjela u stanu u kojem je pronađena predmetna droga, već  u iznajmljenom stanu u naselju T., odakle se, nakon mjesec dva, preselila u predmetni stan, pobjegavši iz prethodnog, kako mu je i sama rekla, zbog neplaćenih računa. Za svo ovo vrijeme nekih 2 mjeseca od kada je optužena boravila u predmetnom stanu, svega 7 puta je prespavao kod nje. Istakao je da nikada nije konzumirao drogu niti mu je optužena ikada nudila drogu na upotrebu. Dalje je naveo da nije znao da je sud izdao bilo kakvu potjernicu ili naredbu za njegovo privodjenje, te da nema objašnjenje kako je to optužena saznala, tako da se tim povodom nije ni mogao kriti u njenom stanu. Dodao je da su on i optužena u klinici ''K.'', zakazali abortus, ali kako joj se u međuvremenu kada su se vratili sa mora, trudnoća iskomplikovala, došlo je do krvarenja, obavljena je intervencija, što se sve dešavalo prije kritičnog događaja mada ne zna tačno kada, tako da nakon kritičnog dogadjaja njih dvoje više nijesu bili u vezi. Izjašnjavajući se na navode odbrane optužene K.K., istakao je da su u cjelosti neistiniti, a posebno navodi da  je optuženu tukao svaki drugi dan, zbog čega se  osjeća veoma loše, kao neki negativac koji je stalno tuče i napada nožem. Dodao je i da ne zna ime komšije, sa čijom je djecom ponekad znao da se poigra, te da se ne može sjetiti da li je bilo još stanova na istom spratu. Prigovarajući na iskaz svjedoka  R. M., naveo je da nije tačno da je predmetna droga, kako je to svjedok naveo, nađena na terasi predmetnog stana, mada je  iako ne zna gdje je droga pronađena,  siguran da na terasi nije, jer je tu pušio cigarete pa da je droge tu bilo, sigurno bi je primijetio. U završnoj riječi, prihvatajući u cjelosti završnu riječ svog branioca, ostao je pri navodima iznijete odbrane.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Branilac optuženog  G., je u završnoj riječi naveo je da nijednim provedenim dokazom nije utvrđeno da je optuženi izvršio krivično djelo koje mu je optužnicom stavljeno na teret zbog čega je predložio sudu da ga oslobodi od optužbe.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Optužena K.K </span><span>je u odbrani </span><span class="s1">pred ovlašćenim policijskim službenikom, </span><span>datoj u prisustvu branioca po službenoj dužnosti</span><span class="s1">,</span><span> navela da je u junu mjesecu 2010. godine  došla u C. G. gdje se u više lokala u P., bavila poslovima ugostiteljstva. Poslednje mjesto gdje je bila zaposlena je lokal ''M'' u P., nakon čega je nastavila u istom lokalu da radi i kao hostesa, a potom i na promociji koktela. Po dolasku u C. G., živjela je u zgradi „L. K.“ sa kumom M. S., koja se takođe bavila istim poslom kao i ona. U januaru mjesecu 2011. godine, njih dvije su se preselile u iznajmljeni stan ul. ...  U tom periodu  u posjetu joj je došla  drugarica M.P., iz B., koja je telefonom pozvala G.V.a u namjeri da se sa njim vidi, medjutim G. je M.odgovorio da se nalazi u ZIKS-u, odakle izlazi za nedjelju dana pa su se kada je optuženi izašao iz zatvora, on i M. našli po dogovoru. U tom istom periodu, optuženi je  upoznao  i njenu kumu, M.. Nakon par dana,  saznala je da je G. u intimnoj vezi i sa M. i sa M.. Tada se i ona upoznala sa G., a nakon M.odlaska za B.,  upustila se u vezu sa njim. U međuvremenu,  zbog navedenog  izbila je svađa između nje i kume M., zbog čega se iz prethodnog  preselila u stan u ..., kod stanodavca R.A., koji je iznajmila za mjesečnu zakupninu u iznosu  od 240 €. Optuženi G. je odmah po njenom useljenju došao kod nje u stan i počeo sa njom da živi. Prvu stanarinu platila je od svog novca, dok je sledeće u cjelosti izmirivala od novca koji joj je davao optuženi G.. Dana 18.06.2011. godine, po dogovoru, došli su  joj u posjetu majka i očuh, koji su iz B. Po njihovom dolasku u stan, optuženi je počeo redom svo troje da ih vrijeđa i odmah zatim  nasrnuo na njih, udarao ih, nanio im povrede, nakon čega je sukob nastavljen u hodniku, a kada se pojavila policija, optuženi je utrčao u stan i zaključao se. S obzirom da je ona iznajmila stan, insistirala je da policija uđe u stan, prethodno ih upozorivši da se unutra nalazi određena količina opojne droge marihuane. Nakon ulaska u predmetni stan i hapšenja G., prisustvovala je pretresu stana zajedno sa dva punoljetna svjedoka</span><span class="s1">. </span><span>Istakla je da je u poslednjih 20-tak dana boravka sa optuženim u stanu, primijetila da se optuženi upravo iz ovog stana u kojem su zajedno  živjeli bavi prodajom marihuane, na način što je u četiri navrata nabavio po pola kilograma navedene droge, koju drogu je donosio u stan i prepakivao u pvc kese i aluminijumske folije, u zamotuljcima od po 50, 100, i više grama, kao i u manje zamotuljke, tzv. paklice. Navela je da je optuženi nabavljao marihuanu od određenih lica iz T., B. i ., i izvjesnog I. iz B., za kojeg je saznala tako što je  I., jednom prilikom, nakon što su se  G. i on čuli telefonom, došao kolima po njih dvoje i odvezao ih u T., gdje su se na nekom igralištu sastali sa izvjesnim B., kada je B. iz svog u I. vozilo donio kilogram marihuane, dok se u kupovinu ove droge optuženi G. ugradio izvjesnu sumu novca. Optužena je dalje navela da joj je poznato da je za slične količine, od po pola kilograma ili kilogram, optuženi kontaktirao izvjesnog Z., koji živi negdje u podgoričkom naselju T.. Istakla je da predmetna marihuana, digitalna vaga, pribor za pakovanje kao i jedan gram opojne droge kokaina, pripadaju optuženom  G., te da ona sa tim nema nikakve veze. Dalje je navela da je optuženi  marihuanu prodavao na način što su  ga kupci kontaktirali na mobilni telefon broj ..., nakon čega je u ulazu zgrade vršio prodaju. Iz telefonskog razgovora optuženog sa kupcima, saznala je da se radi o izvjesnim licima po imenu B. iz Z.,  B., G., Dž. i dr. Takođe, je dodala da je znala da je za optuženim G. raspisana potjernica i da se krije od policije. U odbrani </span><span class="s1">pred istražnim sudijom </span><span>optužena je navela da iako je bila djevojka optuženog G., sa predmetnom drogom nema veze jer su njegovi vaga,  pribor za pakovanje i droga koju je on nabavljao, pakovao i prodavao licima u ulazu zgrade, te da je njena jedina greška što je iznajmila stan u koji se optuženi doselio. Istakla je da je kritičnog dana policija  pozvana zbog toga što je optuženi istukao nju, majku i očuha, koji su joj došli u posjetu, nakon čega su uz prethodno njeno odobrenje, službenici policije pretresli stan, i našli navedenu drogu i predmete. Ističući da nema veze sa predmetnom drogom, dodala je  da joj je optuženi nudio da konzumira marihuanu, što je odbila jer ne konzumira droge, te da nije ni mogla niti se po P.i bavila prodajom marihuane, već je to činio  optuženi koji je već jednom osuđivan zbog droge, marihuane. U odbrani n</span><span class="s1">a glavnom pretresu u ranijem i ponovljenom postupku, </span><span>ponovila je navode ranijih odbrana, ističući da je znala da se optuženi bavi prodajom droge  ne bi ni počinjala vezu sa njim. Prvi put kada je optuženi unio drogu u njihov stan, bila je iznenađena a zatim je  došlo  do rasprave, kada je rekla optuženom da ne želi takav novac već da će ona da radi i zarađuje kao konobarica, na što je optuženi reagovao govoreći, da ona kao njegova žena ne može da radi taj posao. Rasprava je prerasla u svađu, a potom je optuženi   udarao, šamarao, pokušao  da je izbaci kroz terasu, na koji način je danima maltretirao i vrijeđao. Jednom prilikom uzeo je nož,  zaletio se ka njoj i nožem uboo u krevet, a potom je provocirao pitajući je "jesi li se prepala pičko", na što je  potvrdno odgovorila, jer  je bilo strah. Takođe, jednom prilikom  optuženi joj je polomio mobilni telefon tako da nije mogla preko svog telefona da komunicira sa majkom, već se u tu svrhu morala poslužiti njegovim telefonom. Kako je bila trudna,  sve to joj je teško padalo, nije smogla hrabrosti da prekine vezu sa optuženim pa je pozvala svoju majku da dođe. Kada je  optuženom saopštila  da će doći njeni majka i očuh i predočila mu da će boraviti i spavati u predmetnom stanu, on se bunio, govoreći joj  da ne mogu da dođu jer on plaća njihov stan. Kritičnog dana, odmah po dolasku majke i očuha, bez ikakvog upoznavanja i  bez predstavljanja da je on njen momak,  optuženi je nasrnuo na sve njih, počeo  da ih udara, dobio je takvu snagu koju da do tada nije vidjela, da jedan čovjek može da  prebije troje ljudi. Osim što ih je udarao, optuženi je nožem krenuo na majku i očuha. Zbog ove buke komšije su pozvale policiju, čiji su službenici ubrzo došli. U vezi predmetne droge, navela je da joj je optuženi rekao da drogu donosi u stan i da je negdje poslije toga iznosi, šta je i sama vidjela. Odgovarajući na pitanja, navela je da je nekih 20 dana prije kritičnog dogadjaja, sasvim slučajno, dok je sa optuženim  bila u prodavnici, saznala da je protiv optuženog izdata potjernica</span><span class="s1">,</span><span> objašnjavajući da se tom prilikom optuženi sreo sa nekim drugom ili poznanikom u policijskoj unifromi,  koji mu je rekao "znaš da te čeka poziv", na što je optuženi odgovorio da zna. Nakon ovoga, optuženi joj je rekao da treba da ide u zatvor, te da upravo  njena trudnoća može da posluži kao razlog da  ne ode u zatvor. Navela je da je nekih 20 do mjesec dana prije kritičnog događaja došlo do spontanog pobačaja, o čemu posjeduje medicinsku dokumentaciju. Istakla je da su svo vrijeme veze, njih dvoje  živjeli zajedno u predmetnom stanu, u kojem je bila sva garderoba optuženog. Objasnila je da su se ona i optuženi, prije nego što je iznajmila stan, dogovorili da će zajedno živjeti u stanu, stim što je prvi mjesec  ona platila kiriju. Sjutradan po iznajmljivanju stana, optuženi je donio nešto svoje robe, a nakon par dana su zajedno pošli do njegovog stana, kada je optuženi uzeo ostatak gardarobe i ličnih stvari. Dalje je navela da je iz telefonskih razgovora koje je optuženi vodio sa navedenvim licima,  čula da je optuženi išao da se sa njima sastane radi prodaje droge, te da je oko droge sarađivao i sa Z., iz T., B. glumcem i Dž-. Nije se mogla tačno sjetiti kada je to bilo kada je optuženi prvi put po useljenju unio drogu u njihov stan, već je navela da je moguće da je to bilo nakon nekih  mjesec dana od useljenja. Bila je u pitanju marihuana,  tvrdo umotana u obliku kocke, koju drogu je optuženi u istom takvom pakovanju potom odonosio iz stana. Dešavalo se par puta da optuženi čim unese kocku marihuane, odmah je i iznese iz stana, a poslednji put kada je to učinio, primijetila je da u nekoj kutiji, u kesama stoji marihuana upakovana u sitne folije, mejutim kako nije bila prisutna kada je droga pakovana, ne zna kada je i da li je optuženi drogu  tako upakovao. Pojasnila je da nije mjerila marihuanu koju je optuženi donosio u stan,  niti joj je optuženi govorio o kojoj se količini radi ali je iz telefonskih razgovora između njega i navedenih lica, čula je da se radilo o količini od pola kilograma do kilogram. Pojasnila je da zna kako marihuana izgleda, da je zelene boje, u obliku listova jer je u osnovnoj i srednjoj školi imala čas o drogama a i vidjela je marihuanu u jednom kafiću, kada je neko izvadio zamotuljak. Dalje je navela da se sjeća kako je jednom prilikom kod njih u stan došao drug optuženog kada su pričali o kokainu, ali nije sigurana da je kokaina bilo u stanu jer bi kada god bi došao neki njegov drug, odlazila u drugu sobu dok ne ode jer nije željela da  bude tu, niti je voljela društvo optuženog. Navela je da nikada nije bila prisutna kada je optuženi prodavao nekome drogu niti uzimao novac od nekog za drogu, ali joj je optuženi rekao da novac potiče od opojne droge, te da je kako ona nije radila optuženi  finansirao sve njihove potrebe. Pojasnila je da dok je sa optuženim bila u vezi, nigdje nije radila, objašnjavajući da kada je  upoznala optuženog sa kojim je počela da živi zajedno, iako je dobila posao u diskoteci u T., optuženi joj nije dozvoljavao da radi. U kafiću u P. kod "R" pumpe radila je od jula 2010. godine, u diskoteci "M" od novembra ili decembra do januara 2011. godine, a u diskoteci "H'' u T., nije ni započela radni odnos, jer joj iako je dobila posao, optuženi to  nije dozvolio. Navela je i da je optuženi maltretirao i prije kritičnog događaja, tukao je, uzimao u naručje i odnosio do terase govoreći joj da će ju baciti preko terase, te da će nakon toga i on to isto da uradi. Batine je dobijala svaki drugi dan, najčešće bez ikakvog razloga, a ljekaru se nije obraćala jer je svo vrijeme bila sa optuženim i nigdje bez njega nije izlazila. Pojasnila je da je optuženi jednom prilikom kuhinjskim nožem probio krevet, dodajući da su u stanu  imali dva velika kuhinjska noža, te da je sa jednim od ovih noževa, optuženi  kritičnom prilikom nasrnuo na nju, majku i očuha. Kritičnom prilikom pala je u nesvijest jer joj je optuženi zadao više udaraca pesnicama u glavu, a zatim u predjelu stomaka a kada je došla svijesti, prvo što je vidjela je majka, koja je bila povrijedjena u predjelu glave odakle je krvarila. Nakon navedenog, nije išla kod ljekara na pregled, već je  interventna jedinica  odvela majku i očuha, pa je i ona pošla sa njima u urgentni centar, kojom prilikom nju nisu pregledali jer nije krvarila. Prije nego što su ona, majka i očuh i pokušali da pozovu policiju, neko drugi je pozvao policiju jer su policajci već bili došli.Pojasnila je dalje da je gazda predmetnog stana dolazio da uzima od nje stanarinu koji novac je njoj  optuženi davao, a ona ga potom davala vlasniku stana plaćajući mu istovremeno na ulaznim vratima stana stanarinu i račune za struju, tako da iako gazda nije ulazio u stan, u hodniku je mogao da vidi obuću optuženog, koji je bio u stanu, u spavaćoj sobi. Nadalje, optužena je kazala da je zajedno sa optuženim  pošla da zakažu abortus te da je tim povodom  pozvala majku telefonom da dođe iz B. i rekla joj da od  trudnoće nema ništa. Međutim, optuženi joj je rekao da iako je zakazan abortus, da ona neće tamo ići jer on želi to dijete ali je nakon tri četiri dana došlo  do spontanog prekida trudnoće, nakon čega je optuženi mnogo plakao.Istakla je da  su u predmetnom stanu  njih dvoje provodili dane i noći, te da su se u  stanu  nalazile njihove zajedničke stvari. Navela je da je bila ranije u I. ali ne da bi se bavila prostitucijom i tako zarađivala novac, kako to optuženi tvrdi, dodajući da se  po podacima iz njenog pasoša može vidjeti da u to vrijeme kada je išla u I., njih dvoje nijesu bili u vezi. Takodje je navela da je optuženi  konzumirao narkotike i to marihuanu, što je lično vidjela, objašnjavajući da je u tim prilikama uvijek izlazio na terasu njihovog stana i tamo pušio marihuanu, zbog čega je negodovala pa joj je optuženi obećao da će smanjiti. Istakla je da navedeno ranije nije prijavila policiji zbog straha od optuženog. Navela je da je preko interneta, tačnije fejsbuka, od njoj nepoznatih osoba dobila prijeteće poruke sadržine "završićeš u invalidskim kolicima, mnogo si napričala, ispirčala si laži, završićeš kao K. P.",  u kojim porukama nije pominjano ime optuženog, niti kritični događaj, ali kako nema ništa drugo problematično u životu, zaključila je da se ove poruke odnose na kritični događaj. Takodje je navela je da ne zna kako se zove komšija koji bi mogao da posvjedoči njene navode o boravku optuženog u predmetnom stanu, čija su se djeca često igrala sa optuženim lopte Izjašnjavajući se na navode odbrane optuženog G., navela je da je sve što je optuženi rekao neistina. </span><span class="s1">U završnoj riječi,</span><span> prihvatijući u cjelosti završnu riječi svog branioca,  ostala je pri navodima iznijete odbrane.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Branilac optužene  K., je  u završnoj riječi  navela da provedenim dokazima nije utvrđeno da je optužena izvršila krivična djela stavljena joj na teret, jer niti je podržavala optuženog G. u vršenju krivičnog djela stavljenog mu na teret, niti je imala dovoljno hrabrosti da ga prijavi, te da je nakon napada optuženog na nju, majku i očuha, iskoristila priliku da policiji kaže da se u stanu nalazi predmetna droga, koja je vlasništvo optuženog. Shodno navedenom, predložila je sudu da optuženu oslobodi od optužbe.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>U dokaznom postupku sud je na saglasan predlog stranaka pročitao iskaze ranije saslušanih svjedoka, R.A., dat na zapisniku o glavnom pretresu K br. 143/2011  od 23.12.2011 godine, R. M. i M. S., dati na zapisniku o glavnom pretresu K br. 143/2011  od 27.04.2012 godine, pročitani su  Izvještaj o vještačenju opojne droge br. 2653/11, zapisnik o daktiloskopskoj pretrazi i vještačenju papilarnih linija br. 138/12 od 08.02.2012. godine, zapisnik o daktiloskopskom vještačenju tragova papilarnih linija br. 138/12-1 od 10.04.2012. godine, sva tri sačinjena od strane Forenzičkog centra u D., na saglasan predlog stranaka pročitana su izjašnjenja J. J., stručnog lica Forenzičkog centra u D., data na zapisnicima o glavnom pretresu K br. 143/2011  od 23.03.2012 godine i 27.04.2012 godine, pročitane su dvije službene zabilješke UP PJ  P. od 18.06.2011. godine, zapisnik o pretresanju stana i drugih prostorija UP PJ P. od 18.06.2011. godine, Izjava držaoca stana  K. K. od 18.06. 2011 godine, potvrde o privremenom o oduzimanju predmeta UP PJ P. izdata na ime optuženog G. V. od 18.06.2011. godine,  potvrda o privremenom o oduzimanju predmeta UP PJ P. izdata na ime optužene  K. K. od 19.06.2011. godine, izvršen je uvid u spise predmeta ovog suda Kbr. 337/2009 po krivici optuženog  G. V. i dr., te izvršen uvid u fotodokumentaciju UP PJ P. br. 17-28-244-1125/1855 od 18.06.2011. godine, kao i u putnu ispravu - pasoš, br..., izdat dana 20.10.2009. godine od strane nadležnog organa R. S., na ime K. K.,  pročitani su izvod iz kaznene evidencije na ime optuženog G.V.a izdat od strane UP PJ B.P. od 23.06.2011. godine.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Cijeneći navode odbrane i optužbe, te dokaze provedene na glavnom pretresu, pojedinačno i u njihovoj međusobnoj povezanosti, sud je utvrdio da je optuženi G.V. izvršio krivično djelo stavljeno mu na teret, na način, mjesto i vrijeme kako je to predstavljeno u st. I izreke presude.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Svjedok R. A. </span><span>je prilikom saslušanja pred istražnim sudijom u  bitnom naveo da je u martu mjesecu 2011 godine izdao stan optuženoj K.K., koja  mu je uredno plaćala kiriju. Naveo je da ne zna ko je stanovao u stanu sa optuženom, niti ga je to interesovalo, dodajući da je samo mjesečno dolazio po kiriju, koju mu je optužena  plaćala, s tim što u tim prilikama, nije ulazio u stan. Jednom prilikom, sa ulaznih vrata primijetio je mušku obuću u hodniku. Prilikom saslušanja na glavnom pretresu, svjedok je ponovio  ranije navode, dodajući da mu je prilikom iznajmljivanja stana, optužena rekla da radi u T., da je mirna djevojka, da se ne drogira. Pojasnio je da mu je optužena je plaćala stanarinu u  mjesečnom  iznosu od 240€ na način što je on dolazio po novac ali nije ulazio u stan, već mu je optužena na ulaznim vratima davala novac za stanarinu, a takođe i za struju koje račune joj je istovremeno donosio. Osim što mu je optužena rekla da ima dečka i da će dolaziti kod nje s vremena na vrijeme, nije mu rekla ime dečka. Nakon kritičnog događaja ispred stana zatekao je neke stvari, nije gledao što je među tim  stvarima već ih je sve bacio. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Svjedok R. M. </span><span>je naveo da je kritične večeri bio dežurni starješina kriminalističke službe UP PJ P., kada su od strane dežurne službe on i njegove kolege obavješteni  da je podnijeta prijava za nasilje, te da se jedno lice zaključalo u stan i da ne otvara vrata njihovim službenicima, nakon čega su on i kolege M. S. i B. M. pošli na lice mjesta radi vršenja radnje pretresa stana. Po njegovom ulasku u stan G. je već bio lišen slobode. Prilikom pretresom stana, na terasi JE pronađena izvjesna količina skanka i nešto smjese za koju su sumnjali da se radi o kokainu. Nije se mogao sjetiti bilo čega karakterističnog u vezi ponašanja optuženog kritičnom prilikom, dodajući da su sve radnje koje su obavili prilikom pretresa zapisnički konstatovali. Dalje je naveo da mu je kritičnom prilikom bilo poznato da je protiv optuženog G. izdata nacionalna potjernica od strane Osnovnog suda u P. radi izdržavanja zatvorske kazne. Odgovarajući na pitanja, naveo je da su prilikom pretresa stana imali kontakt sa predmetima koje su pronašli i potom oduzeli, te da  on i kolege prilikom pretresa nijesu koristili rukavice iz razloga što su bili u deficitu sa tim materijalom. Pojasnio je da su prije nego što je došao u stan, kolege iz Interventne jedinice već bile u stanu, te da se jedino mogao sjetiti da je optuženi već bio lišen slobode i da je bio u alkoholisanom stanju, koje zapažanje u vezi optuženog nije konstatovao ni u zapisniku o pretresu stana, ni u službenoj zabilješci jer to obično ne rade. Dalje je odgovarajući na pitanja optuženog naveo da je kritičnom prilikom, prvi put vidio  K.  K. tako da o njoj ništa nije znao pa nije mogao ni bilo što komentarisati za nju, dodajući da je  prilikom pretresa stana pronađena perika, to bi svakako bilo zapisnički konstatovano. Istakao je da u spisima predmeta postoji izjava K. K. da kao držalac stana zahtijeva pretres stana, te da im je K. rekla  da je u stanu droga i da zbog toga zahtijeva pretres. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Svjedok M. S. </span><span>je, naveo da je kritičnom prilikom od dežurnog starješine obaviješten da je neophodno da se izvrši pretres predmetnog stana. Po dolasku u stan, zatekao je kolege, pripadnike interventne jedinice, s tim što su on, R. i B. zajedno otpočeli pretres stana, kojom prilikom su  pronašli određenu količinu skanka i nešto manje kokaina, a što su sve zapisnički konstatovali. Optuženi G. je po njihovom dolasku bio u stanu ali se svjedok nije mogao sjetiti u kojem dijelu stana ga je zatekao, niti da li je imao lisice na rukama. Pretresu su prisustvovala dva punoljetna građanina u svojstvu svjedoka, čija imena su konstatovana u zapisniku. Zapisnički su takodje konstatovali gdje, u kojim tačno prostorijama su pronašli drogu, te naveli vrstu droge i količinu. Svjedok se nije mogao sjetiti da je prilikom pretresa nađena perika.  Pojasnio je da prilikom pretresa stana nijesu koristili rukavice, što je kao i u drugim slučajevima  zavisilo od  vremena kada vrše pretres kao i okolnosti da li ima  rukavica ili ne. Naveo je da nije zapazio neko karakteristično ponašanje optuženog kritičnom prilikom. Istakao je da im je optužena  K.K  rekla da je u stanu droga i da zbog toga zahtijeva pretres stana, što je zapisnički konstatovano a takodje u spisima predmeta postoji njena izjava da kao držalac stana zahtijeva pretres stana. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Iz službene zabilješke sačinjene od strane ovlašćenih policijskih službenika UP PJ P. - ekspozitura za JRM, filijala ..., od 18.06.2011. godine, </span><span>utvrđeno je da su službenici policije, po prijavi komšija zbog buke i galame, upućeni u ..., crveno - siva zgrada, u stan na prvom spratu. Dolaskom na lice mjesta, na prvom spratu, u ulazu br. III, ispred predmetnog stana, sreli su tri vidno uznemirene osobe, K. K., K. K.i  M. M.,  jedna od ovih osoba je bila povrijedjena, dok je četvrto osoba za kojeg su utvrdili da se radi o G.V.u, za kojim je raspisana potjernica, nakratko provirio, a odmah potom se vratio u stan,  zaključao iznutra i nije htjelo da otvori vrata pa su službenici policije, prethodno obezbjeđujući lice mjesta, a nakon što su došle kolege, u stan ušli pomoću vatrogasnih stuba i navedeno lice lišili  slobode. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Iz službene zabilješke sačinjene od strane ovlašćenih policijskih službenika UP PJ P. - Interventna jedinica, od 17/18.06.2011. godine, </span><span>utvrđeno je da su, navedenog dana policijski službenici oko 01:53 h upućeni u ul. .., gdje je došlo do narušavanja javnog reda i mira tučom. Dolaskom na lice mjesta, zatečena su ispred ulaza zgrade tri lica, dok je jedno lice bilo zaključano u stanu. Oko 05:00 h, službenici policije su uz pomoć merdevina vatrogasne jedinice ušli kroz otvorenu terasu navedenog stana i lišili slobode G.V.a. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Iz zapisnika o pretresanju stana i drugih prostorija UP PJ P. od </span><span>utvrđeno je da su ovlašćeni policijski službenici dana 18.06.2011. godine  bez naredbe sudije za istragu izvršili pretres stana, po zahtjevu držaoca stana K. K., što se utvrdjuje iz izjave potpisane od strane K. K., koja je kao i  dva punoljetna građanina, S. Dj. i P. D., prisustvovala pretresu i koja je zahtjevala da se izvrši pretres iz razloga što se u stanu nalazi droga. Predmetni stan nalazi se u ul...,  sastoji se od hodnika, dnevne sobe, spavaće sobe, zatvorene terase i kupatila. Prilikom pretresa stana, na terasi u lijevom uglu, pronađena je jedna PVC kesa u kojoj su se nalazili veće pakovanje od aluminijumske folije, u kojem se nalazilo 16 ručno pravljenih zamotuljaka takođe od al. folije, a u kojima se nalazila tamno - zelena biljna materija. U istoj kesi pronađena je jedna veća PVC kesa sa sadržajem opisane biljne materije, kao i  jedan ručno pravljeni zamotuljak od providne PVC kese u kojem se nalazila nepoznata materija bijele boje za koju se pretpostavilo da je opojna droga kokain. Daljim pretresom, u kuhinji, tačnije na kuhinjskim elementima, u rasutom stanju  pronađena je biljna materija za koju se pretpostavilo da je opojna droga marihuana, u obliku dva cvijeta. U plakaru u spavaćoj sobi pronađena je jedna digitalna vaga crne boje, marke ''Cormoran''. Na terasi spavaće sobe pronađena je jedna korišćena cigareta tzv. ''džoint''. U dnevnoj sobi, a u dijelu kuhinje, pronađene su dvije korišćene rolne aluminijumske folije i jedno korišćeno pakovanje kesa za zamrzivač. U smeću koje se nalazilo u dnevnoj sobi, pronađena je jedna veća iscijepana kesa plave boje, oblijepljena providnom trakom, u kojoj se nalaze tragovi biljne materije, za koje se pretpostavilo da potiču od opojne droge marihuane. U šortsu, na trosjedu u dnevnoj sobi, pronađen je novac u iznosu od 180€ u apoenima od 1x100€, 1x50€, 3x10€. Na stolu u dnevnoj sobi pronađen je jedan mobilni telefon marke ''Nokia'', model 6300, IMEI br... i mobilni telefon marke ''Nokia'', model 1200, IMEI .... sa Telenor SIM karticom br. ...., koji predmeti su privremeno oduzeti od optuženog uz izdatu potvrdu o privremenom oduzimanju predmeta.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Iz potvrde o privremenom oduzimanju predmeta od 18.06.2011. godine, </span><span>izdate na ime G.V.a, koju je odbio da potpiše, utvrđeno je da su oduzeti: jedna veća providna PVC kesa  u kojoj se nalazio veći zamotuljak od aluminijske folije u kojem je pronađeno ukupno 16 manjih ručno pravljenih zamotuljaka, napravljenih takođe od aluminijske folije, u kojima se nalazila biljna materija tamno zelene boje, jedna veća PVC kesa koja je pronađena u gore navedenoj kesi, sa biljnom materijom tamno zelene boje, jedan ručno pravljeni zamotuljak od providne PVC kese u kojem se nalazila nepoznata materija bijele boje, jedna digitalna vaga crne boje, marke ''Cormoran'', dvije korišćene rolne aluminijumske folije, jedno korišćeno pakovanje kesa za zamrzivač, dva tzv. cvijeta biljne materije, jedna veća iscijepana kesa plave boje, oblijepljena providnom trakom, sa tragovima nepoznate biljne materije, novac u iznosu od 180€ u apoenima od 1x100€, 1x50€, i 3x10€, jedan mobilni telefon marke ''Nokia''-model 6300 IMEI br..., bez poklopca, baterije i SIM kartice, i mobilni telefon marke ''Nokia'', model 1200, IMEI br... sa Telenor SIM karticom br.... </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Iz potvrde o privremeno oduzetim predmetima od 19.06.2011. godine,</span><span> koja je izdata na ime optužene K. K.,  koja je potvrdu i potpisala, utvrđeno je da su od imenovane oduzeti putna isprava - pasoš serijskog broja ..., izdat od strane MUP-a S. na ime K. K., lična karta reg. broja ... izdata na ime K. K., mobilni telefon marke ''Nokia 1110''  IMEI br... sa SIM karticom "M"- za broj telefona..., i dva metalna ključa sa natpisima ''Silca'' i ''AFS''.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Iz Izvještaja o vještačenju opojne droge br. 2653/11 </span><span>utvrđeno je da su predmet vještačenja  : 1. digitalna vaga crne boje marke ''Cormoran''; 2. plastična kesa plave boje, obmotana selotejp trakom, sa sadržajem biljne materije neto mase m=0,61 g; 3-a. dvije korišćene rolne Al-folije i 3-b. pakovanje kesa za zamrzivač; 4. rasuta biljna materija, zelene boje, karakterističnog opojnog mirisa, neto mase m=4,10 g; 5. jedna korišćena ručno pravljena cigareta sa sadržajem biljne materije zelene i boje ćilibara, karakterističnog opojnog mirisa, neto mase m=0,33 g; 6-1. jedna plastična kesa u kojoj se nalazi jedan veći ručno pravljeni zamotuljak od Al-folije u kome se nalazi šesnaest zamotuljaka od Al-folije sa sadržajem biljne materije zelene boje, karakterističnog opojnog mirisa, neto masa:     m1=2,73 g, m2=2,63 g, m3=2,99 g, m4=2,92 g, m5=2,41 g, m6=2,26 g, m7=3,46 g, m8=2,86 g, m9=2,59 g, m10=2,83 g, m11=2,07 g, m12=3,16 g, m13=2,57 g, m14=3,52 g, m15=2,63 g i m16=2,63 g, 6-b. jedan veći ručno pravljeni zamotuljak od plastične kese sa sadržajem biljne materije zelene boje, karakterističnog opojnog mirisa, neto mase m=39,94 g, i 6-c. jedan manji zamotuljak od plastične kese sa sadržajem praškaste materije bijele boje, neto mase m=0,83 g. Navedeni uzorci su pronađeni prilikom pretresa stana koji su koristili K.K i G.V.. Detaljnim mikroskopskim pregledom dostavljenog biljnog materijala navedenog pod brojevima 2, 4, 5, 6a i 6b utvrdjeno je prisustvo smole kao i bodlji u obliku ''medveđih kandži''. Na osnovu karakteristične morfološke građe navedenih elemenata u dostavljenom biljnom materijalu konstatovano je da potiču od biljke čiji je botanički naziv Cannabis sativa L, iz familije Canabaceae-Kanabis. Hemijskom analizom navedenih uzoraka rađenom  metodom tankoslojne hromatografije (TLC) iz hloroformskog ekstrakta uz upotrebu standarda tetrahidrokanabinola (THC) utvrdjeno je da  uzorci, oznake 2, 4, 5, 6a i 6b sadrže psihoaktivnu komponentu tetrahidrokanabinol (THC) u koncentraciji iznad 0,3% . Kanabis i THC su supstance koje djeluju na centralni nervni sistem i koje izazivaju stanje zavisnosti. Hemijskom analizom uzoraka označenim brojevima 1, 3 i 6c i metodama tankoslojne hromatografije, infracrvene spektrometrije i metodom gasne hromatografije utvrdjeno je da uzorak pod brojem 6c sadrži kokain, dok uzorci pod brojevima 1 i 3 ne sadrže tragove droga u granicama detekcije primijenjenih metoda. Kokain je supstanca koja djeluje na centralni nervni sistem i koja izaziva stanje zavisnosti.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Iz zapisnika o daktiloskopskoj pretrazi i vještačenju papilarnih linija br 138/12 od 08.02.2012. godine </span><span>utvrđeno je da su predmet vještačenja dostavljeni s uzorci: 1.- digitalna vaga crne boje; 2.- PVC kesa plave boje, obmotana selotejp trakom i papirni zamotuljak sa sadržajem biljne materije zelene boje; 3.- dvije rolne aluminijumske folije i jedna rolna PVC kesa za zamrzivač; 4.- biljna materija zelene boje upakovana u papirni zamotuljak; 5.- filter cigarete zalijepljen za papirni zamotuljak sa sadržajem biljne materije zelene boje, dostavljen u PVC providnoj kesi; 6/1.- šesnaest papirnih zamotuljaka i dva zamotuljka od aluminijumske folije; 6/2- jedan veći zamotuljak od PVC kese sa sadržajem biljne materije zelene boje;    6/3- jedan papirni zamotuljak sa sadržajem praškaste materije i mali komadić PVC materijala. Uzorci - zamotuljci od aluminijumske folije nijesu tretirani, jer se radi o površini sa koje se ne mogu izazvati tragovi papilarnih linija, tj. o foliji koja je već otvarana u cilju hemijske analize biljne materije, pa ponovo izgužvana kako bi se zamotuljci zatvorili. Takođe, nijesu tretirani ni papirni uzorci jer se radi o papirima koje su službenici Grupe za hemijska ispitivanja tragova droga, nakon izvršene analize koja je prethodno od njih tražena, koristili za pakovanje biljne materije, kao i mali komadić PVC materijala. Na osnovu DKT pretrage ostalih uzoraka, utvrđeno je da su pronađena 3 traga papilarnih linija i to: na uzorku označenom brojem      3/1.- rolna PVC kesa za zamrzivač, pronađen je jedan trag označen sa 3/1A, podesan za identifikaciju; i na uzorku označenom brojem 5.- PVC providna kesa, pronađena su dva traga papilarnih linija, od kojih je jedan oznake  5A, podesan za identifikaciju, a drugi označen sa 5B nepodesan za identifikaciju. Nadalje, komparativnim poređenjem tragova papilarnih linija, označenih sa 3/1A i 5A, sa daktiloskopskom listom optuženog G.V.a, utvrđeno je da navedeni tragovi ne potiču od optuženog. Takođe, ni DKT vještačenjem navedena dva traga podesna za identifikaciju, niti upoređivanjem sa bazom registrovanih lica na teritoriji Crne Gore, upotrebom AFIS sistema, nije izvršena njihova identifikacija. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Iz zapisnika o daktiloskopskom vještačenju tragova papilarnih linija br. 138/12-1 od 10.04.2012. godine,</span><span> komparativnim poređenjem tragova papilarnih linija sa  navedenih uzoraka koji su bili predmet DKT vještačenja  br 138/12 od 08.02.2012. godine</span><span class="s1"> </span><span>sa daktiloskopskom listom optužene K. K., utvrđeno je da navedeni tragovi 3/1A i 5A ne potiču od optužene. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Stručno lice Forenzičkog centra u D. J. J., </span><span>prilikom izjašnjenja na glavnom pretresu, ostala je u cjelosti kod navedenih zapisnika o vještačenju 138/12 od 08.02.2012. godine i 138/12-1 od 10.04.2012. godine. Pojasnila je da su svi tragovi koji su u navedenom zapisniku prikazani, prije primjene hemijske metode, bili latentni tragovi, što znači da se prilikom dostavljanja uzoraka nijedan od ovih tragova nije vidio, ali u labaratoriji za izazivanje latetnih tragova papilarnih linija primjenom hemijske metode tragovi su učinjeni vidljivima. Analizom izazvanih tragova odnosno utvrđivanjem njihove podesnosti, utvrđeno je da su dva traga podesna za identifikaciju, tj. da imaju dovoljan broj karakteristika da se sa njima dalje može raditi, dok je jedan od njih, sa aspekta daktiloskopske struke, nepodesan za dalji rad a to znači da se taj trag ne može upoređivati sa otiscima prstiju bilo kog lica jer nema dovoljan broj identifikacionih obilježja. Dalje je pojasnila da se tragovi  mogu izazvati zahvaljujući znoju koji ostaje na predmetima prenijetog sa naših prstiju. Svi tragovi su zahvaljujući tome i izazavani, a trag za koji je konstatovano da je nepodesan znači da nema dovoljan broj papilarnih linija i karakterisitka na njemu, da bi mogao da se upotrijebi za dalje upoređivanje. Usled toga što nije ostavljena dovoljno velika površina traga kao i usled činjenica da je prilkom ostavljanja traga došlo do pokretanja prsta, što uslovljava pojavljivanje zamrljane površine,  sa takve površine se ne mogu uočiti identifikaciona obilježja. Ovi tragovi ustvari nijesu ni identifikovani, nije utvrđeno od koga potiču, samim tim ne može se znati da li se radi o jednoj osobi ili dvije osobe. Kako nije utvrdjena identifikacija tragova upoređivanjem sa otiscima G. V., izvršeno je upoređivanje ta dva traga sa bazom svih registrovanih lica - izvršilaca krivičnih dijela na teritoriji C. G., upotrebom AFIS sistema, ali ni na taj način nije utvrdjena njihova identifikacija. Ukoliko dođe do preklapanja tragova na istom mjestu, nije moguće izvšiti razdvajanje više tragova i njihovu identifikaciju, tako da taj trag ostaje nepodesan za dalji rad. U pisanom nalazu nije dat grafički prikaz traga optuženog  G., zato što to nije uobičajena procedura za pisanje izvještaja, jer se grafičko prikazivanje traga i otiska od nekog lica vrši samo u slučaju kada je utvrđeno da trag potiče od određenog lica. Dalje je navela da u Forenzičkom centru postoji opšte pravilo da prilikom rukovanja sa svim uzorcima, službenici koriste rukavice, što  znači da službenici Forezničkog centra nijesu mogli ostaviti svoje tragove prilikom ranijeg hemijskog vještačenja. Što se tiče uzoraka od aluminijumske folije tu je moglo da dođe do oštećenja tragova jer se radi o površini koja se prilikom savijanja prelama, a nakon otvaranja i novog savijanja dolazi i do prelamanja u potpuno suprotnom pravcu. Nadalje, navela je da, prilikom vršenja uviđaja i pretresa prostorija, službenici policije treba da nose rukavice, a u slučaju da ih nijesu nosili, mogli su ostaviti svoje otiske. Konkretno što se tiče navedena dva traga koja su podesna za identifikaciju, navela je da ovi tragovi nijesu nastali preklapanjem, već su jasni, što znači da  nijesu uništeni nekim drugim dodirivanjem, pitanje je samo od koga potiču. Takodje je navela da u konkretnom predmetu ne bi mogli da se dobiju rezultati  DNK-a vještačenja, jer se radi o uzorcima koji su više puta kontaminirani i samim tim nepodesni za DNK analizu.  </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Citirani izvještaj i zapisnike o vještačenju kao i izjašnjenje stručnog lica J. J., sud je u cjelosti prihvatio kao stručne i objektivne i u skladu sa provedenim dokazima.</span>
+</p>
+<p class="p3"></p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Iz sadržine citirane fotodokumentacije, </span><span>sačinjene od strane UP PJ P., utvrđeno je da je na fotografijama prikazan izgled ulaznih vrata predmetnog stana, kao i unutrašnjost prostorija i mjesta gdje su  prilikom pretresa satana pronadjeni opisani predmeti, čiji izgled je takodje prikazan.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Iz putne isprave - pasoša, </span><span>čijja je </span><span class="s1">kopija </span><span>zadržana u spisima predmeta nakon što je sud izvršio uvid u original, utvrdjeno je da je izdata dana 20.10.2009. godine od strane nadležnog organa R. S., na ime K. K., ser  br...</span><span class="s1">,</span><span> dok se iz ovjerenih pečata utvrdjuje da je imenovana u periodu od 13.02. 2011 do 18.02. 2011 godine boravila u B.-R. I.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">Uvidom u spise predmeta</span><span> ovog suda K br.337/2009 utvrdjeno je da je zbog izvršenja pravosnažne presude Višeg suda u Podgorici  Kbr.337/2009, kojom je optuženi G.V. zbog izvršenja krivičnog djela iz čl.300 st.1 KZ osudjen na kaznu zatvora u trajanju od 1 godine, dana 28.04.2011 godine protiv optuženog izdata Naredba za izdavanje potjernice Iks BR.11/67 jer službenici Uprave policije postupajući po naredbi za njegovo prinudno dovodjenje nijesu  osudjenog mogli pronaći na datoj adresi.   </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Činjenično stanje iz stava I izreke presude utvrđeno je provedenim dokazima.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Optuženi Gluščević ne priznaje izvršenje krivičnog djela stavljenog mu na tert.  Negirajućí navode optužbe da je kupovao i prodavao predmetnu marihuanu kao i da je predmetna droga pronadjena u stanu, njegovo vlasništvo, istakao je da droga pripada optuženoj K., koja je  drogu i konzumirala. Ovakvu odbranu optuženog Gluščevića, sud nije prihvatio jer je neosnovana i sračunata na izbjegavanje krivice, budući da je opovrgnuta provedenim dokazima.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Naime, u zakonito provedenoj proceduri pretresa predmetnog stana koji je koristio i optuženi, pronadjena je naprijed navedena količina opisane biljne i praškaste materije, za koju je  citiranim vještačenjem utvrdjeno da se radi o opojim drogama- marihuani i kokainu.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Da je predmetna droga vlasništvo optuženog G. utvrdjeno je provedenim dokazima.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Naime, iz navoda odbrane optužene K. K. i kazivanja svjedoka R.</span><span class="s1"> </span><span>A., zakupodavca  predmetnog stana, utvrdjeno je da  su u martu mjesecu 2011 godine optužena i svjedok R. usmeno ugovorili zakup predmetnog stana, za koji mu je optužena mjesečno isplaćivala zakupninu u iznosu od 240 €. Da su optužena K.i optuženi G. u kritičnom periodu živjeli u predmetnom stanu utvrdjeno je iz njihovih odbrana, budući da  ni optuženi G., iako negira stalni boravak sa optuženom u stanu, ne spori da je više puta prespavao i više dana boravio u stanu. Nadalje, kako je nesporno da su optužena K.K i optuženi G. bili  u emotivnoj vezi, u kojoj je začeto i nerodjeno dijete, sud nema razloga da sumnja u vjerodostojnost navoda optužene, da je predmeti stan iznajmila u svrhu zajedničkog stanovanja sa optuženim, koji je sjutradan po useljenju, prenio u stan garderobu i ostatak ličnih stvari i gdje su nastavili da žive sve do kritičnog dogadjaja. Naime i salušani svjedok R., vlasnik predmetnog stana tvrdi da mu je optužena prilikom iznajmljivanja stana pomenula da ima dečka i nagovjestila i njegov boravak u stanu, te da je u jednoj od prilika kada je dolazio po stanarinu, primjetio mušku obuću u hodniku. U prilog istog  zaključaka, da je optuženi u kritično vrijeme u svrhu zajedničkog stanovanja sa optuženom K. koristio  predmetni stan je i činjenica, da je optuženi i  kritične večeri zatečen u predmetnom stanu, što ni optuženi ne spori a što  je utvrđeno i iz odbrane optužene K., kao i sadržine citrnih službenih zabilješki. Shodno navedenom, činjenica da je optužena iznajmila predmetni stan i to što optuženi nije imao kontakt sa vlasnikom stana, nije od uticaja na drugačije činjenično utvrdjenje.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Neosnovani su navodi odbrane optuženog G., da nije znao da se u predmetnom stanu nalazi droga te da  je, kako objašnjava u odbrani na glavnom pretresu, budući da je bio sam i zaključan u stanu, imao dovoljno vremena da u slučaju da je droga bila njegovo vlasništvo, drogu ukloni ili uništi prije ulaska ovlašćenih policijskih službenika u stan. Na kontradiktornost ovih navoda optuženog jasno ukazuju takodje njegovi navodi, da se nakon opisanog fizičkog obračuna sa optuženom, njenom majkom i očuhom koji su izašli iz stana, zaključao  u stanu i spavao sve do dolaska policije koja ga je probudila. Naime, da je optuženi, kako tvrdi po ulasku u stan zaspao, u takvim okolnostima nije realno da je mogao  očekivati dolazak policije pa samim tim ni preduzimati radnje na uklanjanju droge. Takodje, da optuženi nije nakon opisanog fizičkog konflikta, kako navodi, legao da spava, već da je nasuprot navedenom, nakon što su optužena i njeni majka i očuh ostali u hodniku ispred ulaznih vrata stana, na očigled policijskih službenika, nakratko provirio a zatim se vratio i zaključao ulazna vrata stana, koja ni po naredjenju policijskih službenika nije htio da otvori, zbog čega su policajci pomoću vatrogasnih stuba ušli u stan,  utvrdjeno je  iz sadržine citirane službene zabilješke, a što je istovjetno u svojoj odbrani opisala i optužena K.K. Zaključavanje u stanu na očigled policije, očigledno je u datim okolnostima bio ishiitren postupak optuženog, bez izgleda da uspije da predmetnu drogu ukloni, budući da je lice mjesta svo vrijeme od trenutka kada se optuženi zaključao pa do ulaska u stan policijskih službenika, bilo obezbjedjeno prisustvom policije.  Optuženi nije imao ni vremena  ni mogućnosti da u takvim okolnostima sakrije ili mimo stana ukloni kako predmetnu drogu tako i ostale zatečene predmete, vagu,  kese i aluminijsku foliju koji su  pronadjeni u različitim prostorijama stana, zbog čega neosnovano predstavlja da je spavao a sve u cilju sakrivanja činjeniice, da u stanu neovlašćeno drži svoju drogu.   Nadalje, neosnovani su i navodi odbrane optuženog, da  droga nije mogla biti pronađena na terasi, budući da su opovrgnuti sadržinom citiranog zapisnika o pretresu stana i sadržinom citiranog fotoeleborata, iz kojih dokaza se utvrdjuje da je navedena količina droge, umotana u opisane zamotuljke, upravo pronadjena na terasi, gdje je kako objašnjava optužena  K., optuženi G.pušio marihuanu. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Neosnovani su i kontradiktorne tvrdnje optuženog G., da iako je znao da je optužena K. konzument marihuane te da je ranije nabavljala marihuanu i kokain u navedenim količinama, koju drogu je krila u ormaru medju tašnama, nije znao da se  kritične večeri droga nalazila u predmetnom stanu već je mislio da joj je baš tada nestalo droge tj. da je optužena zbog dolaska majke uklonila  drogu iz stana. Očigledno da ovakvom odbranom optuženi G. sračunato na izbjegavanje sopstvene krivice, nastoji da prikrije činjenicu, da je predmetna droga njegova, neosnovano  optužujući K. K. da je droga njeno vlasništvo. Naime, pretres  predmetnog stana,  iz razloga što se u stanu nalazi droga, zahtijevala je optužena  K.K, kao držalac stana, što se utvrdjuje iz citiranog zapisnika o pretresu i priložene izjave kao i iz iskaza svjedoka M. i R., pa inije logično očekivati da optužena zahtijeva od policijskih službenika, da izvrše pretres a pri tome je, kao vlasnica predmetne droge, kako to optuženi tvrdi, znala da je droga u stanu. Takodje su neosnovani i navodi optužnog G., da je optužena iz navedenih osvetoljubivih motiva prema njemu,  pozvala policiju, budući da optužena K. nije ta koja je prijavila nasilje policiji, već su to učinile komšije, na čiji je poziv policija došla, što se takodje utvrdjuje iz sadržine citirane službene zabilješke.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Na drugačiju  odluku suda nije od uticaja činjenica da pronađeni tragovi na oduzetim predmetima ne potiču od optuženog G., iz razloga što je provedenim dokazima već utvrđena njegova krivica. Takodje, radi se o dijelu materijala koji je takvih osobina da  sa njega, iz razloga kako je to objasnila  J.J., stručno lice Forenzičkog centara u D., nije bilo moguće izuzeti tragove otisaka, odnosno o materijalu sa kojim su ovlašćeni policijski službenici prilikom pretresa stana imali kontakt, budući da nijesu koristili zaštitne rukavice, a što je utvrđeno iz iskaza svjedoka R. i M. Shodno navednom činjenica da za dva pronadjena traga koja su bila podesna za identifikaciju nije utvrdjeno da potiču od optuženog G. niti od optužene K. K., nije od uticaja na drugačiju odluku suda.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Na osnovu ovakvog činjeničnog utvrdjenja, nema sumnje da je predmetna droga vlasništvo optuženog  G. pa činjenica da je optuženi odbio da potpiše citiranu potvrdu o privremenom oduzimanju predmeta, nije od uticaja na drugačiju odluku suda.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Sud je iskaze saslušanih svjedoka- policijskih službenika, R. i M. ocjenio    kao objektivne i vjerodostojne, budući da je njihovo kazivanje potkrijepljeno i sadržinom ostalih provedenih dokaza, citiranim potvrdama o privremenom oduzimanju predmeta,  zapisniku o pretresu stana, te sadržinom citiranog fotoelaborata, pri čemu je sud imao u vidu i činjenicu da su svjedoci kritičnom prilikom obavljali službenu radnju, pa kako ni optuženi G. kao ni svjedoci, ne ističu  bilo kakav raniji konfliktni odnos,  isključena  je svaka sumnja  u njihovu pristrasnost. Kako  optuženi G. kroz pitanja postavljena ovim svjedocima, insinuira da iako su svjedoci periku optužene  pronašli  prilikom pretresa  to nijesu zapisnički konstatovali niti potvrdili prilikom saslušanja na glavnom pretresu, nesumnjivo je da je i ovo još jedan neuspio pokušaj optuženog, da sračunato na izbjegavanje sopstvene krivice, optuženu predstavi sudu kao osobu sklonu nedozvoljenim radnjama, naglašavajući da se bavila prostituciom, na koji način je zaradjivala novac i tako finansirala kupovinu droge, a sve u cilju da bi dokazao da je predmetna droga vlasništvo optužene. Naime, kako navedeni svjedoci policijski službenici, od ranije nijesu poznavali ni optuženu K. K., nijesu ni imali razloga da  prikriju periku  optužene, koju su navodno prilikom pretresa pronašli. U prilog istog zaključka je i činjenica da  su pretresu stana prisustvovala dva punoljetna gradjanina koja su potpisala zapisnik u kojem su konstatovane sve stvari koje su pronadjene,medju kojima nema navedene perike. Takodje i iz sadržine citirane potvrde o oduzimanju predmeta, izdate na ime optužene K. K., utvrdjeno je da medju oduzetim stvarima nema perike.    </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Iskaz svjedoka R., sud je takodje ocijenio kao vjerodostojan i objektivan. Ovaj svjedok je predočio sudu sve pojedinosti u vezi iznajmljivanja predmetnog stana, kao i neposredna saznanja u vezi okolnosti plaćanja stanarine, koje je istovjetno opisala i optužena.Svjedok, kako je to prethodno utvrdjeno nije imao kontakta sa optuženim jer za svo vrijeme dok je stan bio u zakupu, nije ulazio u stan pa izuzev opisanih pojedinosti o zapžanjima koja je stekao u navedenim prilikama kada je dolazio po novac, nije ni mogao imati druga neposredna saznanja. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Shodno utvrdjenom činjeničnom stanju, nesumnjivo je da je optuženi izvršio inkriminisanu radnju neovlašćenog držanja predmetne količine marihuane i kokaina, koju drogu je držao u svrhu prodaje.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Naime, u zakonito provedenoj proceduri pretresa predmetnog stana koji je koristio i optuženi, pronadjena je naprijed navedena količina opisane biljne i praškaste materije, za koju je  citiranim vještačenjem utvrdjeno da se radi o opojim drogama- marihuani i kokainu. Nadalje, imajući u vidu činjenicu da je predmetna marihuana, zatečena razmjerena u 16 zamotuljaka kao i jednom posebnom pakovanju te pronadjen i dio ove droge koji je bio rasut, u količini navednoj u izreci presude, te dovodeći u vezu navedeno sa činjenicom da su  prilikom pretresa predmetnog stana, pored navedene droge, pronadjeni i predmetna vaga, folije i kese nesumnjivo je da je predmetna droga bila  pripremljena za prometovanje tj. namjenjena prodaji. Takodje na istovjetan zaključak suda, da je i predmetni kokain bio namjenjen prodaji, upućuje činjenica, da optuženi kako i sam tvrdi, ne konzumira ovu vrstu droge, što ni optužena ne spori, navodeći da je imala saznanje da optuženi G. konzumira samo marihuanu. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Činjenica da su optuženi G. i optužena bili u emotivnoj vezi, nije od uticaja na  postojanost motiva, da optužena sudu vjerodostojno predoči navedena saznanja o inkriminisanim radnjama optuženog. Naime, ona i optuženi su kako i sama navodi u vrijeme kada je prijavila policiji inkriminisane radnje držanja predmetne droge,  i dalje bili u emotivnoj vezi, što ni optuženi G. ne spori. Nadalje prilikom prvog saslušanja optuženi je naveo da ne zna razlog zbog čega je došlo do svadje izmedju njega i optužene, njene majke i navedenog prijetelja, da bi u odbrani na glavnom pretresu tvrdio da je razlog svadje činjenica da je sumnjao da je otac djeteta, koju sumnju  je optuženoj kritične večeri po prvi put izrazio.  Medjutim, imajući uvidu nespornu činjenicu, da ni nakon spontanog pobačaja trudnoće optuženi nijesu prekinuli vezu to je očigledno da potencirajući sopstvenu sumnju u očinstvo tek u odbrani na glavnom pretresu, optuženi nastoji da neosnovano predstavi, da je optužena upravo izrevoltirana ovakvom njegovom reakcijom, imala motiv da mu se osveti prijavom policiji da je droga njegova. Dovodeći u vezu prethodno navedeno sa činjenicom, da optužena nije prijavila opisano nasilje usled kojeg je njoj i članovima njene porodice bio onemogućen dalji boravak u stanu već su to učinile komšije, kako je to provedenim dokazima utvrdjeno, isključuje se osvetoljubivost kao motiv kojim se, kako to tendenciozono ističe optuženi, rukovodila optužena kada ga je neosnovano optužila da je vlasnik predmetne droge. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Sud je iz činjeničnog opisa dispozitiva optužbe, u st. I izreke presude, izostavio kao nedokazane, navode optužbe da je optuženi G.izvršio inkriminisane radnje neovlašćene kupovine radi prodaje i prodaje marihuane.  Provedenim dokazima nijesu potkrijepljeni navodi optužbe, da je optuženi G.u kritičnom periodu neovlašćeno radi prodaje kupovao i neovlašćeno prodavao marihuanu na način što je u periodu od kraja marta 2011 godine do 18.06.2011 godine, od nepoznatih lica, u četiri navrata kupio po jednu polovinu kilograma marihuane, koju marihuanu je potom u predmetnom stanu koji je koristio zajedno sa optuženom, prepakivao u manje paketiće i u više navrata prodavao nepoznatim licima u Podgorici. Naime, provedenim dokazima prvenstveno nije moglo biti utvrdjeno da li je navedena materija koja je predmet inkriminisane kupovine radi prodaje i neovlašćene prodaje, uopšte droga. Ovo iz razloga što ova materija nije pronadjena prilikom pretresa stana pa samim tim nije ni mogla biti predmet hemijskog vještačenja. Nadalje, kako se inkrimisane radnje neovlašćene kupovine i prodaje koje su optuženom stavljene na teret, shodno navodima optužbe vezuju za nepoznata lica, to je sud bio onemogudjen da saslušanjem svjedoka kojima je optuženi kako optužba tvrdi prodavao drogu odnosno od kojih je kupovao drogu radi prodaje, utvrdi osnovanost ovih navoda optužbe. Ni optužena K.nije mogla identifikovati lica od kojih je kako je navela optuženi kupovao marihuanu jer nikada nije prisustvovala kupoprodajama. Takodje, provedenim dokazima nije utvrdjeno da je navedena količina marihuane, za koju je utvrdjeno da je optuženi neovlašćeno držao u stanu, dio iste droge koju je optuženi po navodima optužbe neovlašćeno kupio, a potom prodao nepoznatim licima. Naime, iz odbrane optužene K. slijedi da je iz navedenih telefonskih razgovora i okolnosti koje je neposredno opažala, da optuženi u predmetni stan unosi a potom nakon dogovora putem telefona, iznosi marihuanu, shvatila i zaklučila da se optuženi bavi prodajom marihuane, što joj je optuženi jednom prilikom i sam priznao, objašnjavajući joj da na taj način obezbjedjuje novac za njihove zajedničke potrebe jer su oboje bili nezaposleni. Optužena je takodje objasnila da nikada u njenom prisustvu optuženi nije vršio prepakivanje droge, ali kako je poslednji put primjetila da  u nekoj kutiji, u kesama stoji marihuana upakovana u sitne folije, te budući da su se u stanu nalazili vaga i  pribor za pakovanje,  navela je  da je optuženi pakovao drogu.  Medjutim, kako  za ova materiju za koju optužena navodi da je marihuana, iz razloga jer nije bila dostupna sudu,  nije hemijskim vještačenjem utvrdjeno  da se radi o opojnoj drogi marihuani to nijesu dokazani navodi optužbe  da   je optuženi G. u kritičnom periodu  u četiri navrata kupio od nepoznatih lica po 1/2 kg droge- marihuane u svrhu prodaje, kao i navodi da je potom nakon što je ovu drogu prepakovao u manje paketiće i prodao nepoznatim licima. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Budući da je zastupnik optužbe u završnoj riječi ostao u cijelosti pri podignutoj optužbi a da je na glavnom pretresu utvrdjeno činjenično stanje drugačije nego što je ono predstavljeno dispozitivom optužbe, u dijelu naprijed navedenih okolnosti, sud je  izostavljanjem kao nedokazanih inkriminisanih radnji neovlašćene kupovine radi prodaje i prodaje, navedene količine marihuane, optuženog oglasio krivim za isto krivično dijelo izvršeno neovlašćenim držanjem predmetne droge, navedene količine marihuane i kokaina u svrhu prodaje, ostajući u granicama činjeničnog osnova optužnice, čime nije povrijedjen identitet optužbe i presude.  </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Shodno navedenom, nesumnjivo se utvrdjuje da je optuženi na način opisan u st. I izreke presude, navedenu količinu marihuane i kokaina neovlašćeno držao u stanu radi prodaje, pri čemu je to radio neovlašćeno. Naime, Zakonom o proizvodnji i prometu opojnih droga u čl. 4 propisano je da se proizvodnja i promet opojnih droga mogu  vršiti samo na osnovu odobrenja odnosno dozvole nadležnog  organa, dok su Rješenjem o utvrđivanju opojnih droga (“Sl. list SRJ”, br. 44/02 od 16.08.2002. godine) marihuana  – THC i kokain, proglašeni za opojne droge i nalaze se na spisku opojnih droga. </span>
+</p>
+<p class="p4"></p>
+<p class="p3">
+<span>Kod ovakvog činjeničnog utvrdjenja, nesumnjivo je da je optuženi postupao umišljajno, budući da je bio svjestan da se radi o supstancama</span><span class="s1"> </span><span>proglašenim za opojne drogu, te bio svjestan da navedenu količinu marihuane i kokaina neovlašćeno  drži u predmetnom stanu u svrhu prodaje,  što je i htio, čime su u radnjama optuženog ostvarena sva bitna objektivna i subjektivna obelježja bića krivičnog djela stavljenog mu na teret, za čije izvršenje ga je sud oglasio krivim.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Sud je procesnim rješenjem na glavnom pretresu odlučio da se neće provoditi saslušanje svjedoka B. M., imajući u vidu da je saslušanjem svjedoka  R. i M. u pogledu okolnosti pretresa stana činjenično stanje u dovoljnoj mjeri utvrdjeno. Takodje, sud je odlučio da se neće  pribavljati Izvod iz kaznene evidenicje za optuženu K. K.,  budući  da od strane nadležnih organa  R.S. nije udovoljeno uredno uručenoj zamolnici suda za pribavljanje ovog dokaza pa bi dalje insistiranje na pribavljanju vodilo nepotrebnom odugovlačenju postupka. Odbijen je i</span><span class="s1"> </span><span>predlog ranije angažovanog branioca optuženog G. da </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Prilikom izbora vrste i visine krivične sankcije, sud je cijenio sve okolnosti iz čl. 42 KZ CG, koje su od uticaja da kazna bude manja ili veća, pa je od olakšavajućih okolnosti na strani optuženog G. uzreo u obzir loše imovno stanje, nezaposlen, dok je od otežavajućih okolnosti cijenio činjenicu da je optuženi G. ranije osuđivan za krivična djela navedena u izreci presude, posebno imajući u vidu da je osudjivan i za istovrsno krivično djelo. Imajući uz navedeno u vidu težinu predmetnog krivičnog djela, sud je mišljenja da je odmjerena kazna zatvora u trajanju kao u izreci presude, neophodna i dovoljna za ostvarenje svrhe kažnjavanja, kako sa gledišta generalne, tako i sa gledišta specijalne prevencije, te da će uticati na optuženog da ubuduće ne vrši krivična djela, uticati na njegovo prevaspitavanje i imati vaspitni uticaj na druge da ne vrše krivična djela, kojom kaznom je izražena društvena osuda za krivično djelo i obaveza poštovanja zakona, jačanje morala i uticaja na razvijanje društvene odgovornosti, čime će u potpunosti biti ostvarena svrha kažnjavanja iz čl. 32 KZ, a u okviru opšte svrhe izricanja krivičnih sankcija iz čl. 4 st.2 istog Zakonika.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Shodno čl. 51 KZ, vrijeme od kada se optuženi G. nalazi u pritvoru, u trajanju kao u izreci presude pa nadalje, budući da mu je pritvor nakon izricanja presude produžen, uračunato je u izrečenu kaznu zatvora. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Odluka o troškovima krivičnog postupka - paušala, zasnovana je na odredbi čl. 229 ZKP-a. Troškovi krivičnog postupka, na čije je plaćanje sud obavezao optuženog G., odnose se na nagradu stručnom licu za izradu nalaza i mišljenja  o daktiloskopskom vještačenju, koja je odmjerena  u ukupnom iznosu od 88,00 €, dok je paušal u iznosu od 100 €, odmjeren srazmjerno dužini trajanja postupka, složenosti predmeta i imovnim prilikama optuženog.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Shodno citiranim zakonskoj odredbi, sud je prema optuženom G.V.u izrekao mjeru bezbjednosti oduzimanja navedene količine marihuane i kokaina, koja droga se ima uništiti nakon pravosnažnosti presude. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Provedenim dokazima nijesu potkrijepljeni navodi optužbe da je optužena K.K izvršila krivična djela stavljena joj na teret. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Naime, iz citirane Izjave te iskaza svjedoka  M. i R., kako je to prethodno navedeno, utvrdjeno je da je optužena  kao držalac predmetnog stana, kritičnog dana od policijskih službenika,  zahtjevala da se izvrši pretres stana, navodeći da se u stanu nalazi droga. Ovakvo postupanje optužene smatra se prijavom nadležnom organu, budući da se i usmeno podnijeta prijava, kao što je u konkretnom slučaj, podnijeta policijskim službenicima, dakle organu nadležnom za sprečavanje izvršenja krivičnih djela, smatra  valjanom prijavom. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Nadalje, kako nije dokazano da je optuženi G. u kritično vrijeme izvršio inkriminisane radnje neovlašćene kupovine 4 puta po pola kilograma marihuane radi prodaje i prodaje ove marihuane iz razloga koji su prethodno navedeni, to nema dokaza da je optužena K.K, izvršila  krivično djelo iz čl. 385 st.1 KZ, činjenično i pravno bliže opisano u stavu II tač. 1 izreke presude.</span>
+</p>
+<p class="p3">
+<span> </span>
+</p>
+<p class="p3">
+<span>Provedenim dokazima nijesu potkrijepljeni navodi optužbe, da je optužena K.K izvršila krivično djelo pomoć učiniocu poslije izvršenog krivičnog djela čl. 387 st. 1 KZ.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Naime, da je optuženi G. citiranom presudom navedenom u izreci presude koja je postala pravosnažna dana 07.12.20101 godine, osudjen zbog izvršenje krivičnog djela iz čl 300 st.1 KZ i osudjen na naveden kaznu zatvora,  utvrdjeno je iz izvoda iz kaznene evidencije za optuženog i uvidom u citirane spise predmeta a što je i sudu lično poznato, budući da je navedena presuda donijeta od strane istog sudije, tada kao postupajućeg predsjednika vijeća.Takodje uvidom u iste spise, utvrdjeno je da je dana 28.04.2011 godine protiv optuženog izdata Naredba za izdavanje potjernice radi pronalaska optuženog i privodjenja u ZIKS Podgorica radi izvršenja navedene pravosnažne osude. Optužena K. ne spori da je  20 dana prije kritičnog dogadjaja, u opisanim okolnostima, saznala da policija potražuje optuženog radi izvršenja zatvorske kazne za navedenu raniju osudu, što joj je i optuženi potvrdio.Neosnovani su navodi optuženog G.a da ni sam nije znao da je protiv njega izdata potjernica jer ove okolnosti kod činjenice da je potjernica zaista izdata ne bi mogle biti poznate optuženoj da ih nije saznala u okolnostima kao je to predočila sudu.  Medjutim, kako je nesumnjivo utvrdjeno da su se optuženi uselili u predmetni stan znatno ranije, u martu mjesecu 2011godine, iz sasvim drugih motiva, tj.u svrhu zajedničkog življenja, kada optuženoj ove okolnosti da optuženog potražuje policija nijesu bile niti su mogle biti poznate, što se utvrdjuje i iz činjenice da je potjernica izdata tek krajem aprila 2011 godine, činjenica da je optužena i nakon saznaja da policija potražuje optuženog nastavila da živi sa optuženim u istom stanu, ne znači da je to učinila u cilju skrivanja optuženog. Optužena K. nije preduzela ni jednu radnju u cilju sikrivanja optuženog G. u predmetnom stanu od izdržavanja kazne. Zajedničkim življenjem sa optuženim sa kojim je bila u emotivnoj vezi u predmetnom stanu još od marta mjeseca 2011 godine, optužena van svake sumnje  nije pružala skrovište optuženom G .niti ga je krila u navedenom stanu.Nasuprot navedenom, optuženi su se slobodno kretali po gradu,  a  budući da se predmetni stan takodje nalazi u Podgorici, tj. u istom mjestu gdje je optuženi od ranije imao prijavljen boravak, obaveza optuženog je bila da prijavi sudu svaku promjenu adrese na što je upozoren još u ranijem postupku a obaveza policijskih organa da postupe po izdatoj potjernici, pronadju i privedu optuženog zbog izdržavanja zatvorske kazne na koju je pravosnažno osudjen. </span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Kako provedenim dokazima  nije dokazano da je optužena K.K na način opisan u st. II tač. 2 izreke presude izvršila krivično djelo</span><span class="s1"> </span><span>čl. 387 st. 1 KZ, to je sud oslobodio od optužbe za navedeno krivično djelo. </span>
+</p>
+<p class="p4"></p>
+<p class="p3">
+<span>Troškova krivičnog postupka u oslobadjajućem dijelu presude nije bilo.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span>Na osnovu navedenog, a u smislu citiranih zakonskih odredbi, odlučeno je kao u izreci presude.</span>
+</p>
+<p class="p3"></p>
+<p class="p2">
+<span>VIŠI SUD U PODGORICI</span>
+</p>
+<p class="p2">
+<span>25.02.2013. godine</span>
+</p>
+<p class="p2"></p>
+<p class="p3">
+<span>ZAPISNIČAR                                                                                SUDIJA</span>
+</p>
+<p class="p3">
+<span>Vinka Rakočević, s.r.                                                          Ana Vuković, s.r.</span>
+</p>
+<p class="p3"></p>
+<p class="p3">
+<span class="s1">PRAVNA POUKA</span>
+</p>
+<p class="p4">
+<span>Protiv ove presude, dozvoljena je žalba </span>
+</p>
+<p class="p4">
+<span>u roku od 15 dana od dana prijema pismenog</span>
+</p>
+<p class="p4">
+<span>otpravka presude, preko ovog suda, </span>
+</p>
+<p class="p4">
+<span>Apelacionom sudu Crne Gore.</span>
+</p>
+<p class="p3"></p>
+<p class="p2">
+<span>Za tačnost otpravka tvrdi i ovjerava namještenik suda</span>
+</p>
+<p class="p2"></p>
+<p class="p11">
+<span>_____________________________________</span>
+</p>
+<p class="p11"></p>
+<p class="p4"></p>
+<p class="p4"></p>
+<p class="p4"></p>
+<p class="p4"></p>
+<p class="p4"></p>
+<p class="p4"></p>
+<p class="p4"></p>
+<p class="p4"></p>
+<p class="p4"></p>
+<p class="p4"></p>
+<p class="p4">
+<span class="s1">DNA</span><span>:</span>
+</p>
+<p class="p4">
+<span>Po primjerak presude dostaviti:</span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span>VDT-u Podgorica</span>
+</p>
+<p class="p4">
+<span>Optuženima</span>
+</p>
+<p class="p4">
+<span>Braniocima</span>
+</p>
+<p class="p2">
+<span>S U D I J A</span>
+</p>
+<p class="p2"></p>
+<p class="p2">
+<span>__________________________</span>
+</p>
+<p class="p4"></p>
+<p class="p4">
+<span>Postupljeno dana_______________</span>
+</p>
+<p class="p4">
+<span>namještenik Suda__________________</span>
+</p>
+<p class="p11"></p>
+<p class="p12"></p>
+
+
+</body>

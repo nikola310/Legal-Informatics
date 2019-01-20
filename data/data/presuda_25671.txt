@@ -1,0 +1,290 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.b2{margin: 0.82708335in 0.82708335in 0.82708335in 0.82708335in;}
+.p1{text-indent:0.41666666in;margin-left:-0.16666667in;margin-right:-0.052083332in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.p2{text-indent:0.41666666in;margin-left:-0.16666667in;margin-right:-0.052083332in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p3{text-indent:0.41666666in;margin-left:-0.16666667in;margin-right:-0.052083332in;text-align:end;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p4{text-indent:0.375in;margin-left:-0.16666667in;margin-right:-0.052083332in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p5{text-indent:0.375in;margin-left:-0.16666667in;margin-right:-0.052083332in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p6{margin-right:-0.052083332in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p7{text-indent:0.375in;margin-right:-0.052083332in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p8{text-indent:0.41666666in;margin-right:-0.052083332in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p9{text-indent:0.41666666in;margin-left:-0.16666667in;margin-right:-0.052083332in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p10{margin-right:-0.052083332in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p11{margin-right:-0.052083332in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p12{text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p13{text-indent:0.5in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p14{text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.p15{text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p16{text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p17{margin-left:0.5in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p18{text-align:end;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p19{text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.p20{text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.s1{color:black;}
+.s2{color:#ff6600;}
+.td1{width:2.7in;padding-start:0.075in;padding-end:0.075in;}
+.td2{width:3.75in;padding-start:0.075in;padding-end:0.075in;}
+.td3{width:1.95in;padding-start:0.075in;padding-end:0.075in;}
+.td4{width:3.5in;padding-start:0.075in;padding-end:0.075in;}
+.r1{keep-together:always;}
+.t1{table-layout:fixed;border-collapse:collapse;border-spacing:0;}
+</style>
+<meta content="Željka Jovović" name="author">
+</head>
+<body class="b1 b2">
+<p class="p1"></p>
+<p class="p2"></p>
+<p class="p3">
+<span>K. br. 404/13                                                                                                                                                                                        </span>
+</p>
+<p class="p4">
+<span>U IME CRNE GORE</span>
+</p>
+<p class="p4"></p>
+<p class="p5">
+<span>OSNOVNI SUD U PODGORICI kao prvostepeni, krivični, po sudiji Željki Jovović, uz učešće Rajković Danijele kao zapisničara, u krivičnom predmetu protiv okrivljene Dj. B. iz Podgorice, zbog krivičnog djela teško djelo protiv bezbjednosti javnog saobraćaja iz čl. 348 st. 3 u vezi čl. 339 st. 3 u vezi st. 1 Krivičnog zakonika, rješavajući po optužnom predlogu ODT Podgorica Kt. br. 535/13 od 18. 04.2013. godine, nakon održanog glavnog i javnog pretresa u prisustvu zastupnika optužbe Pavličić Biljane i okrivljene dana 17.07.2013.godine donio je i istog dana javno objavio</span>
+</p>
+<p class="p6"></p>
+<p class="p6">
+<span>P R E S U D U</span>
+</p>
+<p class="p7"></p>
+<p class="p2">
+<span>    Okrivljena</span>
+</p>
+<p class="p8">
+<span>Đ. B., JMB xxxxxxxxxxxxx, od oca M. i majke G., rođene M., rođena 19. 07. 19xx. godine u Podgorici, sa prebivalištem u Podgorici Ul. Vijenac Kosovskih junaka br. x, završila Pravni fakultet, po zanimanju diplomirani pravnik, penzioner, udata, majka dvoje djece, </span><span class="s1">srednjeg imovnog stanja,</span><span> neosuđivana.</span>
+</p>
+<p class="p9"></p>
+<p class="p9">
+<span class="s1">Kriva je</span>
+</p>
+<p class="p9"></p>
+<p class="p2">
+<span> Što je:</span>
+</p>
+<p class="p10">
+<span>	Dana 05. 01. 2013. godine, oko 12,00 časova, u Podgorici, u Bulevaru Džordža Vašingtona, ne pridržavajući se saobraćajnog propisa iz čl. 22 st. 1 ZOBS-a na putevima, ugrozila saobraćaj i dovela u opasnost život i tijelo ljudi, na način što je, upravljajući putničkim vozilom marke "Hundai" registarskih oznaka PG AMxxx, sa proširenje u blizini Male pijace, preduzela radnju uključivanja u saobraćaj, a da se prethodno nije uvjerila da to može da učini bez opasnosti za druge učesnike u saobraćaju ili imovinu, ne vodeći pri tom računa o položaju vozila, pravcu i brzini kretanja, u trenutku kada je desnom saobraćajnom trakom desne kolovozne trake označenog Bulevara naišao motocikl marke "Suzuki", kojim je u pravcu Ulice Dalmatinske upravljao oštećeni M. N., usljed čega je došlo do kontakta navedenog vozila i motocikla, kojom prilikom je oštećeni M. N. zadobio tešku tjelesnu povredu u vidu razderine gornje strane desnog stopala, praćena kidanjem tetive mišića opružača palca i prelomom druge kosti donožja i preloma članaka IV i V prsta, oguljotine lijeve potkoljenice i oguljotine desne podlaktice, pri čemu je postupila sa svjesnim nehatom jer je bila svjesna da ovakvom vožnjom može ugroziti javni saobraćaj i tako dovesti u opasnost život i tijelo ljudi, ali je olako držala da do toga neće doći, dok je u odnosu na posledicu - tešku tjelesnu povredu postupila sa svjesnim nehatom jer je znala da njenom radnjom takva posledica može nastupiti, ali je olako držala da do toga neće doći,  </span>
+</p>
+<p class="p10">
+<span>	- čime je izvršila krivično djelo teško djelo protiv bezbjednosti javnog saobraćaja iz čl. 348 st. 3 u vezi čl. 339 st. 3 u vezi st. 1 Krivičnog zakonika.</span>
+</p>
+<p class="p10"></p>
+<p class="p10">
+<span>	</span><span class="s2">	</span><span>Pa joj Sud za navedeno krivično djelo primjenom  čl. 4 st. 2, čl. 42 st. 1, čl. 52 st. 2, čl. 53 i 54 Krivičnog zakonika i čl. 226, 229 i 374 Zakonika o krivičnom postupku, izriče </span>
+</p>
+<p class="p10"></p>
+<p class="p6">
+<span>USLOVNU OSUDU</span>
+</p>
+<p class="p6"></p>
+<p class="p10">
+<span>	Kojom joj predhodno utvrđuje kaznu zatvora u trajanju od 3 (tri) mjeseca i istovremeno određuje da se ista neće izvršiti, ako okrivljena u roku od 1 (jedne) godine po pravosnažnosti presude ne izvrši novo krivično djelo. </span>
+</p>
+<p class="p10">
+<span class="s2">	</span><span class="s1">Obavezuje se okrivljena da plati na ime troškova krivičnog postupka iznos od 173,00 €, u roku od 15 dana po pravosnažnosti presude, pod prijetnjom prinudnog izvršenja. </span>
+</p>
+<p class="p10"></p>
+<p class="p6">
+<span>O b r a z l o ž e n j e</span>
+</p>
+<p class="p11"></p>
+<p class="p10">
+<span>	Optužnim predlogom ODT Podgorica Kt.br. 535/13 od 18.04.2013. godine stavljeno je na teret okrivljenoj Đ. B. izvršenje krivičnog djela teško djelo protiv bezbjednosti javnog saobraćaja iz čl. 348 st. 3 u vezi čl. 339 st. 3 u vezi st. 1 Krivičnog zakonika.</span>
+</p>
+<p class="p10">
+<span>	Zastupnik optužbe je prije davanja završnih riječi, precizirala činjenični opis dispozitiva optužnog predloga na način označen u izreci ove presude, ne mijenjajući pri tom pravnu kvalifikaciju djela i pri tako preciziranom činjeničnom opisu ostala do kraja glavnog pretresa, pa je u završnoj riječi predložila da sud okrivljenu oglasi krivom i kazni po Zakonu, nalazeći da je tokom postupka nesumnjivo utvrdjeno da je izvršila krivično djelo stavljeno joj na teret.</span>
+</p>
+<p class="p10">
+<span>	Okrivljena Đ. B. je u svojoj odbrani navela da je kritičnom prilikom upravljala vozilom marke "Hundai" reg. oznaka PG AMxxx. Vozilo je bila zaustavila na proširenju u blizini male pijace, okrenuto u pravcu pijace. Kada je ušla u vozilo imala je namjeru da se uključi u saobraćaj pa je započela radnju kretanja unazad, sa namjerom da se uključi u saobraćaj nakon što izadje sa mjesta gdje je bila parkirana. Iza nje su bila parkirana još dva vozila, pa nije imala najbolju preglednost. Procijenila je da se može uključiti u saobraćaj, pa je započela kretanje naprijed, ali je u jednom trenutku je došlo do kontakta sa motociklom, koje se kretalo u pravcu ul.Dalmatinske. Misli da je pogledala lijevo i desno ali nikog nije vidjela. U predmetnoj nezgodi motociklista je zadobio povrede, istog je obilazila i interesovala se za njegovo zdravlje. Na kraju je navela, da je očigledno pogrešno procijenila saobraćajnu situaciju kada je započela uključivanje sa proširenja, ali najvažnije od svega je da je oštećeni dobro.</span>
+</p>
+<p class="p10">
+<span>	U završnoj riječi je navela da joj je žao što je došlo do saobraćajne nezgode i što je oštećeni zadobio povrede.</span>
+</p>
+<p class="p10">
+<span>	Sud je u dokaznom postupku saslušao svjedoka - oštećenog Mišurović Nemanju, pročitao zapisnik o uvidjaju UP PJ Podgorica br. 77/2013 od 05. 01. 2013. godine, izvršio uvid u skicu lica mjesta predmetne saobraćajne nezgode, izvršio uvid u medicinsku dokumentaciju na ime oštećenog M. N., na saglasan predlog stranaka pročitani su nalaz i mišljenje sudskog vještaka medicinske struke dr R. N. od 02. 04. 2013. godine i nalaz i mišljenje sudskog vještaka saobraćajne struke Mr Đ. V. od 29. 03. 2013. godine, pročitao je izvještaj UP PJ Podgorica iz kaznene evidencije na ime okrivljene Đ. B. od 08. 05. 2013. godine.</span>
+</p>
+<p class="p10">
+<span>	Ocjenom navoda optužbe, odbrane, kao i svih provedenih dokaza, sud je na nesumnjiv način utvrdio da je okrivljena Đ. B. izvršila krivično djelo stavljeno joj na teret, na način, u vrijeme i na mjestu, kako je to predstavljeno izrekom ove presude pa je sud oglasio krivom i izrekao joj sankciju kao u izreci presude, iz sledećih razloga:</span>
+</p>
+<p class="p10">
+<span>	Svjedok - oštećeni M. N. je u svom iskazu naveo da je kritinom prilikom upravljao motociklom i kretao se desnom saobraćajnom trakom, desne kolovozne trake Bulevara Džordža Vašingtona, u pravcu ul. Dalmatinske. Dolaskom naspram Male pijace, odnosno ispred Hrama, koji se nalazi iza male pijace sa njegove desne strane, jedno vozilo, koje je bilo zaustavljeno je započelo kretanje. On je nastavio da upravlja motociklom, ali je to vozilo započelo skretanje ulijevo, pa je pokušao da ga izbjegne skretanjem ulijevo, u čemu nije uspio već je došlo do kontakta desne bočne strane motocikla sa prednjom lijevom stranom tog vozila. U nezgodi je zadobio povrede. Okrivljena se nakon nezgode interesovala za njegovo zdravlje, posjećivala ga tako da su se njihove porodice nakon nezgode sprijateljile. Nije se pridružio krivičnom gonjenju i nije postavio imovinsko-pravni zahtjev.</span>
+</p>
+<p class="p10">
+<span>	Iz zapisnika o uvidjaju UP PJ Podgorica br. 77/2013 od 05. 01. 2013. godine, i skice lica mjesta predmetne saobraćajne nezgode utvrdjeno je da je lice mjesta na raskrsnici ulica Bulevar Džordža Vašingtona i ul. V. Terzića. Kolovoz Bulevara Džordža Vašingtona je asfaltni, oivičen zemljanom površinom podijeljen na dvije kolovozne trake od kojih su desne do raskrsnice sa ulicom V. Terznića podijeljene na tri a lijeve na po dvije saobraćajne trake. Vozilo PG AMxxx zatečeno je po sredini raskrsnice, prednjim dijelom okrenuto u pravcu ul. Dalmatinske, gledano iz pravca Bulevara Sv. Petra Cetinjskog. Od materijalnih tragova na licu mjesta zatečeni su trag stakla, dio prednjeg branika vozila PG AMxxx, trag tečnosti, trag tkiva, desna patika i dio iste, auspuh motocikla, trag krzanja, kaciga i trag krvi. U nezgodi su učestvovali Đ. B., koja je upravljala PMV marke "Hundai" reg. oznaka PG AM xxx i M. N., koji je upravljao motociklom marke "Suzuki".</span>
+</p>
+<p class="p10">
+<span>	 Iz nalaza i mišljenja sudskog vještaka medicinske struke dr R. N. od 02.04.2013.godine utvrdjeno je da je oštećeni M. N. u predmetnoj saobraćajnoj nezgodi zadobio povrede i to razderina gornje strane desnog stopala, praćena kidanjem tetive mišića opružača palca i prelom druge kosti donožja i prelom članaka 4 i 5  prsta, koja povreda je posledica dejstva tupine mehaničke sile i mogla je nastati ili usled primarnog kontakta tijela vozača motocikla sa putničkim vozilom, ili usled pada i udara o tvrdu i neravnu podlogu, zatim oguljotinu lijeve potkoljenice koja je posledica dejstva tupine mehaničke sile i mogla je nastati usled pada i udara o tvrdu i neravnu podlogu i oguljotinu desne podlaktice, koja povreda je posledica dejstva tupine mehaničke sile i mogla je nastati usled pada i udara o tvrdu i neravnu podlogu. Sve naprijed navedene povrede zbirno posmatrano u vrijeme nanošenja kvalifikuju se kao teška tjelesna povreda.</span>
+</p>
+<p class="p10">
+<span>	Ovako dati nalaz i mišljenje vještaka medicinske struke, sud je u potpunosti prihvatio kao stručan, jasan i zasnovan na pravilima struke.</span>
+</p>
+<p class="p10">
+<span>	Iz nalaza i mišljenja sudskog vještaka saobraćajne struke mr Đ. V. od 29.03.2013.godine, utvrdjeno je da se vozilo "Hundai" reg.oznaka PG AM xxx kretalo brzinom od 11 km/h a motocikl "Suzuki" neposredno prije i u trenutku kontakta brzinom od oko 82,00 km/h. Vozilo "Hundai" PG AMxxx kretalo se Bulevarom Džordža Vašingtona iz pravca Bulevara Sv. Petra Cetinjskog u pravcu ul. Dalmatinske, a motocikl "Suzuki" kretao se Bulevarom Džordža Vašingtona, iz pravca Bulevara Sv. Petra Cetinjsog u pravcu ul. Dalmatinske iza vozila "Hundai". Na osnovu smjerova kretanja, brzine kretanja, materijalnih tragova na kolovozu i zatečenih pozicija vozila i motocikla, mjesto kontakta vozila i motocikla bilo je, gledano po uzdužnoj osi Bulevara Dž.Vašingtona, na oko 1-1,50m prije NT, a gledano po poprečnoj osi Bulevara Džordža Vašingtona u raskrsnici u produžetku lijeve saobraćajne trake desne kolovozne trake na oko 9,00m desno od lijeve ivice kolovoza, gledano iz pravca Bulevara Sv. Petra Cetinjskog u pravcu ul. Dalmatinske. Kontakt je ostvaren izmedju desnog bočnog dijela motocikla i prednjeg lijevog dijela vozila, pri čemu se vozilo ispravilo u pravcu ul. Dalmatinske. Nakon kontakta motociklista je pao na tvrdu podlogu i "suljao" po kolovozu do traga krvi, a motocikl se prevrnuo na bok i poslije krzanja zaustavio u zatečenoj poziciji. Vještak zaključuje, da je predmetna saobraćajna nezgoda nastala na način što se vozač vozila "Hjundai" prije uključivanja u saobraćaj kretanjem unazad, nije uvjerio da namjeravanu radnju može izvršiti bezbjedno, što znači da nije propustio motocikl, koji se kretao iza njega, a koga je imao uslova da pravovremeno uočik, već je nastavio kretanje i direktno ušao u putanju kretanja motocikla u vrlo kratkom vremenskom intervalu, usled čega je došlo do kontakta motocikla i vozila. Nakon kontakta vozilo je ostalo u zatečenoj poziciji na kolovoznoj traci namijenjenoj za kretanje vozila iz suprotnog smjera, dok je motociklista pao na tvrdu podlogu i "suljao" po kolovozu do traga krvi, a motocikl se prvrnuo na bok i poslije krzanja zaustavio u zatečenoj poziciji. Vozač motocikla "Suzuki" nezgodu bi izbjegao da se kretao brzinom izbjegavanja od oko 43,87km/h i svakom manjom. Ovakav način upravljanja vozilom od strane vozača vozila "Hjundai" posledica je greške u upravljanju u dijelu nepoštovanja propisa koji obavezuju vozača da se mora uvjeriti da namjeravanu radnju uključivanja u saobraćaj može izvršiti bezbjedno, što nije učinio, a što predstavlja osnovni i jedini uzrok nastanka nezgode.</span>
+</p>
+<p class="p10">
+<span>       Nalaz i mišljenje vještaka saobraćajne struke sud je u potpunosti prihvatio kao stručan, jasan, objektivan i zasnovan na pravilima struke.</span>
+</p>
+<p class="p10">
+<span>        Iz izvještaja UP PJ Podgorica iz kaznene evidencije na ime okrivljene Đ. B. od 08. 05. 2013. godine utvrđeno je da okrivljena nije osuđivana.</span>
+</p>
+<p class="p10">
+<span>	Cijeneći provedene dokaze pojedinačno i u njihovoj međusobnoj vezi, i dovodeći ih u vezu sa odbranom okrivljene u kojoj navodi  da je očigledno pogrešno procijenila saobraćajnu situaciju kada je započela uključivanje sa proširenja, sud je na nesunjiv način utvrdio da je okrivljena dana 05. 01. 2013. godine, oko 12,00 časova, u Podgorici, u Bulevaru Džordža Vašingtona, ne pridržavajući se saobraćajnog propisa iz čl. 22 st. 1 ZOBS-a na putevima, ugrozila saobraćaj i dovela u opasnost život i tijelo ljudi, na način što je, upravljajući putničkim vozilom marke "Hundai" registarskih oznaka PG AMxxx, sa proširenje u blizini Male pijace, preduzela radnju uključivanja u saobraćaj, a da se prethodno nije uvjerila da to može da učini bez opasnosti za druge učesnike u saobraćaju ili imovinu, ne vodeći pri tom računa o položaju vozila, pravcu i brzini kretanja, u trenutku kada je desnom saobraćajnom trakom desne kolovozne trake označenog Bulevara naišao motocikl marke "Suzuki", kojim je u pravcu Ulice Dalmatinske upravljao oštećeni M. N., usljed čega je došlo do kontakta navedenog vozila i motocikla, kojom prilikom je oštećeni M. N. zadobio tešku tjelesnu povredu u vidu razderine gornje strane desnog stopala, praćena kidanjem tetive mišića opružača palca i prelomom druge kosti donožja i preloma članaka IV i V prsta, oguljotine lijeve potkoljenice i oguljotine desne podlaktice, pri čemu je postupila sa svjesnim nehatom jer je bila svjesna da ovakvom vožnjom može ugroziti javni saobraćaj i tako dovesti u opasnost život i tijelo ljudi, ali je olako držala da do toga neće doći, dok je u odnosu na posledicu - tešku tjelesnu povredu postupila sa svjesnim nehatom jer je znala da njenom radnjom takva posledica može nastupiti, ali je olako držala da do toga neće doći,  čime su se u radnjama okrivljene stekli svi bitni objektivni i subjektivni elementi bića krivičnog djela teško djelo protiv bezbjednosti javnog saobraćaja iz čl. 348 st. 3 u vezi čl. 339 st. 3 u vezi st. 1 Krivičnog zakonika.</span>
+</p>
+<p class="p10">
+<span>	Okrivljena se kritičnom  prilikom nije pridržavala saobraćanih propisa iz čl. 22 ZOBS-a na putevima koji su je obavezivali da ukoliko namjerava da na putu izvrši neku radnju vozilom (uključivanje vozilom u saobraćaj, pomjeranje vozila udesno ili ulijevo, mijenjanje saobraćajne trake, preticanje, obilaženje, zaustavljanje, skretanje udesno ili ulijevo, polukružno okretanje, vožnja unazad, prestrojavanje i sl.), smije da otpočne takvu radnju samo ako se prethodno uvjerila da to može da učini bez opasnosti za druge učesnike u saobraćaju ili imovinu, vodeći pri tom računa o položaju vozila, pravcu i brzini kretanja, pri čemu je morala biti svjesna da upravljajući vozilom na naprijed opisani način može ugroziti saobraćaj i dovesti u opasnost život i tijelo ljudi, ali je olako držala da do toga neće doći ili da će u odlučujućem trenutku moći spriječiti nastupanje zabranjene posljedice, pa je dovela sebe u situaciju da krećući se vozilom sa proširenja u blizini Male pijace preduzme radnju uključivanja u saobraćaj, u trenutku kada je desnom saobraćajnom trakom desne kolovozne trake označenog bulevara naišao motocikl marke "Suzuki", kojim je u pravcu Ulice Dalmatinske upravljao oštećeni M. N., usljed čega je došlo do kontakta navedenog vozila i motocikla i tjelesnog  povređivanja  oštećenog M. N.. Pri izvršenju djela postupala je nehatno.</span>
+</p>
+<p class="p10">
+<span>	Odlučujući o krivičnoj sankciji za okrivljenu, sud je najprije, u smislu čl. 42 Krivičnog zakonika cijenio sve okolnosti od kojih zavisi izbor i visina krivične sankcije (olakšavajuće i otežavajuće okolnosti), u okviru zakonom propisanog minimuma i maksimuma za predmetno krivično djelo, pa je od olakšavajućih okolnosti na strani okrivljene cijenio njeme porodične i materijalne prilike u kojima živi, da je udata, majka dvoje djece, da je penzioner, da se radi o osobi zrele životne dobi i s tim u vezi njeno ranije dobro ponašanje i raniju  neosudjivanost, ponašanje nakon izvršenog krivičnog djela i s tim u vezi stav oštećenog koji se nije pridružio krivičnom gonjenju, pa je u odsustvu otežavajućih okolnosti okrivljenoj, primjenom čl. 53 i 54 Krivičnog zakonika prethodno utvrdio kaznu zatvora u trajanju od tri mjeseca  i istovremeno odredio da se ista neće izvršiti ukoliko okrivljena u roku od 1 (jedne) godine od dana pravosnažnosti presude ne učini novo krivično djelo, nalazeći da će se u konkretnom slučaju i uslovnom osudom kao mjerom upozorenja uz prijetnju kaznom zatvora, na uspiješan način uticati na okrivljenu da ubuduće ne vrši krivična djela, pri čemu bi se u svemu ostvarila svrha izricanja uslovne osude propisana čl. 52 Krivičnog zakonika, u okviru opšte svrhe izricanja krivičnih sankcija propisane čl. 4 istog zakonika. </span>
+</p>
+<p class="p12">
+<span>	Kako je okrivljena oglašena krivom, sud  je shodno odredbi čl. 226 Zakonika o krivičnom postupku obavezao na plaćanje troškova krivičnog postupka, koji se u iznosu od 82,50 eura, odnose na troškove nastale povodom saobraćajnog vještačenja, troškove medicinskog vještačenja u iznosu od 60,50 eura, dok je  sudski paušal u iznosu od 30,00 eura, odredjen shodno dužini trajanja i složenosti postupka, kao i imovinskim prilikama okrivljene. </span>
+</p>
+<p class="p12">
+<span>	Na osnovu izloženog, shodno čl. 374 Zakonika o krivičnom postupku, odlučeno je kao u izreci presude.</span>
+</p>
+<p class="p12"></p>
+<p class="p13">
+<span>OSNOVNI SUD U PODGORICI, dana, 17. 07. 2013. godine</span>
+</p>
+<p class="p14"></p>
+<table class="t1">
+<tbody>
+<tr class="r1">
+<td class="td1">
+<p class="p15">
+<span>               ZAPISNIČAR:</span>
+</p>
+</td><td class="td2">
+<p class="p16">
+<span>S U D I J A:</span>
+</p>
+</td>
+</tr>
+<tr class="r1">
+<td class="td1">
+<p class="p16">
+<span>Danijela Rajković</span>
+</p>
+<p class="p15"></p>
+</td><td class="td2">
+<p class="p16">
+<span>Željka Jovović</span>
+</p>
+<p class="p15"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p15">
+<span>           DN-a: Po primjerak presude dostaviti:</span>
+</p>
+<p class="p17">
+<span>- ODT Podgorica,</span>
+</p>
+<p class="p17">
+<span>- Okrivljenoj,  </span>
+</p>
+<p class="p17">
+<span>- a/a.</span>
+</p>
+<p class="p13">
+<span>Postupljeno dana ______________</span>
+</p>
+<p class="p13">
+<span>Radnik suda __________________</span>
+</p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<table class="t1">
+<tbody>
+<tr class="r1">
+<td class="td1" colspan="2">
+<p class="p15">
+<span>             ZAPISNIČAR:</span>
+</p>
+</td><td class="td2" colspan="2">
+<p class="p16">
+<span>                              S U D I J A:</span>
+</p>
+</td>
+</tr>
+<tr class="r1">
+<td class="td1" colspan="2">
+<p class="p16">
+<span>Danijela Rajković,s.r.</span>
+</p>
+<p class="p15"></p>
+</td><td class="td2" colspan="2">
+<p class="p16">
+<span>                            Željka Jovović,s.r.</span>
+</p>
+<p class="p15"></p>
+</td>
+</tr>
+<tr class="r1">
+<td class="td3">
+<p class="p18">
+<span>PRAVNA POUKA:</span>
+</p>
+</td><td class="td4" colspan="2">
+<p class="p15">
+<span>Protiv ove presude dozvoljena je žalba u roku od 8 (osam) dana od dana prijema pismenog otpravka iste, preko ovog suda Višem sudu u Podgorici. </span>
+</p>
+<p class="p16"></p>
+</td>
+</tr>
+<tr class="r1">
+<td class="td3">
+<p class="p18"></p>
+</td><td class="td4" colspan="2">
+<p class="p16">
+<span>ZTO Danijela Rajković</span>
+</p>
+<p class="p15"></p>
+<p class="p15"></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p class="p15"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p16"></p>
+<p class="p19"></p>
+<p class="p12"></p>
+<p class="p12"></p>
+<p class="p20"></p>
+<p class="p10"></p>
+<p class="p15"></p>
+<p class="p15"></p>
+<p class="p20"></p>
+<p class="p20"></p>
+<p class="p20"></p>
+
+
+</body>

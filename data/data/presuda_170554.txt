@@ -1,0 +1,232 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.window1{background:#fff; margin:0 auto;width:210mm;}
+.page1{ background:#fff; margin:0 1.0in;padding-top:20px;}
+.span1{;font-size:12pt;font-family:'Arial';font-weight:800}
+.span2{;font-size:12pt;font-family:'Arial'}
+.span3{color:#000000;font-size:12pt;font-family:'Arial'}
+.span4{;font-family:'Arial'}
+</style>
+</head>
+<body class="b1" style="background: #aaa;">
+<div class="window1">
+<div class="page1">
+<li>
+<span class="span1">K.br. 30/15</span>
+</li>
+<li>
+<span class="span1"></span><span class="span1"></span>
+</li>
+<li style="text-align:center;">
+<span class="span1"></span>
+</li>
+<p>&nbsp;</p>
+<li style="text-align:center;">
+<span class="span1">U IME CRNE GORE </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span1"></span><span class="span1">OSNOVNI</span><span class="span1"> </span><span class="span1">SUD</span><span class="span1"> </span><span class="span1">U</span><span class="span1"> </span><span class="span1">BAR</span><span class="span1">U</span><span class="span1">,</span><span class="span2"> </span><span class="span2">prvostepeni</span><span class="span2"> </span><span class="span2">krivi</span><span class="span2">č</span><span class="span2">ni</span><span class="span2"> </span><span class="span2">sud</span><span class="span2">, </span><span class="span2">sudija</span><span class="span2"> Tamara Spasojević, </span><span class="span2">uz</span><span class="span2"> </span><span class="span2">u</span><span class="span2">č</span><span class="span2">e</span><span class="span2">šć</span><span class="span2">e</span><span class="span2"> </span><span class="span2">namje</span><span class="span2">š</span><span class="span2">tenika</span><span class="span2"> </span><span class="span2">suda Zorice Ivanović</span><span class="span2">, </span><span class="span2">zapisni</span><span class="span2">č</span><span class="span2">ara</span><span class="span2">, </span><span class="span2">u</span><span class="span2"> </span><span class="span2">krivi</span><span class="span2">č</span><span class="span2">nom</span><span class="span2"> </span><span class="span2">predmetu</span><span class="span2"> </span><span class="span2">protiv</span><span class="span2"> </span><span class="span2">optuženog</span><span class="span2"> </span><span class="span2">Đ.Ž.</span><span class="span2">, </span><span class="span2">postupaju</span><span class="span2">ć</span><span class="span2">i</span><span class="span2"> </span><span class="span2">po</span><span class="span2"> </span><span class="span2">optu</span><span class="span2">ž</span><span class="span2">nom</span><span class="span2"> </span><span class="span2">predlogu</span><span class="span2"> </span><span class="span2">ODT</span><span class="span2">-</span><span class="span2">a</span><span class="span2">, </span><span class="span2">iz</span><span class="span2"> </span><span class="span2">B.</span><span class="span2">Kt</span><span class="span2">.</span><span class="span2">br</span><span class="span2">.760/13 od 09.12.2013.godine, </span><span class="span2">zbog</span><span class="span2"> </span><span class="span2">krivi</span><span class="span2">č</span><span class="span2">nog</span><span class="span2"> </span><span class="span2">djela</span><span class="span2"> - nedavanje izdržavanja iz čl.221 st.1 Krivičnog zakonika Crne Gore, </span><span class="span2">nakon</span><span class="span2"> </span><span class="span2">odr</span><span class="span2">ž</span><span class="span2">anog</span><span class="span2"> </span><span class="span2">usmenog</span><span class="span2">, </span><span class="span2">glavnog</span><span class="span2"> </span><span class="span2">i</span><span class="span2"> </span><span class="span2">javnog</span><span class="span2"> </span><span class="span2">pretresa</span><span class="span2"> dana 07.08.2015.godine, </span><span class="span2">u</span><span class="span2"> </span><span class="span2">prisustvu</span><span class="span2"> </span><span class="span2">ODT</span><span class="span2">-</span><span class="span2">a</span><span class="span2"> iz </span><span class="span2">B.</span><span class="span2">I</span><span class="span2">.</span><span class="span2"> R</span><span class="span2">.</span><span class="span2">, optuženog i branioca optuženog advokata </span><span class="span2">Đ.Đ.</span><span class="span2">iz </span><span class="span2">B.</span><span class="span2">, </span><span class="span2">dana</span><span class="span2"> 07.08.2015.</span><span class="span2">godine</span><span class="span2">, </span><span class="span2">donio</span><span class="span2"> </span><span class="span2">je</span><span class="span2"> </span><span class="span2">i</span><span class="span2">  istog dana </span><span class="span2">javno</span><span class="span2"> </span><span class="span2">objavio</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span1">           P R E S U D U</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span1">Optuženi,   </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span1"></span><span class="span1">Đ.Ž.</span><span class="span1"> (</span><span class="span3">JMBG </span><span class="span3">...</span><span class="span3">) od oca R</span><span class="span3">.</span><span class="span3"> i majke D</span><span class="span3">.</span><span class="span3"> rodjene K</span><span class="span3">.</span><span class="span3">, rodjen </span><span class="span3">...</span><span class="span3">.godine u </span><span class="span3">B.</span><span class="span3">, nastanjen u </span><span class="span3">B.</span><span class="span3">, N</span><span class="span3">.</span><span class="span3"> P</span><span class="span3">.</span><span class="span3"> bb, Š</span><span class="span3">.</span><span class="span3">, </span><span class="span3">B.</span><span class="span3">, pomorac, sa završenim pomorskim fakultetom, smjer nautika, srednjeg imovnog stanja, oženjen, otac dvoje djece, neosuđivan, </span>
+</li>
+<p>&nbsp;</p>
+<p>
+<span class="span2"></span><span class="span2">Na osnovu čl.373 st.1 tač.2 ZKP-a</span>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">OSLOBAĐA SE OD OPTUŽBE</span>
+</p>
+<p>
+<span class="span2">Da ,</span><span class="span2"> </span>
+</p>
+<p>&nbsp;</p>
+<li>
+<span class="span2">  </span><span class="span2">Za mjesece</span><span class="span2"> novembar</span><span class="span2"> i decem</span><span class="span2">bar</span><span class="span2"> 2013.godine, u </span><span class="span2">B.</span><span class="span2">, svjestan svog djela čije je izvršenje htio, iako je znao da je njegovo dijelo zabranjeno, nije davao izdržavanje po osnovu pravosnažne i izvršne sudske odluke - presude Osnovnog suda u </span><span class="span2">B.</span><span class="span2">, poslovne oznake P.br.163/13 od 11.10.2013.godine,  kojom je obavezan da svakomjesečno do 05-og u mjesecu za tekući mjesec, daje izdržavanje u visini od 150,00 eura mjesečno, za svog maloljetnog sina - oštećenog </span><span class="span2">M.A.</span><span class="span2">,</span>
+</li>
+<li>
+<span class="span2">- čime bi izvršio krivično djelo </span><span class="span2">nedavanje izdržavanja iz čl.221 st.1 Krivičnog zakonika Crne Gore.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Troškovi krivičnog postupka padaju na teret budžetskih sredstava suda. </span>
+</li>
+<p>&nbsp;</p>
+<li style="text-align:center;">
+<span class="span1">O b r a z l o ž e nj e</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optužnim predlogom ODT-a iz </span><span class="span2">B.</span><span class="span2">Kt.br.760/13 od 09.12.2013.godine,  optužen je </span><span class="span2">Đ.Ž.</span><span class="span2"> iz </span><span class="span2">B.</span><span class="span2">, zbog krivičnog djela </span><span class="span2">nedavanje izdržavanja iz čl.221 st.1 Krivičnog zakonika Crne Gore. Na glavnom pretresu od 16.07.2014.godine zastupnik optužbe je precizirao dispozitiv optužnog predloga, a dispozitiv je preciziran i na glavnom pretresu od 07.08.2015.godine, na način kao u izreci presude. </span><span class="span2">U završnoj riječi ODT je ostala pri preciziranom optužnom aktu navodeći da je provedenim dokazima </span><span class="span2">utvrdjeno da je optuženi izvršio krivično djelo koje je bliže opisano u optužnom aktu. Predložila je sudu da istog oglasi krivim i da mu izrekne adekvatnu krivičnu sankciju. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Optuženi </span><span class="span2">Đ.Ž.</span><span class="span2"> je u svojoj odbrani na glavnom pretresu od 12.02.2014.godine istakao da je on pomorac zaposlen u kompaniji "</span><span class="span2">H.</span><span class="span2">". Tokom 2013.godine  bio je na brodu, a bilo mu je poznato da je pred Osnovnim sudom u </span><span class="span2">B.</span><span class="span2"> u toku parnični postupak, u kojem ga je zastupao advokat </span><span class="span2">Đ.Đ.</span><span class="span2">. Presuda je donijeta u oktobru 2013.godine, a to je vrijeme kada se on nalazio na brodu, od oca je saznao da je donjeta presuda, medjutim, o sadržini i detaljima presude nije upoznat. Otac ga je upoznao da treba da plaća 150,00 eura mjesečno na ime alimentacije za svoje maloljetno djete </span><span class="span2">M.A.</span><span class="span2">. Ne sjeća se tačnog datuma kada mu je otac to u vezi presude saopštio, ali ne spori da je bio obaviješten o obavezi plaćanja izdržavanja za </span><span class="span2">M.A.</span><span class="span2">. Sa broda se iskrcao 20.12.2013.godine, i odmah je počeo da plaća izdržavanje. Presudom P br. 163/13 bio je obavezan da plati dospjele rate od 900,00 eura,  taj novac je isplaćen odmah po njegovom iskrcaju a čak je i njegov otac prvu ratu od 400,00 eura, uplatio prije nego što se on iskrcao sa broda. Tačno je da on u vremenskom periodu od 05.novembra do 05.decembra 2013.godine nije platio 150,00 eura, do petog u mjesecu kako mu je to bilo naloženo, ali to nije platio iz razloga što se nalazio na brodu. Kod </span><span class="span2">A.M.B.</span><span class="span2">dao je trajni nalog da se sa njegovog računa svakog drugog u mjesecu na račun zakonskog zastupnika isplaćuje alimentacija u iznosu od 150,00 eura mjesečno, da ne bi došlo do problema vezanih za vikende i slično i u svakom slučaju po tom nalogu iznos od 150,00 eura do 05-og u mjesecu treba da bude na računu korisnika. Ne zna kada je prvi put platio ratu od 150,00 eura na ime izdržavanja,a u medjuvremenu je isplatio sve dospjele obaveze za period novem</span><span class="span2">B.</span><span class="span2"> i decem</span><span class="span2">B.</span><span class="span2"> 2013.godine, te januar i februar 2014.godine, kao i ostale obaveze sadržane u parničnoj presudi P br. 163/13 i na dan 12. 02.2014.godine  nema nikakvih dugovanja po osnovu izdržavanja, jer je sve svoje obaveze izmirio o čemu posjeduje dokaze.  U 2013.godini je plovio na relaciji Sjeverna Amerika, Južna Amerika i to zapadnom obalom Pacifika u periodu novem</span><span class="span2">B.</span><span class="span2"> - decem</span><span class="span2">B.</span><span class="span2"> 2013.godine. Na glavnom pretresu od 16.07.2014.godine ostajući pri ovoj odbrani istakao je da ne priznaje djelo i krivicu za isto i da je parničnu presudu Osnovnog suda  iz </span><span class="span2">B.</span><span class="span2">P br. 163/13 od 11.10.2013.godine  dobio kada je došao sa broda, a to je bilo karajem decembra 2013.godine. Do tada je u toj parnici njega zastupao advokat </span><span class="span2">Đ.Đ.</span><span class="span2"> koji ga je upoznavao o toku postupka do vremena kada je on boravio u C</span><span class="span2">.</span><span class="span2">G</span><span class="span2">.</span><span class="span2"> prije ukrcaja na brod a to je bilo početkom avgusta 2013.godine. Nakon ukrcaja na brod do njegovog povratka u C</span><span class="span2">.</span><span class="span2"> G</span><span class="span2">.</span><span class="span2"> krajem decembra 2013.godine sa punomoćnikom nije imao nikakvu komunikaciju, nije mu bilo poznato stanje u spisima i dokle je postupak. Od članova porodice u to vrijeme komunicirao je samo sa  svojom sadašnjom suprugom, mada u tim razgovorima nije pominjao ovaj predmet. Za vrijeme boravka na brodu nije imao komunikaciju sa ocem. </span><span class="span2">Sa </span><span class="span2">M.S.</span><span class="span2"> nema komunikaciju, njih dvoje su u negovoru iz njima poznatih razloga o kojima ne bi pričao pred sudom. Na glavnom pretresu od 07.08.2015.godine je odgovarajući na pitanja naveo da je za sadržaj </span><span class="span3">presude Osnovnog suda u </span><span class="span3">B.</span><span class="span3"> P.br.163/13 saznao od svog oca kada je sletio na aerodrom u </span><span class="span3">T.</span><span class="span3"> i da je prvu komunikaciju imao sa ocem putem telefona sa aerodroma u </span><span class="span3">F.</span><span class="span3"> kada mu je javio da ga čeka u </span><span class="span3">T.</span><span class="span3">, tako da mu je odmah po slijetanju na aerodrom u </span><span class="span3">T.</span><span class="span3"> saopštio da za izdržavanje svog sina treba da plaća mjesečno 150,00 eura, a takodje mu je saopštio da je on lično već jedan dio uplatio, zato što nije mogao da stupi u kontakt sa njim, a nije želio da dodje do problema oko uplata. Pojasnio je da je u C</span><span class="span3">.</span><span class="span3"> G</span><span class="span3">.</span><span class="span3"> stigao 20.12.2013.godine, pa je onda upravo to datum kada je saznao za presudu P.br.163/13. On se jeste ranije </span><span class="span3">izjašnjavao da se ne sjeća tačnog datuma kada ga je otac obavijestio o presudi, medjutim, pošto je sasvim siguran da je tu informaciju dobio od oca po slijetanju na aerodrom u </span><span class="span3">T.</span><span class="span3"> onda je to dan kada je i saznao za presudu. Dakle, on nije imao mogućnosti da prije 20.decembra 2013.godine započne sa plaćanjem ovog izdržavanja iz kog razloga ne priznaje da je počinio djelo koje mu se stavlja na teret, a dokaz da nije imao namjeru da ne plaća izdržavanje za svog sina je taj da je dao trajni nalog u </span><span class="span3">A.</span><span class="span3"> mont banci i da se redovno od tada izmiruju obaveze. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Sud je u dokaznom postupku proveo sledeće dokaze: pročitao iskaz svjedoka </span>
+</li>
+<li>
+<span class="span2">zakonskog zastupnika mldb. oštećenog </span><span class="span2">M.A.</span><span class="span2">, majku </span><span class="span2">M.</span><span class="span2">  Sandru, saslušao svjedoka </span><span class="span2">Đ.R.</span><span class="span2">, izvršio  uvid  u  spise Osnovnog suda u </span><span class="span2">B.</span><span class="span2"> P.br.163/13 od 11.10.2013.godine; u izvod iz  KE za okrivljenog; u trajni nalog br. </span><span class="span2">...</span><span class="span2">; u kopiju putne isprave za okrivljenog; u kreditni nalog od 11.02.2014.godine na iznos od 150 eura;  u kreditni nalog od 11.02.2014.godine na iznos od 150 eura, u kreditni nalog od 11.02.2014.godine na iznos od 150 eura; u kreditni nalog od 11.02.2014.godine na iznos od 150 eura; u  elektronsku poštansku uputnicu od 17.01.2014 na iznos od 1.300 eura, u elektronsku poštansku uputnicu od 10.01.2014.godine na iznos od 500 eura;  u elektronsku poštansku uputnicu od 09.11.2013.godine na iznos od  400 eura; u karticu promjena računa </span><span class="span2">...</span><span class="span2"> za period od 01.10.2013.godine do 12.02.2014.godine, na ime </span><span class="span2">M.</span><span class="span2"> M.</span><span class="span2">S.</span><span class="span2">, ul. </span><span class="span2">J.S.</span><span class="span2">8/24 -</span><span class="span2">B.</span><span class="span2">, u  kopiju emaila, poslatu dana 10.10.2013.godine na email adresu </span><span class="span2">...</span><span class="span2">-com.me.  </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz iskaza zakonske zastupnice mldb. oštećenog </span><span class="span2">M.A.</span><span class="span2">, majke </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2"> sa glavnog pretresa od 12.02.2014.godine proizilazi da je oktobra mjeseca 2013.godine donjeta pravnosnažna i izvršna presuda kojom presudom je optuženi </span><span class="span2">Đ.Ž.</span><span class="span2"> obavezan da joj svakomjesečno na ime izdržavanja maloljetnog djeteta </span><span class="span2">M.A.</span><span class="span2"> plaća iznos od po 150,00 eura. Nakon što je ona podnjela krivičnu prijavu optuženi je isplatio 900,00 eura, prvo je negdje 10. ili 11. novembra isplatio iznos od 400,00 eura, da bi joj oko 10. januara isplatio još 500,00 eura, a u istom mjesecu joj je isplatio i 1.300,00 eura na ime troškova DNK analize. Sve obaveze po toj presudi optuženi joj je isplatio osim iznosa na ime alimentacije, koje iznose nije isplatio do dana 12.02.2014.godine. Iznos od 900,00 eura je uplaćen na njeno ime preko pošte, a ne na žiro račun, iako je njen advokat ocu okrivljenog dao njen žiro račun  na koji je trebalo uplaćivati alimentaciju. Od oca okrivljenog je saznala da se optuženi u novembru i decembru mjesecu nalazio na brodu.  Prije podnošenja  krivične prijave od dospjelih obaveza po  presudi optuženi je  bio isplatio samo iznos od 400,00 eura. Nije joj poznato da je njen punomoćnik u toj parnici sa braniocem okrivljenog imao dogovor o tome da ona prvo otvori žiro račun  radi uplaćivanja sredstava, a njen advokat je ocu okrivljenog prije podnošenja krivične prijave dostavio njen žiro račun. Misli da je prva rata od 400,00 eura uplaćena negdje 10-og novembra 2013.godine i to putem pošte.  Na glavnom pretresu od 18.06.2014.godine ostajući pri ovom iskazu dodala je da je svom advokatu </span><span class="span2">H.</span><span class="span2"> dostavila podatke o svom žiro računu, a taj advokat je te podatke žiro računa dao ocu okrivljenog </span><span class="span2">Đ.R.</span><span class="span2">u i to vjerovatno dan poslije toga. Ne sjeća se a misli da je parnična presuda postala pravosnažna negdje sredinom oktobra 2013.godine, znala je da je optuženi tada bio na brodu, s tim što s njim nije imala nikakvu telefonsku komunikaciju.  Nije sigurna a misli da se optuženi u C</span><span class="span2">.</span><span class="span2"> G</span><span class="span2">.</span><span class="span2"> vratio krajem decembra 2013.godine. Od dana kada je optuženi dao trajni nalog ona nema problema s tim u vezi plaćanja alimentacije,a  optuženi je trajni nalog banci dao negdje u februaru mjesecu 2014.godine. Zadnjih pet godina ima otvoren žiro račun, jer je u radnom odnosu , preko tog računa prima zaradu,a taj isti žiro račun je dala da </span><span class="span2">se na njega uplaćuje doprinos na ime izdržavanja.  Od kada je optuženi izdao trajni nalog, oni su uredno izmirivali rate na ime izdržavanja, tako da nema dospjelih , a ne plaćenih obaveza</span><span class="span1">. </span><span class="span2">Na glavnom pretresu od 13.05.2015.godine navela je da joj je prva rata u iznosu od 400,00 eura uplaćena putem pošte, a da je ona nakon mjesec dana saznala da je tu ratu uplatio otac optuženog </span><span class="span2">R.Đ.</span><span class="span2">. Kao zakonski zastupnik oštećenog pridružila se krivičnom gonjenju protiv optuženog, a nije postavila imovinsko pravni zahtjev. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz iskaza  svjedoka  </span><span class="span2">Đ.R.</span><span class="span2"> utvrdjeno je da je njemu </span><span class="span2">Đ.Ž.</span><span class="span2"> sin i poznato mu je da se on jedno vrijeme zabavljao sa </span><span class="span2">M.S.</span><span class="span2">, da je ta veza raskinuta,  a  pred Osnovnim sudom u </span><span class="span2">B.</span><span class="span2">, tekao je parnični postupak, u kom je utvrdjivano očinstvo za maloljetnog </span><span class="span2">M.A.</span><span class="span2">. Taj postupak je tekao u 2013.godini, a iste te godine od avgusta mjeseca do kraja decembra  njegov sin je kao pomorac bio na dugoj plovidbi, s tim što njega u tom postupku zastupa advokat </span><span class="span2">Đ.Đ.</span><span class="span2">. Sa advokatom </span><span class="span2">Đ.</span><span class="span2"> u vezi ovog predmeta imao je komunikaciju, posebno kada se radilo o nekim bitnim stvarima i na kraju ga je advokat upoznao da je donijeta presuda, upoznao ga je sa sadržinom presude, i oni su procjenili da nema potrebe da se žale na tu presudu, s obzirom da je </span><span class="span2">Ž.</span><span class="span2"> bio u vezi sa </span><span class="span2">M.S.</span><span class="span2"> i da je utvrdjeno da je to njegovo dijete. Tih četiri mjeseca </span><span class="span2">Ž.</span><span class="span2"> je bio na Pacifiku, na dugoj plovidbi u naučno istraživačke svrhe, tako da on za to vrijeme za </span><span class="span2">Ž.</span><span class="span2"> nije imao telefonsku komunikaciju. On ne umije da komunicira preko skajpa, a ostali  ukućani su vjerovatno pričali sa </span><span class="span2">Ž.</span><span class="span2"> dok je bio na brodu, a da njemu nijesu prenosili sadržinu razgovora. Dok je </span><span class="span2">Ž.</span><span class="span2"> bio na brodu on ga ni na koji način nije upoznao sa sadržinom presude. Kada je </span><span class="span2">Ž.</span><span class="span2"> krajem decembra 2013.godine došao sa broda tada ga je upoznao sa presudom i njenom sadržinom.  Advokat </span><span class="span2">Đ.</span><span class="span2">ga je obavjestio da je predmetna presuda izvršna i da se mora realizovati,  pa je on krenuo u izvršenje presude na način što je tri puta išao kod punomoćnika </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2">, advokata </span><span class="span2">H.</span><span class="span2">, kojeg nije zaticao u kancelariji, već njegove službenike od kojih je tražio da mu dostave broj žiro računa </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2">, da bi počeo da plaća obaveze iz te presude. Poslije nekoliko dana advokatska kancelarija </span><span class="span2">H.</span><span class="span2"> mu je u večernjim časovima preko telefona saopštila broj žiro računa </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2">. U medjuvremenu njegova supruga je kontaktirala sa majkom </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2"> koja joj je dala </span><span class="span2">S.</span><span class="span2">n broj telefona, pa je na kraju on preko telefonskih poruka kontaktirao sa </span><span class="span2">M.S.</span><span class="span2"> da bi realizovao obaveze po toj presudi. </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2"> je odbijala svaki kontakt sa njim i njegovo miješanje, upućujući mu različite uvrede, na kraju je on počeo od svog novca da uplaćuje obaveze iz te presude, a novca je imao jer je preduzetnik. Prvi put poslije </span><span class="span2">Ž.</span><span class="span2"> iskrcaja sa broda njih dvojica su se čuli preko telefona i to kada je </span><span class="span2">Ž.</span><span class="span2"> bio na aerodromu u </span><span class="span2">F.</span><span class="span2"> ili </span><span class="span2">M.</span><span class="span2">, ne sjeća se. Žiro račun je dobio nakon što je uplatio prvi iznos novca telegrafskom uplatnicom. Po </span><span class="span2">Ž.</span><span class="span2"> dolasku u Crnu Goru istom je dao broj žiro računa zakonske zastupnice oštećenog i poznato mu je da je njegov sin poslije toga vršio plaćanje i na kraju otvorio trajni nalog. Nije mu poznato kada je </span><span class="span2">Ž.</span><span class="span2"> prvi put platio obaveze iz presude. Prošlo je nekih 10 dana od dana kada je u advokatskoj kancelariji </span><span class="span2">H.</span><span class="span2"> tražio žiro račun </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2">, do dana kada je isti račun dobio od </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2">. Na glavnom pretresu od 08.06.2015.godine, naveo je, odgovarajući na pitanja da je prvi kontakt koji je imao sa svojim sinom </span><span class="span2">Ž.</span><span class="span2"> kada ga je zvao iz F</span><span class="span2">.</span><span class="span2"> sa aerodroma u decembru 2013.godine da mu javi kada ima let za </span><span class="span2">T.</span><span class="span2">, te da je on lično kada je presuda postala izvršna platio prvu ratu poštanskom uplatnicom. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz spisa predmeta Osnovnog suda u </span><span class="span2">B.</span><span class="span2"> P.br.163/13 proizilazi da presudom  P.br.163/13 utvrdjeno da je tuženi </span><span class="span2">Đ.Ž.</span><span class="span2">, iz </span><span class="span2">B.</span><span class="span2">, prirodni otac maloljetnog </span><span class="span2">M.A.</span><span class="span2"> rodjen 12.02.2013.godine, od majke </span><span class="span2">S.</span><span class="span2"> </span><span class="span2">M.</span><span class="span2">, iz </span><span class="span2">B.</span><span class="span2">, da je tuženi </span><span class="span2">Đ.Ž.</span><span class="span2"> obavezan da kao otac na ime izdržavanja maloljetnog </span><span class="span2">A.M.</span><span class="span2"> plaća svakomjesečno iznos od 150,00 eura, do 05-</span><span class="span2">og u mjesecu za tekući mjesec, počev od dana presudjenja pa dok za to postoje zakonski uslovi ili dok se odluka suda u tom djelu ne izmjeni. Tuženi </span><span class="span2">Đ.Ž.</span><span class="span2"> je obavezan da tužilji isplati dospjele iznose na ime izdržavanja za maloljetnog </span><span class="span2">M.A.</span><span class="span2"> za period od 04.03.2013.godine pa do dana presudjenja, u ukupnom iznosu od 900,00 eura na žirao račun tužilje </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2"> i to u dvije rate, prvu u iznosu od 400,00 eura, najkasnije do 01.novembra 2013.godine, a drugu u iznosu od 500,00 eura,  najkasnije do 01.januara 2014.godine, kao i da tužiocima nadoknadi troškove postupka u iznosu od 1.300,00 eura. Ova presuda postala je pravnosnažna dana  29.10.2013.godine.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz kopije putne isprave za okrivljenog broj </span><span class="span2">....</span><span class="span2">izdata od CB </span><span class="span2">B.</span><span class="span2"> proizilazi da se na istoj nalaze pečati sa datumima 18.08.2013.godine - </span><span class="span2">K.</span><span class="span2"> i 20.12.2013.godine - </span><span class="span2">T.</span><span class="span2">.  </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz elektronske poštanke uputnice od 09.11.2013.godine utvrđuje se da je </span><span class="span2">Đ.Ž.</span><span class="span2"> </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2"> dana 09.11.2013.godine uplatio iznos od 400,00 eura, bez pozivanja na svrhu uplate.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz elektronske poštanke uputnice od 10.01.2014.godine utvrđuje se da je </span><span class="span2">Đ.Ž.</span><span class="span2"> </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2">  dana 10.01.2014.godine uplatio iznos od 500,00 eura, bez poziva na svrhu uplate. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz elektronske poštanke uputnice od 17.01.2014.godine utvrđuje se da je </span><span class="span2">Đ.Ž.</span><span class="span2">, </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2">,  dana 17.01.2014.godine uplatio iznos od 1.300,00 eura, na ime troškova analize. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz kreditnog naloga od 11.02.2014.godine, utvrđuje se da je </span><span class="span2">Đ.Ž.</span><span class="span2"> na ime alimentacije za novem</span><span class="span2">B.</span><span class="span2"> 2013.godine </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2"> uplatio iznos od 150,00 eura. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz kreditnog naloga od 11.02.2014.godine, utvrđuje se da je </span><span class="span2">Đ.Ž.</span><span class="span2"> na ime alimentacije za decem</span><span class="span2">B.</span><span class="span2"> 2013.godine </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2"> uplatio iznos od 150,00 eura. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz kreditnog naloga od 11.02.2014.godine, utvrđuje se da je </span><span class="span2">Đ.Ž.</span><span class="span2"> na ime alimentacije za januar 2014.godine </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2"> uplatio iznos od 150,00 eura. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz kreditnog naloga od 11.02.2014.godine, utvrđuje se da je </span><span class="span2">Đ.Ž.</span><span class="span2"> na ime alimentacije za februar 2014.godine </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2"> uplatio iznos od 150,00 eura. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz trajnog naloga br. </span><span class="span2">...</span><span class="span2"> "</span><span class="span2">A.</span><span class="span2">" banke utvrđuje se da je </span><span class="span2">Đ.Ž.</span><span class="span2">  dana 02.03.2014.godine dao nalog da se sa njegovog žiro računa </span><span class="span2">...</span><span class="span2"> svakomjesečno prinosi iznos od 150,00 eura u korist žiro računa </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2"> broj </span><span class="span2">...</span><span class="span2"> koji se vodi kod AD "CKB" banke.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz kartice promjena računa </span><span class="span2">...</span><span class="span2"> za period od 01.10.2013.godine do 12.02.2014.godine, na ime </span><span class="span2">M.</span><span class="span2"> M.</span><span class="span2">S.</span><span class="span2">, ul. </span><span class="span2">J.S.</span><span class="span2">8/24 -</span><span class="span2">B.</span><span class="span2">, utvrdjeno je kretanje novčanih sredstava. </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz  kopije emaila, poslatog dana 10.10.2013.godine na email adresu </span><span class="span2">...</span><span class="span2">-com.me, proizilazi da je zakonski zastupnik oštećenog </span><span class="span2">S.</span><span class="span2"> </span><span class="span2">M.</span><span class="span2"> svom punomoćniku dostavila svoj broj žiro računa koji se vodi kod CKB banke i u istom navela "oni su meni uplatili juče 400 eura elektronskom pošiljkom putem pošte".  </span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span2">Iz izvoda iz KE za okrivljenog </span><span class="span2">Đ.Ž.</span><span class="span2"> proizilazi da optuženi nije osuđivan. </span>
+</li>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Ocjenom izvedenih dokaza nije dokazano da je optuženi izvršio krivično djelo koje mu je stavljeno na teret. Optuženom je stavljeno na teret da je krivično djelo nedavanje izdržavanja iz čl.221 st.1 KZ CG učinio u novembru i decembru 2013.godine.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Krivično djelo nedavanje </span><span class="span2">izdržavanje iz čl. 221 st. 1 Krivičnog zakonika  može da se izvrši sa umišljajem koji podrazumijeva da je neko lice svjesno da je obavezno da daje izdržavanje i da svojim djelatnostima izbjegava ispunjavanje te obaveze. Po ocjeni suda optuženi nije postupao na navedeni način. U postupku je nesporno utvrdjeno da je optuženi, koji je po profesiji pomorac, u periodu kada je vodjen i pravosnažno okončan parnični postupak u predmetu Osnovnog suda u </span><span class="span2">B.</span><span class="span2"> P.163/13 bio na dugoj plovidbi, koja je po navodima optuženog trajala od početka avgusta do kraja decembra 2013.godine. Presuda Osnovnog suda u </span><span class="span2">B.</span><span class="span2"> P.163/13 kojom je utvrdjeno da je optuženi otac mldb </span><span class="span2">M.A.</span><span class="span2">, te da mu se po tom osnovu utvrdjuje obaveza izdržavanja na način što će svakomjesečno plaćati iznos od 150,00 eura, do 05-og u mjesecu za tekući mjesec od dana presudjenja donijeta je dana 11.10.2013.godine, a ista je postala pravosnažna dana 29.10.2013.godine. Optuženi je u svojoj odbrani tokom postupka isticao da je njegova plovidba okončana u decembru 2013.godine i da je za citiranu presudu saznao od svog oca-</span><span class="span2">Đ.R.</span><span class="span2">, precizno navodeći na glavnom pretresu od 07.08.2015.godine da je po slijetanju na aerodrom u </span><span class="span2">T.</span><span class="span2">, na kom ga je čekao njegov otac </span><span class="span2">R.</span><span class="span2"> njemu saopšten sadržaj presude i njegove obaveze po osnovu te presude. Obzirom da je na aerodrom sleteo 20.12.2013.godine onda je to upravo i datum kada je saznao za svoju obavezu da na ime izdržavanja svog sina </span><span class="span2">A.</span><span class="span2">svakomjesečno plaća iznos od 150,00 eura, do 05-og u mjesecu za tekući mjesec. Istakao je da je njemu otac tom prilikom saopštio da je on lično iz svojih sredstava platio prvu ratu po presudi u iznosu od 400,00 eura zato što nije mogao da stupi u kontakt sa njime, a nije želio da dodje do problema oko uplata. Dalje je naveo da nije imao mogućnosti da prije 20-og decembra 2013.godine započne sa plaćanjem izdržavanja, te da je nakon dolaska sa broda dao trajni nalog u </span><span class="span2">A.</span><span class="span2"> mont banci i da se od tada redovno izmiruju obaveze po osnovu citirane presude.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Odbrana optuženog u cjelosti je potvrdjena iskazom svjedoka </span><span class="span2">Đ.R.</span><span class="span2"> koji je u svom jasnom, detaljnom i objektivnom iskazu, iz kog razloga mu je sud poklonio punu vjeru naveo da je optuženi od avgusta do decembra bio na dugoj plovidbi, te da je svog sina, ovdje optuženog sa sadržinom presude upoznao krajem decembra 2013.godine, po njegovom povratku sa plovidbe, kada je dakle optuženi prvi put saznao za postojanje svoje obaveze. Svjedok je takodje istakao da je on lično od svog novca počeo da uplaćuje obaveze iz te presude, pojašnjavajući da je pokušavao da stupi u kontakt sa zakonskim zastupnikom oštećenog kako bi dobio njen broj žiro računa, te da je prva uplata izvršena telegrafskom uplatnicom, a da je tek nakon toga dobio njen broj žiro računa, da je taj broj dao svom sinu po njegovom iskrcaju sa broda i da mu je poznato da je njegov sin nakon toga vršio plaćanje i otvorio trajni nalog. Iskaz ovog svjedoka, kao i optuženog u cjelosti je potvrdjen pisanim dokazima izvedenim u postupku i to</span><span class="span2"> trajnim nalogom br. </span><span class="span2">...</span><span class="span2">, kopijom putne isprave za optuženog, kreditnim nalogom od 11.02.2014.godine na iznos od 150 eura, kreditnim nalogom od 11.02.2014.godine na iznos od 150 eura, kreditnim </span><span class="span2">nalogom od 11.02.2014.godine na iznos od 150 eura, kreditnim nalogom od 11.02.2014.godine na iznos od 150 eura,  elektronskom poštanskom uputnicom od 17.01.2014 na iznos od 1.300 eura, elektronskom poštanskom uputnicom od 10.01.2014.godine na iznos od 500 eura, elektronskom poštanskom uputnicom od 09.11.2013.godine na iznos od  400 eura i karticom promjena računa </span><span class="span2">...</span><span class="span2"> za period od 01.10.2013.godine do 12.02.2014.godine, na ime </span><span class="span2">M.</span><span class="span2"> M.</span><span class="span2">S.</span><span class="span2">.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">I iz iskaza zakonske zastupnice oštećenog-majke </span><span class="span2">M.</span><span class="span2"> </span><span class="span2">S.</span><span class="span2"> utvrdjuje sa da je njoj takodje bilo poznato da se optuženi nalazio na brodu, obzirom da je u svom iskazu navela da je parnična presuda postala pravosnažna negdje sredinom oktobra 2013.godine, da je znala da se optuženi tada nalazio na brodu, te da nije sigurna ali misli da se optuženi u Crnu Goru vratio krajem decembra 2013.godine i da od dana kada je optuženi dao trajni nalog nema problema u vezi plaćanja alimentacije, potvrdjujući da je od oca optuženog </span><span class="span2">Đ.R.</span><span class="span2"> uplaćena putem pošte prva rata po presudi u iznosu od 400,00 eura, kao i da je njen punomoćnik, advokat </span><span class="span2">D.</span><span class="span2"> </span><span class="span2">H.</span><span class="span2"> ocu optuženog prije podnošenja krivične prijave, a koja je podnijeta 19.11.2013.godine dostavio njen žiro račun, što potvrdjuje navode iz iskaza svjedoka </span><span class="span2">Đ.R.</span><span class="span2"> da nije raspolagao njenim žiro računom, već je prvu ratu morao da uplati putem pošte, te da je tek nakon te uplate dobio njen broj žiro računa.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Dakle, ako se ima u vidu nesporna činjenica da je optuženi za svoju obavezu da na ime izdržavanja svog sina </span><span class="span2">A.</span><span class="span2">svakomjesečno plaća iznos od 150,00 eura, do 05-og u mjesecu za tekući mjesec saznao 20.12.2013.godine, da je upravo zbog toga što optuženi nije bio upoznat sa presudom, njegov otac </span><span class="span2">Đ.R.</span><span class="span2"> započeo sa realizacijom presude, uplaćujući 400,00 eura putem pošte dana 10.11.2013.godine, da su sve obaveze koje je optuženi imao po osnovu presude P.163/13 od 11.10.2013.godine izmirene u cjelosti, što u krajnjem nije osporila ni zakonska zastupnica oštećenog, kao i da je nakon toga optuženi putem trajnog naloga nastavio da plaća izdržavanje oštećenom, ocijenjeno je da optuženi propuštanjem da u vrijeme predstavljeno u optužnom predlogu svoju obavezu ispunjava u rokovima, nije svjesno izbjegavao plaćanje svoje obaveze, iz kojih razloga je donijeta je presuda kojom se oslobađa od optužbe, na osnovu </span><span class="span2">čl. 373 st.1 tč. 2 ZKP.</span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">Kako zakonski zastupnik oštećenog nije postavila imovinsko pravni zahtjev, sud o istom nije odlučivao. </span>
+</p>
+<p>
+<span class="span2">  </span>
+</p>
+<li>
+<span class="span4">Odluka o troškovima krivičnog postupka zasniva se na odredbi čl.230 st.1 ZKP, zbog čega troškovi krivičnog postupka padaju na teret budžetskih sredstava suda.</span>
+</li>
+<p>&nbsp;</p>
+<li>
+<span class="span4">Na osnovu izloženog odlučeno je kao u izreci presude.</span>
+</li>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="text-align:center;">
+<span class="span1">OSNOVNI SUD U </span><span class="span1">B</span><span class="span1">ARU</span><span class="span1">.</span>
+</p>
+<p style="text-align:center;">
+<span class="span1">Dana 07.08.2015.godine</span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Zapisničar,</span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"> </span><span class="span1">      S U D I J A,</span>
+</p>
+<p>
+<span class="span1">Zorica Ivanović      </span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"></span><span class="span1"> Tamara Spasojević </span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>
+<span class="span1">Pravna pouka: </span><span class="span2">Protiv ovog rješenja može se izjaviti žalba Višem sudu u Podgorici, u roku od  8 dana, od dana prijema otpravka rješenja, a preko ovog suda. </span>
+</p>
+<p>
+<span class="span2"></span>
+</p>
+<p>
+<span class="span2"></span>
+</p>
+<p>
+<span class="span2">DN-a: </span>
+</p>
+<p>&nbsp;</p>
+<p>
+<span class="span2">- ODT-u u </span><span class="span2">B.</span><span class="span2">,</span>
+</p>
+<p>
+<span class="span2">- optuženom, </span><span class="span2">                       </span><span class="span2"></span><span class="span2"> </span>
+</p>
+<p>
+<span class="span2">- braniocu.</span>
+</p>
+<p>
+<span class="span2">- u spise. </span>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+</div>
+</div>
+
+
+</body>

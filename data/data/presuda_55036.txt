@@ -1,0 +1,415 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.b2{margin: 1.0in 1.25in 1.0in 1.25in;}
+.s1{font-weight:bold;}
+.s2{color:black;}
+.s3{font-weight:bold;color:black;}
+.p1{margin-left:-0.125in;text-align:end;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p2{margin-left:-0.125in;text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+.p3{margin-left:-0.125in;text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p4{text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p5{text-indent:0.625in;margin-left:-0.125in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p6{text-indent:0.375in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p7{text-indent:0.5in;margin-left:1.5in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p8{margin-left:-0.09861111in;margin-right:0.009722223in;margin-top:0.18333334in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p9{margin-left:-0.09861111in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p10{text-indent:0.6166667in;margin-left:-0.125in;margin-bottom:0.083333336in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p11{margin-left:-0.125in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p12{text-indent:0.5in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p13{text-indent:0.5in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p14{text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p15{text-indent:0.5in;margin-left:-0.125in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p16{text-indent:0.5in;text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p17{text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p18{text-indent:0.5in;margin-left:-0.125in;text-align:center;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p19{margin-left:-0.125in;text-align:justify;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p20{margin-left:0.5in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p21{margin-left:0.25in;text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:13pt;}
+.p22{text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+</style>
+<meta content="milijana.minic" name="author">
+</head>
+<body class="b1 b2">
+<p class="p1">
+<span class="s1">K. broj 65/11</span>
+</p>
+<p class="p2"></p>
+<p class="p3"></p>
+<p class="p3"></p>
+<p class="p3"></p>
+<p class="p3"></p>
+<p class="p3"></p>
+<p class="p3"></p>
+<p class="p3"></p>
+<p class="p4">
+<span class="s1">U IME CRNE GORE</span>
+</p>
+<p class="p3"></p>
+<p class="p5">
+<span class="s1">OSNOVNI SUD U BARU</span><span>, kao prvostepeni krivični, sudija Goran Šćepanović, kao sudija pojedinac, sa zapisničarom Milijanom Minić, u krivičnom predmetu optuženog </span><span class="s1">B. M.</span><span>, zbog krivičnog djela zloupotreba službenog položaja iz čl. 216 st.1 KZ RCG i falsifikovanje službene isprave iz čl. 227 st.1  KZ RCG, po optužnici Osnovnog državnog tužioca u Baru Kt. br. 261/07 od 25.10.2008. godine, nakon održanog glavnog javnog pretresa u prisustvu zastupnika optužbe Osnovnog državnog tužioca M. M. i branioca po službenoj dužnosti optuženog M. B., M. R., advokata iz Bara, u odsustvu optuženog M. B., dana 03.10.2011. godine donio je, a dana 05.10.2011. godine javno objavio,</span>
+</p>
+<p class="p6"></p>
+<p class="p7">
+<span class="s1">        P R E S U D U</span><span> </span>
+</p>
+<p class="p8">
+<span>             Optuženi </span><span class="s1">B. M., </span><span>od oca M. i majke Lj., rođene B., rođen ... godine u P., sa prebivalištem u B. ul. Ž. P. broj .., završio Višu Geodetsku školu, neosuđivan, </span>
+</p>
+<p class="p9"></p>
+<p class="p10">
+<span>Na osnovu čl.373. tač.3 ZKP</span>
+</p>
+<p class="p11"></p>
+<p class="p3">
+<span class="s1">OSLOBAĐA SE OD OPTUŽBE</span>
+</p>
+<p class="p11"></p>
+<p class="p12">
+<span>Da je :</span>
+</p>
+<p class="p13"></p>
+<p class="p12">
+<span>Dana 30.07.2002 godine, u Baru, kao službeno lice, vršilac dužnosti ... Direkcije za nekretnine - Područne jedinice Bar, iskorišćavanjem svog službenog položaja i prekoračenjem granica svog službenog ovlašćenja pribavio korist K. H. iz B. – K. i svojim potpisom i službenim pečatom ovjerio službenu ispravu sa neistinitom sadržinom, na način što je sada pok. Š. D. postupajući po zahtjevu K. H. od 26.07.2002 godine, sačinio rješenje br. 954-1865/1-02 od 30.07.2002 godine, kojim se dozvoljava cijepanje i upis prava svojine na katastarskim parcelama 2388/2, 2388/3 i 2388/21 upisanim u listu nepokretnosti 1321 KO K. i u isto unio neistinite podatke da su novoformirane katastarske parcele 2388/44, 2388/45, 2388/46 i 288/47 svojina K. H., te da se upis prava svojine vrši na osnovu ugovora o poklonu Ov br. 1603/93 iako K. H. nije mogao biti uknjižen kao vlasnik jer nije bio suvlasnik na kat. par. 2388/2, 2388/3 i 2388/21, niti je bio ugovorna strana ugovora o fizičkoj diobi Ov br. 8277/02 od 26.07.2002 godine, koji je poslužio kao osnov upisa, nakon čega je optuženi B. M. svojim potpisom i službenim pečatom ovjerio takvu službenu ispravu sa neistinitom sadržinom,</span>
+</p>
+<p class="p12"></p>
+<p class="p14">
+<span>	- čime bi učinio krivično djelo - </span><span class="s1">zloupotreba službenog položaja iz čl. 216 st. 1. KZ RCG u sticaju sa krivičnim djelom falsifikovanje službene isprave iz čl. 227 st.1  KZ RCG.</span>
+</p>
+<p class="p12"></p>
+<p class="p15">
+<span>  Jer nije dokazano da je učinio djela za koja je optužen.</span>
+</p>
+<p class="p16"></p>
+<p class="p12">
+<span>Troškovi krivičnog postupka padaju na teret budžetskih sredstava suda. </span>
+</p>
+<p class="p12"></p>
+<p class="p16">
+<span class="s1">O b r a z l o ž e n j e</span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Optužnicom Osnovnog državnog tužioca u Baru Kt. br. 261/07 od 25.10.2008. godine pod tč.2  stavljeno je na teret optuženim izvršenje krivičnih djela bliže opisanih u dispozitivu.</span>
+</p>
+<p class="p12">
+<span> </span>
+</p>
+<p class="p12">
+<span>Glavni pretres je održan u odsustvu optuženog B. M. na osnovu rješenja Krivičnog vijeća Kv broj 258/09 od 10.06.2009. godine. </span>
+</p>
+<p class="p12"></p>
+<p class="p14">
+<span>	Optuženi M. B. nije saslušan u toku postupka.</span>
+</p>
+<p class="p14"></p>
+<p class="p14">
+<span>	U dokaznom postupku na saglasan predlog stranaka pročitani su iskazi svjedoka </span><span class="s2">Đ. M.-M.,</span><span> </span><span class="s2">J. R., U. A., U. S., P. S., K. H., U. Z., M. V., R. F., K. E., pročitani su : nalaz i mišljenje vještaka grafologa  J. Z. br. 110/07 od 07.07.2007. godine, nalaz i mišljenje vještaka grafologa  J. Z. br. 111/07 od 07.07.2007. godine, ugovor o diobi od 25.07.2002. godine, ovjeren pred ovim sudom dana 26.07.2002. godine, punomoćje od 25.07.2002. godine advokatske kancelarije Z. L., punomoćje od 26.07.2002. godine, advokatske kancelarije R. F., rješenje Direkcije za nekretnine PJ Bar, br. 954-1865/1-02 od 30.07.2002. godine, zahtjev K. H. upućen Direkciji za nekretnine PJ Bar, za uslovnu diobu parcela od 26.07.2002. godine, ugovor o kupoprodaji  ovjeren  u Osnovnom sudu u Baru, Ov br. 1603 /97 od 13.03.1997. godine, ugovor o poklonu ovjeren pred Osnovnim sudom u Baru Ov br. 1603/93, izvod iz matične knjige umrlih SO Bar, od 20.04.2007. godine na ime K. O., izvod iz matične knjige umrlih SO Bar, od 20.04.2007. godine na ime U.I., izvod iz matične knjige umrlih SO Bar, od 20.04.2007. godine na ime U. E., punomoćje  K. H. dato L. Z. dana 24.07.2002. godine, pravosnažna presuda P br. 299/03 od 27.05.2005. godine, prepis lista nepokretnosti br. 1321 KO Kunje od 26.07.2002. godine, izvod  knjige  za ovjere  Osnovnog suda u Baru od 26.07.2002. godine, izvod knjige za ovjere  Osnovnog suda u Baru od 13.03 1997. godine, </span><span>nalaz i mišljenje vještaka grafologa N. V. od 07.11.2009. godine, nalaz i mišljenje vještaka grafologa N. V. od 25.01.2010. godine, nalaz i mišljenje vještaka grafologa V. N. od 26.03.2010. godine, izvještaj Uprave za nekretnine br.02-4535/2 od 30.09.2010. godine,  izvod iz kaznene evidencije PU P.na ime B. M. br. PU 1619/2009 od 12.20.2009. godine, rješenje Direkcije za nekretnine PJ Bar br.954-2052/1.02 od 28.08.2002. godine, dopis Uprave za nekretnine br. 02-3175/2 od 5.07.2011. godine, odluka Direkcije za nekretnine u Podgorici br. 100-4143 od 2.11.2001. godine, Rješenje Direkcije za nekretnine u Podgorici br. 100-4143/2 od 2.11.2001. godine, rješenje Direkcije za nekretnine u Podgorici br. 100-4143 od 19.11.2001. godine, rješenje Direkcije za nekretnine u Podgorici br. 100-4143 od  .11.2001. godine, rješenje Direkcije za nekretnine u Podgorici br. 100-4143/5-01 od 7.05.2002. godine, odluka Direkcije za nekretnine u Podgorici br. 100-4143/6-01 od 7.05.2002. godine, rješenje Direkcije za nekretnine u Podgorici br. 100-4143/7-01 od 7.05.2002. godine, rješenje Direkcije za nekretnine u Podgorici br. 100-4143/8-01 od 7.05.2002. godine, Odluka Direkcije za nekretnine u Podgorici br. 10-4143/9-01 od 7.05.2002. godine, rješenje Direkcije za nekretnine u Podgorici br. 100-4143/10-01 od 01.04. do 30.06.2002. godine, izvršen je uvid </span><span class="s2">u spise predmeta Direkcije za nekretnine br. 954-1865-02 i u okviru navedenih spisa u rješenje Direkcije za nekretnine PJ Bar br. 954-1865/1-02 od 30.07.2002. godine, zahtjev K. H. od 26.07.2002. godine, punomoćje K. H. od 26.07.2002. godine, punomoćje U. S., P. S., U. B., U. Z., U. I., U. E., P. A., U. Z. i U. M. od 25.07.2002. godine, ugovor o diobi lica navedenih u punomoćju sa K. O. od 25.07.2002. godine, Ugovor o poklonu  od 30.03.1993. godine,  rješenje br. 954-2492/1-02 od 23.07.2002. godine, izvod iz lista nepokretnosti br. 1321 KO K. od 26.07.2002. godine i rješenje br.954-1865/1-02 od 30.07.2002. godine. </span>
+</p>
+<p class="p14"></p>
+<p class="p12">
+<span class="s2">Svjedok </span><span class="s3">Đ. M. – M.</span><span class="s2"> je izjavila da je u vrijeme koje je navedeno kao vrijeme izvršenja krivičnog djela ona bila zaposlena u pisarnici Osnovnog suda u Baru, a s obzirom da je u toku ljetnjih mjeseci bila dežurna, bila je zadužena za prijemnu kancelariju, kancelariju za ovjere, krivičnu i parničnu pisarnicu. Uobičajena procedura prilikom zaključenja ugovora jeste da stranke dolaze lično ili dolaze njihovi punomoćnici sa punomoćjima dobijenim od stranaka. Prilikom ovjere ugovora ugovor se pečatira na zadnjoj stranici, upisuje se broj i datum ovjere, a obaveza stranaka jeste da se potpišu u knjigu za ovjere. Kada su u pitanju advokati isti često vrše ovjere, tako da znaju proceduru prilikom zaključenja ugovora. Vezano za konkretan slučaj, ona se ne sjeća detalja jer se u tom slučaju nije desilo ništa što nije bilo uobičajeno u njenom poslovanju i što bi je podsjetilo da se desilo nešto vanredno. Sa svim advokatima ostvaruje profesionalnu komunikaciju bez bilo kakvih povlastica tako da se ne sjeća da je prilikom zaključenja konkretnog ugovora, komunikacija između nje i L. bila izvan profesionalne komunikacije.</span>
+</p>
+<p class="p17"></p>
+<p class="p14">
+<span class="s2">	Svjedok </span><span class="s3">J. R. </span><span class="s2">je izjavio da</span><span class="s3"> </span><span class="s2">je u vrijeme koje se navodi kao vrijeme izvršenja djela, odnosno izvjesno vrijeme prije toga bio komšija sa adv. L. Z.. K. E. i H. su prijatelji njegovog pokojnog brata i jednom prilikom su ga pitali da li bi mogao da im preporuči nekog advokata preko koga bi se oni uknjižili na zemljištu koje im je zbog neplaćanja poreza oduzeto 1961. godine. Rekli su mu da imaju svu potrebnu dokumentaciju i on je sa njima otišao u kancelariju adv. L.Z.. Oni su mu objasnili o čemu se radi i L. im je saopštio da je potrebno da mu donesu posjedovni list, druge papire koji su potrebni, pominjana je i nekakva podjela, ali ono što mu je ostalo u sjećanju jeste da je L. insistirao da oni imaju čiste papire i da će se u tom slučaju taj posao brzo završiti. Zbog činjenice da je on došao sa K. L. im je za svoje usluge tražio neku malu sumu novca, ne sjeća se koliko. On se ne može sjetiti koliko puta je sa K. išao kod adv. L., ali to je bilo najmanje tri puta i zna da se dešavalo da ode i sa ocem i sa sinom, ali i odvojeno sa jednim od njih jer bi se prilikom pregleda papira ispostavilo da neki od papira nedostaje. Kada je taj posao završen, odnosno kada su K. dobili rješenje da su vlasnici ove zemlje, on je od K. H. kupio jednu parcelu površine 1.200 m2, a od njega je dobio i punomoćje da može prodavati parcele koje su vraćene, a novac od zemljišta koje je prodavao preko adv. M. on je predavao K. E..  Kada je u pitanju K. O., čini mu se da je u tom periodu umro, a da li prije ili poslije tog posla on ne zna. On je otišao kod L. Z. sa K. jer je njega poznavao, a u to vrijeme K. L. nisu poznavali i on je ih prilikom prvog susreta upoznao. Sjećam se i da su K. u vrijeme kada su prvi put došli kod L. imali jedan plan kojim je izvršena parcelacija ovog zemljišta od strane geometra B. koji je tada radio u Baru, radilo se o posjedovnom listu br.105 po starom premjeru, a od tog lista nastale su sve parcele, tačnije dio koji je pripadao K. jer se ukupno radilo od 300 hiljada kvadratnih metara zemljišta.</span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Svjedok </span><span class="s1">U. A.</span><span> je izjavio da on advokatu L. Z. za koga je čuo, ali ga ne poznaje, nije dao punomoćje, kao ni njegov rođeni brat U. B., niti su potpisivali ugovor o diobi. On je bratu B.u punomoćnik od 1958 godine, a njegov sin R. je njegov staratelj od 2007 godine jer je on malo bolestan i umno poremećen i nije sposoban samostalno da odlučuje. Njemu je pokazano punomoćje i ugovor o diobi i tvrdi da na tom punomoćju i ugovoru nisu njegovi potpisi niti njegovog brata B., a zna da su u to vrijeme 2002. godine već odavno su bili umrli U. E.,  U.I. i  U.M. kao i  K.O. i zna da  P. S. živi u Francuskoj, dok  U.Z. živi u Americi. Oni su pokrenuli spor pred sudom i u tom sporu njih je zastupao F. I., koji je okončan pravosnažnom presudom kojim su poništena sva uknjiženja na druga lica i oni su tu njihovu imovinu nakon toga svu prodali. Advokata  F.R. u toku postupka oko te imovine niko ni u kakvom kontekstu nije pominjao. U vezi spornog ugovora o diobi imovine 2002. godine njega niko od porodice K. nije kontaktirao niti zvao vezano za tu diobu. Na glavnom pretresu je dodao da </span><span class="s2">je za navedeno punomoćje i ugovor saznao kada je dobio poziv od V. N. načelnika Katastra, koji im je tada rekao da je došlo do neke greške u vezi sa njihovom imovinom i tada je on pročitao imena lica koja su dala punomoćje Z. L. na osnovu čega je i zaključen predmetni ugovor. Tada se ispostavilo da je punomoćje navodno potpisao njegov brat koji nije sposoban da se stara o sebi i koji nije dao punomoćje, kao i druga lica koja su bila umrla ili odsutna iz Bara. </span>
+</p>
+<p class="p14"></p>
+<p class="p12">
+<span>Svjedok </span><span class="s1">U. S.</span><span> je izjavio da nije dao nikakvo punomoćje advokatu L. Z. i tog advokata ne poznaje, nije ga nikad sreo, ali je čuo da postoji. Nakon što mu je pokazano punomoćje tvrdi da je njegov potpis neko falsifikovao, jer se on tako ne potpisuje. Pokazan mu je ugovor o diobi od istog datuma za koji tvrdi isto da mu je prvi put pokazan u policiji i da na njemu nije njegov potpis, a u to vrijeme, znači tokom 2002. godine, već su bili preminuli  U.I., U. E. i  U.M., a i K. O..  P. S. i njegov brat se nalaze u Francuskoj, a  U.Z. živi u Americi, ali je ona nepismena i ne zna ni da se potpiše. Što se tiče U. B. zna da je nešto bolestan i da on nije poslovno sposoban i ima svog postavljenog staratelja. U vezi ovog slučaj sa njihovom imovinom oni su bili i na sudu i vodili su svojinski spor u kojem ih je zastupao F. I. i donijeta je presuda u njihovu korist kojom se poništava ugovor o diobi i sva uknjiženja koja su na osnovu njega uknjižena. Oni su tu imovinu nakon toga prodali. Advokat  F.R. mu je poznat od ranije, ali on nije preuzimao nikakve radnje u vezi ovog predmeta. Povodom tog ugovora o diobi njih nije nikad nije kontaktirao niko od porodice K., a ni advokat L. za koga je rekao da ga ne poznaje.</span><span class="s2"> Na glavnom pretresu je dodao da je jedina šteta koju su imali oko zaključenja predmetnog ugovora o diobi jeste činjenica da su morali da angažuju advokata I. F. kome su plaćali troškove, zatim su svu tu imovinu prodali.  On se ne može sjetiti da li je poništenje ovog ugovora prethodilo ovom krivičnom postupku ili je isto nastupilo kasnije. </span>
+</p>
+<p class="p14"></p>
+<p class="p14">
+<span class="s2">	Svjedok </span><span class="s1">P. S. </span><span>je izjavio da je njegova porodica bila vlasnik zajedničke imovine sa porodicom U. i K.. Ta imovina je bila podijeljena među njima dogovorno i svi su znali koji dio te imovine pripada kojoj porodici. Negdje u februaru 2003. godine došli su do saznanja da se dio njihove imovine prodaje i da se pojavljuju drugi vlasnici i provjerom u Katastru utvrdili su da je dio njihove imovine uknjižen na druge vlasnike. Tada su ustali sa tužbom kod Osnovnog suda u Baru i angažovali su advokata R. F. da vodi taj postupak. Radilo se o svojinskom sporu u kom postupku je trebalo da se izdvoji imovina P. od imovine U.. U tom postupku izdate su odmah privremene mjere zabrane raspolaganja imovinom i taj postupak je okončan pravosnažnom presudom kojom je ta imovina upisana na porodicu P.. Privremena mjera koja je bila izdata na predlog njihoveg advokata  F.R.a sprovedena je tek u 11 mjesecu 2003. godine. Nakon toga, u martu mjesecu 2007. godine primjetili su da se dio imovine ponovo krči i priprema za prodaju i tada su na terenu vidjeli advokata M., tačnije 11.04.2007. godine su ga zatekli na njihovom placu zajedno sa geometrima koji su mjerili njihovu imovinu, i nakon toga su podnijeli krivičnu prijavu CB Bar i tražili zaštitu njihove imovine. Pošli su u policiju nakon kontakta sa advokatom F. i on ih je uputio da podnesu krivičnu prijavu što su i uradili. Njegova braća od stričeva su P. A. i S. i oni žive u Francuskoj . Za U. E. i I. je čuo i zna da nisu živi. Ugovor o diobi imovine je prvi put dobio od porodice U., mislim da je to bilo u toku 2003. godine i tada je vidio da su na tom ugovoru njegova braća od stričeva S. i A. i tada je vidio da su dva čovjeka koja se pominju na ugovoru mrtva a radi se o U. E. i I.. U tom ugovoru je obuhvaćen dio imovine koji pripada porodici P., tačnije nije bio obuhvaćen dio imovine koji je pripadao njegovom ocu P. H.. Na ugovoru o diobi nije nigdje njihovo ime  F.R.a osim na četvrtastom pečatu na kraju gdje stoji ime  F.R.. Oni su angažovali advokata  F.R. da njih zastupa u svojinskim sporovima i on je savjesno postupao u tim sporovima i nisu imali nikakvih saznanja da je advokat F. učestvovao u postupku diobe. On je zajedno sa F. išao kod advokata M. V. u toku postupka za poništaj ugovora  za koga je angažovao F., kojom prilikom im je M. rekao da je za plac isplatio sumu od oko 20.000 € za jedan plac koji je u stvari imovina porodice P., a nakon toga su izašli na teren sa njim gdje im je on pokazao na licu mjesta da njega ne interesuje imovina koja je lijevo prema moru, a to je u stvari njihova imovina i pokazao im je desno od puta imovinu na koju on misli da je kupio. Svjedok je na glavnom pretresu dodao da </span><span class="s2">su za činjenicu da je predmetna imovina promijenila vlasnika mimo njihovog znanja saznali od njegovog brata od strica P. A. koji je u Katastru izvadio posjedovni list iz koga se vidjelo da se sva imovina ne vodi na njih, a U. Z. mu je kasnije pokazao taj ugovor o diobi. On nikada za tu imovinu nije imao kontakta sa advokatom L. Z.</span>
+</p>
+<p class="p17"></p>
+<p class="p12">
+<span>Svjedok </span><span class="s1">K. H.</span><span> je izjavio da je on advokatu L. Z. dao ovlašćenje da izvrši diobu njegove imovine od imovine porodice P. i U. u naselju B. KO K.. Tada mu je dao posjedovni list koji se odnosi na tu imovinu i tim ovlašćenjem je ga opunomoćio da može da završi sve poslove za diobu i uknjiženje te imovine kod Katastra u Baru. Za tu uslugu koju je trebao da završi on mu je tada platio 2.000 DM i on je obećao da će to završiti. Nakon izvjesnog vremena advokat L. je završio taj posao vezan za diobu i uknjiženje imovine i dostavio im je rješenje o uknjiženju tih parcela na njegovo ime. On tada nije potpisivao nikakav ugovor o diobi imovine niti je taj ugovor tada vidio, a ne može se tačno sjetiti kada je prvi put vidio ugovor o diobi imovine. Punomoćje koje je izdato L. je on lično potpisao, a punomoćje je glasilo da on izvrši diobu te imovine sa imovinom P. i U. i da izvrši upis te imovine u katastar. On je nakon toga dao ovlašćenje J. R. zvanom »P.« iz B. da može tu njegovu imovinu, odnosno taj dio njegove imovine, prodavati trećim licima. On je nešto od te imovine prodao, ali ne zna detalje. Oni su lično prodali jedan dio te imovine za koji su uzeli novac. On nije nikad potpisao nikakvo punomoćje advokatu  F.R., inače F. je prvi put vidio na sudu poslije nekoliko godina od ovog događaja. Punomoćje koje je dao L. Z. dao je u njegovoj kancelariji i tom prilikom u kancelariji je bio prisutan i njegov sin E.. Osim tog punomoćja nije mu potpisao ni jedno drugo punomoćje, za bilo koji drugi posao. Tom prilikom on je advokatu dao posjedovni list i tada nisu razgovarali ni o čemu drugom niti je pominjao tada da je njegov otac umro, jer je imovina bila već razdvojena, a otac je to bio prenio na njega i vodilo se na njegove ime. Inače, nakon smrti njegovog oca Osmana nije sproveden ostavinski postupak. On ne zna kako je to prešlo na njegovo ime, ali su geometri prilikom snimanja i mjerenja ili prilikom izlaganja katastra dali te podatke u Katastar i imovina je već bila uknjižena na njegove ime kao suvlasnika sa U. i P.. On nije preduzimao ni jednu radnju povodom diobe imovine jer je za sve bio opunomoćio L. tako da nije išao ni u Katastar ni u sud, ni negdje drugo. Advokatu L. Z. je platio iznos od 2.000 DM koje je pomenuo u momentu potpisivanja punomoćja. Ne može se sjetiti da li mu je L. predao zajedno sa rješenjem o uknjižbi i ugovor o diobi imovine. Njegov otac je K.A. O. i on je sa svojim pokojnim ocem zaključivao ugovor o poklonu imovine s kojim ugovorom mu je otac njemu i njegovoj braći poklonio imovinu. Ne sjeća se tačno, ali misli da je taj ugovor sačinjen 1993 ili 1994. godine, ali taj ugovor postoji. Nakon posla koji je obavio L. Z. nije vođen nikakav ostavinski postupak. On ne zna da li je neko pokazivao advokatu L. nepokretnosti koje su predmet diobe na terenu. Inače, u ovoj komunikaciji koju je imao sa L. i ukupnom ovom poslu koji se tiče parcela i ugovora, niko nije pominjao advokata  F.R.. Zna da je  F.R. vodio svojinski spor koji je vođen pred ovim sudom između njega i njegovih šuraka oko izdvajanja imovine. On advokata L. posle njihovog susreta u njegovoj kancelariji kada mu je potpisao punomoćje i dao novac više nije nikad ni sreo ni vidio. Svjedok je na glavnom pretresu dodao da </span><span class="s2">je kod Advokata L. bio jednom kojom prilikom mu je dao punomoćje za posao koji je opisao u prethodnom postupku. Poslije toga on nikada više nije išao kod njega, a da li je kod advokata L. išao njegov sin E. nije se mogao izjasniti. Njegov otac se zvao O.. Njegov sin se zove E., a on živi u Baru, na adresi K.. Koliko on zna advokat L. nije dolazio na lice mjesta koje je bilo predmet diobe, a da li je on mimo njegovog znanja dolazio njemu nije poznato. Ime B. M. mu ništa ne znači i nikada ga nije upoznao. Prije zaključenja ugovora o diobi koji je predmet ovog postupka na području na kome se nalazi predmetna imovina izvršena je katastarska revizija iz Podgorice, zna da je bio prisutan jedan geometar po nadimku »B.«. On je inače pomogao geometrima objašnjavajući čija je koja imovina. Oni su od starina znali čija je koja imovina, a nakon ovih mjerenja ispostavilo se da porodice U., K. i P. imaju i neku zajedničku imovinu u zoni morskog doba. Zna da su na izlaganje na lice mjesta bili pozvani i članovi porodica K., U. i P., a nije mu poznato da li su i oni učestvovali u pokazivanju geometrima šta je čija imovina. </span>
+</p>
+<p class="p17"></p>
+<p class="p12">
+<span>Svjedok </span><span class="s1">U. Z. </span><span>je izjavio da</span><span class="s1"> </span><span>advokata L. ne poznajem i nikada ga nije vidio, a prvi put ga je vidio u hodniku suda kada je bio pozvan u vezi ovog predmeta. Ugovor o diobi je prvi put tada vidio, na tom ugovoru nije njegov potpis i očigledno je da je taj ugovor falsifikovan. Karakteristično za taj ugovor je da je  P. S. u to vrijeme bio u Francuskoj, U. B. njegov rođak je bolestan, psihički labilna ličnost, nije sposoban za samostalan život, već ima staratelja, ima i ljekarske nalaze koji to potvrđuju,  U.I. je umro još prije dvadeset godina, U. E. je takođe umro, živio je i radio u Australiji, tamo je i sahranjen, te godine nije bio tu. P. A. nije bio tu, živi i radi u Francuskoj,  U.Z., živi u Americi, a koliko zna ona je nepismena, nije išla u školu niti zna da se potpiše i  U.M. je u to vrijeme već bio preminuo. On nije potpisao ni punomoćje za zaključivanje ugovora o diobi. L. nije dao punomoćje da u njegove ime zaključi bilo koji ugovor. Pokazana mu je kopija punomoćja od 25.07.2002 godine, za koju tvrdi da je sto posto falsifikovana. U punomoćju stoji pored ostalih i njegove ime i potpis, za koji tvrdi da nije njegov rukopis niti potpis i da je to rađeno bez njegove saglasnosti. Što je rekao za ugovor o diobi to važi i za to punomoćje, da su neki umrli, da neki nisu bili tu, da ima i nepismenih. Njih ukupno dvanaest familija su ovlastili advokata F. I. iz Bara da ih zastupa kod Osnovnog suda u Baru, F. je u njihove ime tužio lica V. V. N., V. Đ. i V. M., za koje su saznali da su se na neutvrđen način upisali u Katastar, na parcele koje su do tada bile njihove vlasništvo, a bez saglasnosti njihove i bez prodaje zemljišta. To saznanje su dobili od komšija koji su imali slične probleme i to od P. S. i njegove braće. Postupajući po tužbi sudija Š. V. je donio presudu dana 27.05.2005 godine u njihovu korist, kojom prilikom je proglasio ništavnim pomenuti ugovor o diobi. Oni nisu tražili nadoknadu štete, već samo da im se imovina vrati, što je pravda na kraju i odlučila. U stvarnosti na terenu, oni nisu bili fizički zauzeli, tj. ogradili placeve, već je to tada bila šuma koja je bila neparcelisana. U međuvremenu u zadnjih dvije godine oni su imanje koje su imali na tom potezu prodali, tako da više tamo nema zemljišta U.. Na glavnom pretresu je dodao da.</span>
+</p>
+<p class="p14">
+<span> </span>
+</p>
+<p class="p12">
+<span>Svjedok </span><span class="s1">M. V. </span><span>je izjavio da</span><span class="s1"> </span><span>je tokom avgusta 2002. godine u njegovu kancelariju je došao K. E. sin K.H. u pratnji sa J. R. punomoćnika  K. H. sa interesovanjem da proda određenu imovinu vlasnika Karastnaović  H. . Donijeli su punomoćje Ov.I 8278/2 od 26.07.2002. godine, rješenje br. 954-1865/1-02 od 30.07.2002. godine, situaciju parcele br. 2388/46 od juna 2002. godine, te situaciju iz jula 2002. godine. Kasnijim preparcelacijama parcele 2388/46 i 2388/45 dobile su oznaku 2388/46 i 2388/50. Pošto je sa njegovim partnerima bio zainteresovan za veće investicije na ovom području iskazao je  J.  i  K.  interesovanje za mogućnost kupovine možda i dijela imovine koja je pripala  K.  H. , a za koju je J. R. imao punomoćje za prodaju. Izašli su na teren i ta lokacija je bila ono što su njegovi partneri tražili. Kao punomoćnik Đ. M. inače njegovog kuma pregovarao je i dogovorio kupovinu određene zemlje. Kupljena je parcela br.2388/46 sa još nekim parcelama koje su bile izvedene iz matične parcele 2388/2. Ne zna tačno od koga, ali čuo je priču da su predmetne parcele sporne. Misli da je to čuo u fotografskoj radnji  P. a, ali nije siguran, te da je rečeno da postoji neko neslaganje po pitanju fizičke diobe imovine porodica U.,  K. i  P. . Odmah je otišao na teren, gdje je se vidio sa  K. E.,  J. R. i zna da je od zainteresovanih lica od porodice  P.  bio  P.  S., a na licu mjesta je bio i njegov advokat  F.R. koji su mu rekli da su nepokretnosti koje su kupljene u dijelu ispod parcela porodice U. jako sporne i rukom mu pokazali dio nepokretnosti izvedene od parcele br. 2388/2 koji se nalazi u potezu jedne karakteristične uvale i rekli da taj potez i sve desno gledano prema moru ispod parcele K. nije sporan, ali da je potez u dijelu gdje su stajali i lijevo od njega, a stajali su negdje na granici ispod parcele U. i  P.  sporan. Naveli su da će o tome odlučivati sigurno sud. On je rekao K. i J. R. istog dana da apsolutno nisu zainteresovani za bilo kakav posao sa spornom zemljom te da se dogovore između sebe da skupe pare koje su im dali i da raskinu sve ugovore. Oni nijesu imali novac, ali su rekli da imaju zemlju koja je sigurno čista koja sigurno njima pripada i koja se nalazi u dijelu koji su pokazali i sami  P. i. Prihvatili su ovakvu ponudu i ako samo zemljište oko 1300 m2 nije bilo podobno za realizaciju projekta koji su namjerili, ali ipak su bili prinuđeni da to prihvate jer drugog izlaza iz te situacije nije bilo. Pošto do realizacije projekta nije moglo doći na ovako malom zemljištu odlučili su da predmetne nepokretnosti prodaju Preciznosti radi predmetne parcele su nosile oznaku 2388/46 i 2388/50 i vodile su se na ime J. M., ali u skladu sa prethodno objašnjenim stvarno je trebala da pripadne Đ. M.. To je sve konstatovano rješenjem o upisu stvarnih prava od 28.08.2002. godine koje je kao i rješenje od 30.07.2002. godine potpisao D. Š. koji je obrađivao predmet, a za načelnika M. B.. Tokom juna mjeseca 2003. godine predmetnu nepokretnost su prodate B. N. što je i konstatovano rješenjima br. 954- 1486/1-03 i 954-1487/1-03 od 30.06.2003. godine Dana 5.11.2003. godine B. N. je dobio list nepokretnosti kao jedini i isključivi titular prava svojine na parcela ma br 2388/50 i 2388/46, takođe list nepokretnosti br. 2266 za KO K. izdat je i dana 7.03.2007. godine O svemu navedenom može dati jedino tvrdnju da je postojala apsolutna savjesnot u kupovini i prometu predmetnih nepokretnosti kako od strane Đ. M. i i J.M. koji su uknjiženi kao vlasnici, tako i od B. N. koji je bio uknjižen kao titular prava svojine sve do marta mjeseca 2007. godine kada je nezakonitim rješenjem uprave za nekretnine PJ Bar ispisano pravo svojine B. N. koje je po žalbi i poništeno, a onda opet rješenjem I stepenog organa potvrđeno da bi se trenutno nalazilo po žalbi ponovo kod II stepenog organa , a to sve naglašava jer je na osnovu takvog rješenje koje nije ni pravosnažno, jednostavno je izbrisano pravo svojine B.N.. U odnosu na Š. D. koji je inače potpisnik rješenja o upisu prava svojine u korist  K. H., potpisnik rješenja o upisu prava svojine u korist Đ. M., potpisnik rješenja o upisu prava svojine u korist B. N., a na osnovu izjave načelnika katastra V. N. pojavljuju se indicije da je kat.parcela br.2388/2 bila svojina RCG, kako je to i u ovom momentu upisano. Apsolutno je nezakonito postupanje Š. D. ukoliko je predmetna parcela bila zaista državna svojina da je svojim rješenjem upisao na privatna lica čime je sigurno prekoračio svoja službena ovlašćenja, odnosno ukoliko je parcela br. 2388/2 bila susvojina i pravilno izvršio upis prava svojine na  K. H. onda je počinio krivično djelo zloupotrebe službenog položaja donošenjem rješenja o ispisivanju prava svojine sa B. N.. Takođe rješenje o ispisivanju prava svojine je apsolutno nepoznato u pravu RCG, niti ima bilo kakav pravni osnov da se takvo rješenje donese. Ispisivanjem prava svojine nastala je velika šteta koja je pričinjena B. N., a navedeno ispisivanje učinjeno je u korist parcele Đ. P. i u korist RCG. Svjedok je na glavnom pretresu dodao da </span><span class="s2">je on podnio krivičnu prijavu protiv Š. D. jer je on postupajući po zahtjevu  K. H. koji je sin  K.O.a koji se javlja kao ugovorna strana u ugovoru od 25.07.2002. godine izvršio prenos imovine na osnovu tog ugovora. Postupajući po zahtjevu  K. H. Direkcija za nekretnine PJ Bar donijela je rješenje br.954-1865/1-02 od 30.07.2002. godine, a to rješenje je obradio D. Š. a za načelnika N. V. potpisao je B. M.. Ugovor OV.br.8277/02 od 26.07.2002. godine naveden je kao jedan od osnova za donošenje rješenja. Navedenim rješenjem ispostavilo se da je imovina koja predstavlja Morsko dobro odnosno državna svojina korisnika Opštine Bar prešla u vlasništvo porodica K., U. i P. i to je nešto što je tadašnjoj Direkciji za nekretnine moralo biti poznato. Kasnije se ispostavilo da su ljudi koji su kupovali imovinu od  K. H. kupovali državnu zemlju. Zemljište koje je kasnije parcelisao  K. H. oznake 2388 je bila zemlja koja jeste bila uknjižena na  K. H. zahvaljujući ovim poslovima, ali je suštinski to državna zemlja pa se postavlja pitanje savjesnosti geometara koji su to parcelisali. Radnje oko parcelisanja preduzimao je inspektor geometar sa nadimkom »B.« iz Podgorice na osnovu čijeg naloga je geometar P. J. i vršio ucrtavanje i promjene u katastru. On sa Z. L. oko sačinjavanja predmetnog ugovara nije imao nikakvu komunikaciju, niti ima saznanja da je Z. L. oko predmetne imovine kasnije sačinjavao neke ugovore. On Z. L. nikada nije vidio na mjestu gdje se nalazi predmetna zemlja. Vezano za pravni osnov upisa porodica  P. , K. i U., naveo je da nije imao uvid u pravni osnov ali ima saznanje da se jedan dio te zemlje zvao  P. a zabio, a drugi K. K. i da njihovo vlasništvo datira još iz Turskog perioda kada su ove porodice imale tapije na to zemljište. Ta zemlja se nalazila od brda do mora. </span>
+</p>
+<p class="p14"></p>
+<p class="p12">
+<span class="s2">Svjedok </span><span class="s3">R. F.</span><span class="s2"> je izjavio da je u ovom predmetu svojevremeno saslušan u svojstvu optuženog lica i postupak protiv njega je obustavljen, a njegova saznanja su sledeća. Jednog dana bilo je ljeto on je u holu ovog suda sreo svog kolegu L. Z.. koji je stajao u red za ovjere ispred kancelarije za ovjere. On je prethodno završio jednu ovjeru i išao je napolje i vidio je da Z. stoji sa nekim ljudima, na koje nije obraćao pažnju, ali zna da je jedan imao jednu francusku kapu i sako braon boje. Z.mu je tada rekao da je jedan od tih ljudi bolestan, da treba da putuje ili samo jedno od toga ne sjeća se i da li bi taj čovjek njemu mogao da da punomoćje da ne bi čekao red, a takođe mu je saopštio da je u pitanju fizička diobe i on je rekao da nema problema jer kada je u pitanju fizička dioba jasno je da se dioba može završiti samo između suvlasnika i da su mogućnosti za zloupotrebu minimalne. On je nakon toga otišao, na to je zaboravio jer ga niko nije zvao za zaključenje ugovora i jednom prilikom je u prolazu pitao Z. L. šta je bilo sa tim ugovorom i on mu je rekao da su ugovor završili Podgoričani, a on ih tog razloga nije pitao dalje. Nakon toga njemu je advokat I. F. rekao da postoji jedan problem sa ugovorom u kome se pominje njegove ime, ali na punomoćju. On je inače dugogodišnji advokat i punomoćnik porodice  P. , pogledao je ugovor o diobi u kome nije bio njegov potpis niti njegov pečat, ali je vidio da se na pečatu suda kao potpisnik javlja i on. Nije imao nikakve sumnje prema Z. L. za koga može da kaže da je njegov prijatelj i intimno smatra da je i on prevaran od strane lica koja su učestvovala u ovoj diobi jer bi samo lud čovjek mogao napraviti takav ugovor. Osim toga, da se Z. L. kasnije javio kao prodavac ove zemlje za njega bi to bilo signal da je i on učestvovao u svemu tome, ali kasnije je vidio da on u tome nije učestvovao jer je on kasnije poništavao te ugovore koje su posledica ovog ugovora o diobi. I pored svega što ga snašlo u ovom predmetu uvjeren je da u postupanju Z. L. nije bilo nikakve namjere. On je nakon ovih saznanja pokrenuo tužbu u ime porodice  P.  za utvrđivanje prava svojine na spornom zemljištu, a I. F. je pokrenuo postupak za poništaj ugovora o diobi koji je predmet ovog postupka. U postupku koji je on vidio izdejstvovao je donošenje privremene mjere, lično je rješenje o izdavanju privremene mjere odnio u katastar kod službenice koja se zvala R., a i sud je po službenoj dužnosti to rješenje poslao u Katastar i R. je toj prilikom ukazivao na hitnost sprovođenja ovog rješenja. Nakon toga pozvao ga je V. M. advokat i to istog dana koji mu je rekao da je on podnio neku tužbu za utvrđivanja prava svojine i da je on spreman da mu neke ugovore prizna. On je sa  P.  S. otišao kod njega i on je rekao da je spreman da mu prizna dva tri ugovora nakon čega je on rekao da se radi o Opštinskoj zemlji i on mu je tada rekao da sinu  K. H. E. dao 23.0000 € na ime ugovora o kupovini navedene zemlje. Nakon ovoga  P.  S., M. i on su otišli na teren i  P.  je tada rekao da desno od puta je imovina K. u sredini je njihovo, a lijevo je U. i da desno može da prodaje jer to nije njegova zemlja, a sredinu ne može da prodaje i tada je M. rekao da ga ne interesuje desno od puta već da ga interesuje zemljište lijevo od puta i da će on na toj zemlji koju je kupio da napravi neku konobu. U postupku pred ovim sudom kasnije je utvrđeno pravo svojine na zemlji  P.  i U. i svi ugovori koji su se odnosili na predmetno zemljište kasnije su poništeni. Ono što je njega začudilo jeste činjenica da Katastar nikada nije sproveo privremenu mjeru i on je dobio informaciju da je od momenta rješenja o privremenoj mjeri neka parcela prodata u Zabio  P. a licu iz Ulcinja R. M.. Ponovo je u Katastru insistirao da se to sprovede, jer je naknadno morao da poništava ugovor sa R. M.. Nije mu jasno na koji način je imovina koja je predmetnim ugovorom o diobi navodno prešla na  K.O.a bez ikakvog ostavinskog postupka kasnije u katastru nakon četiri dana od podnošenja zahtjeva  K. H. upisana na njegovo ime. Osim punomoćja koje je dao  K.O.u odnosno lice koje se tako predstavilo on sa Z. L. nije potpisivao nikakav ugovor. Inače, kada zaključuje ugovor kao punomoćnik on uvijek stavi i pečat svoje advokatske kanclelarije što je njegova obaveza, kao što punomoćje nekog lica tom prilikom mora da priloži uz ugovor. Takođe je obavezno da se potpiše u knjigu ovjera. Postoji i obaveza prema Zakonu o advokaturi da na svaki akt stavi svoj pečat.  Nesporno je da je punomoćje koje je potpisao  K.O. njegovo punomoćje, a misli da se  K. pred njim potpisao. On prije toga nije izvršio legitimisanje tog lica jer je smatrao da je to uradio L., a insistiranje na utvrđivanju identiteta bi predstavljalo i uvredu prema L.. On po zakonu nije u obavezi da legitimiše stranku. On jedino traži od stranke ličnu kartu da bi upisao njegov matični broj u ugovoru. On je kasnije u toku postupka saznao da je  P.  S. ujak  K. E.. </span>
+</p>
+<p class="p14"></p>
+<p class="p14">
+<span class="s2">	Svjedok </span><span class="s1"> K. E. </span><span>je izjavio da</span><span class="s1"> </span><span>je zajedno sa svojim ocem  K.  H.  bio kod advokata L. Z.a u njegovoj kancelariji gdje mu je njegov otac potpisao punomoćje kojim ga je ovlastio da izvrši diobu njihove imovine koja je bila u suvlasničkom statusu sa porodicom U. i  P.  Tom prilikom dali su mu posjedovni list iz koga se vidi da je njegov otac suvlasnik te imovine i tada mu je njegov otac dao na ime tog posla 2.000 DM. Pitali su ga ima li potrebe da mu pokažu gdje se nalazi ta imovina, a on je rekao da nije potrebno tako da mu nisu ni pokazivali gdje se tačno nalazi ta imovina. Nakon nekoliko dana L. Z. njih je pozvao i tražio od njegovog oca da potpiše punomoćje J. R. zvanom P. da može vršiti prodaju tog njihovog dijela imovine. Njegov otac mu je potpisao to punomoćje i to punomoćje je njegov otac potpisao u kancelariji L., a nakon toga su došli u sud da to punomoćje ovjere. Nakon 15 dana L. im je donio rješenje iz Uprave za katastar iz koga se vidjelo da je njegov otac uknjižen kao vlasnik na 1.800 m2. Osim tog rješenja drugo ništa im L. nije dao, a ugovor o diobi koji se pominje on je prvi put vidio kada je došao na suđenje oko imovine u parnici nakon nekoliko godina i tada je prvi put vidio advokata F.. Oni su prilikom potpisivanja punomoćja advokatu L. u njegovoj kancelariji dali posjedovni list iz koga se vodi da se ta imovina vodi na njegovog djeda pok.O. K. jer ta imovina još uvijek nije bila prevedena na njegovog oca i pitali su ga da li on može to da završi i on je rekao da može. Inače, povodom diobe te imovine ni on ni njegov otac nisu kontaktirali U. i  P.  već su za sve ovlastili L. da izvrši diobu i uknjiženje. Njima L. nije nikada izdao nikakvo drugo blanko ili neko drugo punomoćje i radi se samo o jedno jedinom punomoćju koji je potpisao njegov otac. Ni on ni njegov otac nisu preduzimali ni jednu radnju oko uknjiženja ove imovine niti su išli u Katastar niti u sud gdje su za sve bili ovlastili advokata L.. Advokat L. Z. im je predložio dva dana nakon potpisivanja punomoćja da opunomoće J. R. da proda taj njihov dio imovine jer on ima kupce i može da ga proda i to se sve dešavalo u kancelariji L. gdje je bio prisutan i J. koga je inače poznavao od ranije jer je sa njegovim bratom držao lokal na U.. Ni on ni njegov otac nisu odlazili u sud niti prisustvovali ovjeri ugovora o diobi, a o tome njih nije ni obavještavao L.. U čitavom poslu sa advokatom L. niko nikad nije pomenuo ni u kakvom kontekstu  F.R. Nije mu poznato koje sa druge strane učestvovao u postupku diobe, jer je L. Z. rekao da će on to sve da završi. Svjedok je na glavnom pretresu precizirao i dopunio svoj iskaz navodeći da </span><span class="s2">kada su otac i on prvi put došli kod advokata L. njegov otac mu je pokazao  punomoćje  pokojnog djeda O.,  koji je  umro 1986 godine,  koji je svojevremeno  dao punomoćje njegovom ocu da ga može zastupati  u  predmetima  koje bude vodio pred sudom. Dakle, radilo se o  nekom generalnom punomoćju. Njegov otac i on nikada  nisu advokatu L. predali  neko punomoćje koje je potpisalo više njihovih rođaka jer su mu saopštili da je problem oko podjele imovine, upravo u činjenici što imaju rođake u Australiji, Americi, da su neki umrli, a isti su suvlasnici zajedničke imovine i da iz tog  razloga  ne mogu da pribave punomoćje, ali im je on rekao da je to njegov problem. Njegov otac ni on, nikada nisu Upravi za nekretnine podnosili zahtjev kojim su tražili da se imovina sa pok. djeda O. prevede na ime njegovog oca. Punomoćje za koje je navedeno da je ovjereno dana 25.07.2002. godine, on je  prvi put vidio na sudu, ali u jednom parničnom postupku. Otac i on su  kod advokata L. dolazili ukupno dva puta i to prvi put kada su mu dali punomoćje. On se ne može izjasniti da li su otac i on kod L. dolazili dva puta ili tri puta. U iskazu u toku istrage stoji da je izjavio da su dolazili tri puta, ali ostavlja mogućnosti da su  punomoćje  koje je  njegov otac  predao prilikom prvog susreta i punomoćje kojim se ovlašćuje J. R. da može izvršiti prodaju njihovog dijela imovine,  advokatu L. predali isti dan, ali u dva navrata. Ni u jednom drugom slučaju ni zajedno ni odvojeno otac i on nisu dolazili kod L.. Njemu je otac saopštio da potpis  na punomoćju od 26.07.2002 godine  nije  njegov,  u što je se i on uvjerio kada je pogledao punomoćje. U pitanju je punomoćje advokatske kancelarije R. F.. Otac i on su kod advokata L. došli samo inicijativno sa namjerom da povrate njihov dio imovine. On nije vlasnik nikakve imovine i nikada  nije  učestvovao u nekom pravnom poslu pred sudom. Tek kada  su otac i on dobili  rješenje iz Katastra da je imovina prevedena sa njegovog djeda O. na oca H. angažovali su geometra iz Podgorice, B. i Lj., koji su u to vrijeme radili u Katastru u Baru. Siguran je da on  advokatu L. nije donosio takozvanu geodetsku skicu sačinjenu od geometara kojim je nepokretnost već bila podijeljena i koju bi advokat koristio prilikom sačinjavanja ugovora  o diobi. Njegov otac i on su L. pokazali stari list nepokretnosti u kome su navedena imena suvlasnika. Primjerak generalnog punomoćja kojim je njegov djed ovlastio za zastupanje njegovog oca, on posjeduje i misli da je isto prezentovano sudu. Advokat L. je predmetni ugovor u diobi sačinio na osnovu starog  lista nepokretnosti. Kako je došlo do toga da su podaci u ugovoru o diobi saglasni sa novim stanjem koje su utvrdili geometri  koji ugovor je zaključen prije donošenja rješenja od strane katastra, on se ne može izjasniti. Njegov otac je nakon diobe raspolagao sa dijelom svoje imovine na način što je  dao punomoćje J. R. da  može prodati dio imovine. Na pitanje suda, s obzirom da je svjedok izjavio da postoji mogućnost da je  punomoćje  J. R. predato advokatu L. istog dana kada i prvo punomoćje i kako je  J.  predato punomoćje o prodaji dijela imovine koja još nije bila  podijeljena izmedju suvlasnika, svjedok je naveo da je njegov otac ovlastio J. da  tu imovinu može prodati kada bude izvršena fizička dioba. On se ne može  sjetiti sadržine tog punomoćja i isto posjeduje kući. Na kraju je dodao da su prilikom dobijanja rješenja iz Katastra advokatu dali  2.300 DM. </span>
+</p>
+<p class="p17"></p>
+<p class="p12">
+<span class="s2">Iz nalaza i mišljenja vještaka grafologa J. Z. br. 110/07 od 07.07.2007. godine utvrđeno je da sporni potpis pod rednim brojem 8277 na dan 26.07.2002. godine konstatovan na kopiji lista knjige sudskih ovjera Osnovnog suda u Baru za period 2002. godine nije ispisao  F.R.. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz nalaza i mišljenja vještaka grafologa J. Z. br. 111/07 od 07.07.2007. godine, utvrđeno je da sporni potpis koji glasi na ime  K.O. konstatovan na kopiji spornog ugovora o diobi OV broj 8277/02 sačinjen dana 25.07.2002. godine nije ispisao  F.R..   </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz ugovora o diobi od 25.07.2002. godine, ovjerenog pred Osnovnim sudom u Baru dana 26.07.2002. godine utvrđeno je da se isti odnosi na fizičku diobu između  K. H., U. S.,  P. S., U. B., U. Z.,  U.I., U. E.,  P.  A., U. Z. i U. M., sa jedne i  K.O. sa druge strane, kao suvlasnika na kat. parcelama 2388/2, 2388/3 i 2388/21, površine 10.176 m2. u čl. 2 je navedeno da su diobničari ovlastili nadležne geometre Direkcije za nepokretnosti u Baru da izvrše fizičko odvajanje nepokretnosti. Ugovor je u ime  K. H., U. S.,  P. S., U. B., U. Z.,  U.I., U. E.,  P.  A., U. Z. i U. M., potpisao advokat L. Z., a za  K.O. drugo lice koje je stavilo svoj paraf. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz punomoćja od 25.07.2002. godine advokatske kancelarije Z. L., utvrđeno je da su U. S.,  P. S., U. B., U. Z.,  U.I., U. E.,  P.  A.,  U.Z. i  U.M., ovlastili advokata L. Z. da može da zaključi ugovor o diobi sa  K.O.om u vezi fizičke diobe parcela 2388/2,/3,/21. Advokat L. je ovlašćen da izvrši samo fizičko odvajanje zemljišta vlasništvo  K.O.a i da su saglasni sa predlogom fizičke diobe koju su izradili ovlašćene geodete Katastra iz Bara. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz punomoćja od 26.07.2002. godine, advokatske kancelarije R. F. utvrđeno je da je advokat F. od strane O. K. ovlašćen da ovjeri ugovor o fizičkoj diobi u Osnovnom sudu u Baru. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz rješenja Direkcije za nekretnine PJ Bar, br. 954-1865/1-02 od 30.07.2002. godine usvojen je zahtjev  K. H. i dozvoljeno je cijepanje i upis prava vlasništva za kat parcele broj 2388/2, krš, 5679m2, 2388/3, šuma,3258 m2, 2388/21, šuma 1240 iz lista nepokretnosti 1321 KO K., susvojina  K. H., O. i dr i upis kat parcele 2388/2 krš 4156 m2, 2388/3, šuma 2385 m2, 2388/21 šuma 908 m2, koje parcele ostaju na dosadašnje suvlasnike u istom listu nepokretnosti, dok se kat parcele broj 2388/44, krš 300 m2, 2388/46, krš 1222 m2, 2388/47, šuma V klase 873 m2,  i 2388/45 šuma 332 m2 koje parcele se upisuju u listu nepokretnosti broj „Nov“ KO K., kao svojina  K.O.  H.  u 1/1 dijela osnovu ugovora o diobi nepokretnosti Ov broj I 8277/02 od 26.07.2002. godine, i ugovora o poklonu br. I-1603/97. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz zahtjeva  K. H. upućenog Direkciji za nekretnine PJ Bar, za uslovnu diobu parcela od 26.07.2002. godine utvrđeno je da je zahtjev potpisao  K. H.. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz ugovora o kupoprodaji ovjeren u Osnovnom sudu u Baru, Ov br. 1603/97 od 13.03.1997. godine utvrđeno je da je zaključen između M. A. i P. Ž., a predmet ugovora je aluminijski čamac. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz ugovora o poklonu ovjeren pred Osnovnim sudom u Baru Ov br. 1603/93, utvrđeno je da je ugovor zaključen između  K.O., koga zastupa sin  K. H.i  K. H. a predmet je poklon više katastarskih parcela.  </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2"> Iz izvoda iz matične knjige umrlih SO Bar, od 20.04.2007. godine na ime  K.O. utvrđeno je da je imenovani umro 27.12.1995. godine.</span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz izvoda iz matične knjige umrlih SO Bar, od 20.04.2007. godine na ime  U.I. utvrđeno je da je imenovani umro 25.02.1981. godine.</span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz izvoda iz matične knjige umrlih SO Bar, od 20.04.2007. godine na ime U. E. utvrđeno je da je imenovani umro 04.07.1990. godine. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz punomoćja  K. H. datog L. Z. dana 24.07.2002. godine utvrđeno je da je advokat L.ovlašćen da zaključi ugovor u vezi nepokretnosti – kat parcele 2388 KO K. i preduzme ostale pravne radnje u vezi upisa zemljišta na njegovo ime. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz pravosnažne presude P br. 299/03 od 27.05.2005. godine utvrđeno je da su U. S., A. i Z. vlasnici nepokretnosti u dijelu 1/16 na kat parceli 2388/54 KO Kunje, kat parceli 2388/2 KO Kunje, kat parceli 2388/59, 2388/53. Ugovor o diobi O broj 8277/02 od 26.07.2002. godine je proglašen apsolutno ništavim.</span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz prepisa lista nepokretnosti br. 1321 KO Kunje od 26.07.2002. godine utvrđeno je da su na kat parcelama 2388/2,3 i 21 suvlasnici  K.O., U. S.,  P. S., U. B., U. Z.,  U.I., U. E.,  P.  A.,  U.Z. i  U.M.,</span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz izvoda knjige za ovjere Osnovnog suda u Baru od 26.07.2002. godine utvrđeno je da je pod brojem 8277 ovjeren ugovor o diobi punomoćnika R. F. i L. Z.</span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Iz izvoda knjige za ovjere Osnovnog suda u Baru od 13.03.1997. godine utvrđeno je da je pod bojem 1603 ovjeren ugovor zaključen između P. Ž. i M. A. </span>
+</p>
+<p class="p12">
+<span class="s2"> </span>
+</p>
+<p class="p12">
+<span class="s2">Iz </span><span>nalaza i mišljenja vještaka grafologa N. V. od 07.11.2009. godine utvrđeno je da vještak na osnovu dostavljenog materijala nije mogla doći do određenog identifikacionog zaključka. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz nalaza i mišljenja vještaka grafologa N. V. od 25.01.2010. godine utvrđeno je da vještaku nije dostavljen odgovarajući slobodan nesporni rukopis L. Z., a da nisu konstatovane sličnosti od takvog značaja koje bi upućivale na određeni zaključak da je L. Z. skripter spornih potpisa. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz nalaza i mišljenja vještaka grafologa V. N. od 26.03.2010. godine, utvrđeno je da sporne potpise nije svojeručno ispisao L. Z..</span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz izvještaja Uprave za nekretnine br.02-4535/2 od 30.09.2010. godine utvrđeni su lični podaci optuženog M. B.</span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz izvoda iz kaznene evidencije PU P. na ime B. M. br. PU 1619/2009 od 12.20.2009. godine utvrđeno je da optuženi nisu osuđivani.</span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz rješenja Direkcije za nekretnine PJ Bar br.954-2052/1.02 od 28.08.2002. godine utvrđeno je da je dozvoljeno na osnovu Ugovora o kupoprodaji nepokretnosti, </span><a href="http://ov.br"><span class="s2">Ov.br</span></a><span>. I-9266/02, od 14.8.2002 godine, Ugovora o kupoprodaji nepokretnosti I-8831/01, ugovora o kupoprodaji I-8840/01, Ugovora o kupoprodaji </span><a href="http://ov.br"><span class="s2">Ov. br</span></a><span>. 8841/02, Ugovora o kupoprodaji </span><a href="http://ov.br"><span class="s2">Ov. br</span></a><span>. 9248/02, Ugovora o kupoprodaji </span><a href="http://ov.br"><span class="s2">Ov. br</span></a><span>. 9262/02, ugovora o kupoprodaji Ov. br. 9252/02, ugovora o kupoprodaji </span><a href="http://ov.br"><span class="s2">Ov. br</span></a><span>. 9261/02, ugovora o kupoprodaji </span><a href="http://ov.br"><span class="s2">Ov. br</span></a><span>. 92645/02 ,  ugovora o kupoprodaji </span><a href="http://ov.br"><span class="s2">Ov. br</span></a><span>. 9203/02, ugovora o kupoprodaji </span><a href="http://ov.br"><span class="s2">Ov.br</span></a><span>. 8687/02, svi ovjereni u Osnovnom sudu u Baru, upis i to: upis prava svojine u 1/1 dijela, u listu nepokretnosti broj „Nov“ KO K., na kat. parceli broj 2388/2, krš 1470 m2 i 2388/51, krš 236 m2, u korist J. R. M. iz Bara, u 1/1 dijela, upis prava svojine u 1/1 dijela, u listu nepokretnosti broj „Nov“, KO K., na kat. parceli broj 2388/46, krš 928 m2, i 2338/55, krš 450 m2, u korist Đ. D. M. iz B.,  u 1/1 dijela, upis prava svojine u 1/1 dijela, u listu nepokretnosti broj „Nov“ KO K., na kat. parceli broj  2388/48, krš 300 m2 i 2388/49, krš 163 m2, u korist O. B. D.iz Bara, u 1/1 dijela, upis prava svojine u 1/1 dijela u listu nepokretnosti broj „Nov“ KO K., na kat. parceli broj 2388/50. krš 463 m2,	u korist J. R. M. u 1/1 dijela, upis prava svojine u 1/1 dijela, u korist J. M., na kat. parceli br. 2388/52, krš 157 m2, u </span><a href="http://ln.br"><span class="s2">ln.br</span></a><span>.“Nov“ KO K., upis prava svojine u 1/1 dijela, u korist V. Đ., na kat. parceli br. 2338/53, krš 150 m2, u </span><a href="http://ln.br"><span class="s2">ln.br</span></a><span>. „Nov“ KO K., upis prava svojine u 1/1 dijela, u korist V. M., na kat. parceli br. 2388/54, krš 150 m2 u ln broj „Nov“ KO K., upis prava svojine u 1/1 dijela, u ln.br. „Nov2 KO K., u korist J. Lj., na kat. parceli br. 2388/56, a što je sve do sada bilo upisano kao svojina i susvojina K.  H. , U. S. i dr. U listovima nepokretnosti br. 2224 i 1321 KO K.. Po pravosnažnosti ovog rješenja, izvršiće se promjena u katastru nepokretnosti. </span>
+</p>
+<p class="p14"></p>
+<p class="p12">
+<span>Sud je donio rješenje da se u dokaznom postupku neće izvesti kao dokazi izvodi iz kaznene evidencije na ime L. Z. i Đ. M., jer imenovani više nisu okrivljeni u postupku. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz dopisa Uprave za nekretnine br. 02-3175/2 od 5.07.2011. godine utvrđeno je da je B. M. bio raspoređen na određeno vrijeme od 45 dana za period od 01.11.2001. do 15.12.2001. godine rješenjem broj 100-4143/2 od 02.11.2001. godine. Rješenjem broj 100-4143/4 od 19.011.2001. godine ovlašćen je da potpisuje rješenja iz upravnog postupka i druga akta u Područnoj jedinici Bar od 19.11.2001. godine do povratka sa bolovanja načelnika. Raspoređen je na određeno vrijeme od 6 mjeseci za period od 16.12.2001. do 31.03.2002. godine rješenjem broj 100-4143/7-01 od 07.05.2002. godine. Raspoređen na određeno vrijeme od 3 mjeseca za period od 01.04.2002. do 30.06.2002. godine rješenjem broj 100-4143/10-01 od 07.05.2002. godine. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz odluke Direkcije za nekretnine u Podgorici br. 100-4143 od 2.11.2001. godine utvrđeno je da je B. M. bio raspoređen u Direkciji za nekretnine-Sektoru za plan, analizu i geodetski informacioni sistem na određeno vrijeme od 45 dana počev od 01.11.2001. godine na radno mjesto samostalni geodetski projektant. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz Rješenja Direkcije za nekretnine u Podgorici br. 100-4143/2 od 2.11.2001. godine utvrđeno je da je B.M. bio raspoređen u Direkciji za nekretnine-Sektoru za plan, analizu i geodetski informacioni sistem na određeno vrijeme od 45 dana počev od 01.11.2001. godine do 15.12.2001. godine na radno mjesto samostalnog geodetskog projektanta. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz rješenja Direkcije za nekretnine u Podgorici br. 100-4143 od 19.11.2001. godine utvrđeno je da je B. M. raspoređen na radno mjesto koordinatora za geodetske poslove u PJ Bar i da je ovlašćen je da potpisuje rješenja iz upravnog postupka i druga akta u Područnoj jedinici Bar od 19.11.2001. godine do povratka sa bolovanja načelnika. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz rješenje Direkcije za nekretnine u Podgorici br. 100-4143 od  .11.2001. godine utvrđeno je da je plata B. M. određena u visini koeficijenta 4,65. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz rješenja Direkcije za nekretnine u Podgorici br. 100-4143/5-01 od 7.05.2002. godine utvrđeno je da je B. M. raspoređen na mjesto koordinatora za geodetske poslove u PJ Bar na određeno vrijeme od 6 mjeseci za period od 16.12.2001. godine sa platom u visini koeficijenta 4,65. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz odluke Direkcije za nekretnine u Podgorici br. 100-4143/6-01 od 7.05.2002. godine utvrđeno je da je B. M. raspoređen na radno mjesto samostalni geodetski projektant na neodređeno vrijeme počev od 16.12.2001. godine. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz rješenja Direkcije za nekretnine u Podgorici br. 100-4143/7-01 od 7.05.2002. godine utvrđeno je da je B. M. raspoređen na radno mjesto samostalni geodetski projektant na određeno vrijeme od 6 mjeseci počev od 16.12.2001. godine do 31.03.2002. godine.  </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz rješenja Direkcije za nekretnine u Podgorici br. 100-4143/8-01 od 7.05.2002. godine utvrđeno je da je B. M. privremeno raspoređen na mjesto koordinatora za geodetske poslove u PJ Bar počev od 01.04.2002. godine sa platom u visini koeficijenta 4,65. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz Odluke Direkcije za nekretnine u Podgorici br. 10-4143/9-01 od 7.05.2002. godine utvrđeno je da je B. M. raspoređen u Direkciji za nekretnine-Sektoru za plan, analizu i geodetski informacioni sistem na neodređeno vrijeme od 3 mjeseca počev od 01.04.2002. godine na radno mjesto samostalnog geodetskog projektanta. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Iz rješenja Direkcije za nekretnine u Podgorici br. 100-4143/10-01 od 01.04. do 30.06.2002. godine utvrđeno je da je B. M. raspoređen u Direkciji za nekretnine-Sektoru za plan, analizu i geodetski informacioni sistem na određeno vrijeme od 3 mjeseca počev od 01.04.2002. godine do 30.06.2002. godine na radno mjesto samostalnog geodetskog projektanta. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">U spisima Direkcije za nekretnine br. 954-1865-02 nalaze se sledeći akti : </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Rješenje Direkcije za nekretnine PJ Bar br. 954-1865/1-02 od 30.07.2002. godine, zahtjev  K. H. od 26.07.2002. godine, čija je sadržina ranije interpretirana. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Punomoćje  K. H. od 26.07.2002. godine kojim je ovlašćen J. R. da može zaključiti kupoprodajni ugovor sa trećim licima u odnosu na parcele 2388/2/3/21, 2388/44/45/46 i 47 KO K.  </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2"> Punomoćje U. S.,  P. S., U. B., U. Z., U. I., U. E.,  P.  A., U. Z. i U. M. od 25.07.2002. godine, čija je sadržina ranije interpretirana. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Ugovor o diobi lica navedenih u punomoćju sa  K.O. od 25.07.2002. godine, čija je sadržina ranije interpretirana. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2"> Ugovor o poklonu  od 30.03.1993. godine, rješenje br. 954-1865/1-02 od 30.07.2002. godine, čija je sadržina ranije interpretirana. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Rješenje br. 954-2492/1-02 od 23.07.2002. godine kojim je dozvoljeno cijepanje kat parcela broj 2388/2, krš, površine 5679 m2, iz lista nepokretnosti broj 1321 KO K., susvojina  K. H. i dr; kat parcele broj 2388/44, krš, površine 300 m2, 2388/2, krš, površine 5378 m2, koje ostaju na iste suvlasnike u istom listu nepokretnosti. Ovim rješenjem je stavljeno van snage rješenje broj 954.2492/1-01 od 19.12.2001. godine, a u „G“ listu lista nepokretnosti broj 1321 KO K. prenosi se teret „Morsko dobro“.  </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">List nepokretnosti br. 1321 KO K. od 26.07.2002. godine iz koga se utvrđuje da kat parcele broj 2388/2/3/21 predstavljaju susvojinu  K. H., U. S.,  P. S., U. B., U. Z., U. I., U. E.,  P.  A., U. Z. i U. M. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Rješenje br.954-1865/1-02 od 30.07.2002. godine, čija je sadržina ranije interpretirana. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Ocjenom izvedenih dokaza nije dokazano da je optuženi B.M. učinio krivična djela koja su mu stavljena na teret. Optuženi nije saslušan u toku krivičnog postupka. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Utvrđeno je da je svjedok  K. H. Direkciji za nekretnine PJ Bar podnio zahtjev </span><span class="s2">za uslovnu diobu parcela od 26.07.2002. godine i to za parcele broj 2833/2 i 2833/3 iz posjedovnog lista 1321 KO K.. Na osnovu zahtjeva s</span><span>lužbeno lice Uprava za nekretnine pok. Š. D. je donio rješenje </span><span class="s2">954-1865/1-02 od 30.07.2002. godine</span><span> kojim je </span><span class="s2">usvojen je zahtjev  K. H. i dozvoljeno je cijepanje parcela i upis prava svojine na parcelama 2388/2, 2388/3, 2388/21, upisanim u listu nepokretnosti 1321 KO K.. U rješenju je navedeno da su predmetne parcele susvojina  K. H., a da je pravni osnov upisa ugovor o diobi nepokretnosti Ov broj I 8277/02 od 26.07.2002. godine. U pitanju je ugovor o diobi od 25.07.2002. godine, koji je ovjeren pred Osnovnim sudom u Baru dana 26.07.2002. godine koji se odnosi na fizičku diobu između  K. H., U. S.,  P. S., U. B., U. Z.,  U.I., U. Emra,  P.  A., U. Z. i U. M., sa jedne i  K.O. sa druge strane, kao suvlasnika na kat. parcelama 2388/2, 2388/3 i 2388/21, površine 10.176 m2. Kao drugi pravni osnov naveden je i ugovor o poklonu br. I-1603/97, koji je zaključen je između M.A. i P. Ž., a predmet ugovora je aluminijski čamac.  </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span class="s2">Po ocjeni suda, a nakon izvršenog uvida u spise predmeta Direkcije za nekretnine PJ Bar, prilikom navođenja ugovora o poklonu br. I-1603/97 napravljena je greška u kucanju i umjesto godine „93“, navedena je godina „97“, jer je sud u dokaznom postupku pročitao i ugovor o poklonu ovjeren pred Osnovnim sudom u Baru Ov br. 1603/93, koji je zaključen između  K.O.a, koga zastupa sin  K. H. i  K. H. a predmet je poklon više katastarskih parcela, pa je očigledno da je obrađivač rješenja imao u vidu navedeni ugovor, a ne ugovor o prodaji aluminijskog čamca, jer ni čamac ni lica koja su zaključili ugovor nemaju nikakve veze sa predmetnim nepokretnostima, a u pitanju su i ugovori zaključeni u vremenskom razmaku od 5 godina. Stav suda potvrđuje se i činjenicom da se u spisima predmeta Uprave za nekretnine nalazi upravo ugovor o poklonu Ov br. 1603/93.</span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span> K. H. koji je podnio zahtjev </span><span class="s2">za uslovnu diobu parcela od 26.07.2002. godine </span><span>je sin  K.O. koji je bio jedan od suvlasnika predmetne parcele koji je i u vrijeme zaključenja ugovora o diobi, a i u vrijeme podnošenja zahtjeva od strane  K. H. bio mrtav i  K. H. nije bio suvlasnik predmetne nepokretnosti, kako je navedeno u rješenju, već njegov otac pok.  K.O..   K.O. se ne navodi ni kao ugovorna strana u ugovoru o diobi. Navedeno rješenje koje je obradio pok. Š. D. svojim pečatom i potpisom je ovjerio optuženi B. M. U potpisu rješenja naveden je načelnik N. V., međutim, za načelnika rješenje je potpisao optuženi, jer je u postupku utvrđeno da je optuženi bio ovlašćen da potpisuje rješenja iz upravnog postupka do povratka sa bolovanja N. V. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Rješenje broj </span><span class="s2">954-1865/1-02 od 30.07.2002. godine donijeto je na osnovu čl. 83 Zakona o državnom premjeru, katastru i upisima prava na nepokretnostima kojim je propisano da se u </span><span>rješenju kojim se dozvoljava upis prava na nepokretnostima, nepokretnosti moraju označiti podacima iz katastarskog operata. Rješenje se dostavlja imaocu prava koji je upisan i imaocu prava koji se upisuje. Rješenje kojim se odbija upis promjene prava dostavlja se licu koje je tražilo upis, kao i imaocu prava koji je upisan. Kao drugi pravni osnov za donošenje rješenja naveden je čl. 192 Zakona o opštem upravnom postupku kojim je propisano da na osnovu odlučnih činjenica utvrđenih u postupku organ nadležan za donošenje rješenja donosi rješenje o upravnoj stvari koja je predmet postupka. Kad o upravnoj stvari rješava kolegijalni organ, on može rješavati kad je prisutno više od polovine njegovih članova, a rješenje donosi većinom glasova prisutnih članova, ako zakonom ili drugim propisima nije predviđena kvalifikovana većina. U navedenim članovima, kao ni u drugim članovima citiranih zakona nije propisana obaveza optuženog kao službenog lica da provjerava istinitost podataka koje je u rješenje unio pok. Š. D., već je stavljanjem potpisa i službenog pečata optuženi dao propisanu formu rješenju koje je obradio pok. Š. D. Zauzimanjem drugačijeg stanovišta, lice koje u Upravi za nekretnine potpisuje rješenja pored obrađivača bilo bi u obavezi da pored obrađivača odrađuje identičan posao, što bi predstavljalo dupliranje poslova, a i bilo bi nemoguće da jedno lice obradi sve predmete u Područnim jedinicama Uprave za nekretnine. Krivično djelo zloupotreba službenog položaja iz čl. 216 st.1 KZ RCG čini službeno lice koje iskorišćavanjem svog službenog položaja ili ovlašćenja, prekoračenjem granica svog službenog ovlašćenja ili nevršenjem svoje službene dužnosti, pribavi sebi ili drugom korist, drugom nanese štetu ili teže povrijedi prava drugog. Po ocjeni suda potpisivanjem predmetnog rješenja i ovjeravanjem službenim pečatom rješenja drugog obrađivača, od strane optuženog ne ostvaruju se obilježja ni jedne od alternativnih radnji izvršenja ovog krivičnog djela. S obzirom da optuženi nije bio dužan da provjerava istinitost podataka koje je u rješenju naveo pok. Š. D., optuženi nije bio upoznat da je predmetno rješenje službena isprava sa neistinitom sadržinom, koju je on ovjerio svojim potpisom i službenim pečatom, pa nije dokazano ni da je optuženi učinio krivično djelo falsifikovanje službene isprave iz čl. 227 st.1 KZ RCG. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Prilikom odlučivanja sud je imao u vidu i druge provedene dokaze pa je našao da su isti bez značaja za drugačije odlučivanje u ovoj krivičnopravnoj stvari.</span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Odluka o troškovima krivičnog postupka zasniva se na odredbi čl. čl. 230  ZKP, zbog čega troškovi krivičnog postupka padaju na teret budžetskih sredstava suda. </span>
+</p>
+<p class="p12"></p>
+<p class="p12">
+<span>Na osnovu izloženog odlučeno je kao u izreci presude</span>
+</p>
+<p class="p15"></p>
+<p class="p18">
+<span class="s1">OSNOVNI SUD U BARU</span>
+</p>
+<p class="p18">
+<span class="s1">Dana 05.10.2011. godine</span>
+</p>
+<p class="p18"></p>
+<p class="p18"></p>
+<p class="p17">
+<span class="s1">ZAPISNIČAR,			         			S U D I J A</span>
+</p>
+<p class="p19"></p>
+<p class="p19">
+<span class="s1">  Milijana Minić 				                Goran Šćepanović </span>
+</p>
+<p class="p19">
+<span> </span>
+</p>
+<p class="p19"></p>
+<p class="p19"></p>
+<p class="p19"></p>
+<p class="p19">
+<span>PRAVNA POUKA:Protiv ove presude može se </span>
+</p>
+<p class="p19">
+<span>izjaviti žalba Višem sudu u Podgorici u roku od</span>
+</p>
+<p class="p19">
+<span>15 dana od dana prijema pismenog otpravka.</span>
+</p>
+<p class="p19">
+<span>Žalba se predaje ovom sudu u dva primjerka.</span>
+</p>
+<p class="p20"></p>
+<p class="p21"></p>
+<p class="p17">
+<span>DNA:- 1 x ODT</span>
+</p>
+<p class="p21">
+<span>    - 1 x oglasna tabla za optuženog B. M.</span>
+</p>
+<p class="p17">
+<span>          - 1 x braniocu R. M. </span>
+</p>
+<p class="p21">
+<span>    -	 u spise.</span>
+</p>
+<p class="p17"></p>
+<p class="p17"></p>
+<p class="p22"></p>
+<p class="p22"></p>
+
+
+</body>

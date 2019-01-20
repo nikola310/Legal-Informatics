@@ -1,0 +1,320 @@
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<style type="text/css">.b1{white-space-collapsing:preserve;}
+.b2{margin: 0.25in 1.25in 1.0in 1.25in;}
+.s1{color:#1f252e;}
+.s2{color:#4f5055;}
+.s3{color:black;}
+.s4{color:#72747d;}
+.s5{color:#20262f;}
+.s6{color:#6d7173;}
+.s7{color:#4e5257;}
+.s8{color:#454950;}
+.s9{color:#67696e;}
+.s10{color:#1e242e;}
+.s11{color:#4e5057;}
+.s12{color:#676b70;}
+.s13{color:#cbd0f7;}
+.s14{color:#1e242d;}
+.s15{color:#494c53;}
+.s16{color:#707075;}
+.s17{color:#55585e;}
+.s18{color:#5c5e62;}
+.s19{color:#727679;}
+.p1{margin-left:5.202778in;margin-right:0.016666668in;margin-top:0.31319445in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p2{margin-left:5.8458333in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p3{margin-top:0.2in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p4{text-indent:0.35in;margin-right:0.019444445in;margin-top:0.16666667in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p5{margin-right:0.016666668in;margin-top:0.45972222in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p6{text-indent:0.49375in;margin-left:0.00625in;margin-right:0.009722223in;margin-top:0.48958334in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p7{margin-left:2.6694446in;margin-right:0.016666668in;margin-top:0.11666667in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p8{text-indent:0.27222222in;margin-right:0.0069444445in;margin-top:0.4798611in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p9{text-indent:0.25625in;margin-left:0.015972223in;margin-top:0.14305556in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p10{text-indent:0.26319444in;margin-left:0.015972223in;margin-right:0.05625in;margin-top:0.14652778in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p11{text-indent:0.26319444in;margin-left:0.015972223in;margin-right:0.05625in;margin-top:0.14652778in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p12{margin-right:0.05625in;margin-top:0.14652778in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p13{text-indent:0.17986111in;margin-left:0.013194445in;margin-right:0.14583333in;margin-top:0.13611111in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p14{text-indent:-0.0027777778in;margin-left:0.0027777778in;margin-right:-6.9444446E-4in;margin-top:0.12986112in;text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p15{text-indent:0.46319443in;margin-left:0.0027777778in;margin-right:-6.9444446E-4in;margin-top:0.12986112in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p16{text-indent:0.34305555in;margin-left:0.009722223in;margin-right:0.0027777778in;margin-top:0.13333334in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p17{text-indent:0.35277778in;margin-left:0.0027777778in;margin-right:0.009027778in;margin-top:0.13333334in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p18{text-indent:0.28958333in;margin-left:0.0055555557in;margin-right:0.0027777778in;margin-top:0.13611111in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p19{text-indent:0.3861111in;margin-right:0.0027777778in;margin-top:0.15625in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p20{text-indent:0.38958332in;margin-left:0.009722223in;margin-right:0.015972223in;margin-top:0.12986112in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p21{text-indent:0.35902777in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p22{text-indent:0.35625in;margin-left:0.0027777778in;margin-right:-6.9444446E-4in;margin-top:0.12986112in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p23{text-indent:0.35902777in;margin-right:-0.06388889in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p24{text-indent:0.5in;margin-right:-0.06388889in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p25{text-indent:0.27986112in;margin-left:0.00625in;margin-right:-6.9444446E-4in;margin-top:0.12986112in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p26{text-indent:0.5in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p27{text-indent:0.27291667in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p28{text-indent:0.27291667in;margin-right:0.0020833334in;margin-top:0.12986112in;text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p29{text-align:center;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p30{margin-left:2.1229167in;margin-right:0.0027777778in;margin-top:0.13611111in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p31{margin-left:4.5in;text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p32{text-align:justify;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p33{text-align:start;hyphenate:auto;font-family:Arial;font-size:12pt;}
+.p34{text-align:start;hyphenate:auto;font-family:Times New Roman;font-size:12pt;}
+</style>
+<title>     K</title>
+<meta content="mitar.mirovic" name="author">
+</head>
+<body class="b1 b2">
+<p class="p1">
+<span class="s1">     K.br</span><span class="s2">.</span><span class="s1">32/14 </span>
+</p>
+<p class="p2"></p>
+<p class="p2"></p>
+<p class="p2">
+<span class="s1"> </span>
+</p>
+<p class="p3"></p>
+<p class="p3"></p>
+<p class="p3">
+<span>    HYPERLINK "http://bs.wikipedia.org/wiki/Slika:Coat_of_arms_of_Montenegro.svg" \o "Grb Crne Gore" </span>
+<!--Image link to '0.png' can be here-->
+</p>
+<p class="p4">
+<span>U </span><span class="s1">IME CRNE GORE</span>
+</p>
+<p class="p4">
+<span class="s1">OSNOVNI SUD U ULCINJU, kao prvostepeni krivični</span><span class="s2"> </span><span class="s1">sudija mr Sanja Mirović, uz učesće namještenlka suda Barlović Domenike, kao zapisničara,u krivičnom predmetu okrivljenog H.Dž. iz Ulcinja, zbog krivičnog djela gradjenje objekta bez građevinske dozvole iz čl</span><span class="s2">.</span><span class="s1">326 a Krivicnog zakonika</span><span class="s2">, </span><span class="s1">odlučujući po optužnorn predlogu Osnovnog državnog tužilaštva u Ulcinju Kt</span><span class="s3">.</span><span class="s1">br</span><span class="s2">.</span><span class="s1">32/14 od </span>
+<br>
+<span class="s1">07.03.2014</span><span class="s4">.</span><span class="s1">godine,nakon održanog glavnog i javnog pretresa dana </span>
+<br>
+<span class="s1">03</span><span class="s2">.</span><span class="s1">07.2014</span><span class="s4">.</span><span class="s1">godine, u prisustvu zastupnika optužbe savjetnika u Osnovnom državnom tužilaštvu  F. R., a u odsustvu okrivljenog,donio je i istog dana  javno objavio </span>
+</p>
+<p class="p5">
+<span class="s1">P R E S U D U</span>
+</p>
+<p class="p6">
+<span class="s1">Okrivljeni H.DŽ., JMBG xxxxxxxx</span><span class="s2">, </span><span class="s1">od oca V. i majke </span>
+<br>
+<span class="s1">H. rođene M., rođen xxxxx  godine u U., gdje i prebiva- ul</span><span class="s3">. </span>
+<br>
+<span class="s3"> xxxxxxx</span><span class="s1">, Albanac, državljanin Crne Gore, sa završenim turizmološkim </span>
+<br>
+<span class="s1">naukama, zaposlen kao menadžer, oženjen</span><span class="s2">, </span><span class="s1">otac troje punoljetne djece, srednjeg imovnog stanja, neosudjivan</span><span class="s2"> </span>
+</p>
+<p class="p7"></p>
+<p class="p7">
+<span class="s1">K r i v  j e</span>
+</p>
+<p class="p8">
+<span class="s1">Zato što je neutvrdjenog dana decembra mjeseca 2013.godine, u U. na </span>
+<br>
+<span class="s1">svojoj kat</span><span class="s3">. </span><span class="s1">parceli br</span><span class="s2">. </span><span class="s1">30/393 sa LN br. 643 KO U. p., postupajući protivno </span>
+<br>
+<span class="s1">odredbi čl</span><span class="s3">. </span><span class="s1">69 Zakona o uredjenju prostora i izgradnji objekata</span><span class="s2">, </span><span class="s1">kao investitor </span>
+<br>
+<span class="s1">započeo gradjenje objekta bez prethodno pribavljene gradjevinske dozvole, na način što je započeo izgradnju stambenog objekta površine u osnovici cca 170 m2, izgradivši isti u grubim gadjevinskim radovima PO+P+P1, pri černu je bio svjestan svog dijela i htio njegovo izvršenje</span>
+</p>
+<p class="p9">
+<span class="s1">-čime je izvršio krivično djelo gradjenje objekta bez gradjevinske dozvole iz čl</span><span class="s3">. </span><span class="s1">326 a Krivičnog zakonika</span><span class="s2"> </span>
+</p>
+<p class="p10">
+<span class="s1">Pa mu sud primjenom citiranog zakonskog propisa te čl.4 st</span><span class="s3">.</span><span class="s1">2,32,36</span><span class="s2">,</span><span class="s1">42,45,46  52,53 i 54 Krivičnog zakonika,te čl</span><span class="s3">.</span><span class="s1">226</span><span class="s2">,</span><span class="s1">229 i 374 Zakonika o krivičnom postupku, izriče </span>
+</p>
+<p class="p11"></p>
+<p class="p12">
+<span class="s5">USLOVNU OSUDU</span>
+</p>
+<p class="p12"></p>
+<p class="p10">
+<span class="s5">Kojom mu utvrdjuje kaznu zatvora u trajanju od 4 (četiri) mjeseca i istovremeno </span>
+<br>
+<span class="s5">određuje da se ista neće izvršiti ukoliko okrivljeni u roku od 1 (jedne) godine po </span>
+<br>
+<span class="s5">pravosnažnosti presude ne učini novo krivično djelo. </span>
+</p>
+<p class="p13">
+<span class="s5">Dužan je okrivljeni da na ime troškova krivičnog postupka uplati ovom sudu 50,00 eura na ime sudskog paušala,u roku od 15 dana po pravosnažnosti presude. </span>
+</p>
+<p class="p14">
+<span class="s5">O b r a z l o ž e n j e</span>
+</p>
+<p class="p14"></p>
+<p class="p15">
+<span class="s5">Optužnim predlogom Osnovnog državnog tužilaštva u Ulcinju Kt</span><span class="s3">.</span><span class="s5">br</span><span class="s3">.</span><span class="s5">43/14 od 07</span><span class="s6">.</span><span class="s5">03.2014</span><span class="s7">.</span><span class="s5">godine</span><span class="s7">, </span><span class="s5">okrivljenom H.Dž.u je stavljeno na teret izvršenje </span>
+<br>
+<span class="s5">krivičnog djela gradjenje objekta bez gradjevinske dozvole iz čl</span><span class="s3">.</span><span class="s5">326 a Krivičnog </span>
+<br>
+<span class="s5">zakonika</span><span class="s7">,</span><span class="s5">činjenično bliže opisano u izreci presude.</span><span class="s7"> </span><span class="s5">Zastupnik optužbe je do završetka glavnog pretresa ostao pri podnijetom optužnom predlogu i u završnoj riječi je predložio sudu da okrivljenog oglasi krivim i osudi po zakonu. </span>
+</p>
+<p class="p15">
+<span class="s5">Okrivljeni H.Dž. u svojoj odbrani nije sporio da je krajem </span>
+<br>
+<span class="s5">decembra 2013</span><span class="s7">.</span><span class="s5">godine započeo gradjenje objekta na svojoj parceli broj 30/339</span><span class="s7">, </span><span class="s5">a da je dana 17.01.2014</span><span class="s6">.</span><span class="s5">godine</span><span class="s7">, </span><span class="s5">nadležnom sekretarijatu podnio zahtjev za izdavanje </span>
+<br>
+<span class="s5">gradjevinske dozvole</span><span class="s7">, </span><span class="s5">obzirom da mu je bilo i poznato da se objekti mogu graditi samo po pribavljanju gradjevinske dozvole. Kao glavni razlog zbog kojeg je u </span>
+<br>
+<span class="s5">decembru 2013.godine</span><span class="s7"> </span><span class="s5">započeo izgradnju objekta navodi činjenicu da je zemljište odnosno plac koji je kupio lošeg kvaliteta i da isti ne upija vodu</span><span class="s7">, </span><span class="s5">te se nije smijelo čekati proljeće i kiše, što bi ugrozilo opstanak objekta</span><span class="s6">. </span><span class="s5">Istakao je i</span><span class="s7"> </span><span class="s5">da je još od prije 2 godine dobio urbanističko-tehničke uslove, te da je namjeravao da gradi bez dozvole ucinio bi to i prije 6-7 godina kada je i kupio plac na pomenutom zernljistu</span><span class="s7">.P</span><span class="s5">ovod za izlazak inspektorke zaštite prostora na lice mjesta je prijava komšinice koja se plašila da će joj biti ugrožena stabilnost objekta koji se nalazi na udaljenosti od jedan i po metar</span><span class="s7"> </span><span class="s5">od granične linije sa njegovim objektom zbog čega je i ubrzao izvodjenje radova na svom objektu, nakon čega je ubrzo i dobio gradjevinsku dozvolu</span><span class="s7">,</span><span class="s5">uplatio sve neophodne dažbine i komunalije. Istakao je i da je uzrok kašnjenja dobijanja dozvole je i rad urbanisticke službe SO U. u kojoj se službenik za izdavanje dozvola nalazio na bolovanju, kao i lokalni izbori koji su se u to vrijeme održavali. U konačnom je istakao i da je gradnjom ovog objekta želio da sebi i svojoj porodici riješi stambeno pitanje</span><span class="s6">.</span>
+</p>
+<p class="p15">
+<span class="s5">Sud je u dokaznom postupku pročitao iskaz svjedoka N. B.</span><span class="s8">, </span><span class="s5">zapisnik o inspekcijskom pregledu br</span><span class="s9">. </span><span class="s5">0401/7-17/14 od 04</span><span class="s8">.</span><span class="s5">01</span><span class="s9">.</span><span class="s5">2014</span><span class="s8">.</span><span class="s5">godine</span><span class="s8">, </span><span class="s5">rješenje Uprave za inspekcijske poslove br</span><span class="s3">.</span><span class="s5">0401/7-46/14 od 27</span><span class="s8">.</span><span class="s5">02</span><span class="s9">.</span><span class="s5">2014.godine</span><span class="s8">,</span><span class="s5">rješenje Sekretarijata za prostorno planiranje i održivi razvoj opštine U. broj 05</span><span class="s8">.</span><span class="s5">59/1-14 od 06</span><span class="s9">.</span><span class="s5">03</span><span class="s8">.</span><span class="s5">2014</span><span class="s8">.</span><span class="s5">godine</span><span class="s8">,</span><span class="s5">uvjerenje Sekretarijata za prostorno planiranje i održivi razvoj opštine Ulcinj broj 05-13/14 od 05</span><span class="s8">.</span><span class="s5">02.2014</span><span class="s9">.</span><span class="s5">godine</span><span class="s8">, </span><span class="s5">izvršio uvid u zahtjev za izdavanje gradjevinske dozvole br</span><span class="s8">.</span><span class="s5">05-59/14 od 17</span><span class="s9">.</span><span class="s5">01.2014.godine</span><span class="s8">,</span><span class="s5">gradjevinsku dozvolu Sekretarijata za prostorno planiranje i održivi razvoj SO U. broj 05-59/1-14 od 06</span><span class="s9">.</span><span class="s5">03</span><span class="s9">.</span><span class="s5">2014.godine</span><span class="s8">, </span><span class="s5">elaborat o geotehnickim svojstvima terena za potrebe izgradnje objekta na urbanisticko] parcel</span><span class="s8">i </span><span class="s5">br</span><span class="s8">.</span><span class="s5">14 kat</span><span class="s3">. </span><span class="s5">30/393 koji je izradio DOO “G.” N. br</span><span class="s8">. </span><span class="s5">0621-1/013 od 21</span><span class="s8">.</span><span class="s5">06</span><span class="s9">.</span><span class="s5">2013.godine</span><span class="s8">, </span><span class="s5">pročitao izvod iz kaznene evidencije za okrivljenog</span><span class="s8">, </span><span class="s5">izdat od Uprave policije OB U. br</span><span class="s8">. </span><span class="s5">03-245/14-1067/2 od 13</span><span class="s8">.</span><span class="s5">03.2014</span><span class="s8">.</span><span class="s5">godine. </span>
+</p>
+<p class="p15">
+<span class="s5">Iz iskaza svjedoka N. B. od 07.03.2014</span><span class="s9">.</span><span class="s5">godine</span><span class="s8">,</span><span class="s5">proizilazi da je ista </span>
+<br>
+<span class="s5">zaposlena na poslovima ispektora zaštite prostora pri Upravi za inspekc</span><span class="s8">i</span><span class="s5">jske poslove</span><span class="s9">. </span><span class="s5">Dana 04.01</span><span class="s8">.</span><span class="s5">2014 postupajuci po sluzbenoj duznosti, a na osnovu prijave podnesene od strane gradjana, izvršen je inspekc</span><span class="s8">i</span><span class="s5">jski pregled na kat</span><span class="s3">.</span><span class="s5">parceli br</span><span class="s8">. </span><span class="s5">30/339</span><span class="s8">,</span><span class="s5">gdje je na licu mjesta konstatovano izvodjenje radova kod subjekta nadzora H.Dž.,a radi se o objektu spratnosti P+ 1 površine cca 170 m2. Investitor H.Dž. koji je zatečen bio na licu mjesta</span><span class="s8">,</span><span class="s5">je na uvid dostavio zahtjev za izdavanje gradjevinske dozvole od 17</span><span class="s8">.</span><span class="s5">01.2014.godine</span><span class="s8">,</span><span class="s5">kao i urbanističko tehničke uslove za predmetn</span><span class="s8">i </span><span class="s5">objekat</span><span class="s8">, </span><span class="s5">te je </span><span class="s8">i </span><span class="s5">na licu mjesta pojasnio da je u toku pribavljanje gradjevinske dozvole</span><span class="s8">,</span><span class="s5">koja nije bila pribavljena u trenutku započinjanja izgradnje objekta</span><span class="s9">. </span>
+</p>
+<p class="p16">
+<span class="s5">Iz zapisnika o inspekcijskom pregledu Uprave za inspekcijske poslove br</span><span class="s8">. </span><span class="s5">0401/7-17/14 od 04.01</span><span class="s9">.</span><span class="s5">2014</span><span class="s9">.</span><span class="s5">godine</span><span class="s9">,</span><span class="s5">preizilazi da je inspektor zaštite prostora </span>
+<br>
+<span class="s5">B. N. postupajući po prijavi</span><span class="s8">,</span><span class="s5">koja je kod ovog organa zavedena pod br</span><span class="s9">.</span><span class="s5">UP- </span>
+<br>
+<span class="s5">0401-175/2 od 29</span><span class="s8">.</span><span class="s5">01</span><span class="s8">.</span><span class="s5">2014.godine</span><span class="s8"> </span><span class="s5">u kojoj se navodi da se na kat</span><span class="s3">.</span><span class="s5">pareeli 30/393 KO </span>
+<br>
+<span class="s5">U. grad</span><span class="s8">i </span><span class="s5">objekat od 5 spratova,izlaskom na lice mjesta konstatuje sljedeće stanje</span><span class="s8">: </span>
+<br>
+<span class="s5">Na predmetnoj parceli u toku je izvodjenje grubih gradjevisnkih radova na objektu </span>
+<br>
+<span class="s5">spratnosti P+1</span><span class="s8">, </span><span class="s5">dimenzija cca 170 m 2</span><span class="s9">. </span><span class="s5">U toku vršenja nadzora</span><span class="s8">, </span><span class="s5">ispumpava se beton </span>
+<br>
+<span class="s5">na drugoj medjuspratnoj ploči. Na licu mjesta zatečen je investitor H.Dž.</span><span class="s8"> </span>
+<br>
+<span class="s5">koji na uvid dostavlja zahtjev za izdavanje gradjevisnke dozvole koji je zaveden pod </span>
+<br>
+<span class="s5">b</span><span class="s8">r</span><span class="s3">.</span><span class="s5">UPI-05-59/14 od 17.01</span><span class="s8">.</span><span class="s5">2014</span><span class="s8">.</span><span class="s5">godine. Za urbanističku parcelu br.14 zona B5 po </span>
+<br>
+<span class="s5">DUP</span><span class="s8">-</span><span class="s5">u "U. p." izdati su UTU br</span><span class="s8">.</span><span class="s5">05-2048/1-2012 od 26.07</span><span class="s9">.</span><span class="s5">2012.godine</span><span class="s9">. </span>
+<br>
+<span class="s5">Glavni projekat sa izvjestajem o izvršenoj reviziji kao i dokaz o osiguranju ad </span>
+<br>
+<span class="s5">odgovornosti investitora i pr</span><span class="s8">i</span><span class="s5">vrednog drustva. Na sačinjeni zapisnik invest</span><span class="s8">i</span><span class="s5">tor je izjavio</span><span class="s8">:</span><span class="s5">"U fazi sam pr</span><span class="s8">i</span><span class="s5">bavljanja dozvole</span><span class="s8">,</span><span class="s5">pitanje je dana kada ce biti pripremljena u Opštini.Po DUP-u</span><span class="s8">, </span><span class="s5">na parceli je predvidjen objekat spratnosti P+4</span><span class="s9">. </span><span class="s5">Odgovorno lice u opštini,nije bilo na svom radnom mjestu neko izvjesno vrijeme te je to vjerovatno</span><span class="s8"> </span><span class="s5">razlog neizdavanja gradjevinske dozvole</span><span class="s8">. </span><span class="s5">Do kraja ove nedelje nadam se dozvola ce biti spremna</span><span class="s8">,</span><span class="s5">a naručio sam i tablu</span><span class="s8"> </span><span class="s5">na kojoj ću istaći sve potrebne podatke sa dozvole</span><span class="s8">.</span><span class="s5">" </span><span class="s10">Uzimajući u obzir navedene činjenice</span><span class="s11">, </span><span class="s10">inspektor nalaže prisutnom investitoru da u roku od 8 dana od dana sačinjavanja zapisnika dostavi gradjevinsku dozvolu</span><span class="s12">.</span><span class="s10">Nadalje</span><span class="s11">, </span><span class="s10">investitor je u obavezi da Upravi za inspekcijske poslove dostavi prijavu o početku izvodjenja radova i da na propisan nacin, obezbjedi gradilište</span><span class="s12">. </span>
+</p>
+<p class="p17">
+<span class="s10">Iz rješenja Uprave za inspekcijske poslove br.0401/7-46/14 od </span>
+<br>
+<span class="s10">27.02</span><span class="s12">.</span><span class="s10">2014</span><span class="s12">.</span><span class="s10">godine</span><span class="s11">, </span><span class="s10">nalaže se prinudno zatvaranje-pečaćenje objekta u izgradnji</span><span class="s11">, </span>
+<br>
+<span class="s10">dimenzija u osnovi cca 170 m 2, spratnosti P+3, a koji se nalazi na kat</span><span class="s3">. </span><span class="s10">parceli </span>
+<br>
+<span class="s10">br</span><span class="s11">.</span><span class="s10">30/393 KO Ulcinj u opštini Ulcinj</span><span class="s12">, </span><span class="s10">do pribavljanja gradjevinske dozvole</span><span class="s12">. </span>
+</p>
+<p class="p18">
+<span class="s10">Iz rješenja Sekretarijata za prostorno planiranje i održivi razvoj opštine U. br</span><span class="s11">. </span>
+<br>
+<span class="s10">05.59/1-14 od 06.03.2014.godine utvrdjuje se da se izdaje H.Dž.u iz U.</span><span class="s11"> </span><span class="s10">gradjevinska dozvola za izgradnju objekta na urbanisticko] parceli br.14, zona "B"</span><span class="s11">, </span><span class="s10">podzona 5</span><span class="s11">,</span><span class="s10">u zahvatu Dup-a "U. p.", na dijelu katastarske parcele br.30/393 sa lista nepokretnosti br</span><span class="s3">.</span><span class="s10">613 KO U. p.Namjena objekta</span><span class="s11">: </span><span class="s10">stambeni;Spratnost objekta</span><span class="s11">:</span><span class="s10">Po+P+4 (podrum, prizemlje i četiri sprata). Radovi na izgradnji objekta biće izveden</span><span class="s11">i </span><span class="s10">u svemu prema glavnom projektu </span>
+<br>
+<span class="s10">uradjenom od strane Doo "MMK C. "- B., br</span><span class="s3">.</span><span class="s10">595 od 27</span><span class="s11">.</span><span class="s10">12.2013.godine</span><span class="s11">, </span>
+<br>
+<span class="s10">revidovan od strane Doo "A. s. MMC" B., br</span><span class="s11">.</span><span class="s10">009/2 od 30.12</span><span class="s11">.</span><span class="s10">2013</span><span class="s11">.</span><span class="s10">godine, </span>
+<br>
+<span class="s10">zaveden i ovjeren od strane Sekretarijata za prostorno planiranje i odrzivi razvoj br. </span>
+<br>
+<span class="s10">05-59/14 od 01</span><span class="s11">.</span><span class="s10">02.2014 godine i isti čini sastavni dio ovog rješenja</span><span class="s12">. </span><span class="s10">Investitor je </span>
+<br>
+<span class="s10">dužan da na mjestu izgradnju objekta započne u roku od dvije godine od dana </span>
+<br>
+<span class="s10">izdavanja gradjevinske dozvole u protivnom prestaje mu pravo na gradjenje objekta </span>
+<br>
+<span class="s10">po izdatoj gradjevinskoj dozvoli, a rok za završetak radova na izgradnji objekta je tri </span>
+<br>
+<span class="s10">godine od dana pravosnažnosti gradjevinske dozvole, koji je sastavni dio ovog </span>
+<br>
+<span class="s10">rješenja. Isti je dužan da sedam dana prije početka radova prijavi radove nadležnorn </span>
+<br>
+<span class="s10">inspekcijskom organu</span><span class="s12">. </span>
+</p>
+<p class="p19">
+<span class="s10">Iz uvjerenja Sekretarijata za prostorno planiranje i održivi razvoj opštine Ulcinj </span>
+<br>
+<span class="s10">br</span><span class="s12">. </span><span class="s10">05-13/14 oa</span><span class="s13">-</span><span class="s10">051J2</span><span class="s12">.</span><span class="s10">2014.godine, se utvrdjuje da je u toku postupak po zahtjevu </span>
+<br>
+<span class="s10">br</span><span class="s11">. </span><span class="s10">05-59/14 od 17.01.2014 godine koji je ovom Sekretarijatu podnio Dz. H. iz U., za izdavanja gradjevinske dozvole za izgradnju objekta na urbanisticko] </span>
+<br>
+<span class="s10">parceli br</span><span class="s11">.</span><span class="s10">14 zona B5 sa Dup-a "U. p". Imenovani je ovom organu dostavio revidivanu tehničku dokumentaciju</span><span class="s11"> i </span><span class="s10">u toku je postupak kompletiranja prateće dokumentacije i saglasnosti od nadležnih organa. </span>
+</p>
+<p class="p19">
+<span class="s10">Iz zahtjeva za izdavanje gradjevinske dozvole proizilazi da je isti u opštinskoj arhivi zaveden pod brojem 05-59/14 dana 17</span><span class="s12">.</span><span class="s10">01</span><span class="s11">.</span><span class="s10">2014</span><span class="s12">.</span><span class="s10">godine, da se u skladu sa Zakonom o uredjenju prostora i izgradnji objekata Sl</span><span class="s3">.</span><span class="s10">list CG, broj 51/08</span><span class="s12">, </span><span class="s10">40/10</span><span class="s11">, </span><span class="s10">34/11, 40/11 i 47/11 traži izdavanje gradjevinske dozvole za</span><span class="s12"> </span><span class="s10">stambeno poslovni objekat na urbanistickoj parceli br.14 zona 85 sa DUP-A U. p. u U. na ime H.Dž.</span><span class="s11">. </span><span class="s10">Uz zahtjev je priložen glavni projekat sa izvještajem o izvršenoj reviziji, kao i dokaz o osiguranju od odgovornosti investitora i privrednog drustva pravnog lica odnosno preduzetnika koje je izradilo odnosno revidovalo glavni projekat</span><span class="s3">. </span>
+</p>
+<p class="p19">
+<span class="s14">Iz elaborata o geotehničkim svojstvima terena za potrebe izgradnje objekta na </span>
+<br>
+<span class="s14">urbantstickoj parceli br</span><span class="s15">.</span><span class="s14">14 kat</span><span class="s3">. </span><span class="s14">30/333</span><span class="s15">, </span><span class="s14">koji je izradio DOO “G.” N. br</span><span class="s15">.</span><span class="s14">0621-1/013 od 21</span><span class="s15">.</span><span class="s14">06</span><span class="s15">.</span><span class="s14">2013</span><span class="s15">.</span><span class="s14">godine, proizilazi da je teren lokacije buduceg objekta u U. sa lnzenjereko-geološkog aspekta uslovi fundiranja su ujednačeni ali složeni.Lokacija je na ravnom terenu i stabilna je u prirodnim uslovima</span><span class="s15">. </span><span class="s14">Sa hidrogeoloskog aspekta</span><span class="s15">,</span><span class="s14">teren spada u slabije propustan</span><span class="s15">, </span><span class="s14">intergranularne i kapilarne poroznosti</span><span class="s3">. </span><span class="s14">Nivo vode je bio oko 1.7 m od površine terena u vremenu istraživanja</span><span class="s15">. </span><span class="s14">U hldrološkom maksimumu se penje bliže površini terena</span><span class="s16">. </span><span class="s14">Dozvoljeno opterećenje podloge za temeljne trake je oko 180 kN/m2 a za AB plocu do 280 kN/m2</span><span class="s15">. </span><span class="s14">Slijeganje objekta pri fundiranju na trakama je do 2.5 cm a pri fundiranju na AB ploci do 7 cm. Preporučuje se fundiranje objekta na AB temeljnoj ploči uz prethodnu pripremu podloge.Zemljane radove odnosno pripremu podloge </span><span class="s15">i</span><span class="s14">zvodit</span><span class="s15">i </span><span class="s14">prema datim preporukama i uz obavezan geotehnički nadzor</span><span class="s16">. </span>
+</p>
+<p class="p20">
+<span class="s14">Iz izvoda iz kaznene evidencije za okrivljenog izdatog od Uprave MUP-a OB U. br</span><span class="s3">. </span><span class="s14">03-245/14-1067/2 od 13</span><span class="s15">.</span><span class="s14">03.2014.godine, proizilazi da isti nije osudjivan. </span>
+</p>
+<p class="p20">
+<span>Sud je odbio predlog okrivljenog da se u dokaznom postupku izvrši uvid u Izvještaj o odredjivanju modula stišljivosti tla MS od 01.11.2013.godine, koji je izradio  AD “Z.” N., u Izvještaj o reviziji glavnog projekta na urbanističkoj parceli br.14 od decembra 2013. godine, koji je izradio  “ART S. MMC” te u urbnističko tehničke uslove Opštine U. Sekretarijata za opšte planiranje od 26.07.2012.godine,jer provodjenje navedenih dokaza bi prema stanovištu suda nepotrebno opteretilo dokazni postupak a nebi doprinijelo rasvjetljavanju ove krivično pravne stvari obzirom da se radi o tehničkoj dokumentaciji koja je priložena uz zahtjev za dobijanje gradjevinske dozvole i koju je neophodno obezbjediti u upravnom postupku prije donošenja gradjevinske dozvole, u koju dozvolu je sud u dokaznom postupku izvršio uvid.</span>
+</p>
+<p class="p20">
+<span>Ocjenom izvedenih dokaza na nesumnjiv način je utvrđeno da je okrivljeni izvršio krivično djelo činjenično bliže opisano u izreci presude.</span>
+</p>
+<p class="p20">
+<span>Navedeno činjenično stanje utvrđeno je prevashodno na osnovu pisanih materijalnih dokaza i to najprije zapisnika o inspekcijskom pregledu Uprave za inspekcijske poslove broj </span><span class="s5">0401/7-17/14 od 04.01</span><span class="s9">.</span><span class="s5">2014</span><span class="s9">.</span><span class="s5">godine</span><span> koji je sud u cjelosti prihvatio imajući u vidu da je isti sačinjen od strane službenog lica – inspektorke zaštite prostora i da ni stranke na isti nijesu imale primjedbi a autentičnost pomenutog zapisnika potvrdila je u svom kazivanju i inspektorka koja ga je sačinila-svjedok N. B. čiji je iskaz sud cijenio kao objektivan i uvjerljiv. Dakle, na osnovu pomenutog zapisnika nesporno se utvrdjuje da je u vrijeme izvršene kontrole </span><span class="s14">okrivljeni H.Dž. već sagradio objekat u obimu kako je to zapisnički konstatovano (obima u osnovici cca 170 m2  u grubim gradjevinskim radovima po etažama PO+P+P1) dok se u momentu kontrole izlivala druga međuspratna ploča. Ni sam okrivljeni nije sporio da je u navedeno vrijeme izvodio radove u pomenutom obimu bez građevinske dozvole ističući da je izgradnju objekta zapravo započeo u decembru 2013.god. te je sud u tom dijelu njegovu odbranu i prihvatio cijeneći da je ista saglasna sa naprijed navedenim dokazima kojima je sud poklonio vjeru.</span>
+</p>
+<p class="p20">
+<span class="s14">  On se međutim tokom postupka branio</span><span class="s5"> da je glavni razlog zbog kojeg je započeo sa izgradnjom objekta baš u mjesecu decembru 2013.god. taj što je zemljište na kojem se sada nalazi objekat lošeg kvaliteta i što ne upija vodu</span><span class="s17">,</span><span class="s5">te nije smio čekati proljeće i kiše koje bi onemogućile opstanak objekta zbog čega je i predložio da sud izvrši uvid u elaborat o geotehničkim svojstvima terena. Provjeravajući navode odbrane okrivljenog sud je izvršio uvid u priloženi elaborat o geotehničkim svojstvima terena za potrebe izgradnje objekta na urbanistickoj parceli br.14 na.kat.parc.br.30/393 koji je izradila firma DOO”G.” N. te je iz istog između ostalog utvrdjeno da se radi o lokaciji koja je na ravnom terenu i stabilna u prirodnim uslovima,te da sa </span><span class="s14">hidrogeološkog aspekta</span><span class="s15"> </span><span class="s14">teren spada u slabije propustan</span><span class="s15">, </span><span class="s14">intergranularne i kapilarne poroznosti</span><span class="s3">.U konačnom se u elaboratu p</span><span class="s14">reporučuje fundiranje objekta na AB temeljnoj ploči uz prethodnu pripremu podloge a zemljane radove odnosno pripremu podloge </span><span class="s15">i</span><span class="s14">zvodit</span><span class="s15">i </span><span class="s14">prema datim preporukama i uz obavezan geotehnički nador,dakle u elaboratu,u čiju istinitost sud nije imao razloga da sumnja se nigdje ne navodi da je zemljište lošeg kvaliteta niti da je gradjenje objekta neophodno započeti prije kiša već se zaključuje da je lokacija </span><span class="s5">stabilna u prirodnim uslovima,te da sa </span><span class="s14">hidrogeološkog aspekta</span><span class="s15"> </span><span class="s14">teren spada u slabije propustan</span><span class="s15">, </span><span class="s14">intergranularne i kapilarne poroznosti,te se u istom kako je to okrivljeni predstavio u svojoj odbrani, ne pominje nužnost gradnje navedenog objekta u zimskom periodu. Osim toga kada se imaju u vidu klimatski uslovi na području opštine U. koji se upravo odlikuju kišovitim zimama a ne kišovitim proljećima zaključuje se da je odbrana okrivljenog u ovom dijelu suprotna izvedenim dokazima,nelogična i </span><span>usmjerena na izbjegavanje krivice.</span>
+</p>
+<p class="p20"></p>
+<p class="p21">
+<span>Tokom postupka je takođe utvrdjeno da je okrivljeni dana 06.03.2014.godine od nadležnog sekretarijata dobio građevinsku dozvolu za izgradnju pomenutog objekta,a na osnovu prethodno podnešenog zahtjeva za izdavanje gradjevinske dozvole nadleznom Sekretarijatu i to dana 17.01.2014.godine, koji je u opštinskoj arhivi navedenog dana primljen i zaveden pod brojem 05-59/14 pa kada se ova činjenica dovede u vezu sa gore navedenim zapisnikom o inspekcijskom pregledu izvodi se zaključak da je okrivljeni navedeni zahtjev podnio nakon što je inspektorka zaštite prostora izvršila inspekcijski pregled na njegovom objektu,iz čega se nesumnjivo zaključuje da okrivljeni nije imao gradjevinsku dozvolu koja mu je bila neophodna prije nego sto je započeo sa izvodjenjem radova. Nije sporno ni da je okrivljeni prije dobijanja gradjevinske dozvole posjedovao urbanističko tehničke uslove br.05-2048/1-2012 od 26.07.2012 koje je i priložio uz zahtjev za izdavanje </span>
+<br>
+<span>gradjevinske dozvole a iste je i dostavio na uvid inspektorki zaštite prostora, ali je Zakon o izgradnji objekata i uredjenju prostora suprotno kojem je okrivljeni u konkretnom postupio,u čl.69 jasan i izričit da se objekat rnoze graditi na osnovu gradjevinske dozvole i tehničke dokumentacije, dakle neophodno je kumulativno ispunjenje oba uslova,koja okrivljeni prije početka gradnje objekta (decembar 2013.god.) nije obezbjedio. Okolnost da je okrivljeni naknadno pribavio gradjevinsku dozvolu sud će cijeniti kao olakšavajuću prilikom odlučivanja o krivičnoj sankciji,medjutim namjeru okrivljenog da prikaže neophodnost izvodjenja predmetnih radova baš u vrijeme u koje mu je to i stavljeno na teret da je činio, te njegovi navodi da su se u navedeno vrijeme u U. održavali lokalni izbori i da je službenik za izdavanje dozvola bio odsutan sa posla sud nije mogao prihvatiti jer to nisu razlozi koji opravdavaju njegovo postupanje posebno ih posmatrajući u svijetlu činjenice da je okrivljeni radove započeo u decembru 2013.god.,da je zahtjev za izdavanje gradjevinske dozvole podnio 17.01.2014.god. a dozvolu dobio 06.03.2014.god.   lmajući u vidu utvrdjeno činjenično stanje, sud je našao da su se radnjama okrivljenog ostvarili svi elementi bića krivičnog djela gradjenje objekta bez </span>
+<br>
+<span>gradjevinske dozvole iz cl.326 a Krivičnog zakonika.</span>
+</p>
+<p class="p22"></p>
+<p class="p23">
+<span>   Cijeneći subjektivni odnos okrivljenog prema učinjenom krivičnom djelu, sud nalazi da je okrivljeni bio svjestan svoga djela i htio njegovo izvršenje,što je sud utvrdio iz izvedenih dokaza a i iz samog kazivanja okrivljenog koji je i istakao da je znao da mu je za gradjenje objekta prethodno potrebna dozvola,pri čemu se njegov psihički odnos prema učinjenom krivičnom djelu manifestuje kao direktni umišljaj. </span>
+</p>
+<p class="p24"></p>
+<p class="p24">
+<span>Sud je cijenio i ostale dokaze pa je našao da isti nijesu od bitnog uticaja na drugačije presuđenje u ovoj krivičnoj stvari.  </span>
+</p>
+<p class="p25">
+<span class="s5">      Prilikom izbora vrste i visine krivične sankcije sud je cijenio sve okolnosti iz čl</span><span class="s3">.</span><span class="s5">42 Krivičnog zakonika pa je od olakšavajućih okolnosti na strani okrivljenog sud cijenio njegovu raniju neosudjivanost koju je sud utvrdio iz izvoda kaznene evidencije,njegove porodične prilike jer je oženien i otac troje djece,te činjenicu da je naknadno pribavio građevinsku dozvolu za objekat,koje okolnosti je sud u svojoj sveukupnosti cijenio kao osobito olakšavajuće te mu je imajući u vidu i odsustvo otežavajućih okolnosti s</span><span>hodno čl.45 i čl.46 Krivičnog zakonika kaznu zatvora ublažio ispod zakonskog minimuma te mu utrdio kaznu zatvora u trajanju od 4 (četiri) mjeseca </span><span class="s5">i istovremeno odredio da se ista neće </span>
+<br>
+<span class="s5">izvršiti ukoliko okrivljeni u roku od 1 (jedne) godine po pravosnažnosti presude ne </span>
+<br>
+<span class="s5">učini novo krivično djelo, nalazeći da ce se i uslovnom osudom kao mjerom </span>
+<br>
+<span class="s5">upozorenja postici svrha iz cl</span><span class="s3">.</span><span class="s5">52 Krivicnog zakonika i u dovoljnoj mjeri uticati na </span>
+<br>
+<span class="s5">okrivljenog da ubuduće ne vrši krivična djela</span><span class="s17">, </span><span class="s5">odnosno da će se u svemu ostvariti </span>
+<br>
+<span class="s5">svrha propisivanja i izricanja krivicnlh sankcija iz čl</span><span class="s3">.</span><span class="s5">4 st</span><span class="s3">.</span><span class="s5">2 Krivicnog zakonika, </span>
+<br>
+<span class="s5">zaključujuci da je izrečena uslovna osuda adekvatna tezini ucinjenog krivičnog djela i stepenu krivice okrivljenog, te da bi se osudom na efektivnu kaznu zatvora isuviše </span>
+<br>
+<span class="s5">represivno djelovalo na okrivljenog</span><span class="s18">. </span>
+</p>
+<p class="p26"></p>
+<p class="p27">
+<span class="s5">Kako je okrivljeni oglašen krivim sud je odluku o troškovima krivičnog postupka </span>
+<br>
+<span class="s5">temeljio na čl</span><span class="s3">.</span><span class="s5">226 i 229 Zakonika o krivičnom postupku, a troškovi postupka u iznosu od 50,00 eura odnose se na ime sudskog paušala, a visinu istog sud je odredio na osnovu imovnog stanja okrivljenog, dužine trajanja i složenosti krivičnog postupka</span><span class="s19">. </span>
+</p>
+<p class="p28">
+<span class="s5">Sa iznjetih razloga</span><span class="s18">, </span><span class="s5">a na osnovu cl</span><span class="s3">.</span><span class="s5">374 Zakonika o krivičnom postupku, odlučeno je kao u izreci presude. </span>
+</p>
+<p class="p29"></p>
+<p class="p29"></p>
+<p class="p29">
+<span>OSNOVNI SUD U ULCINJU</span>
+</p>
+<p class="p29">
+<span>Dana 03.07.2014.godine</span>
+</p>
+<p class="p29"></p>
+<p class="p30">
+<span class="s5">                                                               SUDIJA</span><span class="s3">, </span>
+</p>
+<p class="p31">
+<span class="s5">    Mr Sanja Mirović </span>
+</p>
+<p class="p32"></p>
+<p class="p32"></p>
+<p class="p32"></p>
+<p class="p32">
+<span>PRAVNA POUKA: Protiv ove presude rnoze se izjaviti zalba Višem sudu u Podgorici a preko ovog suda, u roku od 8 dana od dana prijema prepisa iste. </span>
+</p>
+<p class="p32"></p>
+<p class="p33"></p>
+<p class="p34"></p>
+
+
+</body>
