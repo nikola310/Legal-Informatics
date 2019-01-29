@@ -5,39 +5,59 @@ from selenium.webdriver.support import expected_conditions as ec
 from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import NoSuchElementException
+import tkinter as tk
+from tkinter import filedialog
 import time
-import os.path
+import os
 
 browser = webdriver.Chrome(executable_path="chromedriver.exe")
 
 url = "http://sudovi.me/odluka_prikaz.php?id="
-FOLDER = "data\\"
 
-text_file = open("names.txt", "r", encoding="UTF-16")
-lines = text_file.readlines()
-ids = [line for line in lines]
-idsSet = set(ids)
+def find_judgement_ids_files():
+    root = tk.Tk()
+    root.withdraw() 
+    judgementIdsPath = filedialog.askdirectory() 
 
-for id in idsSet:
-    id = id.rstrip()
-    #id = "22256"
-    browser.get(url+id)
-    
-    txt_path = FOLDER + "presuda_" + id + ".txt"
-    if os.path.isfile(txt_path):
-        continue
+    for ids_file_name in os.listdir(judgementIdsPath):
+        if ids_file_name.endswith(".txt"):
+            read_judgement_ids_file(judgementIdsPath, ids_file_name)
 
-    f_txt = open(txt_path, "w+", encoding = "UTF-8")
-    f_json = open(FOLDER + "presuda_meta_" + id + ".json","w+", encoding = "UTF-8")
+    #browser.close()
 
-    json = browser.find_elements_by_class_name('kontener')
-    
-    json = json[0]
+def read_judgement_ids_file(judgementIdsPath, ids_file_name):
+    judgement_data_folder_name = ids_file_name.replace(".txt","")
+    judgement_data_folder_path = judgementIdsPath+"/"+judgement_data_folder_name
+    if not os.path.exists(judgement_data_folder_path):
+        os.makedirs(judgement_data_folder_path)
 
-    labels = browser.find_elements_by_class_name("labela")
+    ids_file = open(judgementIdsPath+"/"+ids_file_name, "r")
+    get_textAndmeta(ids_file,judgement_data_folder_path)
+    ids_file.close()
+
+def get_textAndmeta(ids_file,judgement_data_folder_path):
+    ids = ids_file.readlines()
+    for id in ids:
+        idStrip = id.rstrip()
+        browser.get(url+idStrip)
+
+        json_path = judgement_data_folder_path + "/" + "presuda_meta_" + idStrip + ".json"
+        html_path = judgement_data_folder_path + "/" + "presuda_html_" + idStrip + ".txt"
+
+        if not os.path.isfile(json_path):
+            json_file = open(json_path, "w+", encoding = "UTF-8")
+            get_meta(json_file)
+            json_file.close()
+
+        if not os.path.isfile(html_path):
+            html_file = open(html_path, "w+", encoding = "UTF-8")
+            get_text(html_file)
+            html_file.close()
+
+def get_meta(json_file):
+    indexes = range(len(browser.find_elements_by_class_name("labela")))
     meta = {}
-    index = 0
-    for label in labels:
+    for index in indexes:
         key = browser.execute_script("return $('.labela')[" + str(index) + "].innerHTML;").split(":")[0]
         if index >= 6:
             siblings = browser.execute_script("return $('.labela').siblings('a');")
@@ -50,12 +70,11 @@ for id in idsSet:
         else:
             value = browser.execute_script("return $('.labela')[" + str(index) + "].nextSibling.data;").strip()
         meta[key] = value
-        index+=1
-    #print(meta)
-    f_json.write(str(meta))
 
-    f_json.close()
+    json_file.write(str(meta))
 
+
+def get_text(html_file):
     try:
         div = browser.find_element_by_xpath('//div[@class="kontener"]/following-sibling::div')
         txt = div.get_attribute("innerHTML")
@@ -66,11 +85,9 @@ for id in idsSet:
             txt = browser.find_element_by_tag_name("html").get_attribute("innerHTML")
         except NoSuchElementException:
             print("We have lost the battle!")
-            continue
+            return
 
-    f_txt.write(txt)
-    f_txt.close()
+    html_file.write(txt)
 
-    #break
-
-browser.close()
+if __name__ == "__main__":
+    find_judgement_ids_files()
