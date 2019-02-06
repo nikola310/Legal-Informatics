@@ -23,7 +23,7 @@ def find_judgement_ids_files():
         if ids_file_name.endswith(".txt"):
             read_judgement_ids_file(judgementIdsPath, ids_file_name)
 
-    #browser.close()
+    browser.close()
 
 def read_judgement_ids_file(judgementIdsPath, ids_file_name):
     judgement_data_folder_name = ids_file_name.replace(".txt","")
@@ -39,10 +39,12 @@ def get_textAndmeta(ids_file,judgement_data_folder_path):
     ids = ids_file.readlines()
     for id in ids:
         idStrip = id.rstrip()
-        browser.get(url+idStrip)
 
         json_path = judgement_data_folder_path + "/" + "presuda_meta_" + idStrip + ".json"
         html_path = judgement_data_folder_path + "/" + "presuda_html_" + idStrip + ".txt"
+
+        if not os.path.isfile(json_path) or not os.path.isfile(html_path):
+            browser.get(url+idStrip)
 
         if not os.path.isfile(json_path):
             json_file = open(json_path, "w+", encoding = "UTF-8")
