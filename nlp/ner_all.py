@@ -10,11 +10,11 @@ user = 'igor_trpovski'
 passwd = 'SifrazaIgoraSIAPreldi!2018'
 coding ='utf8'
 
-def write(result, file, judgement_id):
+def write(result, file, judgement_id, directory):
     final=set()
     tokenID_to_ner={}
 
-    with io.open("testJson.json",'w',encoding="utf-8") as outfile:
+    with io.open(directory + os.path.sep + 'out' + os.path.sep + 'presuda_json_' + judgement_id + '.json','w',encoding="utf-8") as outfile:
         outfile.write(unicode(json.dumps(result, indent=2, ensure_ascii=False)))
     for ner_entity in result['namedEntities']['entity']:
         for tokenID in ner_entity["tokenIDs"].split(" "):
@@ -46,7 +46,9 @@ if __name__ == "__main__":
 
     files=[e for e in os.listdir(directory) if e.endswith('.txt')]
     for index,file in enumerate(files):
-        print 'Processing',index+1,'/',len(files)
-        
+        print 'Processing',index+1,'/',len(files) 
         judgement_id = file.split('_')[-1][:-4]
-        write(json.loads(ner_tagger.tag(open(os.path.join(directory, file)).read().decode(coding).encode('utf8'))), open(os.path.join(directory + os.path.sep + 'out', file) + '.tagNERlem', 'w'), judgement_id)
+        if os.path.exists(directory + os.path.sep + 'out' + os.path.sep + 'presuda_one_line_' + judgement_id + '.txt.tagNERlem'):
+            print 'Skipped'
+            continue 
+        write(json.loads(ner_tagger.tag(open(os.path.join(directory, file)).read().decode(coding).encode('utf8'))), open(os.path.join(directory + os.path.sep + 'out', file) + '.tagNERlem', 'w'), judgement_id, directory)

@@ -1,9 +1,5 @@
-from reldi.ner_tagger import NERTagger
-from getpass import getpass
 import Tkinter, tkFileDialog
-import json
 import io
-import argparse
 import os
 
 directory = tkFileDialog.askdirectory()
