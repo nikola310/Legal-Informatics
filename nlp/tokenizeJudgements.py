@@ -6,36 +6,34 @@ from nltk.tokenize import sent_tokenize
 from nltk.tokenize import word_tokenize
 
 def startProgram():
+    filename = input("Unesite naziv fajle koja ce se izgenerisati:")
     root = tk.Tk()
     root.withdraw() 
     directory = filedialog.askdirectory()
-    tokenizeFiles(directory)
+    tokenizeFiles(directory,filename)
 
-def tokenizeFiles(directory):
+def tokenizeFiles(directory,filename):
     files=[e for e in os.listdir(directory) if e.endswith('.xml')]
-    if not os.path.exists(directory + os.path.sep + 'out'):
-        os.mkdir(directory + os.path.sep + 'out')
 
-    for index,fl in enumerate(files):
-        print('Processing',index+1,'/',len(files))
-        judgement_id = fl.split('_')[-1][:-4]
-        with io.open(directory + os.path.sep + 'out' + os.path.sep + 'presuda_tokenized_' + judgement_id + '.txt', "w+", encoding = "UTF-8") as tokenized_file:
+    with io.open(directory + os.path.sep + filename + '.data', "w+", encoding = "UTF-8") as tokenized_file:
+        for index,fl in enumerate(files):
+            print('Processing',index+1,'/',len(files))
+            judgement_id = fl.split('_')[-1][:-4]
             xmlRoot = xmlET.parse(os.path.join(directory, fl)).getroot()
             tags = xmlRoot.find("TAGS").getchildren()
             textTag = xmlRoot.find("TEXT")
-            text = textTag.text
+            text = splitJudgement(textTag.text)
             sentences = sent_tokenize(text)
             offset = 0
-            for i, sentece in enumerate(sentences):
+            for sentece in sentences:
                 tokenized = word_tokenize(sentece)
-                for j, token in enumerate(tokenized):
+                for token in tokenized:
                     offset = text.find(token,offset)
                     startOffset = offset
                     offset += len(token)
                     nerTag = findInTags(tags, startOffset, offset)
-                    tokenized_file.write(judgement_id + '~' + str(i) + '~' + str(j) + '\t' + token + '\t' +'\t'+nerTag+'\n')
-        
-        tokenized_file.close()
+                    tokenized_file.write(judgement_id + '~' + str(startOffset) + '~' + str(offset) + '\t' + token + '\t' +'\t'+nerTag+'\n')
+                tokenized_file.write('\n')
 
 def findInTags(tags, startOffset, endOffset):
 
@@ -51,6 +49,17 @@ def findInTags(tags, startOffset, endOffset):
                 return "I-" + tagName
 
     return "O"
+
+def splitJudgement(text):
+
+    if "O b r a z l o ž e nj e" in text:
+        return text.split("O b r a z l o ž e nj e",1)[0]
+    elif "O b r a z l o ž e n j e" in text:
+        return text.split("O b r a z l o ž e n j e",1)[0]
+    elif "Obrazloženje" in text:
+        return text.split("Obrazloženje",1)[0]
+    else:
+        return text
 
 if __name__ == "__main__":
     startProgram()
