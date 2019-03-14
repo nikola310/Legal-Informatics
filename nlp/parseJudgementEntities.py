@@ -1,4 +1,4 @@
-import csv, os
+import csv, os, re
 import tkinter as tk
 from tkinter import filedialog
 
@@ -78,13 +78,63 @@ def findAndSaveEntity(judgementDirectory,judgement,entityObj):
         elif entityType == 'council_member':
             judgement['council_members'].append(entityText)
         elif entityType == 'violation':
-            judgement['violations'].append(entityText)
+            judgement['violations'].append(parseViolationsRegulations(entityText))
         elif entityType == 'regulation':
-            judgement['regulations'].append(entityText)
+            judgement['regulations'].append(parseViolationsRegulations(entityText))
 
     entityObj['beginOffset'] = -1
     entityObj['endOffset'] = -1
     entityObj['type'] = ''
+
+def parseViolationsRegulations(text):
+
+    text = re.sub("\\s*,",",",text)
+    while True:
+        toReplace = re.search("[0-9]+\\s*\\.\\s*[0-9]+",text) 
+        if toReplace is None:
+            break
+        toReplaceText = text[toReplace.span()[0]:toReplace.span()[1]]
+        numbers = re.findall("[0-9]+",toReplaceText)
+
+        text = text[:toReplace.span()[0]] + numbers[0]+", "+numbers[1] + text[toReplace.span()[1]:]
+
+    while True:
+        toReplace = re.search("[0-9]+,\\s*i\\s*",text) 
+        if toReplace is None:
+            break
+        toReplaceText = text[toReplace.span()[0]:toReplace.span()[1]]
+        text = text[:toReplace.span()[0]] + toReplaceText.replace(","," ") + text[toReplace.span()[1]:]
+
+    replace = text.replace("-a","").replace("."," ")
+    splits = replace.split()
+    for i,split in enumerate(splits):
+        if split.startswith("čl"):
+            splits[i] = "član"
+        elif split.startswith("st"):
+            splits[i] = "stav"
+        elif split.startswith("tač"):
+            splits[i] = "tačka"
+
+    text = " ".join(splits)
+
+    while True:
+        toReplace = re.search("[0-9]+\\s*-\\s*[0-9]+",text) 
+        if toReplace is None:
+            break
+
+        toReplaceText = text[toReplace.span()[0]:toReplace.span()[1]]
+        numbers = re.findall("[0-9]+",toReplaceText)
+        num1 = numbers[0]
+        num2 = numbers[1]
+
+        inBetweenList = list(range(int(num1),int(num2)))
+        inBetween = ", ".join([str(inBetweenElem) for inBetweenElem in inBetweenList])
+
+        toInsert = inBetween + ", "+num2 if (toReplace.span()[1]<len(text) and text[toReplace.span()[1]] == ",") or (toReplace.span()[1]+3<len(text) and text[toReplace.span()[1]:toReplace.span()[1]+3] == " i ") else inBetween + " i "+num2
+
+        text = text[:toReplace.span()[0]] + toInsert + text[toReplace.span()[1]:]
+
+    return text
 
 if __name__ == "__main__":
     startProgram()
