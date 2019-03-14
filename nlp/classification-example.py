@@ -24,11 +24,11 @@ stop_words = ["biti", "ne", "jesam", "sam", "jesi", "si", "je", "jesmo", "smo", 
 df = pd.read_csv("out.csv", encoding = "UTF-8")
 print(df.head())
 
-df_toxic = df.drop(['ID', 'TEXT'], axis=1)
+df_types = df.drop(['ID', 'TEXT'], axis=1)
 counts = []
-categories = list(df_toxic.columns.values)
+categories = list(df_types.columns.values)
 for i in categories:
-    counts.append((i, df_toxic[i].sum()))
+    counts.append((i, df_types[i].sum()))
 df_stats = pd.DataFrame(counts, columns=['category', 'number_of_judgements'])
 print(df_stats)
 
