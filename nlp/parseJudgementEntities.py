@@ -10,7 +10,7 @@ def startProgram():
     parseFile(filename,judgementDirectory)
 
 def parseFile(filename,judgementDirectory):
-    with open(filename, "r", newline='') as judgementEntitiesFile:
+    with open(filename, "r", newline='', encoding='utf-8') as judgementEntitiesFile:
         reader = csv.reader(judgementEntitiesFile, delimiter = '\t')
         judgement = {'judgementId' : '', 'judge' : '', 'clerk' : '', 'probationer' : '', 'council_president' : '', 'council_members' : [], 'violations' : [], 'regulations' : []}        
         entityObj = {'beginOffset' : -1, 'endOffset' : -1, 'type' : ''}  
