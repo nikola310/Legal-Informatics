@@ -105,7 +105,7 @@ def parseViolationsRegulations(text):
         toReplaceText = text[toReplace.span()[0]:toReplace.span()[1]]
         text = text[:toReplace.span()[0]] + toReplaceText.replace(","," ") + text[toReplace.span()[1]:]
 
-    replace = text.replace("-a","").replace("."," ")
+    replace = text.replace("-a","").replace("."," ").replace(":"," ")
     splits = replace.split()
     for i,split in enumerate(splits):
         if split.startswith("čl"):
@@ -134,6 +134,87 @@ def parseViolationsRegulations(text):
 
         text = text[:toReplace.span()[0]] + toInsert + text[toReplace.span()[1]:]
 
+    regExp1 = "(?:(?:član|stav|tačka|alineja)\\s[0-9]+(?:\\,\\s{0,1}[0-9]+)+(?:\\si\\s[0-9]+){0,1})"
+    regExp2 = "(?:(?:član|stav|tačka|alineja)\\s[0-9]+\\si\\s[0-9]+)"
+
+    regExp = regExp1 + "|" +regExp2
+    
+    while True:
+        result = re.search(regExp,text)
+        if result is None:
+            break
+        textPart = text[result.span()[0]:result.span()[1]]
+        textPartBeginningResult = re.search("^član|stav|tačka|alineja",textPart)
+        textPartBeginning = textPart[textPartBeginningResult.span()[0]:textPartBeginningResult.span()[1]]
+        textPartEndResult = re.search("i\\s[0-9]+$",textPart)
+        textPartEndToInsert = ""
+        if textPartEndResult is not None:
+            textPartNumbersText = textPart[textPartBeginningResult.span()[1]:textPartEndResult.span()[0]]
+            textPartEnd = textPart[textPartEndResult.span()[0]:textPartEndResult.span()[1]]
+            textPartEndNumber = re.findall("[0-9]+",textPartEnd)
+            textPartEndToInsert = " i "+ textPartBeginning + " " + textPartEndNumber[0]
+        else:
+            textPartNumbersText = textPart[textPartBeginningResult.span()[1]:result.span()[1]]
+            prevText = text[:result.span()[1]]
+            restText = text[result.span()[1]:]
+            while True:
+                firstCondition = re.search("(?:\\si\\s[0-9]+){2}",restText)
+                secondCondition = re.search("\\si\\s[0-9]+(?:\\,\\s{0,1}[0-9]+)+(?:\\si\\s[0-9]+){0,1}",restText)
+                thirdCondition = re.search("\\si\\s[0-9]+",restText)
+                if secondCondition != None:
+                    secondConditionText = restText[secondCondition.span()[0]:secondCondition.span()[1]]
+                    secondConditionBeginning = re.search("\\si\\s[0-9]+\\,",secondConditionText)
+                    secondConditionBeginningText = secondConditionText[secondConditionBeginning.span()[0]:secondConditionBeginning.span()[1]]
+                    secondConditionEnd = re.search("i\\s[0-9]+$",secondConditionText)
+                    secondConditionEndToInsert = ""
+                    secondConditionEndExists = False
+                    if secondConditionEnd is not None:
+                        secondConditionToInsertNumbersText = secondConditionText[secondConditionBeginning.span()[1]:secondConditionEnd.span()[0]]
+                        secondConditionEndText = secondConditionText[secondConditionEnd.span()[0]:secondConditionEnd.span()[1]]
+                        secondConditionEndNumber = re.findall("[0-9]+", secondConditionEndText)
+                        secondConditionEndToInsert = " i " + textPartBeginning + " " + secondConditionEndNumber[0]
+                        secondConditionEndExists = True
+                    else:
+                        secondConditionToInsertNumbersText = secondConditionText[secondConditionBeginning.span()[1]:]
+
+                    secondConditionNumbers = re.findall("[0-9]+",secondConditionToInsertNumbersText)  
+                    secondConditionNumbersToInsert = ""
+                    for i,secondConditionNumber in enumerate(secondConditionNumbers):
+                        if i == len(secondConditionNumbers)-1:
+                            secondConditionNumbersToInsert += textPartBeginning + " " + secondConditionNumber
+                        else:
+                            secondConditionNumbersToInsert += textPartBeginning + " " + secondConditionNumber + ", "
+
+                    prevText += restText[:secondCondition.span()[0]] + secondConditionBeginningText + " " + secondConditionNumbersToInsert + secondConditionEndToInsert
+                    restText = restText[secondCondition.span()[1]:]
+
+                    text = prevText + restText
+                    if secondConditionEndExists:
+                        break
+
+                elif firstCondition != None:
+                    firstConditionText = restText[firstCondition.span()[0]:firstCondition.span()[1]]
+                    firstConditionNumbers = re.findall("[0-9]+",firstConditionText)
+                    text = prevText + restText[:firstCondition.span()[0]] + " i " + firstConditionNumbers[0] + " i " + textPartBeginning + " " + firstConditionNumbers[1] + restText[firstCondition.span()[1]:]
+                    break
+
+                elif thirdCondition != None:
+                    thirdConditionText = restText[thirdCondition.span()[0]:thirdCondition.span()[1]]
+                    thirdConditionNumber = re.findall("[0-9]+",thirdConditionText)
+                    text = prevText + restText[:thirdCondition.span()[0]] + " i " + textPartBeginning + " " + thirdConditionNumber[0] + restText[thirdCondition.span()[1]:]
+                    break
+                else:
+                    break
+
+        textPartNumbers = re.findall("[0-9]+",textPartNumbersText)  
+        textPartNumbersToInsert = ""
+        for i,textPartNumber in enumerate(textPartNumbers):
+            if i == len(textPartNumbers)-1:
+                textPartNumbersToInsert += textPartBeginning + " " + textPartNumber
+            else:
+                textPartNumbersToInsert += textPartBeginning + " " + textPartNumber + ", "
+        text = text[:result.span()[0]] + textPartNumbersToInsert + textPartEndToInsert + text[result.span()[1]:]
+    
     return text
 
 if __name__ == "__main__":
