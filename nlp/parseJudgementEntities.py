@@ -139,6 +139,9 @@ def parseViolationsRegulations(text):
 
     regExp = regExp1 + "|" +regExp2
     
+    loop = 0
+    foundEndPart = ""
+    
     while True:
         result = re.search(regExp,text)
         if result is None:
@@ -146,6 +149,10 @@ def parseViolationsRegulations(text):
         textPart = text[result.span()[0]:result.span()[1]]
         textPartBeginningResult = re.search("^član|stav|tačka|alineja",textPart)
         textPartBeginning = textPart[textPartBeginningResult.span()[0]:textPartBeginningResult.span()[1]]
+        if loop == 0:
+            foundEndPart = textPartBeginning
+
+        loop+= 1
         textPartEndResult = re.search("i\\s[0-9]+$",textPart)
         textPartEndToInsert = ""
         if textPartEndResult is not None:
@@ -153,6 +160,7 @@ def parseViolationsRegulations(text):
             textPartEnd = textPart[textPartEndResult.span()[0]:textPartEndResult.span()[1]]
             textPartEndNumber = re.findall("[0-9]+",textPartEnd)
             textPartEndToInsert = " i "+ textPartBeginning + " " + textPartEndNumber[0]
+            foundEndPart = textPartBeginning
         else:
             textPartNumbersText = textPart[textPartBeginningResult.span()[1]:result.span()[1]]
             prevText = text[:result.span()[1]]
@@ -161,6 +169,9 @@ def parseViolationsRegulations(text):
                 firstCondition = re.search("(?:\\si\\s[0-9]+){2}",restText)
                 secondCondition = re.search("\\si\\s[0-9]+(?:\\,\\s{0,1}[0-9]+)+(?:\\si\\s[0-9]+){0,1}",restText)
                 thirdCondition = re.search("\\si\\s[0-9]+",restText)
+                if firstCondition != None or secondCondition != None or thirdCondition != None:
+                    foundEndPart = textPartBeginning
+
                 if secondCondition != None:
                     secondConditionText = restText[secondCondition.span()[0]:secondCondition.span()[1]]
                     secondConditionBeginning = re.search("\\si\\s[0-9]+\\,",secondConditionText)
@@ -180,10 +191,15 @@ def parseViolationsRegulations(text):
                     secondConditionNumbers = re.findall("[0-9]+",secondConditionToInsertNumbersText)  
                     secondConditionNumbersToInsert = ""
                     for i,secondConditionNumber in enumerate(secondConditionNumbers):
-                        if i == len(secondConditionNumbers)-1:
-                            secondConditionNumbersToInsert += textPartBeginning + " " + secondConditionNumber
+                        if i==0:
+                            insertBeginning = textPartBeginning
                         else:
-                            secondConditionNumbersToInsert += textPartBeginning + " " + secondConditionNumber + ", "
+                            insertBeginning = foundEndPart
+
+                        if i == len(secondConditionNumbers)-1:
+                            secondConditionNumbersToInsert += insertBeginning + " " + secondConditionNumber
+                        else:
+                            secondConditionNumbersToInsert += insertBeginning + " " + secondConditionNumber + ", "
 
                     prevText += restText[:secondCondition.span()[0]] + secondConditionBeginningText + " " + secondConditionNumbersToInsert + secondConditionEndToInsert
                     restText = restText[secondCondition.span()[1]:]
@@ -209,12 +225,20 @@ def parseViolationsRegulations(text):
         textPartNumbers = re.findall("[0-9]+",textPartNumbersText)  
         textPartNumbersToInsert = ""
         for i,textPartNumber in enumerate(textPartNumbers):
-            if i == len(textPartNumbers)-1:
-                textPartNumbersToInsert += textPartBeginning + " " + textPartNumber
+            
+            if i==0:
+                insertBeginning = textPartBeginning
             else:
-                textPartNumbersToInsert += textPartBeginning + " " + textPartNumber + ", "
+                insertBeginning = foundEndPart
+
+            if i == len(textPartNumbers)-1:
+                textPartNumbersToInsert += insertBeginning + " " + textPartNumber
+            else:
+                textPartNumbersToInsert += insertBeginning + " " + textPartNumber + ", "
         text = text[:result.span()[0]] + textPartNumbersToInsert + textPartEndToInsert + text[result.span()[1]:]
     
+    splits = re.split("(?:\\,\\s*)|(?:\\si\\s)", text)
+
     return text
 
 if __name__ == "__main__":
