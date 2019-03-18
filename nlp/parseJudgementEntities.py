@@ -3,15 +3,16 @@ import tkinter as tk
 from tkinter import filedialog
 
 def startProgram():
+    logfilename = input("Unesite naziv fajle koja ce se izgenerisati:")
     root = tk.Tk()
     root.withdraw()
     filename = filedialog.askopenfilename()
     judgementDirectory = filedialog.askdirectory()
-    parseFile(filename,judgementDirectory)
+    parseFile(logfilename,filename,judgementDirectory)
 
-def parseFile(filename,judgementDirectory):
-    with open("log.txt", "w", encoding = "UTF-8" ) as logFile:
-        with open(filename, "r", newline='') as judgementEntitiesFile:
+def parseFile(logfilename,filename,judgementDirectory):
+    with open(os.path.dirname(filename) + os.path.sep + logfilename, "w", encoding = "UTF-8" ) as logFile:
+        with open(filename, "r", newline='', encoding = "UTF-8") as judgementEntitiesFile:
             reader = csv.reader(judgementEntitiesFile, delimiter = '\t')
             judgement = {'judgementId' : '', 'judge' : '', 'clerk' : '', 'probationer' : '', 'council_president' : '', 'council_members' : [], 'violations' : [], 'regulations' : []}        
             entityObj = {'beginOffset' : -1, 'endOffset' : -1, 'type' : ''}  
@@ -97,25 +98,24 @@ def findAndSaveEntity(judgementDirectory,judgement,entityObj):
     entityObj['type'] = ''
 
 def parseViolationsRegulations(text):
-
     text = re.sub("\\s*,",",",text)
     while True:
-        toReplace = re.search("[0-9]+\\s*\\.\\s*[0-9]+",text) 
+        toReplace = re.search("[0-9]+[a-z]{0,1}\\s*\\.\\s*[0-9]+[a-z]{0,1}",text) 
         if toReplace is None:
             break
         toReplaceText = text[toReplace.span()[0]:toReplace.span()[1]]
-        numbers = re.findall("[0-9]+",toReplaceText)
+        numbers = re.findall("[0-9]+[a-z]{0,1}",toReplaceText)
 
         text = text[:toReplace.span()[0]] + numbers[0]+", "+numbers[1] + text[toReplace.span()[1]:]
 
     while True:
-        toReplace = re.search("[0-9]+,\\s*i\\s*",text) 
+        toReplace = re.search("[0-9]+[a-z]{0,1},\\s*i\\s*",text) 
         if toReplace is None:
             break
         toReplaceText = text[toReplace.span()[0]:toReplace.span()[1]]
         text = text[:toReplace.span()[0]] + toReplaceText.replace(","," ") + text[toReplace.span()[1]:]
 
-    replace = text.replace("-a","").replace("."," ").replace(":"," ")
+    replace = text.replace("-a","").replace(":"," ")
     splits = replace.split()
     for i,split in enumerate(splits):
         if split.startswith("čl") or split.startswith("cl"):
@@ -126,6 +126,21 @@ def parseViolationsRegulations(text):
             splits[i] = "tačka"
 
     text = " ".join(splits)
+    
+    while True:
+        toReplace = re.search("(?:član|stav|tačka|alineja)\\s[0-9]+[a-z]{0,1}\\s{0,1}\\.\\s{0,1}(?:član|stav|tačka|alineja)",text) 
+        if toReplace is None:
+            break
+
+        toReplaceText = text[toReplace.span()[0]:toReplace.span()[1]]
+        toReplaceTextParts = re.findall("član|stav|tačka|alineja",toReplaceText)
+        if toReplaceTextParts[0] == toReplaceTextParts[1] or (toReplaceTextParts[0] == "stav" and toReplaceTextParts[1] == "član") or (toReplaceTextParts[0] == "tačka" and toReplaceTextParts[1] == "član") or (toReplaceTextParts[0] == "alineja" and toReplaceTextParts[1] == "član") or (toReplaceTextParts[0] == "tačka" and toReplaceTextParts[1] == "stav") or (toReplaceTextParts[0] == "alineja" and toReplaceTextParts[1] == "stav"):
+            text = text[:toReplace.span()[0]] + toReplaceText.replace(".",",") + text[toReplace.span()[1]:]
+        elif (toReplaceTextParts[0] == "član" and toReplaceTextParts[1] == "stav") or (toReplaceTextParts[0] == "član" and toReplaceTextParts[1] == "tačka") or (toReplaceTextParts[0] == "član" and toReplaceTextParts[1] == "alineja") or (toReplaceTextParts[0] == "stav" and toReplaceTextParts[1] == "tačka") or (toReplaceTextParts[0] == "stav" and toReplaceTextParts[1] == "alineja"):
+            text = text[:toReplace.span()[0]] + toReplaceText.replace("."," ") + text[toReplace.span()[1]:]
+
+    text = text.replace(".","")
+    text = " ".join(text.split())
 
     while True:
         toReplace = re.search(",\\s\\b(?!član|stav|tačka|alineja)\\b[a-zA-ZšđčćžŠĐČĆŽ]+",text)
@@ -135,12 +150,12 @@ def parseViolationsRegulations(text):
         text = text[:toReplace.span()[0]] + toReplaceText.replace(",","") + text[toReplace.span()[1]:]
 
     while True:
-        toReplace = re.search("[0-9]+\\s*-\\s*[0-9]+",text) 
+        toReplace = re.search("[0-9]+[a-z]{0,1}\\s*-\\s*[0-9]+[a-z]{0,1}",text) 
         if toReplace is None:
             break
 
         toReplaceText = text[toReplace.span()[0]:toReplace.span()[1]]
-        numbers = re.findall("[0-9]+",toReplaceText)
+        numbers = re.findall("[0-9]+[a-z]{0,1}",toReplaceText)
         num1 = numbers[0]
         num2 = numbers[1]
 
@@ -154,8 +169,8 @@ def parseViolationsRegulations(text):
     if not text.startswith("član"):
         text = "član" + text
     
-    regExp1 = "(?:(?:član|stav|tačka|alineja)\\s[0-9]+(?:\\,\\s{0,1}[0-9]+)+(?:\\si\\s[0-9]+){0,1})"
-    regExp2 = "(?:(?:član|stav|tačka|alineja)\\s[0-9]+\\si\\s[0-9]+)"
+    regExp1 = "(?:(?:član|stav|tačka|alineja)\\s[0-9]+[a-z]{0,1}(?:\\,\\s{0,1}[0-9]+[a-z]{0,1})+(?:\\si\\s[0-9]+[a-z]{0,1}){0,1})"
+    regExp2 = "(?:(?:član|stav|tačka|alineja)\\s[0-9]+[a-z]{0,1}\\si\\s[0-9]+[a-z]{0,1})"
 
     regExp = regExp1 + "|" +regExp2
     
@@ -173,12 +188,12 @@ def parseViolationsRegulations(text):
             foundEndPart = textPartBeginning
 
         loop+= 1
-        textPartEndResult = re.search("i\\s[0-9]+$",textPart)
+        textPartEndResult = re.search("i\\s[0-9]+[a-z]{0,1}$",textPart)
         textPartEndToInsert = ""
         if textPartEndResult is not None:
             textPartNumbersText = textPart[textPartBeginningResult.span()[1]:textPartEndResult.span()[0]]
             textPartEnd = textPart[textPartEndResult.span()[0]:textPartEndResult.span()[1]]
-            textPartEndNumber = re.findall("[0-9]+",textPartEnd)
+            textPartEndNumber = re.findall("[0-9]+[a-z]{0,1}",textPartEnd)
             textPartEndToInsert = " i "+ textPartBeginning + " " + textPartEndNumber[0]
             foundEndPart = textPartBeginning
         else:
@@ -186,29 +201,29 @@ def parseViolationsRegulations(text):
             prevText = text[:result.span()[1]]
             restText = text[result.span()[1]:]
             while True:
-                firstCondition = re.search("(?:\\si\\s[0-9]+){2}",restText)
-                secondCondition = re.search("\\si\\s[0-9]+(?:\\,\\s{0,1}[0-9]+)+(?:\\si\\s[0-9]+){0,1}",restText)
-                thirdCondition = re.search("\\si\\s[0-9]+",restText)
+                firstCondition = re.search("(?:\\si\\s[0-9]+[a-z]{0,1}){2}",restText)
+                secondCondition = re.search("\\si\\s[0-9]+[a-z]{0,1}(?:\\,\\s{0,1}[0-9]+[a-z]{0,1})+(?:\\si\\s[0-9]+[a-z]{0,1}){0,1}",restText)
+                thirdCondition = re.search("\\si\\s[0-9]+[a-z]{0,1}",restText)
                 if firstCondition != None or secondCondition != None or thirdCondition != None:
                     foundEndPart = textPartBeginning
 
                 if secondCondition != None:
                     secondConditionText = restText[secondCondition.span()[0]:secondCondition.span()[1]]
-                    secondConditionBeginning = re.search("\\si\\s[0-9]+\\,",secondConditionText)
+                    secondConditionBeginning = re.search("\\si\\s[0-9]+[a-z]{0,1}\\,",secondConditionText)
                     secondConditionBeginningText = secondConditionText[secondConditionBeginning.span()[0]:secondConditionBeginning.span()[1]]
-                    secondConditionEnd = re.search("i\\s[0-9]+$",secondConditionText)
+                    secondConditionEnd = re.search("i\\s[0-9]+[a-z]{0,1}$",secondConditionText)
                     secondConditionEndToInsert = ""
                     secondConditionEndExists = False
                     if secondConditionEnd is not None:
                         secondConditionToInsertNumbersText = secondConditionText[secondConditionBeginning.span()[1]:secondConditionEnd.span()[0]]
                         secondConditionEndText = secondConditionText[secondConditionEnd.span()[0]:secondConditionEnd.span()[1]]
-                        secondConditionEndNumber = re.findall("[0-9]+", secondConditionEndText)
+                        secondConditionEndNumber = re.findall("[0-9]+[a-z]{0,1}", secondConditionEndText)
                         secondConditionEndToInsert = " i " + textPartBeginning + " " + secondConditionEndNumber[0]
                         secondConditionEndExists = True
                     else:
                         secondConditionToInsertNumbersText = secondConditionText[secondConditionBeginning.span()[1]:]
 
-                    secondConditionNumbers = re.findall("[0-9]+",secondConditionToInsertNumbersText)  
+                    secondConditionNumbers = re.findall("[0-9]+[a-z]{0,1}",secondConditionToInsertNumbersText)  
                     secondConditionNumbersToInsert = ""
                     for i,secondConditionNumber in enumerate(secondConditionNumbers):
                         if i==0:
@@ -230,19 +245,19 @@ def parseViolationsRegulations(text):
 
                 elif firstCondition != None:
                     firstConditionText = restText[firstCondition.span()[0]:firstCondition.span()[1]]
-                    firstConditionNumbers = re.findall("[0-9]+",firstConditionText)
+                    firstConditionNumbers = re.findall("[0-9]+[a-z]{0,1}",firstConditionText)
                     text = prevText + restText[:firstCondition.span()[0]] + " i " + firstConditionNumbers[0] + " i " + textPartBeginning + " " + firstConditionNumbers[1] + restText[firstCondition.span()[1]:]
                     break
 
                 elif thirdCondition != None:
                     thirdConditionText = restText[thirdCondition.span()[0]:thirdCondition.span()[1]]
-                    thirdConditionNumber = re.findall("[0-9]+",thirdConditionText)
+                    thirdConditionNumber = re.findall("[0-9]+[a-z]{0,1}",thirdConditionText)
                     text = prevText + restText[:thirdCondition.span()[0]] + " i " + textPartBeginning + " " + thirdConditionNumber[0] + restText[thirdCondition.span()[1]:]
                     break
                 else:
                     break
 
-        textPartNumbers = re.findall("[0-9]+",textPartNumbersText)  
+        textPartNumbers = re.findall("[0-9]+[a-z]{0,1}",textPartNumbersText)  
         textPartNumbersToInsert = ""
         for i,textPartNumber in enumerate(textPartNumbers):
             
@@ -257,51 +272,49 @@ def parseViolationsRegulations(text):
                 textPartNumbersToInsert += insertBeginning + " " + textPartNumber + ", "
         text = text[:result.span()[0]] + textPartNumbersToInsert + textPartEndToInsert + text[result.span()[1]:]
     
-    splits = re.split("(?:\,\s*)|(?:\si\s)|(?:\su\svezi\s(?:sa\s){0,1})", text)
+    splits = re.split("(?:\\,\\s*)|(?:\\si\\s)|(?:\\su\\svezi\\s(?:sa\\s){0,1})", text)
     codeOfLaw = ''
 
     for i,split in reversed(list(enumerate(splits))):
-        codeOfLawObj = re.search("(?:[a-zA-ZšđčćžŠĐČĆŽ]+\\s)*[a-zA-ZšđčćžŠĐČĆŽ]+$",split)
+
+        removeEndObj = re.search("\\s(član|stav|tačka|alineja)$",split)
+        if removeEndObj is not None:
+            splits[i] = split[:removeEndObj.span()[0]]
+
+        codeOfLawObj = re.search("(?!član|stav|tačka|alineja)\\b(?:[a-zA-ZšđčćžŠĐČĆŽ]+\\s)*[a-zA-ZšđčćžŠĐČĆŽ]{2,}$",splits[i])
         if codeOfLawObj is not None:
-            codeOfLaw = split[codeOfLawObj.span()[0]:codeOfLawObj.span()[1]]
+            codeOfLaw = splits[i][codeOfLawObj.span()[0]:codeOfLawObj.span()[1]]
         else:
             splits[i] += " " +codeOfLaw
 
     finalArray = []
     article = ""
     paragraph = ""
-    point = ""
 
     for i, split in enumerate(splits):
         tempArticle = ""
         tempParagraph = ""
-        tempPoint = ""
 
-        articleResult = re.search("član\\s[0-9]+\\s",split)
-        paragraphResult = re.search("stav\\s[0-9]+\\s",split)
-        pointResult = re.search("(?:tačka|alineja)\\s[0-9]+\\s",split)
+        articleResult = re.search("član\\s[0-9]+[a-z]{0,1}\\s",split)
+        paragraphResult = re.search("stav\\s[0-9]+[a-z]{0,1}\\s",split)
+        pointResult = re.search("(?:tačka|alineja)\\s[0-9]+[a-z]{0,1}\\s",split)
 
         if articleResult is not None:
             tempArticle = split[articleResult.span()[0]:articleResult.span()[1]]
         if paragraphResult is not None:
             tempParagraph = split[paragraphResult.span()[0]:paragraphResult.span()[1]]
-        if pointResult is not None:
-            tempPoint = split[pointResult.span()[0]:pointResult.span()[1]]
 
         if articleResult is not None:
             finalArray.append(split.strip())
             article = tempArticle
             paragraph = tempParagraph
-            point = tempParagraph
         elif articleResult is None and paragraphResult is not None:
             toInsert = article + split
             finalArray.append(toInsert.strip())
             paragraph = tempParagraph
-            point = tempPoint
         elif articleResult is None and paragraphResult is None and pointResult is not None:
             toInsert = article + paragraph + split
             finalArray.append(toInsert.strip())
-            point = tempPoint
 
     return finalArray
 
