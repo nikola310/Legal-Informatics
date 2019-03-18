@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl" uri="judo-master/Judging_Contracts_Core.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl" uri="judo-master/Judging_Contracts_Domain.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/action.owl" uri="lkif-core-master/action.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/expression.owl" uri="lkif-core-master/expression.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/legal-action.owl" uri="lkif-core-master/legal-action.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/legal-role.owl" uri="lkif-core-master/legal-role.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/lkif-core.owl" uri="lkif-core-master/lkif-core.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/lkif-extended.owl" uri="lkif-core-master/lkif-extended.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/lkif-rules.owl" uri="lkif-core-master/lkif-rules.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/lkif-top.owl" uri="lkif-core-master/lkif-top.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/mereology.owl" uri="lkif-core-master/mereology.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/norm.owl" uri="lkif-core-master/norm.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/process.owl" uri="lkif-core-master/process.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/relative-places.owl" uri="lkif-core-master/relative-places.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/role.owl" uri="lkif-core-master/role.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/time-modification.owl" uri="lkif-core-master/time-modification.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="http://www.estrellaproject.org/lkif-core/time.owl" uri="lkif-core-master/time.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="duplicate:http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1" uri="montenegro_judgements_1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1552953405559" name="duplicate:http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1" uri="montenegro_judgements_1_EMPTY.owl"/>
+    </group>
+</catalog>
