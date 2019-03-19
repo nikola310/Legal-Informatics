@@ -23,7 +23,6 @@ def startProgram():
     root = tk.Tk()
     root.withdraw()
     directory = filedialog.askdirectory()
-    #directory = "D:\\Private\\Fax\\MASTER\\Pravna Informatika\\Projekat\\Presude html + text + meta\\K - PRVOSTEPENI KRIVIČNI PREDMETI"
     loadData(directory)
 
 def loadData(directory):
@@ -151,7 +150,6 @@ def instantiateOntology(montenegro_judgements, instances):
         if verdict:
             verdict = verdict.replace(' ', '_')
             test_legal_consequence = j_core_onto.Legal_Consequence(verdict, namespace = montenegro_judgements)
-            #test_legal_consequence.comment.append("USLOVNA OSUDA")
 
         #Regulation individuals
         regulations = instance.logData["regulations"]
