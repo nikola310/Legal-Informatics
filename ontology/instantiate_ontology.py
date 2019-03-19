@@ -1,6 +1,8 @@
-from owlready2 import *
-import os.path
 import owlready2
+from owlready2 import onto_path
+from owlready2 import get_ontology
+from owlready2 import sync_reasoner
+import os.path
 import tkinter as tk
 from tkinter import filedialog
 import json
@@ -23,7 +25,8 @@ def startProgram():
     root = tk.Tk()
     root.withdraw()
     directory = filedialog.askdirectory()
-    loadData(directory)
+    if directory:
+        loadData(directory)
 
 def loadData(directory):
     f = open(dataPath + "instantiateJudgements", "r", encoding="UTF-8")
@@ -170,7 +173,6 @@ def instantiateOntology(montenegro_judgements, instances):
     saveOntology(montenegro_judgements)
 
 def saveOntology(montenegro_judgements):
-    f = open(path + "montenegro_judgements_1.owl", "w+")
     montenegro_judgements.save()
 
 if __name__ == "__main__":
