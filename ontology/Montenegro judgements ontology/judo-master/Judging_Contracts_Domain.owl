@@ -1,0 +1,274 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#"
+     xml:base="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:norm="http://www.estrellaproject.org/lkif-core/norm.owl#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:mereology="http://www.estrellaproject.org/lkif-core/mereology.owl#"
+     xmlns:expression="http://www.estrellaproject.org/lkif-core/expression.owl#"
+     xmlns:Judging_Contracts_Core="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#"
+     xmlns:Judging_Contracts_Domain="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#">
+    <owl:Ontology rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl">
+		<owl:imports rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl"/>
+		<owl:imports rdf:resource="http://www.estrellaproject.org/lkif-core/norm.owl"/>
+		<owl:imports rdf:resource="http://www.estrellaproject.org/lkif-core/mereology.owl"/>
+		<owl:imports rdf:resource="http://www.estrellaproject.org/lkif-core/expression.owl"/>	
+	</owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#applied_by -->
+
+    <owl:ObjectProperty rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#applied_by">
+        <rdfs:subPropertyOf rdf:resource="http://www.estrellaproject.org/lkif-core/expression.owl#qualified_by"/>
+        <owl:inverseOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#applies"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#applies -->
+
+    <owl:ObjectProperty rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#applies">
+        <rdfs:subPropertyOf rdf:resource="http://www.estrellaproject.org/lkif-core/expression.owl#qualifies"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#considered_by -->
+
+    <owl:ObjectProperty rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#considered_by">
+        <rdfs:subPropertyOf rdf:resource="http://www.estrellaproject.org/lkif-core/expression.owl#qualified_by"/>
+        <owl:inverseOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#considers"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#considers -->
+
+    <owl:ObjectProperty rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#considers">
+        <rdfs:subPropertyOf rdf:resource="http://www.estrellaproject.org/lkif-core/expression.owl#qualifies"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#judged_as -->
+
+    <owl:ObjectProperty rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#judged_as">
+        <owl:propertyChainAxiom rdf:parseType="Collection">
+            <rdf:Description rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#considered_by"/>
+            <rdf:Description rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#applies"/>
+        </owl:propertyChainAxiom>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#assumption -->
+
+    <owl:ObjectProperty rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#assumption">
+        <rdfs:subPropertyOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#applies"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#exception -->
+
+    <owl:ObjectProperty rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#exception">
+        <rdfs:subPropertyOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#applies"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.estrellaproject.org/lkif-core/expression.owl#attitude -->
+
+    <owl:ObjectProperty rdf:about="http://www.estrellaproject.org/lkif-core/expression.owl#attitude"/>
+    
+
+
+    <!-- http://www.estrellaproject.org/lkif-core/expression.owl#evaluated_by -->
+
+    <owl:ObjectProperty rdf:about="http://www.estrellaproject.org/lkif-core/expression.owl#evaluated_by">
+        <rdfs:subPropertyOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#considered_by"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.estrellaproject.org/lkif-core/expression.owl#evaluates -->
+
+    <owl:ObjectProperty rdf:about="http://www.estrellaproject.org/lkif-core/expression.owl#evaluates">
+        <rdfs:subPropertyOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#considers"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.estrellaproject.org/lkif-core/expression.owl#qualified_by -->
+
+    <owl:ObjectProperty rdf:about="http://www.estrellaproject.org/lkif-core/expression.owl#qualified_by"/>
+    
+
+
+    <!-- http://www.estrellaproject.org/lkif-core/expression.owl#qualifies -->
+
+    <owl:ObjectProperty rdf:about="http://www.estrellaproject.org/lkif-core/expression.owl#qualifies"/>
+    
+
+
+    <!-- http://www.estrellaproject.org/lkif-core/norm.owl#allowed_by -->
+
+    <owl:ObjectProperty rdf:about="http://www.estrellaproject.org/lkif-core/norm.owl#allowed_by">
+        <rdfs:subPropertyOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#considered_by"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.estrellaproject.org/lkif-core/norm.owl#allows -->
+
+    <owl:ObjectProperty rdf:about="http://www.estrellaproject.org/lkif-core/norm.owl#allows">
+        <rdfs:subPropertyOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#considers"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.estrellaproject.org/lkif-core/norm.owl#disallowed_by -->
+
+    <owl:ObjectProperty rdf:about="http://www.estrellaproject.org/lkif-core/norm.owl#disallowed_by">
+        <rdfs:subPropertyOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#considered_by"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.estrellaproject.org/lkif-core/norm.owl#disallows -->
+
+    <owl:ObjectProperty rdf:about="http://www.estrellaproject.org/lkif-core/norm.owl#disallows">
+        <rdfs:subPropertyOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#considers"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Adjudication -->
+
+    <owl:Class rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Adjudication">
+        <rdfs:subClassOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Judgement"/>
+    </owl:Class>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Judgement -->
+
+    <owl:Class rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Judgement"/>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Judicial_Outcome -->
+
+    <owl:Class rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Judicial_Outcome"/>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Jurisdiction -->
+
+    <owl:Class rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Jurisdiction"/>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Legal_Consequence -->
+
+    <owl:Class rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Legal_Consequence"/>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Legal_Rule -->
+
+    <owl:Class rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Legal_Rule"/>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Legal_Status -->
+
+    <owl:Class rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Legal_Status"/>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Material_Circumstance -->
+
+    <owl:Class rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Material_Circumstance">
+        <rdfs:subClassOf rdf:resource="http://www.estrellaproject.org/lkif-core/norm.owl#Normatively_Qualified"/>
+    </owl:Class>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#Exception -->
+
+    <owl:Class rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#Exception">
+        <rdfs:subClassOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Legal_Status"/>
+        <rdfs:comment>An exceptional status: it pulls the expression it is applied to out of some norm´s scope of application.</rdfs:comment>
+        <rdfs:label>Exception</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#NonOppressive_Status -->
+
+    <owl:Class rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#NonOppressive_Status">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Legal_Status"/>
+                    <owl:Restriction>
+                        <owl:onProperty rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#judged_as"/>
+                        <owl:someValuesFrom rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#NonOppressive_Status"/>
+                    </owl:Restriction>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Legal_Status"/>
+        <owl:disjointWith rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#Oppressive_Status"/>
+        <rdfs:comment>non oppressive status (under the consumer law conception of oppressiveness)</rdfs:comment>
+        <rdfs:label>Not oppressive </rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#Oppressive_Status -->
+
+    <owl:Class rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#Oppressive_Status">
+        <rdfs:subClassOf rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Legal_Status"/>
+        <rdfs:comment>oppressive status (under the consumer law conception of oppressiveness)</rdfs:comment>
+        <rdfs:label>Oppressive</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.estrellaproject.org/lkif-core/norm.owl#Normatively_Qualified -->
+
+    <owl:Class rdf:about="http://www.estrellaproject.org/lkif-core/norm.owl#Normatively_Qualified"/>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+

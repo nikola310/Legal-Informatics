@@ -1,0 +1,3376 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1"
+         xmlns="http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#"
+         xmlns:Judg="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#"
+         xmlns:acti="http://www.estrellaproject.org/lkif-core/action.owl#"
+         xmlns:role="http://www.estrellaproject.org/lkif-core/role.owl#"
+         xmlns:proc="http://www.estrellaproject.org/lkif-core/process.owl#"
+         xmlns:lega="http://www.estrellaproject.org/lkif-core/legal-role.owl#">
+
+<owl:Ontology rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1">
+  <owl:imports rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl"/>
+  <owl:imports rdf:resource="http://www.estrellaproject.org/lkif-core/role.owl"/>
+</owl:Ontology>
+
+<owl:DatatypeProperty rdf:about="#judgement_date">
+  <rdfs:domain rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Judgement"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#judgement_department">
+  <rdfs:domain rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Judgement"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#judgement_type">
+  <rdfs:domain rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Judgement"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</owl:DatatypeProperty>
+
+<owl:DatatypeProperty rdf:about="#legal_rule_source">
+  <rdfs:domain rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Legal_Rule"/>
+  <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+</owl:DatatypeProperty>
+
+<Judg:Judgement rdf:about="#PRESUDA_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">2017. 01. 03.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRAVOSUDNI</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">KRIVICNA PRESUDA</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Testimir_Pekic">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#PRESUDA_1"/>
+</acti:Person>
+
+<lega:Legal_Role rdf:about="#Sudija">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</lega:Legal_Role>
+
+<Judg:Legal_Consequence rdf:about="#POSLEDICA_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">USLOVNA OSUDA</rdfs:comment>
+</Judg:Legal_Consequence>
+
+<Judg:Judicial_Outcome rdf:about="#ISHOD_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">OSUDJEN</rdfs:comment>
+</Judg:Judicial_Outcome>
+
+<Judg:Legal_Rule rdf:about="#Krivicni_zakonik_CG_cl._3_stav_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#POSLEDICA_1"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ovim zakonom se odredjuje...</rdfs:comment>
+  <legal_rule_source rdf:datatype="http://www.w3.org/2001/XMLSchema#string">http://sudovi...</legal_rule_source>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_35/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.04.2018.</judgement_date>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">04.05.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Jurisdiction rdf:about="#OSNOVNI_SUD_U_PLAVU">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Hilmija_Sujković">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_35/2018"/>
+  <proc:participant rdf:resource="#K_72/2018"/>
+  <proc:participant rdf:resource="#K_73/2018"/>
+  <proc:participant rdf:resource="#K_74/2018"/>
+  <proc:participant rdf:resource="#K_76/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Feridom_Gutić">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_35/2018"/>
+  <proc:participant rdf:resource="#K_72/2018"/>
+  <proc:participant rdf:resource="#K_73/2018"/>
+  <proc:participant rdf:resource="#K_74/2018"/>
+  <proc:participant rdf:resource="#K_76/2018"/>
+</acti:Person>
+
+<lega:Legal_Role rdf:about="#Zapisničar">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</lega:Legal_Role>
+
+<Judg:Legal_Rule rdf:about="#član_381_stav_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Consequence rdf:about="#OSUDJEN">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Consequence>
+
+<Judg:Legal_Rule rdf:about="#član_4_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_32_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_36_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_42_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_52_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_53_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_54_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_364_ZKP">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_36/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26.12.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Jurisdiction rdf:about="#OSNOVNI_SUD_U_ŽABLJAKU">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Anđelić_Mihailu">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_36/2018"/>
+  <proc:participant rdf:resource="#K_28/2018"/>
+  <proc:participant rdf:resource="#K_30/2018"/>
+  <proc:participant rdf:resource="#K_29/2018"/>
+  <proc:participant rdf:resource="#K_34/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Knežević_Ranke">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_36/2018"/>
+  <proc:participant rdf:resource="#K_28/2018"/>
+  <proc:participant rdf:resource="#K_30/2018"/>
+  <proc:participant rdf:resource="#K_29/2018"/>
+  <proc:participant rdf:resource="#K_34/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_5_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_13_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_15_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_45_tačka_3_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_46_stav_tačka_5_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_stav_tačka_9_ZKP">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_28/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03.12.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_41_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_stav_tačka_9_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_30/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03.12.2018.</judgement_date>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.07.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_4_KZCG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_5_KZCG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_13_KZCG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_15_KZCG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_32_KZCG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_36_KZCG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_42_KZCG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_52_KZCG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_53_KZCG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_54_KZCG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_29/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03.12.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_226_stav_tačka_9_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_143/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Jurisdiction rdf:about="#OSNOVNI_SUD_U_NIKŠICU">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Vesna_Kovačević">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_143/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Nikolić_Rade">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_143/2018"/>
+  <proc:participant rdf:resource="#K_347/2017"/>
+  <proc:participant rdf:resource="#K_249/2018"/>
+  <proc:participant rdf:resource="#K_229/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_226_Zakonika_o_krivičnom_postupku_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_9/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Đuričković_Igor">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_9/2018"/>
+  <proc:participant rdf:resource="#K_314/2014"/>
+  <proc:participant rdf:resource="#K_57/2017"/>
+  <proc:participant rdf:resource="#K_197/2017"/>
+  <proc:participant rdf:resource="#K_368/2017"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Papović_Budimirke">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_9/2018"/>
+  <proc:participant rdf:resource="#K_314/2014"/>
+  <proc:participant rdf:resource="#K_57/2017"/>
+  <proc:participant rdf:resource="#K_197/2017"/>
+  <proc:participant rdf:resource="#K_368/2017"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_168_stav_1_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_168_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_2_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_226_ZKP">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_229_stav_4_ZKP">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_374_ZKP">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_314/2014">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30.04.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_152_stav_2_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_152_stav_1_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_152_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_152_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_373_stav_1_tačka_2_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_347/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.06.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Kovačević_Vesna">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_347/2017"/>
+  <proc:participant rdf:resource="#K_249/2018"/>
+  <proc:participant rdf:resource="#K_229/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_240_stav_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_226_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_229_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_374_stav_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_239_Zakonika_o_krivičnom_postupku_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_57/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">07.06.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_49_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_372_tačka_1_ZKP">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_373_tačka_2_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_249/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_220_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_stav_član_36_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_42_stav_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_374_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_229/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_229_Zakonika_o_krivičnom_postupku_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_374_Zakonika_o_krivičnom_postupku_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_197/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06.07.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Pejović_Vasilise">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Pripravnik"/>
+  <proc:participant rdf:resource="#K_197/2017"/>
+</acti:Person>
+
+<lega:Legal_Role rdf:about="#Pripravnik">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</lega:Legal_Role>
+
+<Judg:Legal_Rule rdf:about="#član_239_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_32_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_36_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_42_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_229_ZKP">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_239_ZKP">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_368/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">08.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Šekarić_Milorada">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Pripravnik"/>
+  <proc:participant rdf:resource="#K_368/2017"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_284_stav_3_u">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_284_stav_3_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_284_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_2_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_32_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_36_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_42_stav_1_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_229_stav_1_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_284_stav_6_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_68/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Jurisdiction rdf:about="#OSNOVNI_SUD_U_CETINJU">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Jelena_Perović">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_68/2018"/>
+  <proc:participant rdf:resource="#K_103/2018"/>
+  <proc:participant rdf:resource="#K_108/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Popivoda_Marije">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_68/2018"/>
+  <proc:participant rdf:resource="#K_103/2018"/>
+  <proc:participant rdf:resource="#K_108/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_240_stav_1_tačka_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_253_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_151_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_239_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_242_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_240">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_3_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_5_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_15_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_32_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_36_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_42_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_48_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_51_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_71_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_137/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">17.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Jurisdiction rdf:about="#OSNOVNI_SUD_U_KOTORU">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Momirki_Tešić">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_137/2018"/>
+  <proc:participant rdf:resource="#K_138/2018"/>
+  <proc:participant rdf:resource="#K_376/2017"/>
+  <proc:participant rdf:resource="#K_371/2017"/>
+  <proc:participant rdf:resource="#K_344/2017"/>
+  <proc:participant rdf:resource="#K_317/2017"/>
+  <proc:participant rdf:resource="#K_309/2017"/>
+  <proc:participant rdf:resource="#K_298/2017"/>
+  <proc:participant rdf:resource="#K_219/2018"/>
+  <proc:participant rdf:resource="#K_220/2018"/>
+  <proc:participant rdf:resource="#K_224/2018"/>
+  <proc:participant rdf:resource="#K_227/2018"/>
+  <proc:participant rdf:resource="#K_265/2016"/>
+  <proc:participant rdf:resource="#K_258/2018"/>
+  <proc:participant rdf:resource="#K_177/2018"/>
+  <proc:participant rdf:resource="#K_181/2018"/>
+  <proc:participant rdf:resource="#K_198/2018"/>
+  <proc:participant rdf:resource="#K_154/2018"/>
+  <proc:participant rdf:resource="#K_172/2018"/>
+  <proc:participant rdf:resource="#K_140/2017"/>
+  <proc:participant rdf:resource="#K_201/2018"/>
+  <proc:participant rdf:resource="#K_58/2018"/>
+  <proc:participant rdf:resource="#K_166/2018"/>
+  <proc:participant rdf:resource="#K_71/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Ana-Marije_Petković">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_137/2018"/>
+  <proc:participant rdf:resource="#K_138/2018"/>
+  <proc:participant rdf:resource="#K_376/2017"/>
+  <proc:participant rdf:resource="#K_371/2017"/>
+  <proc:participant rdf:resource="#K_317/2017"/>
+  <proc:participant rdf:resource="#K_309/2017"/>
+  <proc:participant rdf:resource="#K_298/2017"/>
+  <proc:participant rdf:resource="#K_219/2018"/>
+  <proc:participant rdf:resource="#K_220/2018"/>
+  <proc:participant rdf:resource="#K_224/2018"/>
+  <proc:participant rdf:resource="#K_227/2018"/>
+  <proc:participant rdf:resource="#K_265/2016"/>
+  <proc:participant rdf:resource="#K_258/2018"/>
+  <proc:participant rdf:resource="#K_177/2018"/>
+  <proc:participant rdf:resource="#K_181/2018"/>
+  <proc:participant rdf:resource="#K_154/2018"/>
+  <proc:participant rdf:resource="#K_172/2018"/>
+  <proc:participant rdf:resource="#K_140/2017"/>
+  <proc:participant rdf:resource="#K_201/2018"/>
+  <proc:participant rdf:resource="#K_58/2018"/>
+  <proc:participant rdf:resource="#K_71/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_330_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_330_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_8_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_13_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_16_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_52_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_53_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_54_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_368_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_138/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.10.2018.</judgement_date>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_33_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_376/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_3_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_8_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_368_ZKP">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_371/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.04.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_166a_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_344/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.04.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Ana_–">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_344/2017"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_264_stav_3u_vezi_stav_1_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_264_stav_3_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_264_stav_1_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_3_Zakona_o_odgovornosti_pravnih_lica_za_krivična_djela_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_5_Zakona_o_odgovornosti_pravnih_lica_za_krivična_djela_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_6_Zakona_o_odgovornosti_pravnih_lica_za_krivična_djela_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_12_Zakona_o_odgovornosti_pravnih_lica_za_krivična_djela_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_13_Zakona_o_odgovornosti_pravnih_lica_za_krivična_djela_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_14_Zakona_o_odgovornosti_pravnih_lica_za_krivična_djela_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_15_Zakona_o_odgovornosti_pravnih_lica_za_krivična_djela_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_16_Zakona_o_odgovornosti_pravnih_lica_za_krivična_djela_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_24_Zakona_o_odgovornosti_pravnih_lica_za_krivična_djela_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_39_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_317/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.04.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_309/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_412_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_243_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_243_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_46_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_48_stav_2_tačka_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_298/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">15.06.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_221_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_5_KZ_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_8_KZ_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_13_KZ_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_15_KZ_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_36_KZ_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_42_KZ_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_52_KZ_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_53_KZ_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_54_KZ_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_219/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">05.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_45_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_220/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.08.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_224/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_220_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_220_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_403_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_5_stav_2_Zakona_o_oružju">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_23_stav_3_Zakona_o_oružju">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_403_stav_1_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_45_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_46_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_48_stav_2_tačka_5_Krivičnog_Zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_75">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_227/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_339_stav_3_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_27">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_339_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_265/2016">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01.03.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_326_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_381_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_258/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_240_stav_1_tačka_3_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_33_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_51_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_177/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_326_a_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_181/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_348_stav_3_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#krivičnim_djelom_ugrožavanja_javnog_saobraćaja_iz_član_339_stav_3_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_56_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_348_stav_3_krivičnim_djelom">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_16_KZ_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_198/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.07.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Nade_Mijanović">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_198/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_49_stav_6_Zakona_o_bezbjednosti_saobraćaja_na_putevima">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_154/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_339_stav_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_182_stav_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_182_stav_4">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_36_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_49">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_172/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_403_stav_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_41_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_140/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.01.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_36_a_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_14">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_15">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_17">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_13/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.05.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Jurisdiction rdf:about="#OSNOVNI_SUD_U_ULCINJU">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Đokaj_Amiru">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_13/2017"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Škrelja_Milene">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_13/2017"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_stav_5_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_13_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_15_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_36_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_42_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_48_stav_2_tačka_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_48_tačka_52_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_48_tačka_53_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_48_tačka_54_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_128/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Jurisdiction rdf:about="#VIŠI_SUD_U_PODGORICI">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Novčić_Slobodanke">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_128/2017"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Tabaš_Predraga">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Predsjednik_vijeća"/>
+  <proc:participant rdf:resource="#K_128/2017"/>
+</acti:Person>
+
+<lega:Legal_Role rdf:about="#Predsjednik_vijeća">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</lega:Legal_Role>
+
+<acti:Person rdf:about="#Vladimira_Novovića">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Član_vijeća"/>
+  <proc:participant rdf:resource="#K_128/2017"/>
+</acti:Person>
+
+<lega:Legal_Role rdf:about="#Član_vijeća">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</lega:Legal_Role>
+
+<acti:Person rdf:about="#Aleksandra_Stojanovića">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Član_vijeća"/>
+  <proc:participant rdf:resource="#K_128/2017"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_242_stav_4">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_242_stav_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_242">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_6_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_7_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_14_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_239_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_101/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">07.12.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Jurisdiction rdf:about="#OSNOVNI_SUD_U_ROŽAJAMA">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Milosav_Zekić">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_101/2018"/>
+  <proc:participant rdf:resource="#K_1/2019"/>
+  <proc:participant rdf:resource="#K_7/2019"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Jasmine_Nurković">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_101/2018"/>
+  <proc:participant rdf:resource="#K_1/2019"/>
+  <proc:participant rdf:resource="#K_7/2019"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_240_stav_1_tačka_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_1/2019">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.01.2019.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_403_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_5_stav_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_28">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_72/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.10.2018.</judgement_date>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.12.2018.</judgement_date>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Jovanović_Jovanu">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_72/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Mladenović_Vesne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_72/2018"/>
+  <proc:participant rdf:resource="#K_59/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_stav_13">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_15">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_32">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_36">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_42">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_63/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Zdravku_Rajović">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_63/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_239_stav_2_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_62/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03.09.2018.</judgement_date>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Enisom_Markišić">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_62/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_324_stav_Krivičnog_Zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_449/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Jurisdiction rdf:about="#OSNOVNI_SUD_U_PODGORICI">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Rade_Ćetković">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_449/2018"/>
+  <proc:participant rdf:resource="#K_603/2018"/>
+  <proc:participant rdf:resource="#K_606/2017"/>
+  <proc:participant rdf:resource="#K_643/2017"/>
+  <proc:participant rdf:resource="#K_654/2017"/>
+  <proc:participant rdf:resource="#K_672/2017"/>
+  <proc:participant rdf:resource="#K_673/2017"/>
+  <proc:participant rdf:resource="#K_678/2017"/>
+  <proc:participant rdf:resource="#K_688/2017"/>
+  <proc:participant rdf:resource="#K_724/2017"/>
+  <proc:participant rdf:resource="#K_746/2017"/>
+  <proc:participant rdf:resource="#K_771/2017"/>
+  <proc:participant rdf:resource="#K_794/2017"/>
+  <proc:participant rdf:resource="#K_846/2017"/>
+  <proc:participant rdf:resource="#K_800/2017"/>
+  <proc:participant rdf:resource="#K_837/2017"/>
+  <proc:participant rdf:resource="#K_396/2017"/>
+  <proc:participant rdf:resource="#K_819/2017"/>
+  <proc:participant rdf:resource="#K_842/2017"/>
+  <proc:participant rdf:resource="#K_23/2018"/>
+  <proc:participant rdf:resource="#K_35/2018"/>
+  <proc:participant rdf:resource="#K_70/2018"/>
+  <proc:participant rdf:resource="#K_138/2018"/>
+  <proc:participant rdf:resource="#K_183/2018"/>
+  <proc:participant rdf:resource="#K_212/2018"/>
+  <proc:participant rdf:resource="#K_268/2018"/>
+  <proc:participant rdf:resource="#K_290/2018"/>
+  <proc:participant rdf:resource="#K_293/2018"/>
+  <proc:participant rdf:resource="#K_299/2018"/>
+  <proc:participant rdf:resource="#K_318/2018"/>
+  <proc:participant rdf:resource="#K_328/2018"/>
+  <proc:participant rdf:resource="#K_334/2018"/>
+  <proc:participant rdf:resource="#K_359/2018"/>
+  <proc:participant rdf:resource="#K_367/2018"/>
+  <proc:participant rdf:resource="#K_376/2018"/>
+  <proc:participant rdf:resource="#K_386/2018"/>
+  <proc:participant rdf:resource="#K_853/2017"/>
+  <proc:participant rdf:resource="#K_408/2018"/>
+  <proc:participant rdf:resource="#K_420/2018"/>
+  <proc:participant rdf:resource="#K_432/2018"/>
+  <proc:participant rdf:resource="#K_730/2017"/>
+  <proc:participant rdf:resource="#K_630/2018"/>
+  <proc:participant rdf:resource="#K_456/2018"/>
+  <proc:participant rdf:resource="#K_475/2018"/>
+  <proc:participant rdf:resource="#K_477/2018"/>
+  <proc:participant rdf:resource="#K_566/2017"/>
+  <proc:participant rdf:resource="#K_598/2017"/>
+  <proc:participant rdf:resource="#K_618/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Edine_Kraje">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_449/2018"/>
+  <proc:participant rdf:resource="#K_603/2018"/>
+  <proc:participant rdf:resource="#K_606/2017"/>
+  <proc:participant rdf:resource="#K_643/2017"/>
+  <proc:participant rdf:resource="#K_654/2017"/>
+  <proc:participant rdf:resource="#K_672/2017"/>
+  <proc:participant rdf:resource="#K_673/2017"/>
+  <proc:participant rdf:resource="#K_688/2017"/>
+  <proc:participant rdf:resource="#K_724/2017"/>
+  <proc:participant rdf:resource="#K_746/2017"/>
+  <proc:participant rdf:resource="#K_771/2017"/>
+  <proc:participant rdf:resource="#K_794/2017"/>
+  <proc:participant rdf:resource="#K_846/2017"/>
+  <proc:participant rdf:resource="#K_800/2017"/>
+  <proc:participant rdf:resource="#K_837/2017"/>
+  <proc:participant rdf:resource="#K_396/2017"/>
+  <proc:participant rdf:resource="#K_819/2017"/>
+  <proc:participant rdf:resource="#K_842/2017"/>
+  <proc:participant rdf:resource="#K_23/2018"/>
+  <proc:participant rdf:resource="#K_35/2018"/>
+  <proc:participant rdf:resource="#K_70/2018"/>
+  <proc:participant rdf:resource="#K_138/2018"/>
+  <proc:participant rdf:resource="#K_183/2018"/>
+  <proc:participant rdf:resource="#K_212/2018"/>
+  <proc:participant rdf:resource="#K_268/2018"/>
+  <proc:participant rdf:resource="#K_290/2018"/>
+  <proc:participant rdf:resource="#K_293/2018"/>
+  <proc:participant rdf:resource="#K_299/2018"/>
+  <proc:participant rdf:resource="#K_318/2018"/>
+  <proc:participant rdf:resource="#K_328/2018"/>
+  <proc:participant rdf:resource="#K_334/2018"/>
+  <proc:participant rdf:resource="#K_359/2018"/>
+  <proc:participant rdf:resource="#K_367/2018"/>
+  <proc:participant rdf:resource="#K_376/2018"/>
+  <proc:participant rdf:resource="#K_386/2018"/>
+  <proc:participant rdf:resource="#K_853/2017"/>
+  <proc:participant rdf:resource="#K_408/2018"/>
+  <proc:participant rdf:resource="#K_420/2018"/>
+  <proc:participant rdf:resource="#K_432/2018"/>
+  <proc:participant rdf:resource="#K_730/2017"/>
+  <proc:participant rdf:resource="#K_456/2018"/>
+  <proc:participant rdf:resource="#K_475/2018"/>
+  <proc:participant rdf:resource="#K_477/2018"/>
+  <proc:participant rdf:resource="#K_566/2017"/>
+  <proc:participant rdf:resource="#K_598/2017"/>
+  <proc:participant rdf:resource="#K_618/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_376_stav_3_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_376_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_2_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_32_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_41_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_42_stav_1_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_303_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_603/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">08.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_76_ZOBS_na_putevima">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_42_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_52_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_606/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.02.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_643/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">22.01.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_327_stav_4_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_327_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_5_stav_1_Pravilnika_o_držanju">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_3_stav_1_alineja_1_Pravilnika_o_držanju">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_654/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.04.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_44_ZOBS_na_putevima">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_672/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">05.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_72_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_673/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.01.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_48_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_48_stav_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_52_stav_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_53">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_54">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_227">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_678/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">06.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Radojke_Rakočević">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_678/2017"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_372_stav_1_tačka_1_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_230_stav_1_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_688/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.05.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_724/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.02.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_75_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_746/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.05.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_76_Zakona_o_bezbjednosti_saobraćaja_na_putevima">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_771/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30.05.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_51_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_794/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.04.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_846/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.05.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_97_stav_3_ZOBS_na_putevima">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_800/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26.03.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_239_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_837/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.05.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_242_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_23">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_396/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.04.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_151_stav_4_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_151_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_399_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_819/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">09.02.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_842/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28.02.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_42_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_117/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.12.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Ćupić_Mariji">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_117/2018"/>
+  <proc:participant rdf:resource="#K_56/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Martinović_Aleksandre">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_117/2018"/>
+  <proc:participant rdf:resource="#K_72/2018"/>
+  <proc:participant rdf:resource="#K_56/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_403_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_220_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_239">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_5_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_3_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_5_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_13_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_15_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_32_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_36_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_75_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_87/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">01.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Mariji_Ćupić">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_87/2018"/>
+  <proc:participant rdf:resource="#K_72/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Aleksandre_Martinović">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_87/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_376">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_30_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_207_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_399">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_3">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_5">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_13">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_32">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_33">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_36">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_42">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_103/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_348_stav_3_u_vezi">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_17_stav_1_Zakona_o_bezbjednosti_saobraćaja_na_putevima">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_108/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03.12.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_166_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_247_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_24">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_227_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_228_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_56/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_240_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_7/2019">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.01.2019.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_26_stav_2_Zakona_o_bezbjednosti_saobraćaja_na_putevima">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_14_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_16_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_42_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_52_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_53_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_54_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_23/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">31.05.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_375_stav_3_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_375_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_389_stav_3_Krivičnog">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_389_stav_1_Krivičnog">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_70/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03.04.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_412_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_348_stav_3">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_246">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_403_stav_2_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_183/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.06.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_212/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">12.07.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_242_stav_2_u">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_268/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">20.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_290/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.07.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_348_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_300_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_403_stav_1_Krivičnog">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_301">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_46_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_293/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">05.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_76_Zakona_o_bezbjednosti_javnog_saobraćaja_na">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_299/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.07.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_376_stav_2_u">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_318/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">05.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_328/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">25.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_42_stav_3_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_48_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_69_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_334/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_220_stav_3_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_45_stav_1_tačka_3_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_46_stav_1_tačka_4_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_359/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_36_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_51_stav_1_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_367/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_376/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_220_stav_5_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_152_stav_2_Krivičnog">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_168_stav_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_23_Zakona">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_71_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_386/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26.07.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_46_stav_1_tačka_5_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_853/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.05.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_384_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_384_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_384">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_152_stav_1_Krivičnog">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_408/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_376_stav_3_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_376_stav_1_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_376_stav_2_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_376_stav_1_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_420/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">05.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_432/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">30.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_374/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Željki_Jovović">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_374/2018"/>
+  <proc:participant rdf:resource="#K_457/2018"/>
+  <proc:participant rdf:resource="#K_600/2018"/>
+  <proc:participant rdf:resource="#K_739/2016"/>
+  <proc:participant rdf:resource="#K_40/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Danijele_Rajković">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_374/2018"/>
+  <proc:participant rdf:resource="#K_457/2018"/>
+  <proc:participant rdf:resource="#K_600/2018"/>
+  <proc:participant rdf:resource="#K_739/2016"/>
+  <proc:participant rdf:resource="#K_40/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_13_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_32_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_42_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_52_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_53_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_54_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_457/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">10.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_39_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_stav_42_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_600/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.12.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_739/2016">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_272_stav_1_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_49_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_174/2016">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Jurisdiction rdf:about="#OSNOVNI_SUD_U_BIJELOM_POLJU">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Dragan_Mrdak">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_174/2016"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Koviljke_Lješnjak">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_174/2016"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_324_stav_2_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_324_stav_1_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_324_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_324_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_373_stav_1_tačka_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_73/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27.11.2018.</judgement_date>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_74/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">27.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_381_stav_1_Krivičnog_Zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_76/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">28.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_129/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Jurisdiction rdf:about="#OSNOVNI_SUD_U_BARU">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Tamara_Spasojević">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_129/2018"/>
+  <proc:participant rdf:resource="#K_527/2013"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Zoricom_Ivanović">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_129/2018"/>
+</acti:Person>
+
+<Judg:Judgement rdf:about="#K_39/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">29.05.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Jurisdiction rdf:about="#VIŠI_SUD_U_BIJELOM_POLJU">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Šefkija_Dješević">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_39/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Senke_Delić">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_39/2018"/>
+  <proc:participant rdf:resource="#K_30/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_300_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_373">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_59/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">03.12.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Jovan_Jovanović">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_59/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_49_krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_730/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">14.06.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_375">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_152_stav_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_152_stav_1">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_152_stav_2_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_152_stav_1_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_55">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_48">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_630/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">21.12.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Nele_Kuč">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_630/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_97_stav_3_Zakona_o_bezbjednosti_saobraćaja_na_putevima">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_456/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">02.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_475/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_260_stav_2_u">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_241_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_477/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_23_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_239_stav_1_Krivičnog">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_49_Krivičnog">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_23_stav_2">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_566/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.05.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_154_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_598/2017">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.03.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_388_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_384_stav_2_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_384_stav_1_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<acti:Person rdf:about="#Šefkije_Dješevića">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_30/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_373_tačka_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_230_Zkp">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_40/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">24.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_52_stav_2_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_53_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_54_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_284_stav_6_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_675/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.01.2019.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Đuković_Goranu">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_675/2018"/>
+  <proc:participant rdf:resource="#K_802/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Sanje_Radeivć">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_675/2018"/>
+</acti:Person>
+
+<Judg:Judgement rdf:about="#K_201/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Judgement rdf:about="#K_58/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">16.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_48_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_75_Krivičnog_zakonika">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_477_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_19_stav_1_tačka_6">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_19_stav_7_i">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_166/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">19.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Tijane_Milovanovi">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_166/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_71/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">18.04.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_260_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_260_stav_1_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_527/2013">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26.09.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Zorice_Ivanović">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_527/2013"/>
+</acti:Person>
+
+<Judg:Judgement rdf:about="#K_802/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">11.01.2019.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Sanje_Radević">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_802/2018"/>
+</acti:Person>
+
+<Judg:Judgement rdf:about="#K_34/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">26.12.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_stav_tačka_1_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#tačka_9_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_član_229_Zakonika_o_krivičnom_postupku">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_618/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.12.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<Judg:Legal_Rule rdf:about="#član_151_stav_2_Krivičnog_zakonika_Crne_Gore">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_45_stav_1_tačka_3_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_46_stav_1_tačka_4_Krivičnog_zakonika_Crne">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Jurisdiction rdf:about="#OSNOVNI_SUD_U_PLJEVLJIMA">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Jurisdiction>
+
+<acti:Person rdf:about="#Branku_Pejoviću">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Sudija"/>
+  <proc:participant rdf:resource="#K_62/2018"/>
+  <proc:participant rdf:resource="#K_64/2018"/>
+  <proc:participant rdf:resource="#K_73/2018"/>
+  <proc:participant rdf:resource="#K_79/2018"/>
+</acti:Person>
+
+<acti:Person rdf:about="#Đondović_Milenke">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_62/2018"/>
+  <proc:participant rdf:resource="#K_73/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_328_stav_1_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_stav_1_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_4_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_5_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_13_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_15_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_32_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_33_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_36_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_42_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_53_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_54_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_226_ZKP_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_229_ZKP_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_64/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">23.10.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#Djondović_Milenke">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_64/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_10_Zakona_o_oružju">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_239_stav_1_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Judgement rdf:about="#K_79/2018">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Presuda</rdfs:comment>
+  <judgement_date rdf:datatype="http://www.w3.org/2001/XMLSchema#string">13.11.2018.</judgement_date>
+  <judgement_department rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Krivično_odjeljenje</judgement_department>
+  <judgement_type rdf:datatype="http://www.w3.org/2001/XMLSchema#string">PRVOSTEPENI_KRIVIČNI_PREDMETI</judgement_type>
+</Judg:Judgement>
+
+<acti:Person rdf:about="#,_Đondović">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <role:plays rdf:resource="#Zapisničar"/>
+  <proc:participant rdf:resource="#K_79/2018"/>
+</acti:Person>
+
+<Judg:Legal_Rule rdf:about="#član_stav_3_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#stav_1_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_35_ZOBS_na_putevima">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_40_stav_4_ZOBS_na_putevima">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+</Judg:Legal_Rule>
+
+<Judg:Legal_Rule rdf:about="#član_16_Krivičnog_zakonika_CG">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <Judg:applies rdf:resource="#OSUDJEN"/>
+</Judg:Legal_Rule>
+
+
+</rdf:RDF>
