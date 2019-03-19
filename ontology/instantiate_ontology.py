@@ -90,6 +90,7 @@ def instantiateOntology(montenegro_judgements, instances):
         court = instance.metaData["Sud"]
         court = court.replace(' ', '_')
         test_jurisdiction = j_core_onto.Jurisdiction(court, namespace = montenegro_judgements)
+        test_judgement.considered_by.append(test_jurisdiction)
 
         #Judge individial
         judge = instance.logData["judge"]
@@ -144,12 +145,14 @@ def instantiateOntology(montenegro_judgements, instances):
                 vi = vi.replace(' ', '_')
                 test_violation = j_core_onto.Legal_Rule(vi, namespace = montenegro_judgements)
                 test_violation.comment.append("KRIVIČNO_DELO")
+                test_judgement.considers.append(test_violation)
 
-        #Legal_consequence individual
-        verdict = instance.verdictInfo
-        if verdict:
-            verdict = verdict.replace(' ', '_')
-            test_legal_consequence = j_core_onto.Legal_Consequence(verdict, namespace = montenegro_judgements)
+        #Judicial_outcome individual
+        judicial_outcome = instance.verdictInfo
+        if judicial_outcome:
+            judicial_outcome = judicial_outcome.replace(' ', '_')
+            test_judicial_outcome = j_core_onto.Judicial_Outcome(judicial_outcome, namespace = montenegro_judgements)
+            test_judgement.applies.append(test_judicial_outcome)
 
         #Regulation individuals
         regulations = instance.logData["regulations"]
@@ -157,8 +160,8 @@ def instantiateOntology(montenegro_judgements, instances):
             if re:
                 re = re.replace(' ', '_')
                 test_regulation = j_core_onto.Legal_Rule(re, namespace = montenegro_judgements)
-                test_regulation.applies.append(test_legal_consequence)
                 test_regulation.comment.append("SANKCIJA")
+                test_judgement.considers.append(test_regulation)
 
     #Fixed RuntimeError with download of HermiT from websource and setting it in AppData/Local/Python...
     with montenegro_judgements:
@@ -167,7 +170,7 @@ def instantiateOntology(montenegro_judgements, instances):
     saveOntology(montenegro_judgements)
 
 def saveOntology(montenegro_judgements):
-    f = open(path + "montenegro_judgements_1.owl", "a+")
+    f = open(path + "montenegro_judgements_1.owl", "w+")
     montenegro_judgements.save()
 
 if __name__ == "__main__":
