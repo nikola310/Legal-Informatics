@@ -13,15 +13,25 @@ montenegro_judgements = get_ontology("http://www.semanticweb.org/tima/ontologies
 #SPARQL querries
 graph = default_world.as_rdflib_graph()
 
-q1 = list(graph.query_owlready("""PREFIX mngj:<http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#>
-    PREFIX lkif_role:<http://www.estrellaproject.org/lkif-core/role.owl#>
-    PREFIX lkif_legal_role:<http://www.estrellaproject.org/lkif-core/legal-role.owl#>
-        SELECT ?person {?person lkif_role:plays mngj:Sudija}"""))
+#find all judgements where Anđelić_Mihailu is a participant
+q1 = list(graph.query_owlready("""
+    PREFIX mngj: <http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#>
+    PREFIX lkif_process: <http://www.estrellaproject.org/lkif-core/process.owl#>
+    SELECT ?judgement {mngj:Anđelić_Mihailu lkif_process:participant ?judgement .}
+    """))
 
+#find all judgements and judges where Anđelić_Mihailu is not a participant
 q2 = list(graph.query_owlready("""
     PREFIX mngj: <http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#>
     PREFIX lkif_process: <http://www.estrellaproject.org/lkif-core/process.owl#>
-    SELECT ?judgement {mngj:Testimir_Pekic lkif_process:participant ?judgement .}
+    PREFIX lkif_role: <http://www.estrellaproject.org/lkif-core/role.owl#>
+    PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+    SELECT ?judgement ?person
+    WHERE { 
+        ?person	lkif_process:participant ?judgement .
+        ?person lkif_role:plays mngj:Sudija .
+        FILTER NOT EXISTS { mngj:Anđelić_Mihailu lkif_process:participant ?judgement . }
+    }
     """))
 
 print("END")
