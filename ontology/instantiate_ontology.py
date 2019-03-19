@@ -5,29 +5,34 @@ import tkinter as tk
 from tkinter import filedialog
 import json
 
-#set java path for local setup
+#set java path for local setup (used for HermiT reasoner)
 owlready2.JAVA_EXE = "C:\\Program Files\\Java\\jre1.8.0_181\\bin\\java.exe"
 
 my_path = os.path.abspath(os.path.dirname(__file__))
 path = os.path.join(my_path, "Montenegro judgements ontology\\")
 dataPath = os.path.join(my_path, "data\\")
+svmDataPath = os.path.join(my_path, "..\\nlp\\predictions_svm.json")
 
 class DataWrapper:
-    def __init__(self, logData, metaData, verdictData):
+    def __init__(self, logData, metaData, verdictInfo):
         self.logData = logData
         self.metaData = metaData
-        self.verdictData = verdictData
+        self.verdictInfo = verdictInfo
 
 def startProgram():
     root = tk.Tk()
-    root.withdraw() 
-    #directory = filedialog.askdirectory()
-    directory = "D:\\Private\\Fax\\MASTER\\Pravna Informatika\\Projekat\\Presude html + text + meta\\K - PRVOSTEPENI KRIVIČNI PREDMETI"
+    root.withdraw()
+    directory = filedialog.askdirectory()
+    #directory = "D:\\Private\\Fax\\MASTER\\Pravna Informatika\\Projekat\\Presude html + text + meta\\K - PRVOSTEPENI KRIVIČNI PREDMETI"
     loadData(directory)
 
 def loadData(directory):
-    f = open(dataPath + "log.txt", "r", encoding="UTF-8")
+    f = open(dataPath + "instantiateJudgements", "r", encoding="UTF-8")
     lines = f.readlines()
+    s = open(svmDataPath, "r", encoding="UTF-8")
+    sData = s.read()
+    svmJson = json.loads(sData)
+    
     instances = []
     for line in lines:
         line = line.replace("'", '"')
@@ -37,8 +42,10 @@ def loadData(directory):
         jData = j.read()
         jData = jData.replace("'", '"')
         metaJson = json.loads(jData)
-        wrpr = DataWrapper(lineJson, metaJson, json.loads('{"verdict":"OSUDJEN"}'))
-        instances.append(wrpr)
+        verdictInfo = svmJson[str(id)]
+        if verdictInfo:
+            wrpr = DataWrapper(lineJson, metaJson, verdictInfo)
+            instances.append(wrpr)
     loadOntology(instances)
 
 def loadOntology(instances):
@@ -137,9 +144,10 @@ def instantiateOntology(montenegro_judgements, instances):
             if vi:
                 vi = vi.replace(' ', '_')
                 test_violation = j_core_onto.Legal_Rule(vi, namespace = montenegro_judgements)
+                test_violation.comment.append("KRIVIČNO_DELO")
 
         #Legal_consequence individual
-        verdict = instance.verdictData["verdict"]
+        verdict = instance.verdictInfo
         if verdict:
             verdict = verdict.replace(' ', '_')
             test_legal_consequence = j_core_onto.Legal_Consequence(verdict, namespace = montenegro_judgements)
@@ -152,6 +160,7 @@ def instantiateOntology(montenegro_judgements, instances):
                 re = re.replace(' ', '_')
                 test_regulation = j_core_onto.Legal_Rule(re, namespace = montenegro_judgements)
                 test_regulation.applies.append(test_legal_consequence)
+                test_regulation.comment.append("SANKCIJA")
 
     #Fixed RuntimeError with download of HermiT from websource and setting it in AppData/Local/Python...
     with montenegro_judgements:
