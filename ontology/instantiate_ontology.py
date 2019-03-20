@@ -13,7 +13,7 @@ owlready2.JAVA_EXE = "C:\\Program Files\\Java\\jre1.8.0_181\\bin\\java.exe"
 my_path = os.path.abspath(os.path.dirname(__file__))
 path = os.path.join(my_path, "Montenegro judgements ontology\\")
 dataPath = os.path.join(my_path, "data\\")
-svmDataPath = os.path.join(my_path, "..\\nlp\\predictions_svm.json")
+svmDataPath = os.path.join(my_path, "..\\nlp\\predictions_svm_instantiate.json")
 
 class DataWrapper:
     def __init__(self, logData, metaData, verdictInfo):
