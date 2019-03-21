@@ -118,6 +118,12 @@ montenegro_judgements_1.K_853/2017	PRVOSTEPENI_KRIVIČNI_PREDMETI	Krivično_odje
 montenegro_judgements_1.K_408/2018	PRVOSTEPENI_KRIVIČNI_PREDMETI	Krivično_odjeljenje	18.10.2018.
 Presuda ne sadrži predsednika veća ni članove veća pa nema rezultata za upite 4 i 5
 Presude u kojima se spominju neka od krivičnih dela: član 239 stav 1 Krivičnog zakonika Crne Gore, član 260 stav 2 u, član 241 stav 1 Krivičnog zakonika Crne Gore, član 152 stav 2 Krivičnog zakonika Crne Gore
+montenegro_judgements_1.K_73/2018
+montenegro_judgements_1.K_314/2014
+montenegro_judgements_1.K_688/2017
+montenegro_judgements_1.K_800/2017
+montenegro_judgements_1.K_268/2018
+montenegro_judgements_1.K_359/2018
 Presude u kojima se spominju neke od sankcija: član 4 stav 2 Krivičnog zakonika Crne Gore, član 32 Krivičnog zakonika Crne Gore, član 36 Krivičnog zakonika Crne Gore, član 42 stav 1 Krivičnog zakonika Crne Gore, član 51 stav 1 Krivičnog zakonika Crne Gore, član 226 Zakonika o krivičnom postupku, član 229 Zakonika o krivičnom postupku, član 374 Zakonika o krivičnom postupku, član 227
 montenegro_judgements_1.član_4_stav_2_Krivičnog_zakonika_Crne_Gore
 montenegro_judgements_1.član_42_stav_1_Krivičnog_zakonika_Crne_Gore

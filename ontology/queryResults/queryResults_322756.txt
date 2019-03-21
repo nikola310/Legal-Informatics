@@ -105,3 +105,10 @@ Presude u kojima se spominju neka od krivičnih dela: član 284 stav 3 Krivično
 montenegro_judgements_1.K_368/2017
 montenegro_judgements_1.K_432/2018
 Presude u kojima se spominju neke od sankcija: član 4 stav 2 Krivičnog zakonika Crne, član 42 stav 1 Krivičnog zakonika Crne, član 52 stav 2 Krivičnog zakonika Crne, član 53 Krivičnog zakonika Crne, član 54 Krivičnog zakonika Crne, član 284 stav 6 Krivičnog zakonika Crne, član 226 Zakonika o krivičnom postupku, član 229 Zakonika o krivičnom postupku, član 374 Zakonika o krivičnom postupku, član 75 Krivičnog zakonika Crne Gore, član 284 stav 6 Krivičnog zakonika Crne Gore
+montenegro_judgements_1.član_226_Zakonika_o_krivičnom_postupku
+montenegro_judgements_1.član_229_Zakonika_o_krivičnom_postupku
+montenegro_judgements_1.član_374_Zakonika_o_krivičnom_postupku
+montenegro_judgements_1.član_284_stav_6_Krivičnog_zakonika_Crne_Gore
+montenegro_judgements_1.član_75_Krivičnog_zakonika_Crne_Gore
+montenegro_judgements_1.član_4_stav_2_Krivičnog_zakonika_Crne
+montenegro_judgements_1.član_42_stav_1_Krivičnog_zakonika_Crne

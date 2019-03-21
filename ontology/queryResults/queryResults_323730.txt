@@ -103,3 +103,11 @@ montenegro_judgements_1.K_28/2018	PRVOSTEPENI_KRIVIČNI_PREDMETI	Krivično_odjel
 Presuda ne sadrži predsednika veća ni članove veća pa nema rezultata za upite 4 i 5
 Presuda ne sadrži krivična dela pa nema rezultata za upit 6
 Presude u kojima se spominju neke od sankcija: član 4 Krivičnog zakonika Crne Gore, član 5 Krivičnog zakonika Crne Gore, član 13 Krivičnog zakonika Crne Gore, član 15 Krivičnog zakonika Crne Gore, član 32 Krivičnog zakonika Crne Gore, član 36 Krivičnog zakonika Crne Gore, član 42 Krivičnog zakonika Crne Gore, član stav tačka 1 Zakonika o krivičnom postupku, tačka 9 Zakonika o krivičnom postupku, stav član 229 Zakonika o krivičnom postupku, član 374 Zakonika o krivičnom postupku
+montenegro_judgements_1.član_374_Zakonika_o_krivičnom_postupku
+montenegro_judgements_1.član_4_Krivičnog_zakonika_Crne_Gore
+montenegro_judgements_1.član_5_Krivičnog_zakonika_Crne_Gore
+montenegro_judgements_1.član_13_Krivičnog_zakonika_Crne_Gore
+montenegro_judgements_1.član_15_Krivičnog_zakonika_Crne_Gore
+montenegro_judgements_1.član_32_Krivičnog_zakonika_Crne_Gore
+montenegro_judgements_1.član_36_Krivičnog_zakonika_Crne_Gore
+montenegro_judgements_1.član_42_Krivičnog_zakonika_Crne_Gore
