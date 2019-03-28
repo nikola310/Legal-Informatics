@@ -55,7 +55,7 @@ def loadOntology(instances):
     onto_path.append(path + "judo-master")
     onto_path.append(path + "lkif-core-master\\")
 
-    montenegro_judgements = get_ontology("http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1.owl").load()
+    montenegro_judgements = get_ontology("http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements.owl").load()
     instantiateOntology(montenegro_judgements, instances)
 
 def instantiateOntology(montenegro_judgements, instances):
