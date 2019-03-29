@@ -13,9 +13,6 @@
      xmlns:Judging_Contracts_Domain="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#">
     <owl:Ontology rdf:about="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl">
 		<owl:imports rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl"/>
-		<owl:imports rdf:resource="http://www.estrellaproject.org/lkif-core/norm.owl"/>
-		<owl:imports rdf:resource="http://www.estrellaproject.org/lkif-core/mereology.owl"/>
-		<owl:imports rdf:resource="http://www.estrellaproject.org/lkif-core/expression.owl"/>	
 	</owl:Ontology>
     
 

@@ -39,13 +39,13 @@ def loadOntology(queryObjs):
     onto_path.append(path + "judo-master")
     onto_path.append(path + "lkif-core-master\\")
 
-    montenegro_judgements = get_ontology("http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1.owl").load()
+    montenegro_judgements = get_ontology("http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements.owl").load()
     doQueries(queryObjs,montenegro_judgements)
 
 def doQueries(queryObjs,montenegro_judgements):
     
     graph = default_world.as_rdflib_graph()
-    mngj_pref = "PREFIX mngj: <http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#>"
+    mngj_pref = "PREFIX mngj: <http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#>"
     lkif_process_pref = "PREFIX lkif_process: <http://www.estrellaproject.org/lkif-core/process.owl#>"
     lkif_role_pref = "PREFIX lkif_role: <http://www.estrellaproject.org/lkif-core/role.owl#>"
     judo_core_pref = "PREFIX judo_core: <http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#>"
@@ -127,24 +127,15 @@ def doQueries(queryObjs,montenegro_judgements):
             
             else:
                 writeMessage(queryResultsFile, "Presuda ne sadrži predsednika veća ni članove veća pa nema rezultata za upite 4 i 5")
-
+            
             violations = queryObj.logData["violations"]
             if len(violations) > 0:
-                violations_query_in = ""
-                violations_query_comments = ""
-                for i, violation in enumerate(violations):
-                    violation_query_element = "mngj:" + violation.replace(' ','_')
-                    violations_query_in += violation_query_element
-                    if i!=len(violations)-1:
-                        violations_query_in += ","
-            
-                    violations_query_comments += violation_query_element + " rdfs:comment 'KRIVIČNO_DELO' . "
-
+                violations_query_in = ",".join(["mngj:" + violation.replace(' ','_') for violation in violations])
+                
                 q6 = list(graph.query_owlready(mngj_pref + judo_core_pref + rdfs_pref + """
                     SELECT DISTINCT ?judgement
                     WHERE { 
-                        ?judgement judo_core:considers ?violation . FILTER (?violation IN (""" + violations_query_in + """)) . """ + 
-                        violations_query_comments + """ }
+                        ?judgement judo_core:considers ?violation . ?violation rdfs:comment 'KRIVIČNO_DELO' . FILTER (?violation IN (""" + violations_query_in + """)) . }
                     """))
 
                 writeMessage(queryResultsFile, "Presude u kojima se spominju neka od krivičnih dela: " + ", ".join(violations))
@@ -155,21 +146,12 @@ def doQueries(queryObjs,montenegro_judgements):
 
             regulations = queryObj.logData["regulations"]
             if len(regulations) > 0:
-                regulations_query_in = ""
-                regulations_query_comments = ""
-                for i, regulation in enumerate(regulations):
-                    regulation_query_element = "mngj:" + regulation.replace(' ','_')
-                    regulations_query_in += regulation_query_element
-                    if i!=len(regulations)-1:
-                        regulations_query_in += ","
-            
-                    regulations_query_comments += regulation_query_element + " rdfs:comment 'SANKCIJA' . "
-
+                regulations_query_in = ",".join(["mngj:" + regulation.replace(' ','_') for regulation in regulations])
+                
                 q7 = list(graph.query_owlready(mngj_pref + judo_core_pref + rdfs_pref + """
                     SELECT DISTINCT ?regulation
                     WHERE { 
-                        ?judgement judo_core:considers ?regulation . FILTER (?regulation IN (""" + regulations_query_in + """)) . """ + 
-                        regulations_query_comments + """ }
+                        ?judgement judo_core:considers ?regulation . ?regulation rdfs:comment 'SANKCIJA' . FILTER (?regulation IN (""" + regulations_query_in + """)) . } 
                     """))
                 
                 writeMessage(queryResultsFile, "Presude u kojima se spominju neke od sankcija: " + ", ".join(regulations))
