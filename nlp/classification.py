@@ -38,6 +38,7 @@ def runScript():
     plt.gca().set(xlabel='Type of judgements', ylabel='Number of judgements')
     plt.show()
 
+    print('Processing data started.')
     # Remove blank rows if any.
     Corpus['TEXT'].dropna(inplace=True)
     Test_corpus['TEXT'].dropna(inplace=True)
@@ -50,14 +51,20 @@ def runScript():
     Corpus['TEXT']= [word_tokenize(entry) for entry in Corpus['TEXT']]
     Test_corpus['TEXT']= [word_tokenize(entry) for entry in Test_corpus['TEXT']]
 
+    print('Tokenization successful.')
+
     # Remove Stop words
     removeStopWords(Corpus)
     removeStopWords(Test_corpus)
+
+    print('Stop words removed.')
 
     # Encode labels and transform text to document-term matrix
     Encoder = LabelEncoder()
     Train_Y = Encoder.fit_transform(Corpus['LABEL'])
     Test_Y = Encoder.fit_transform(Test_corpus['LABEL'])
+
+    print('Encoding successful.')
 
     Tfidf_vect = TfidfVectorizer(max_features=5000)
     Tfidf_vect.fit(Corpus['TEXT_FINAL'])
@@ -68,14 +75,14 @@ def runScript():
     # Fit the training dataset on the NB classifier and predict on test dataset
     Naive = naive_bayes.MultinomialNB()
     Naive.fit(Train_X_Tfidf, Train_Y)
-
+    print('Naive Bayes fit successful.')
     predictions_NB = Naive.predict(Test_X_Tfidf)
     print("Naive Bayes Accuracy Score -> ", accuracy_score(predictions_NB, Test_Y)*100)
 
     # Fit the training dataset on the SVM classifier and predict on test dataset
     SVM = svm.SVC(C=1.0, kernel='linear', degree=3, gamma='auto')
     SVM.fit(Train_X_Tfidf, Train_Y)
-
+    print('SVM fit successful.')
     predictions_SVM = SVM.predict(Test_X_Tfidf)    
     print("SVM Accuracy Score -> ",accuracy_score(predictions_SVM, Test_Y)*100)
     
@@ -84,6 +91,7 @@ def runScript():
     labels_svm = Encoder.inverse_transform(predictions_SVM)
     saveToJSON(Encoder, Test_corpus, labels_nb, 'predictions_bayes.json')
     saveToJSON(Encoder, Test_corpus, labels_svm, 'predictions_svm.json')
+    print('Results saved to JSON files.')
 
 
 def removeStopWords(Corpus):

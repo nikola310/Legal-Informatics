@@ -12,19 +12,20 @@ class JudgementEntity:
         self._text = text
         self._label = label
 
-if __name__ == "__main__":
+def  runScript():
         root = tk.Tk()
         root.withdraw() 
         directory = filedialog.askdirectory() 
 
         list_of_files = []
-        for (dirpath, dirnames, filenames) in os.walk(directory):
+        for (_, dirnames, _) in os.walk(directory):
                 for dirname in dirnames:
                         files=[(directory + os.path.sep + dirname + os.path.sep + e) for e in os.listdir(directory + os.path.sep + dirname) if e.endswith('.xml')]
                         list_of_files = list_of_files + files
 
 
         entities = {}
+        print('Processing files started.')
         for filename in list_of_files:
                 with io.open(filename, "r", encoding="utf-8") as xml_file:
                         xmlRoot = xmlET.parse(filename).getroot()
@@ -63,3 +64,8 @@ if __name__ == "__main__":
                 wr.writerow(['ID', 'TEXT', 'LABEL'])
                 for key, value in entities.items():
                         wr.writerow([key, value._text, value._label])
+        
+        print('CSV output generated.')
+
+if __name__ == "__main__":
+        runScript()
