@@ -36,7 +36,7 @@ def loadData():
 def loadOntology(queryObjs):
     onto_path.append(path)
     onto_path.append(path + "judo-master")
-    onto_path.append(path + "lkif-core-master\\")
+    onto_path.append(path + "lkif-core-master" + os.path.sep)
 
     montenegro_judgements = get_ontology("http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements.owl").load()
     doQueries(queryObjs,montenegro_judgements)
