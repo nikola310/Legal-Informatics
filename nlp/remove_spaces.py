@@ -1,7 +1,8 @@
-import tkinter as tk
-from tkinter import filedialog
 import io
 import os
+import tkinter as tk
+from tkinter import filedialog
+
 
 def runScript():
     root = tk.Tk()

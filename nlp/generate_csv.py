@@ -1,9 +1,12 @@
-import io, os
 import csv
+import io
+import os
 import tkinter as tk
-from tkinter import filedialog
 import xml.etree.cElementTree as xmlET
+from tkinter import filedialog
+
 import tokenizeJudgements
+
 
 class JudgementEntity:
 

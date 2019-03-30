@@ -1,16 +1,17 @@
-import pandas as pd
-import numpy as np
-from nltk.tokenize import word_tokenize
-from nltk import pos_tag
-from sklearn.preprocessing import LabelEncoder
-from collections import defaultdict
-from nltk.corpus import wordnet as wn
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn import model_selection, naive_bayes, svm
-from sklearn.metrics import accuracy_score
-import matplotlib.pyplot as plt
 import json
+from collections import defaultdict
+
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
 import pylab as pl
+from nltk import pos_tag
+from nltk.corpus import wordnet as wn
+from nltk.tokenize import word_tokenize
+from sklearn import model_selection, naive_bayes, svm
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics import accuracy_score
+from sklearn.preprocessing import LabelEncoder
 
 serbian_stop_words = ["biti", "ne", "jesam", "sam", "jesi", "si", "je", "jesmo", "smo", "jeste", "ste", "jesu", "su",
                     "nijesam", "nisam", "nijesi", "nisi", "nije", "nijesmo", "nismo", "nijeste", "niste", "nijesu", "nisu",
