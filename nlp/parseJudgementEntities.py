@@ -64,8 +64,8 @@ def findAndSaveEntity(judgementDirectory,judgement,entityObj):
     if entityObj['beginOffset'] == -1 or entityObj['endOffset'] == -1 or entityObj['type'] == '':
         return
 
-    with open(judgementDirectory + os.path.sep + "presuda_one_line_"+judgement['judgementId']+".txt", encoding = "UTF-8") as judgementTextFile:
-        judgementText = judgementTextFile.read()
+    with open(judgementDirectory + os.path.sep + "presuda_text_"+judgement['judgementId']+".txt", encoding = "UTF-8") as judgementTextFile:
+        judgementText = judgementTextFile.read().replace('\n',' ')
         entityText = judgementText[entityObj['beginOffset']:entityObj['endOffset']]
         entityType = entityObj['type'] 
         if entityType == 'judge':

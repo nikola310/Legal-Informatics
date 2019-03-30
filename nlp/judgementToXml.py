@@ -11,7 +11,7 @@ def startProgram():
 
 def exportXml(directory):
 
-    files=[e for e in os.listdir(directory) if e.endswith('.txt')]
+    files=[e for e in os.listdir(directory) if e.startswith('presuda_text_') and e.endswith('.txt')]
     if not os.path.exists(directory + os.path.sep + 'out'):
         os.mkdir(directory + os.path.sep + 'out')
 
@@ -20,9 +20,9 @@ def exportXml(directory):
         with io.open(os.path.join(directory,fl), "r", encoding = "UTF-8") as textFile:
             judgement_id = fl.split('_')[-1][:-4]
         
-            root = xmlET.Element("ReviewsTask")
-            reviewText = xmlET.SubElement(root, "TEXT")
-            reviewText.append(xmlET.Comment(' --><![CDATA[' + textFile.read().replace(']]>', ']]]]><![CDATA[>') + ']]><!-- '))
+            root = xmlET.Element("JudgementsTask")
+            judgementText = xmlET.SubElement(root, "TEXT")
+            judgementText.append(xmlET.Comment(' --><![CDATA[' + textFile.read().replace('\n', ' ').replace(']]>', ']]]]><![CDATA[>') + ']]><!-- '))
             tags = xmlET.SubElement(root, "TAGS").text = " "
 
             tree = xmlET.ElementTree(root)

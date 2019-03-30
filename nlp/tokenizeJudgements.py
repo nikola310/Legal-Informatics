@@ -15,7 +15,7 @@ def startProgram():
 def tokenizeFiles(directory,filename):
     files=[e for e in os.listdir(directory) if e.endswith('.xml')]
 
-    with io.open(directory + os.path.sep + filename + '.data', "w+", encoding = "UTF-8") as tokenized_file:
+    with io.open(directory + os.path.sep + filename, "w+", encoding = "UTF-8") as tokenized_file:
         for index,fl in enumerate(files):
             print('Processing',index+1,'/',len(files))
             judgement_id = fl.split('_')[-1][:-4]

@@ -5,9 +5,8 @@ import os
 import json
 
 my_path = os.path.abspath(os.path.dirname(__file__))
-path = os.path.join(my_path, "Montenegro judgements ontology\\")
-dataPath = os.path.join(my_path, "data\\")
-svmDataPath = os.path.join(my_path, "..\\nlp\\predictions_svm_query.json")
+path = my_path + os.path.sep + "Montenegro judgements ontology" + os.path.sep
+dataPath = my_path + os.path.sep + "data" + os.path.sep
 
 class DataWrapper:
     def __init__(self, logData, verdictInfo):
@@ -20,7 +19,7 @@ def startProgram():
 def loadData():
     f = open(dataPath + "queryJudgements", "r", encoding="UTF-8")
     lines = f.readlines()
-    s = open(svmDataPath, "r", encoding="UTF-8")
+    s = open(dataPath + "predictions_svm_query.json", "r", encoding="UTF-8")
     sData = s.read()
     svmJson = json.loads(sData)
     queryObjs = []

@@ -11,9 +11,8 @@ import json
 owlready2.JAVA_EXE = "C:\\Program Files\\Java\\jre1.8.0_181\\bin\\java.exe"
 
 my_path = os.path.abspath(os.path.dirname(__file__))
-path = os.path.join(my_path, "Montenegro judgements ontology\\")
-dataPath = os.path.join(my_path, "data\\")
-svmDataPath = os.path.join(my_path, "..\\nlp\\predictions_svm_instantiate.json")
+path = my_path + os.path.sep + "Montenegro judgements ontology" + os.path.sep
+dataPath = my_path + os.path.sep + "data" + os.path.sep
 
 class DataWrapper:
     def __init__(self, logData, metaData, verdictInfo):
@@ -31,7 +30,7 @@ def startProgram():
 def loadData(directory):
     f = open(dataPath + "instantiateJudgements", "r", encoding="UTF-8")
     lines = f.readlines()
-    s = open(svmDataPath, "r", encoding="UTF-8")
+    s = open(dataPath + "predictions_svm_instantiate.json", "r", encoding="UTF-8")
     sData = s.read()
     svmJson = json.loads(sData)
     
@@ -40,7 +39,7 @@ def loadData(directory):
         line = line.replace("'", '"')
         lineJson = json.loads(line)
         id = lineJson["judgementId"]
-        j = open(directory + "\\presuda_meta_" + str(id) + ".json", "r", encoding="UTF-8")
+        j = open(directory + os.path.sep + "presuda_meta_" + str(id) + ".json", "r", encoding="UTF-8")
         jData = j.read()
         jData = jData.replace("'", '"')
         metaJson = json.loads(jData)
@@ -53,7 +52,7 @@ def loadData(directory):
 def loadOntology(instances):
     onto_path.append(path)
     onto_path.append(path + "judo-master")
-    onto_path.append(path + "lkif-core-master\\")
+    onto_path.append(path + "lkif-core-master" + os.path.sep)
 
     montenegro_judgements = get_ontology("http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1.owl").load()
     instantiateOntology(montenegro_judgements, instances)

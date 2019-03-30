@@ -7,6 +7,7 @@ from markdown import markdown
 
 def convert_judgementHtml_to_judgementText(judgementsPath):
     for filename in os.listdir(judgementsPath):
+        print("Processing "+filename)
         file_fullpath = judgementsPath+ "/" + filename
         if os.path.isfile(file_fullpath) and filename.startswith('presuda_html_') and filename.endswith('.txt'):
             with open(file_fullpath, 'r', encoding='utf-8') as htmlFile:  
