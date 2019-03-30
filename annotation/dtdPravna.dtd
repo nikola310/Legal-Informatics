@@ -1,0 +1,22 @@
+<!ENTITY name "JudgementsTask">
+
+<!ELEMENT judge ( #PCDATA ) >
+<!ATTLIST judge spans #IMPLIED >
+
+<!ELEMENT clerk ( #PCDATA ) >
+<!ATTLIST clerk spans #IMPLIED >
+
+<!ELEMENT violation ( #PCDATA ) >
+<!ATTLIST violation spans #IMPLIED >
+
+<!ELEMENT regulation ( #PCDATA ) >
+<!ATTLIST regulation spans #IMPLIED >
+
+<!ELEMENT probationer ( #PCDATA ) >
+<!ATTLIST probationer spans #IMPLIED >
+
+<!ELEMENT council_president ( #PCDATA ) >
+<!ATTLIST council_president spans #IMPLIED >
+
+<!ELEMENT council_member ( #PCDATA ) >
+<!ATTLIST council_member spans #IMPLIED >
