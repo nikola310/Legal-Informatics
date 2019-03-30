@@ -4,7 +4,6 @@ from collections import defaultdict
 import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
-import pylab as pl
 from nltk import pos_tag
 from nltk.corpus import wordnet as wn
 from nltk.tokenize import word_tokenize
