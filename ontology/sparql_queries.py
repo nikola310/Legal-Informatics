@@ -38,13 +38,13 @@ def loadOntology(queryObjs):
     onto_path.append(path + "judo-master")
     onto_path.append(path + "lkif-core-master\\")
 
-    montenegro_judgements = get_ontology("http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1.owl").load()
+    montenegro_judgements = get_ontology("http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements.owl").load()
     doQueries(queryObjs,montenegro_judgements)
 
 def doQueries(queryObjs,montenegro_judgements):
     
     graph = default_world.as_rdflib_graph()
-    mngj_pref = "PREFIX mngj: <http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#>"
+    mngj_pref = "PREFIX mngj: <http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#>"
     lkif_process_pref = "PREFIX lkif_process: <http://www.estrellaproject.org/lkif-core/process.owl#>"
     lkif_role_pref = "PREFIX lkif_role: <http://www.estrellaproject.org/lkif-core/role.owl#>"
     judo_core_pref = "PREFIX judo_core: <http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#>"

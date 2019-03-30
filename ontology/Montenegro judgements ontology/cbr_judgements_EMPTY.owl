@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<rdf:RDF xmlns="http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#"
-     xml:base="http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1"
+<rdf:RDF xmlns="http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#"
+     xml:base="http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements"
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
@@ -11,7 +11,7 @@
      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
      xmlns:role="http://www.estrellaproject.org/lkif-core/role.owl#"
      xmlns:Judg2="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl#">
-    <owl:Ontology rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1">
+    <owl:Ontology rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements">
         <owl:imports rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl"/>
         <owl:imports rdf:resource="http://www.estrellaproject.org/lkif-core/role.owl"/>
     </owl:Ontology>
@@ -29,36 +29,36 @@
     
 
 
-    <!-- http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#judgement_date -->
+    <!-- http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#judgement_date -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#judgement_date">
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#judgement_date">
         <rdfs:domain rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Judgement"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#judgement_department -->
+    <!-- http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#judgement_department -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#judgement_department">
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#judgement_department">
         <rdfs:domain rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Judgement"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#judgement_type -->
+    <!-- http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#judgement_type -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#judgement_type">
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#judgement_type">
         <rdfs:domain rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Judgement"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
     
 
 
-    <!-- http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#legal_rule_source -->
+    <!-- http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#legal_rule_source -->
 
-    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/montenegro_judgements_1#legal_rule_source">
+    <owl:DatatypeProperty rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#legal_rule_source">
         <rdfs:domain rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Legal_Rule"/>
         <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
     </owl:DatatypeProperty>
