@@ -65,6 +65,8 @@ measures will be printed out in the console.
 
 ## Named Entity Recognition (NER)
 
+The MAE annotation tool used in this project can be found [here](https://keighrim.github.io/mae-annotation/), as well as the link to its How to Use Guide and all the other relevant information surrounding it. The annotation task file required by MAE that contains all annotation classes used for annotating judgement named entities, is named dtdLegalInformatics.dtd and can be found in the directory 'annotation'.
+
 To create files in the XML format that the MAE anotation tool requires run the script judgementToXml.py. When you run int a 
 window will appear asking you to select the directory which containts the judgement files you wish to convert to that format.
 Inside that directory a new one will be created with the name "out", in which the newly created files will be stored.
