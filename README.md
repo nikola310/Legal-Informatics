@@ -46,8 +46,7 @@ files, each named after a specific judgement type.
 
 To get html and metadata for all individual judgements run the script names_processing.py. When you run it a window will 
 appear, asking you to select the directory where files containing identification numbers are stored. This script will use
-those identification numbers to create links to individual judgements and then get the necessary data. Data will be stored
-in directories, each named after a specific judgement type.
+those identification numbers to create links to individual judgements and then get the necessary data (html and metadata). Data will be stored in directories, each named after a specific judgement type.
 
 To get plain text contained inside the html format of judgements run the script htmlTotxt.py. When you run it a window will 
 appear, asking you to select the directory in which all html judgement files are stored. The script will recursively search 
