@@ -1,3 +1,10 @@
+# Requirements:
+
+```
+Python >= 3.0
+pip for installing dependencies
+```
+
 # HowToGuide:
 
 ## External dependencies:
