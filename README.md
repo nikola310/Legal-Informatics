@@ -18,7 +18,7 @@ pip for installing dependencies
  - nltk
  - gensim
  - pandas
- - sklearn
+ - scikit-learn
  - Owlready2
  - rdflib
  
