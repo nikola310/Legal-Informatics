@@ -53,15 +53,17 @@ appear, asking you to select the directory in which all html judgement files are
 for all files containing judgements in html format, and for each of those files it will create a file containing its plain 
 text.
 
-## NLP:
+## Judgement similarity using TF-IDF:
 
 To find top 10 most similar judgements to a specified one by comparing TF-IDF vectors with cosine measure run the script 
 judgementSimilarity.py. When you run it a window will appear asking you to select the directory which contains your corpus 
 of judegments from which 10 most similar judgement to a specified one will be returned. After selecting the directory, an 
 index file will be created in the directory "judgementSimilarityOutput". It may take a couple of minutes, depending on the 
 amount of judgements in the corpus. After the index file is created, a new window will appear asking you to select a 
-judgement file for which 10 most similar judgements from the indexed corpus will be found and their name, path and similarity
-measure will be printed out in the console.
+judgement file for which 10 most similar judgements from the indexed corpus will be found and their names, paths and similarity
+measures will be printed out in the console.
+
+## Named Entity Recognition (NER)
 
 To create files in the XML format that the MAE anotation tool requires run the script judgementToXml.py. When you run int a 
 window will appear asking you to select the directory which containts the judgement files you wish to convert to that format.
@@ -75,7 +77,7 @@ newly craeted file will be stored.
 To create a file containing entities that CRF++ found for each judgement run the script parseJudgementEntities.py.
 When you run in you will first be asked to give the name to the file that will be created. After that a window will appear 
 asking you to select the file containing entities in the format required by CRF++. Finally a window will appear asking you
-to select the directory which contains plain text files for judgements, so that entities can be found in the original text.
+to select the directory which contains plain text files for judgements, so that entities can be found and parsed from the original text.
 
 ## Classification:
 
@@ -92,7 +94,7 @@ In order to classify judgements there needs to be two csv files in directory:
 - out_training.csv
 - out_test.csv
 
-After running classification.py which results for both Naive Bayes and SVM will be generated into json files.
+After running classification.py results for both Naive Bayes and SVM will be generated into json files.
 
 ## Ontology:
 
@@ -100,8 +102,8 @@ To instantiate the ontology cbr_judgements run the script instantiate_ontology.p
 HermiT Reasoner in your local file system by changing the value to the variable owlready2.JAVA_EXE. Files containing
 entities and classification results for judgements that are to be used for instantiation need to be placed in the directory
 "data" located in the same directory as the script (Files used in the script by default are instantiateJudgements and 
-predictions_svm_instantiate.json). After running the script a window will appear asking you to select the directory in which
-contains data (text and metadata) for all judgements. 
+predictions_svm_instantiate.json). After running the script a window will appear asking you to select the directory which
+contains data (text and metadata) for all judgements that need to be instantiated. 
 
 
 To run queries to the ontology cbr_judgements run the script sparql_queries.py. Files containing entities and classification 
