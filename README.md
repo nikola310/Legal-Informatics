@@ -71,7 +71,7 @@ To create files in the XML format that the MAE anotation tool can open run the s
 window will appear asking you to select the directory which containts the judgement files you wish to convert to that format.
 Inside that directory a new one will be created with the name "out", in which the newly created files will be stored.
 
-The CRF++ software used for performing NER in this project can be found [here] (https://taku910.github.io/crfpp/#download), as well as all the other relevant information surrounding it.
+The CRF++ software used for performing NER in this project can be found [here] (https://taku910.github.io/crfpp/), as well as all the other relevant information surrounding it.
 
 To create training/test file required for CRF++ from XML files that contain annotations run the script tokenizeJudgements.py.
 When you run it you will first be asked to give the name to the file that will be created. After that a window will appear
