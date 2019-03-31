@@ -1,20 +1,19 @@
 # HowToGuide:
 
 ## External dependencies:
+ - numpy
+ - matplotlib
+ - scipy
  - selenium  
  - html2text  
- - BeautifulSoup  
- - markdown  
- - gensim  
- - Owlready2  
- - matplotlib
- - numpy
- - pandas
- - pylab
+ - beautifulsoup4  
+ - Markdown
  - nltk
+ - gensim
+ - pandas
  - sklearn
- - csv
- - tkinter
+ - Owlready2
+ - rdflib
  
 All of which can be installed through pip:
 
@@ -24,11 +23,11 @@ pip install dependency
 
 ## Data sets:
 
-Data set containing verdicts can be downloaded [here.](https://drive.google.com/file/d/1MZNLFx2YXmkP3lr0of24kulJDfjB_g4l/view?fbclid=IwAR0Nu-ARTJTNaydArcyROy7gAMgItqvTZ3NUOtKc7KeI1AsK4sb9EZijCT0)
+Full data set containing text, html and metadata files can be downloaded [here.](https://drive.google.com/file/d/1MZNLFx2YXmkP3lr0of24kulJDfjB_g4l/view?fbclid=IwAR0Nu-ARTJTNaydArcyROy7gAMgItqvTZ3NUOtKc7KeI1AsK4sb9EZijCT0)
 
-Training and test data set used in this paper can be found [here.](https://drive.google.com/file/d/11wLWHle4ZOE3vxiHFlE_Bcx9yuSufSU7/view?fbclid=IwAR3AKcjDreLg3kkT-_i9a5UqUGxov10j7dbC4BBOUEED1FGLhPFZv0Xeaqw)
+Training data set used for NER and that can be used as the corpus for calculating judgements similarity using TF-IDF vectors and test data set used for NER, classification and whose judgement texts could be used as individual query judgements for calculating judgements similarity using TF-IDF vectors can be found [here.](https://drive.google.com/file/d/11wLWHle4ZOE3vxiHFlE_Bcx9yuSufSU7/view?fbclid=IwAR3AKcjDreLg3kkT-_i9a5UqUGxov10j7dbC4BBOUEED1FGLhPFZv0Xeaqw)
 
-XML files of training and test data set can be found [here.](https://drive.google.com/file/d/1-9h8qXFpcpUmSZL_ER9pyPZ1wjsOVHde/view?fbclid=IwAR0Z6Navat4pmyyfQwr6VZEGXio1fvTW59Iepz8aUkskxJZbewaorTPFWJ4)
+XML files of training and test data set containing annotations can be found [here.](https://drive.google.com/file/d/1-9h8qXFpcpUmSZL_ER9pyPZ1wjsOVHde/view?fbclid=IwAR0Z6Navat4pmyyfQwr6VZEGXio1fvTW59Iepz8aUkskxJZbewaorTPFWJ4)
 
 Training set for classification can be found here [here.](https://drive.google.com/file/d/1eGADulolDFxV5GPxyV_iiZepTCnbH2gS/view?fbclid=IwAR3ZRs1Vc8rptsFWG08isANkiqK8vIWxWAbM4BFU20AvEpLZwjWQziJ7_jg)
 
