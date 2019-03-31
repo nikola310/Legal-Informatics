@@ -67,14 +67,18 @@ measures will be printed out in the console.
 
 The MAE annotation tool used in this project can be found [here](https://keighrim.github.io/mae-annotation/), as well as the link to its How to Use Guide and all the other relevant information surrounding it. The annotation task file required by MAE that contains all annotation classes used for annotating judgement named entities, is named dtdLegalInformatics.dtd and can be found in the directory 'annotation'.
 
-To create files in the XML format that the MAE anotation tool requires run the script judgementToXml.py. When you run int a 
+To create files in the XML format that the MAE anotation tool can open run the script judgementToXml.py. When you run int a 
 window will appear asking you to select the directory which containts the judgement files you wish to convert to that format.
 Inside that directory a new one will be created with the name "out", in which the newly created files will be stored.
+
+The CRF++ software used for performing NER in this project can be found [here] (https://taku910.github.io/crfpp/#download), as well as all the other relevant information surrounding it.
 
 To create training/test file required for CRF++ from XML files that contain annotations run the script tokenizeJudgements.py.
 When you run it you will first be asked to give the name to the file that will be created. After that a window will appear
 asking you to select the directory which contains the XML files with annotations. Also that is the directory in which the 
-newly craeted file will be stored.
+newly created file will be stored.
+
+Files used for training/testing CRF++ in this project are located in the directory 'crf_files'. To train CRF++ run the command 'crf_learn template train model' where template refers to the template file required by CRF++, train refers to the file containing named entities used for training and model refers to the name of the file which represents the trained model. For example in this project the command looked like: 'crf_learn template judgementsTrain model_v1'. To test CRF++ run the command 'crf_test -m model test (> output)' where model refers to the file representing the trained model, test refers to the file used for testing and output refers to the file where named entities that CRF++ predicts for each token will be written. If output is not specified test file will be used instead of it. For example in this project the command looked like: 'crf_test -m model_v1 judgementsTest > output'. In should be noted that if the folder containing CRF++ installation is not added as a Path variable these commands need to be written inside the directory the specified files are located. To output the accuracy of the trained CRF++ model when predicting named entities for a specified test file run the Python script conlleval.py inside the folder in which the file containing expected and predicted named entity values for each token is located. For example in this project running this script looked like: 'python conlleval.py < output'. After running this command the accuracy scores will be printed in the console.
 
 To create a file containing entities that CRF++ found for each judgement run the script parseJudgementEntities.py.
 When you run in you will first be asked to give the name to the file that will be created. After that a window will appear 
