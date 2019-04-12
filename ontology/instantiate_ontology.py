@@ -8,7 +8,7 @@ from tkinter import filedialog
 import json
 
 #set java path for local setup (used for HermiT reasoner)
-owlready2.JAVA_EXE = "C:\\Program Files\\Java\\jre1.8.0_181\\bin\\java.exe"
+owlready2.JAVA_EXE = "C:\\Program Files\\Java\\jre1.8.0_191\\bin\\java.exe"
 
 my_path = os.path.abspath(os.path.dirname(__file__))
 path = my_path + os.path.sep + "Montenegro judgements ontology" + os.path.sep
@@ -101,7 +101,7 @@ def instantiateOntology(montenegro_judgements, instances):
             test_judge = lkif_action_onto.Person(judge, namespace = montenegro_judgements)
             test_legal_role_j = lkif_legal_role_onto.Legal_Role("Sudija", namespace = montenegro_judgements)
             test_judge.plays.append(test_legal_role_j)
-            test_judge.participant.append(test_judgement)
+            test_judge.partaker.append(test_judgement)
 
         #Clerk individual
         clerk = instance.logData["clerk"]
@@ -110,7 +110,7 @@ def instantiateOntology(montenegro_judgements, instances):
             test_clerk = lkif_action_onto.Person(clerk, namespace = montenegro_judgements)
             test_legal_role_c = lkif_legal_role_onto.Legal_Role("Zapisničar", namespace = montenegro_judgements)
             test_clerk.plays.append(test_legal_role_c)
-            test_clerk.participant.append(test_judgement)
+            test_clerk.partaker.append(test_judgement)
 
         #Probationer individual
         probationer = instance.logData["probationer"]
@@ -119,7 +119,7 @@ def instantiateOntology(montenegro_judgements, instances):
             test_probationer = lkif_action_onto.Person(probationer, namespace = montenegro_judgements)
             test_legal_role_p = lkif_legal_role_onto.Legal_Role("Pripravnik", namespace = montenegro_judgements)
             test_probationer.plays.append(test_legal_role_p)
-            test_probationer.participant.append(test_judgement)
+            test_probationer.partaker.append(test_judgement)
 
         #Council_president individual
         council_president = instance.logData["council_president"]
@@ -128,7 +128,7 @@ def instantiateOntology(montenegro_judgements, instances):
             test_council_president = lkif_action_onto.Person(council_president, namespace = montenegro_judgements)
             test_legal_role_cp = lkif_legal_role_onto.Legal_Role("Predsjednik_vijeća", namespace = montenegro_judgements)
             test_council_president.plays.append(test_legal_role_cp)
-            test_council_president.participant.append(test_judgement)
+            test_council_president.partaker.append(test_judgement)
 
         #Council_member individuals
         council_members = instance.logData["council_members"]
@@ -138,7 +138,7 @@ def instantiateOntology(montenegro_judgements, instances):
                 test_council_member = lkif_action_onto.Person(cm, namespace = montenegro_judgements)
                 test_legal_role_cm = lkif_legal_role_onto.Legal_Role("Član_vijeća", namespace = montenegro_judgements)
                 test_council_member.plays.append(test_legal_role_cm)
-                test_council_member.participant.append(test_judgement)
+                test_council_member.partaker.append(test_judgement)
 
         #Violation individuals
         violations = instance.logData["violations"]

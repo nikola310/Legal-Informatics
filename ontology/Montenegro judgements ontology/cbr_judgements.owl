@@ -8,13 +8,23 @@
          xmlns:Judg="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#"
          xmlns:acti="http://www.estrellaproject.org/lkif-core/action.owl#"
          xmlns:role="http://www.estrellaproject.org/lkif-core/role.owl#"
-         xmlns:proc="http://www.estrellaproject.org/lkif-core/process.owl#"
          xmlns:lega="http://www.estrellaproject.org/lkif-core/legal-role.owl#">
 
 <owl:Ontology rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements">
   <owl:imports rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Domain.owl"/>
   <owl:imports rdf:resource="http://www.estrellaproject.org/lkif-core/role.owl"/>
 </owl:Ontology>
+
+<owl:ObjectProperty rdf:about="#partaker">
+  <rdfs:domain rdf:resource="http://www.estrellaproject.org/lkif-core/action.owl#Agent"/>
+  <rdfs:range rdf:resource="http://www.estrellaproject.org/lkif-core/lkif-top.owl#Mental_Object"/>
+  <owl:inverseOf rdf:resource="#partaker_in"/>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="#partaker_in">
+  <rdfs:domain rdf:resource="http://www.estrellaproject.org/lkif-core/lkif-top.owl#Mental_Object"/>
+  <rdfs:range rdf:resource="http://www.estrellaproject.org/lkif-core/action.owl#Agent"/>
+</owl:ObjectProperty>
 
 <owl:DatatypeProperty rdf:about="#judgement_date">
   <rdfs:domain rdf:resource="http://codexml.cirsfid.unibo.it/ontologies/Judging_Contracts_Core.owl#Judgement"/>
@@ -74,12 +84,12 @@
 
 <acti:Person rdf:about="#Hilmija_Sujković">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_35/2018"/>
+  <partaker rdf:resource="#K_72/2018"/>
+  <partaker rdf:resource="#K_73/2018"/>
+  <partaker rdf:resource="#K_74/2018"/>
+  <partaker rdf:resource="#K_76/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_35/2018"/>
-  <proc:participant rdf:resource="#K_72/2018"/>
-  <proc:participant rdf:resource="#K_73/2018"/>
-  <proc:participant rdf:resource="#K_74/2018"/>
-  <proc:participant rdf:resource="#K_76/2018"/>
 </acti:Person>
 
 <lega:Legal_Role rdf:about="#Sudija">
@@ -88,12 +98,12 @@
 
 <acti:Person rdf:about="#Feridom_Gutić">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_35/2018"/>
+  <partaker rdf:resource="#K_72/2018"/>
+  <partaker rdf:resource="#K_73/2018"/>
+  <partaker rdf:resource="#K_74/2018"/>
+  <partaker rdf:resource="#K_76/2018"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_35/2018"/>
-  <proc:participant rdf:resource="#K_72/2018"/>
-  <proc:participant rdf:resource="#K_73/2018"/>
-  <proc:participant rdf:resource="#K_74/2018"/>
-  <proc:participant rdf:resource="#K_76/2018"/>
 </acti:Person>
 
 <lega:Legal_Role rdf:about="#Zapisničar">
@@ -176,20 +186,20 @@
 
 <acti:Person rdf:about="#Anđelić_Mihailu">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_36/2018"/>
+  <partaker rdf:resource="#K_28/2018"/>
+  <partaker rdf:resource="#K_30/2018"/>
+  <partaker rdf:resource="#K_29/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_36/2018"/>
-  <proc:participant rdf:resource="#K_28/2018"/>
-  <proc:participant rdf:resource="#K_30/2018"/>
-  <proc:participant rdf:resource="#K_29/2018"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Knežević_Ranke">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_36/2018"/>
+  <partaker rdf:resource="#K_28/2018"/>
+  <partaker rdf:resource="#K_30/2018"/>
+  <partaker rdf:resource="#K_29/2018"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_36/2018"/>
-  <proc:participant rdf:resource="#K_28/2018"/>
-  <proc:participant rdf:resource="#K_30/2018"/>
-  <proc:participant rdf:resource="#K_29/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_5_KZ_CG">
@@ -367,17 +377,17 @@
 
 <acti:Person rdf:about="#Vesna_Kovačević">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_143/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_143/2018"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Nikolić_Rade">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_143/2018"/>
+  <partaker rdf:resource="#K_347/2017"/>
+  <partaker rdf:resource="#K_249/2018"/>
+  <partaker rdf:resource="#K_229/2018"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_143/2018"/>
-  <proc:participant rdf:resource="#K_347/2017"/>
-  <proc:participant rdf:resource="#K_249/2018"/>
-  <proc:participant rdf:resource="#K_229/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_226_Zakonika_o_krivičnom_postupku_Crne_Gore">
@@ -411,20 +421,20 @@
 
 <acti:Person rdf:about="#Đuričković_Igor">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_9/2018"/>
+  <partaker rdf:resource="#K_314/2014"/>
+  <partaker rdf:resource="#K_197/2017"/>
+  <partaker rdf:resource="#K_368/2017"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_9/2018"/>
-  <proc:participant rdf:resource="#K_314/2014"/>
-  <proc:participant rdf:resource="#K_197/2017"/>
-  <proc:participant rdf:resource="#K_368/2017"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Papović_Budimirke">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_9/2018"/>
+  <partaker rdf:resource="#K_314/2014"/>
+  <partaker rdf:resource="#K_197/2017"/>
+  <partaker rdf:resource="#K_368/2017"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_9/2018"/>
-  <proc:participant rdf:resource="#K_314/2014"/>
-  <proc:participant rdf:resource="#K_197/2017"/>
-  <proc:participant rdf:resource="#K_368/2017"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_168_stav_1_KZ_CG">
@@ -518,10 +528,10 @@
 
 <acti:Person rdf:about="#Kovačević_Vesna">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_347/2017"/>
+  <partaker rdf:resource="#K_249/2018"/>
+  <partaker rdf:resource="#K_229/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_347/2017"/>
-  <proc:participant rdf:resource="#K_249/2018"/>
-  <proc:participant rdf:resource="#K_229/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_240_stav_Krivičnog_zakonika_Crne_Gore">
@@ -636,8 +646,8 @@
 
 <acti:Person rdf:about="#Pejović_Vasilise">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_197/2017"/>
   <role:plays rdf:resource="#Pripravnik"/>
-  <proc:participant rdf:resource="#K_197/2017"/>
 </acti:Person>
 
 <lega:Legal_Role rdf:about="#Pripravnik">
@@ -702,8 +712,8 @@
 
 <acti:Person rdf:about="#Šekarić_Milorada">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_368/2017"/>
   <role:plays rdf:resource="#Pripravnik"/>
-  <proc:participant rdf:resource="#K_368/2017"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_284_stav_3_u">
@@ -786,18 +796,18 @@
 
 <acti:Person rdf:about="#Jelena_Perović">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_68/2018"/>
+  <partaker rdf:resource="#K_103/2018"/>
+  <partaker rdf:resource="#K_108/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_68/2018"/>
-  <proc:participant rdf:resource="#K_103/2018"/>
-  <proc:participant rdf:resource="#K_108/2018"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Popivoda_Marije">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_68/2018"/>
+  <partaker rdf:resource="#K_103/2018"/>
+  <partaker rdf:resource="#K_108/2018"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_68/2018"/>
-  <proc:participant rdf:resource="#K_103/2018"/>
-  <proc:participant rdf:resource="#K_108/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_240_stav_1_tačka_1_Krivičnog_zakonika_Crne_Gore">
@@ -911,50 +921,50 @@
 
 <acti:Person rdf:about="#Momirki_Tešić">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_137/2018"/>
+  <partaker rdf:resource="#K_138/2018"/>
+  <partaker rdf:resource="#K_376/2017"/>
+  <partaker rdf:resource="#K_371/2017"/>
+  <partaker rdf:resource="#K_344/2017"/>
+  <partaker rdf:resource="#K_317/2017"/>
+  <partaker rdf:resource="#K_309/2017"/>
+  <partaker rdf:resource="#K_298/2017"/>
+  <partaker rdf:resource="#K_219/2018"/>
+  <partaker rdf:resource="#K_220/2018"/>
+  <partaker rdf:resource="#K_224/2018"/>
+  <partaker rdf:resource="#K_227/2018"/>
+  <partaker rdf:resource="#K_265/2016"/>
+  <partaker rdf:resource="#K_258/2018"/>
+  <partaker rdf:resource="#K_177/2018"/>
+  <partaker rdf:resource="#K_181/2018"/>
+  <partaker rdf:resource="#K_198/2018"/>
+  <partaker rdf:resource="#K_154/2018"/>
+  <partaker rdf:resource="#K_172/2018"/>
+  <partaker rdf:resource="#K_140/2017"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_137/2018"/>
-  <proc:participant rdf:resource="#K_138/2018"/>
-  <proc:participant rdf:resource="#K_376/2017"/>
-  <proc:participant rdf:resource="#K_371/2017"/>
-  <proc:participant rdf:resource="#K_344/2017"/>
-  <proc:participant rdf:resource="#K_317/2017"/>
-  <proc:participant rdf:resource="#K_309/2017"/>
-  <proc:participant rdf:resource="#K_298/2017"/>
-  <proc:participant rdf:resource="#K_219/2018"/>
-  <proc:participant rdf:resource="#K_220/2018"/>
-  <proc:participant rdf:resource="#K_224/2018"/>
-  <proc:participant rdf:resource="#K_227/2018"/>
-  <proc:participant rdf:resource="#K_265/2016"/>
-  <proc:participant rdf:resource="#K_258/2018"/>
-  <proc:participant rdf:resource="#K_177/2018"/>
-  <proc:participant rdf:resource="#K_181/2018"/>
-  <proc:participant rdf:resource="#K_198/2018"/>
-  <proc:participant rdf:resource="#K_154/2018"/>
-  <proc:participant rdf:resource="#K_172/2018"/>
-  <proc:participant rdf:resource="#K_140/2017"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Ana-Marije_Petković">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_137/2018"/>
+  <partaker rdf:resource="#K_138/2018"/>
+  <partaker rdf:resource="#K_376/2017"/>
+  <partaker rdf:resource="#K_371/2017"/>
+  <partaker rdf:resource="#K_317/2017"/>
+  <partaker rdf:resource="#K_309/2017"/>
+  <partaker rdf:resource="#K_298/2017"/>
+  <partaker rdf:resource="#K_219/2018"/>
+  <partaker rdf:resource="#K_220/2018"/>
+  <partaker rdf:resource="#K_224/2018"/>
+  <partaker rdf:resource="#K_227/2018"/>
+  <partaker rdf:resource="#K_265/2016"/>
+  <partaker rdf:resource="#K_258/2018"/>
+  <partaker rdf:resource="#K_177/2018"/>
+  <partaker rdf:resource="#K_181/2018"/>
+  <partaker rdf:resource="#K_154/2018"/>
+  <partaker rdf:resource="#K_172/2018"/>
+  <partaker rdf:resource="#K_140/2017"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_137/2018"/>
-  <proc:participant rdf:resource="#K_138/2018"/>
-  <proc:participant rdf:resource="#K_376/2017"/>
-  <proc:participant rdf:resource="#K_371/2017"/>
-  <proc:participant rdf:resource="#K_317/2017"/>
-  <proc:participant rdf:resource="#K_309/2017"/>
-  <proc:participant rdf:resource="#K_298/2017"/>
-  <proc:participant rdf:resource="#K_219/2018"/>
-  <proc:participant rdf:resource="#K_220/2018"/>
-  <proc:participant rdf:resource="#K_224/2018"/>
-  <proc:participant rdf:resource="#K_227/2018"/>
-  <proc:participant rdf:resource="#K_265/2016"/>
-  <proc:participant rdf:resource="#K_258/2018"/>
-  <proc:participant rdf:resource="#K_177/2018"/>
-  <proc:participant rdf:resource="#K_181/2018"/>
-  <proc:participant rdf:resource="#K_154/2018"/>
-  <proc:participant rdf:resource="#K_172/2018"/>
-  <proc:participant rdf:resource="#K_140/2017"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_330_stav_2_Krivičnog_zakonika_Crne_Gore">
@@ -1131,8 +1141,8 @@
 
 <acti:Person rdf:about="#Ana_–">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_344/2017"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_344/2017"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_264_stav_3u_vezi_stav_1_Krivičnog_zakonika">
@@ -1723,8 +1733,8 @@
 
 <acti:Person rdf:about="#Nade_Mijanović">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_198/2018"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_198/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_49_stav_6_Zakona_o_bezbjednosti_saobraćaja_na_putevima">
@@ -1897,14 +1907,14 @@
 
 <acti:Person rdf:about="#Đokaj_Amiru">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_13/2017"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_13/2017"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Škrelja_Milene">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_13/2017"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_13/2017"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_stav_5_Krivičnog_zakonika_Crne_Gore">
@@ -1987,14 +1997,14 @@
 
 <acti:Person rdf:about="#Novčić_Slobodanke">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_128/2017"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_128/2017"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Tabaš_Predraga">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_128/2017"/>
   <role:plays rdf:resource="#Predsjednik_vijeća"/>
-  <proc:participant rdf:resource="#K_128/2017"/>
 </acti:Person>
 
 <lega:Legal_Role rdf:about="#Predsjednik_vijeća">
@@ -2003,8 +2013,8 @@
 
 <acti:Person rdf:about="#Vladimira_Novovića">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_128/2017"/>
   <role:plays rdf:resource="#Član_vijeća"/>
-  <proc:participant rdf:resource="#K_128/2017"/>
 </acti:Person>
 
 <lega:Legal_Role rdf:about="#Član_vijeća">
@@ -2013,8 +2023,8 @@
 
 <acti:Person rdf:about="#Aleksandra_Stojanovića">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_128/2017"/>
   <role:plays rdf:resource="#Član_vijeća"/>
-  <proc:participant rdf:resource="#K_128/2017"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_242_stav_4">
@@ -2077,18 +2087,18 @@
 
 <acti:Person rdf:about="#Milosav_Zekić">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_101/2018"/>
+  <partaker rdf:resource="#K_1/2019"/>
+  <partaker rdf:resource="#K_7/2019"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_101/2018"/>
-  <proc:participant rdf:resource="#K_1/2019"/>
-  <proc:participant rdf:resource="#K_7/2019"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Jasmine_Nurković">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_101/2018"/>
+  <partaker rdf:resource="#K_1/2019"/>
+  <partaker rdf:resource="#K_7/2019"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_101/2018"/>
-  <proc:participant rdf:resource="#K_1/2019"/>
-  <proc:participant rdf:resource="#K_7/2019"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_240_stav_1_tačka_1">
@@ -2184,15 +2194,15 @@
 
 <acti:Person rdf:about="#Jovanović_Jovanu">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_72/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_72/2018"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Mladenović_Vesne">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_72/2018"/>
+  <partaker rdf:resource="#K_59/2018"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_72/2018"/>
-  <proc:participant rdf:resource="#K_59/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_stav_13">
@@ -2241,8 +2251,8 @@
 
 <acti:Person rdf:about="#Zdravku_Rajović">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_63/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_63/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_2_Krivičnog_zakonika_Crne_Gore">
@@ -2277,8 +2287,8 @@
 
 <acti:Person rdf:about="#Enisom_Markišić">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_62/2018"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_62/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_324_stav_Krivičnog_Zakonika_Crne_Gore">
@@ -2312,91 +2322,91 @@
 
 <acti:Person rdf:about="#Rade_Ćetković">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_449/2018"/>
+  <partaker rdf:resource="#K_603/2018"/>
+  <partaker rdf:resource="#K_606/2017"/>
+  <partaker rdf:resource="#K_643/2017"/>
+  <partaker rdf:resource="#K_654/2017"/>
+  <partaker rdf:resource="#K_672/2017"/>
+  <partaker rdf:resource="#K_673/2017"/>
+  <partaker rdf:resource="#K_678/2017"/>
+  <partaker rdf:resource="#K_688/2017"/>
+  <partaker rdf:resource="#K_724/2017"/>
+  <partaker rdf:resource="#K_746/2017"/>
+  <partaker rdf:resource="#K_771/2017"/>
+  <partaker rdf:resource="#K_794/2017"/>
+  <partaker rdf:resource="#K_846/2017"/>
+  <partaker rdf:resource="#K_800/2017"/>
+  <partaker rdf:resource="#K_837/2017"/>
+  <partaker rdf:resource="#K_396/2017"/>
+  <partaker rdf:resource="#K_819/2017"/>
+  <partaker rdf:resource="#K_842/2017"/>
+  <partaker rdf:resource="#K_23/2018"/>
+  <partaker rdf:resource="#K_35/2018"/>
+  <partaker rdf:resource="#K_70/2018"/>
+  <partaker rdf:resource="#K_138/2018"/>
+  <partaker rdf:resource="#K_183/2018"/>
+  <partaker rdf:resource="#K_212/2018"/>
+  <partaker rdf:resource="#K_268/2018"/>
+  <partaker rdf:resource="#K_290/2018"/>
+  <partaker rdf:resource="#K_293/2018"/>
+  <partaker rdf:resource="#K_299/2018"/>
+  <partaker rdf:resource="#K_318/2018"/>
+  <partaker rdf:resource="#K_328/2018"/>
+  <partaker rdf:resource="#K_334/2018"/>
+  <partaker rdf:resource="#K_359/2018"/>
+  <partaker rdf:resource="#K_367/2018"/>
+  <partaker rdf:resource="#K_376/2018"/>
+  <partaker rdf:resource="#K_386/2018"/>
+  <partaker rdf:resource="#K_853/2017"/>
+  <partaker rdf:resource="#K_408/2018"/>
+  <partaker rdf:resource="#K_420/2018"/>
+  <partaker rdf:resource="#K_432/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_449/2018"/>
-  <proc:participant rdf:resource="#K_603/2018"/>
-  <proc:participant rdf:resource="#K_606/2017"/>
-  <proc:participant rdf:resource="#K_643/2017"/>
-  <proc:participant rdf:resource="#K_654/2017"/>
-  <proc:participant rdf:resource="#K_672/2017"/>
-  <proc:participant rdf:resource="#K_673/2017"/>
-  <proc:participant rdf:resource="#K_678/2017"/>
-  <proc:participant rdf:resource="#K_688/2017"/>
-  <proc:participant rdf:resource="#K_724/2017"/>
-  <proc:participant rdf:resource="#K_746/2017"/>
-  <proc:participant rdf:resource="#K_771/2017"/>
-  <proc:participant rdf:resource="#K_794/2017"/>
-  <proc:participant rdf:resource="#K_846/2017"/>
-  <proc:participant rdf:resource="#K_800/2017"/>
-  <proc:participant rdf:resource="#K_837/2017"/>
-  <proc:participant rdf:resource="#K_396/2017"/>
-  <proc:participant rdf:resource="#K_819/2017"/>
-  <proc:participant rdf:resource="#K_842/2017"/>
-  <proc:participant rdf:resource="#K_23/2018"/>
-  <proc:participant rdf:resource="#K_35/2018"/>
-  <proc:participant rdf:resource="#K_70/2018"/>
-  <proc:participant rdf:resource="#K_138/2018"/>
-  <proc:participant rdf:resource="#K_183/2018"/>
-  <proc:participant rdf:resource="#K_212/2018"/>
-  <proc:participant rdf:resource="#K_268/2018"/>
-  <proc:participant rdf:resource="#K_290/2018"/>
-  <proc:participant rdf:resource="#K_293/2018"/>
-  <proc:participant rdf:resource="#K_299/2018"/>
-  <proc:participant rdf:resource="#K_318/2018"/>
-  <proc:participant rdf:resource="#K_328/2018"/>
-  <proc:participant rdf:resource="#K_334/2018"/>
-  <proc:participant rdf:resource="#K_359/2018"/>
-  <proc:participant rdf:resource="#K_367/2018"/>
-  <proc:participant rdf:resource="#K_376/2018"/>
-  <proc:participant rdf:resource="#K_386/2018"/>
-  <proc:participant rdf:resource="#K_853/2017"/>
-  <proc:participant rdf:resource="#K_408/2018"/>
-  <proc:participant rdf:resource="#K_420/2018"/>
-  <proc:participant rdf:resource="#K_432/2018"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Edine_Kraje">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_449/2018"/>
+  <partaker rdf:resource="#K_603/2018"/>
+  <partaker rdf:resource="#K_606/2017"/>
+  <partaker rdf:resource="#K_643/2017"/>
+  <partaker rdf:resource="#K_654/2017"/>
+  <partaker rdf:resource="#K_672/2017"/>
+  <partaker rdf:resource="#K_673/2017"/>
+  <partaker rdf:resource="#K_688/2017"/>
+  <partaker rdf:resource="#K_724/2017"/>
+  <partaker rdf:resource="#K_746/2017"/>
+  <partaker rdf:resource="#K_771/2017"/>
+  <partaker rdf:resource="#K_794/2017"/>
+  <partaker rdf:resource="#K_846/2017"/>
+  <partaker rdf:resource="#K_800/2017"/>
+  <partaker rdf:resource="#K_837/2017"/>
+  <partaker rdf:resource="#K_396/2017"/>
+  <partaker rdf:resource="#K_819/2017"/>
+  <partaker rdf:resource="#K_842/2017"/>
+  <partaker rdf:resource="#K_23/2018"/>
+  <partaker rdf:resource="#K_35/2018"/>
+  <partaker rdf:resource="#K_70/2018"/>
+  <partaker rdf:resource="#K_138/2018"/>
+  <partaker rdf:resource="#K_183/2018"/>
+  <partaker rdf:resource="#K_212/2018"/>
+  <partaker rdf:resource="#K_268/2018"/>
+  <partaker rdf:resource="#K_290/2018"/>
+  <partaker rdf:resource="#K_293/2018"/>
+  <partaker rdf:resource="#K_299/2018"/>
+  <partaker rdf:resource="#K_318/2018"/>
+  <partaker rdf:resource="#K_328/2018"/>
+  <partaker rdf:resource="#K_334/2018"/>
+  <partaker rdf:resource="#K_359/2018"/>
+  <partaker rdf:resource="#K_367/2018"/>
+  <partaker rdf:resource="#K_376/2018"/>
+  <partaker rdf:resource="#K_386/2018"/>
+  <partaker rdf:resource="#K_853/2017"/>
+  <partaker rdf:resource="#K_408/2018"/>
+  <partaker rdf:resource="#K_420/2018"/>
+  <partaker rdf:resource="#K_432/2018"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_449/2018"/>
-  <proc:participant rdf:resource="#K_603/2018"/>
-  <proc:participant rdf:resource="#K_606/2017"/>
-  <proc:participant rdf:resource="#K_643/2017"/>
-  <proc:participant rdf:resource="#K_654/2017"/>
-  <proc:participant rdf:resource="#K_672/2017"/>
-  <proc:participant rdf:resource="#K_673/2017"/>
-  <proc:participant rdf:resource="#K_688/2017"/>
-  <proc:participant rdf:resource="#K_724/2017"/>
-  <proc:participant rdf:resource="#K_746/2017"/>
-  <proc:participant rdf:resource="#K_771/2017"/>
-  <proc:participant rdf:resource="#K_794/2017"/>
-  <proc:participant rdf:resource="#K_846/2017"/>
-  <proc:participant rdf:resource="#K_800/2017"/>
-  <proc:participant rdf:resource="#K_837/2017"/>
-  <proc:participant rdf:resource="#K_396/2017"/>
-  <proc:participant rdf:resource="#K_819/2017"/>
-  <proc:participant rdf:resource="#K_842/2017"/>
-  <proc:participant rdf:resource="#K_23/2018"/>
-  <proc:participant rdf:resource="#K_35/2018"/>
-  <proc:participant rdf:resource="#K_70/2018"/>
-  <proc:participant rdf:resource="#K_138/2018"/>
-  <proc:participant rdf:resource="#K_183/2018"/>
-  <proc:participant rdf:resource="#K_212/2018"/>
-  <proc:participant rdf:resource="#K_268/2018"/>
-  <proc:participant rdf:resource="#K_290/2018"/>
-  <proc:participant rdf:resource="#K_293/2018"/>
-  <proc:participant rdf:resource="#K_299/2018"/>
-  <proc:participant rdf:resource="#K_318/2018"/>
-  <proc:participant rdf:resource="#K_328/2018"/>
-  <proc:participant rdf:resource="#K_334/2018"/>
-  <proc:participant rdf:resource="#K_359/2018"/>
-  <proc:participant rdf:resource="#K_367/2018"/>
-  <proc:participant rdf:resource="#K_376/2018"/>
-  <proc:participant rdf:resource="#K_386/2018"/>
-  <proc:participant rdf:resource="#K_853/2017"/>
-  <proc:participant rdf:resource="#K_408/2018"/>
-  <proc:participant rdf:resource="#K_420/2018"/>
-  <proc:participant rdf:resource="#K_432/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_376_stav_3_Krivičnog_zakonika_Crne_Gore">
@@ -2655,8 +2665,8 @@
 
 <acti:Person rdf:about="#Radojke_Rakočević">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_678/2017"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_678/2017"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_372_stav_1_tačka_1_Zakonika_o_krivičnom_postupku">
@@ -2978,17 +2988,17 @@
 
 <acti:Person rdf:about="#Ćupić_Mariji">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_117/2018"/>
+  <partaker rdf:resource="#K_56/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_117/2018"/>
-  <proc:participant rdf:resource="#K_56/2018"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Martinović_Aleksandre">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_117/2018"/>
+  <partaker rdf:resource="#K_72/2018"/>
+  <partaker rdf:resource="#K_56/2018"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_117/2018"/>
-  <proc:participant rdf:resource="#K_72/2018"/>
-  <proc:participant rdf:resource="#K_56/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_403_stav_2_Krivičnog_zakonika_Crne_Gore">
@@ -3086,15 +3096,15 @@
 
 <acti:Person rdf:about="#Mariji_Ćupić">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_87/2018"/>
+  <partaker rdf:resource="#K_72/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_87/2018"/>
-  <proc:participant rdf:resource="#K_72/2018"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Aleksandre_Martinović">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_87/2018"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_87/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_376">
@@ -3959,20 +3969,20 @@
 
 <acti:Person rdf:about="#Željki_Jovović">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_374/2018"/>
+  <partaker rdf:resource="#K_457/2018"/>
+  <partaker rdf:resource="#K_600/2018"/>
+  <partaker rdf:resource="#K_739/2016"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_374/2018"/>
-  <proc:participant rdf:resource="#K_457/2018"/>
-  <proc:participant rdf:resource="#K_600/2018"/>
-  <proc:participant rdf:resource="#K_739/2016"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Danijele_Rajković">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_374/2018"/>
+  <partaker rdf:resource="#K_457/2018"/>
+  <partaker rdf:resource="#K_600/2018"/>
+  <partaker rdf:resource="#K_739/2016"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_374/2018"/>
-  <proc:participant rdf:resource="#K_457/2018"/>
-  <proc:participant rdf:resource="#K_600/2018"/>
-  <proc:participant rdf:resource="#K_739/2016"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_4_stav_13_Krivičnog_zakonika_Crne_Gore">
@@ -4099,14 +4109,14 @@
 
 <acti:Person rdf:about="#Dragan_Mrdak">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_174/2016"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_174/2016"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Koviljke_Lješnjak">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_174/2016"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_174/2016"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_324_stav_2_Krivičnog_zakonika">
@@ -4223,14 +4233,14 @@
 
 <acti:Person rdf:about="#Tamara_Spasojević">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_129/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_129/2018"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Zoricom_Ivanović">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_129/2018"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_129/2018"/>
 </acti:Person>
 
 <Judg:Judgement rdf:about="#K_39/2018">
@@ -4251,14 +4261,14 @@
 
 <acti:Person rdf:about="#Šefkija_Dješević">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_39/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_39/2018"/>
 </acti:Person>
 
 <acti:Person rdf:about="#Senke_Delić">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_39/2018"/>
   <role:plays rdf:resource="#Zapisničar"/>
-  <proc:participant rdf:resource="#K_39/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_300_stav_1_Krivičnog_zakonika_Crne_Gore">
@@ -4286,8 +4296,8 @@
 
 <acti:Person rdf:about="#Jovan_Jovanović">
   <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <partaker rdf:resource="#K_59/2018"/>
   <role:plays rdf:resource="#Sudija"/>
-  <proc:participant rdf:resource="#K_59/2018"/>
 </acti:Person>
 
 <Judg:Legal_Rule rdf:about="#član_49_krivičnog_zakonika_Crne_Gore">

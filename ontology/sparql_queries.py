@@ -62,7 +62,7 @@ def doQueries(queryObjs,montenegro_judgements):
             if judge:
                 judge_query = "mngj:"+ judge.replace(' ', '_')
                 q1 = list(graph.query_owlready(mngj_pref + lkif_process_pref + lkif_role_pref + """
-                        SELECT ?judgement {""" + judge_query + """ lkif_process:participant ?judgement . """ + judge_query + """ lkif_role:plays mngj:Sudija .}
+                        SELECT ?judgement {""" + judge_query + """ mngj:partaker ?judgement . """ + judge_query + """ lkif_role:plays mngj:Sudija .}
                     """))
 
                 writeMessage(queryResultsFile, "Presude u kojima učestvuje sudija: " + judge)
@@ -70,9 +70,9 @@ def doQueries(queryObjs,montenegro_judgements):
 
                 q2 = list(graph.query_owlready(mngj_pref + lkif_process_pref + lkif_role_pref + """
                         SELECT ?judgement ?person WHERE { 
-                        ?person	lkif_process:participant ?judgement .
+                        ?person	mngj:partaker ?judgement .
                         ?person lkif_role:plays mngj:Sudija .
-                        FILTER NOT EXISTS {""" + judge_query + """ lkif_process:participant ?judgement . }
+                        FILTER NOT EXISTS {""" + judge_query + """ mngj:partaker ?judgement . }
                         }
                     """))
                 
@@ -85,7 +85,7 @@ def doQueries(queryObjs,montenegro_judgements):
                         SELECT ?judgement ?judgement_type ?judgement_department ?judgement_date
                         WHERE { 
                             ?judgement judo_core:applies mngj:"""+ judicial_outcome_query + """ .
-                            """ + judge_query + """ lkif_process:participant ?judgement .
+                            """ + judge_query + """ mngj:partaker ?judgement .
                             """ + judge_query + """ lkif_role:plays mngj:Sudija .
                             ?judgement mngj:judgement_date ?judgement_date .
                             ?judgement mngj:judgement_type ?judgement_type .
@@ -104,7 +104,7 @@ def doQueries(queryObjs,montenegro_judgements):
 
             if council_president and len(council_members) > 0:
                 council_president_query_element = "mngj:" + council_president.replace(' ', '_')
-                council_president_query = council_president_query_element + """ lkif_role:plays mngj:Predsjednik_vijeća . """ + council_president_query_element + """ lkif_process:participant ?judgement . """
+                council_president_query = council_president_query_element + """ lkif_role:plays mngj:Predsjednik_vijeća . """ + council_president_query_element + """ mngj:partaker ?judgement . """
                 q4 = list(graph.query_owlready(mngj_pref + lkif_process_pref + lkif_role_pref + """
 	                    SELECT ?judgement {""" + council_president_query + """}
 	                """))
@@ -115,7 +115,7 @@ def doQueries(queryObjs,montenegro_judgements):
                 council_members_query = ""
                 for council_member in council_members:
                     council_member_element = "mngj:" + council_member.replace(' ','_')
-                    council_members_query += council_member_element + " lkif_process:participant ?judgement . " + council_member_element + " lkif_role:plays mngj:Član_vijeća . "
+                    council_members_query += council_member_element + " mngj:partaker ?judgement . " + council_member_element + " lkif_role:plays mngj:Član_vijeća . "
 
                 q5 = list(graph.query_owlready(mngj_pref + lkif_process_pref + lkif_role_pref + """
                         SELECT ?judgement {""" + council_president_query + council_members_query + """}

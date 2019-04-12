@@ -21,6 +21,36 @@
     <!-- 
     ///////////////////////////////////////////////////////////////////////////////////////
     //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#partaker -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#partaker">
+        <owl:inverseOf rdf:resource="http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#partaker_in"/>
+        <rdfs:domain rdf:resource="http://www.estrellaproject.org/lkif-core/action.owl#Agent"/>
+        <rdfs:range rdf:resource="http://www.estrellaproject.org/lkif-core/lkif-top.owl#Mental_Object"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#partaker_in -->
+
+    <owl:ObjectProperty rdf:about="http://www.semanticweb.org/tima/ontologies/2019/2/cbr_judgements#partaker_in">
+        <rdfs:domain rdf:resource="http://www.estrellaproject.org/lkif-core/lkif-top.owl#Mental_Object"/>
+        <rdfs:range rdf:resource="http://www.estrellaproject.org/lkif-core/action.owl#Agent"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
     // Data properties
     //
     ///////////////////////////////////////////////////////////////////////////////////////
