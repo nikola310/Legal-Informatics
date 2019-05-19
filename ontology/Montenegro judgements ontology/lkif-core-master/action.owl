@@ -143,7 +143,6 @@ The use of this ontology, and the OWL files through which it is distributed, is 
                 <owl:allValuesFrom rdf:resource="http://www.estrellaproject.org/lkif-core/process.owl#Change"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <owl:disjointWith rdf:resource="http://www.estrellaproject.org/lkif-core/process.owl#Change"/>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">An agent is any owl:Thing which can act, i.e. play the &apos;actor&apos; role wrt. an action</rdfs:comment>
         <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">It is a holder for propositional attitudes</rdfs:comment>
     </owl:Class>
@@ -275,9 +274,7 @@ The use of this ontology, and the OWL files through which it is distributed, is 
 
     <!-- http://www.estrellaproject.org/lkif-core/process.owl#Change -->
 
-    <owl:Class rdf:about="http://www.estrellaproject.org/lkif-core/process.owl#Change">
-        <owl:disjointWith rdf:resource="http://www.estrellaproject.org/lkif-core/process.owl#Physical_Object"/>
-    </owl:Class>
+    <owl:Class rdf:about="http://www.estrellaproject.org/lkif-core/process.owl#Change"/>
     
 
 
