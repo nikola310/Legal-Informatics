@@ -4,6 +4,7 @@ import xml.etree.cElementTree as xmlET
 from tkinter import filedialog
 from nltk.tokenize import sent_tokenize
 from nltk.tokenize import word_tokenize
+from tokeniser import generate_tokenizer, process, tokenize_sentences
 
 def startProgram():
     filename = input("Unesite naziv fajle koja ce se izgenerisati:")
@@ -15,6 +16,10 @@ def startProgram():
 def tokenizeFiles(directory,filename):
     files=[e for e in os.listdir(directory) if e.endswith('.xml')]
 
+    lang = 'sr'
+    mode = 'standard'
+    tokenizer=generate_tokenizer(lang)
+
     with io.open(directory + os.path.sep + filename, "w+", encoding = "UTF-8") as tokenized_file:
         for index,fl in enumerate(files):
             print('Processing',index+1,'/',len(files))
@@ -23,16 +28,17 @@ def tokenizeFiles(directory,filename):
             tags = xmlRoot.find("TAGS").getchildren()
             textTag = xmlRoot.find("TEXT")
             text = splitJudgement(textTag.text)
-            sentences = sent_tokenize(text)
+            sentences = tokenize_sentences(process[mode](tokenizer,text,lang))
             offset = 0
-            for sentece in sentences:
-                tokenized = word_tokenize(sentece)
-                for token in tokenized:
-                    offset = text.find(token,offset)
-                    startOffset = offset
-                    offset += len(token)
-                    nerTag = findInTags(tags, startOffset, offset)
-                    tokenized_file.write(judgement_id + '~' + str(startOffset) + '~' + str(offset) + '\t' + token + '\t' +'\t'+nerTag+'\n')
+            for sentence in sentences:
+                if sentence:
+                    for token in sentence:
+                        if token:
+                            offset = text.find(token,offset)
+                            startOffset = offset
+                            offset += len(token)
+                            nerTag = findInTags(tags, startOffset, offset)
+                            tokenized_file.write(judgement_id + '~' + str(startOffset) + '~' + str(offset) + '\t' + token + '\t' + str(token.istitle()) + '\t' + str(any(char.isdigit() for char in token)) + '\t' +nerTag+'\n')
                 tokenized_file.write('\n')
 
 def findInTags(tags, startOffset, endOffset):

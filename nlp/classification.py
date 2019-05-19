@@ -1,4 +1,5 @@
 import json
+import re
 from collections import defaultdict
 
 import matplotlib.pyplot as plt
@@ -8,9 +9,10 @@ from nltk import pos_tag
 from nltk.corpus import wordnet as wn
 from nltk.tokenize import word_tokenize
 from sklearn import model_selection, naive_bayes, svm
-from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import LabelEncoder
+from tokeniser import generate_tokenizer, process, tokenize_text
 
 serbian_stop_words = ["biti", "ne", "jesam", "sam", "jesi", "si", "je", "jesmo", "smo", "jeste", "ste", "jesu", "su",
                     "nijesam", "nisam", "nijesi", "nisi", "nije", "nijesmo", "nismo", "nijeste", "niste", "nijesu", "nisu",
@@ -47,9 +49,19 @@ def runScript():
     Corpus['TEXT'] = [entry.lower() for entry in Corpus['TEXT']]
     Test_corpus['TEXT'] = [entry.lower() for entry in Test_corpus['TEXT']]
 
+    lang = 'sr'
+    mode = 'standard'
+    tokenizer=generate_tokenizer(lang)
+
+    # Keep just words
+    Corpus['TEXT']= [" ".join(re.sub("[^A-Za-z]", " ", entry).split()) for entry in Corpus['TEXT']]
+    Test_corpus['TEXT']= [" ".join(re.sub("[^A-Za-z]", " ", entry).split()) for entry in Test_corpus['TEXT']]
+
+    print('Non word tokens removed successfully.')
+
     # Tokenization
-    Corpus['TEXT']= [word_tokenize(entry) for entry in Corpus['TEXT']]
-    Test_corpus['TEXT']= [word_tokenize(entry) for entry in Test_corpus['TEXT']]
+    Corpus['TEXT']= [tokenize_text(process[mode](tokenizer,entry,lang)) for entry in Corpus['TEXT']]
+    Test_corpus['TEXT']= [tokenize_text(process[mode](tokenizer,entry,lang)) for entry in Test_corpus['TEXT']]
 
     print('Tokenization successful.')
 
@@ -66,12 +78,11 @@ def runScript():
 
     print('Encoding successful.')
 
-    Tfidf_vect = TfidfVectorizer(max_features=5000)
+    Tfidf_vect = TfidfVectorizer(max_features=500)
     Tfidf_vect.fit(Corpus['TEXT_FINAL'])
     
     Train_X_Tfidf = Tfidf_vect.transform(Corpus['TEXT_FINAL'])
     Test_X_Tfidf = Tfidf_vect.transform(Test_corpus['TEXT_FINAL'])
-
     # Fit the training dataset on the NB classifier and predict on test dataset
     Naive = naive_bayes.MultinomialNB()
     Naive.fit(Train_X_Tfidf, Train_Y)
